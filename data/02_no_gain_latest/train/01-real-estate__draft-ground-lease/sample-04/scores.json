@@ -1,0 +1,15 @@
+{
+  "task_id": "real-estate/draft-ground-lease",
+  "judge_model": "deepseek-flash",
+  "score": 0.0,
+  "max_score": 1.0,
+  "all_pass": false,
+  "n_passed": 62,
+  "n_criteria": 67,
+  "n_grading_errors": 0,
+  "criterion_fraction": 0.9253731343283582,
+  "beta": 0.2,
+  "reward_task": 0.18507462686567167,
+  "rubric_feedback_file": "rubric_feedback.json",
+  "rubric_feedback_sha256": "c28993fe4e12ea557ddb0899c97c61575410f727bd59db27871561574c68e8bc"
+}

@@ -1,0 +1,127 @@
+{
+  "epoch": 1,
+  "train_tasks": [
+    "real-estate/draft-ground-lease"
+  ],
+  "test_tasks": [
+    "real-estate/draft-loan-agreement",
+    "real-estate/draft-mortgage-and-security-agreement"
+  ],
+  "train_samples": 4,
+  "test_samples_per_snapshot": 8,
+  "temperature": 0.7,
+  "retrieval_mode": "hybrid_router",
+  "parent_snapshot_id": "harvey-seed30-v0001-07465a80603a",
+  "trial_snapshot_id": "harvey-seed30-v0001-trial-aac6da3d6815-278dca0ca4f9",
+  "candidate_id": "aac6da3d6815c56fd3ef",
+  "old_test_mean": 0.1914855072463768,
+  "new_test_mean": 0.1911620082815735,
+  "writer_reward_frozen_api": -0.00032349896480331555,
+  "task_results": [
+    {
+      "task_id": "real-estate/draft-loan-agreement",
+      "old_mean": 0.19166666666666665,
+      "new_mean": 0.19047619047619047,
+      "delta_mean": -0.0011904761904761862,
+      "retrieval_changed_samples": 4
+    },
+    {
+      "task_id": "real-estate/draft-mortgage-and-security-agreement",
+      "old_mean": 0.19130434782608696,
+      "new_mean": 0.19184782608695652,
+      "delta_mean": 0.0005434782608695551,
+      "retrieval_changed_samples": 4
+    }
+  ],
+  "pairs": [
+    {
+      "task_id": "real-estate/draft-loan-agreement",
+      "sample_index": 1,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/01-real-estate__draft-loan-agreement/sample-01",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/01-real-estate__draft-loan-agreement/sample-01",
+      "old_reward": 0.19285714285714287,
+      "new_reward": 0.19285714285714287,
+      "delta": 0.0,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-loan-agreement",
+      "sample_index": 2,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/01-real-estate__draft-loan-agreement/sample-02",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/01-real-estate__draft-loan-agreement/sample-02",
+      "old_reward": 0.19047619047619047,
+      "new_reward": 0.18571428571428572,
+      "delta": -0.004761904761904745,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-loan-agreement",
+      "sample_index": 3,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/01-real-estate__draft-loan-agreement/sample-03",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/01-real-estate__draft-loan-agreement/sample-03",
+      "old_reward": 0.19047619047619047,
+      "new_reward": 0.1880952380952381,
+      "delta": -0.0023809523809523725,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-loan-agreement",
+      "sample_index": 4,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/01-real-estate__draft-loan-agreement/sample-04",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/01-real-estate__draft-loan-agreement/sample-04",
+      "old_reward": 0.19285714285714287,
+      "new_reward": 0.19523809523809524,
+      "delta": 0.0023809523809523725,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-mortgage-and-security-agreement",
+      "sample_index": 1,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-01",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-01",
+      "old_reward": 0.19130434782608696,
+      "new_reward": 0.1934782608695652,
+      "delta": 0.0021739130434782483,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-mortgage-and-security-agreement",
+      "sample_index": 2,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-02",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-02",
+      "old_reward": 0.18913043478260871,
+      "new_reward": 0.19130434782608696,
+      "delta": 0.0021739130434782483,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-mortgage-and-security-agreement",
+      "sample_index": 3,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-03",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-03",
+      "old_reward": 0.18695652173913047,
+      "new_reward": 0.19130434782608696,
+      "delta": 0.004347826086956497,
+      "retrieval_changed": true
+    },
+    {
+      "task_id": "real-estate/draft-mortgage-and-security-agreement",
+      "sample_index": 4,
+      "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-04",
+      "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-04",
+      "old_reward": 0.19782608695652174,
+      "new_reward": 0.19130434782608696,
+      "delta": -0.006521739130434773,
+      "retrieval_changed": true
+    }
+  ],
+  "promotion_gate": "positive overall mean and no negative per-task mean",
+  "candidate_barrier_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/candidate_barrier.json",
+  "promoted": false,
+  "published_snapshot_path": null,
+  "next_snapshot_id": "harvey-seed30-v0001-07465a80603a",
+  "rollout_engine": "VERL ToolAgentLoop state machine with structured API generation",
+  "sampling_note": "Old/new API draws are independent; sample index aligns artifacts, not random seeds. Interpret task means rather than individual slot deltas.",
+  "native_policy_update_performed": false,
+  "policy_token_ids_available": false
+}

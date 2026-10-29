@@ -1,0 +1,13 @@
+{
+  "task_id": "real-estate/extract-encumbrances-from-title-survey",
+  "judge_model": "deepseek-flash",
+  "score": 0.0,
+  "max_score": 1.0,
+  "all_pass": false,
+  "n_passed": 66,
+  "n_criteria": 67,
+  "n_grading_errors": 0,
+  "criterion_fraction": 0.9850746268656716,
+  "beta": 0.2,
+  "reward_task": 0.19701492537313434
+}

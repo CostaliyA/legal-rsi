@@ -1,0 +1,4 @@
+#!/bin/sh
+# Harvey LAB calls the Podman CLI; this host provides Docker with equivalent
+# commands for the sandbox operations used by lab_core/sandbox/sandbox.py.
+exec docker "$@"

@@ -1,0 +1,3349 @@
+          MORTGAGE AND SECURITY
+               AGREEMENT
+               (With Absolute Assignment of Leases and Rents)
+
+
+                                     by and from
+
+                PALMETTO GATEWAY PARTNERS LLC
+                     a South Carolina limited liability company
+
+                             as Borrower and Mortgagor
+
+                                          to
+
+                      CALVERLEY HERITAGE BANK
+                    a Georgia state-chartered commercial bank
+
+                              as Lender and Mortgagee
+
+
+                           Dated as of April 15, 2025
+
+
+         Property: 520–534 King Street, Charleston, South Carolina 29403
+          Tax Map Nos. 460-12-04-007, 460-12-04-008 and 460-12-04-009,
+   together with the vacated Anson Lane strip, Charleston County, South Carolina
+
+                Principal Amount Secured: $14,750,000.00
+               (including future advances of the Renovation Holdback)
+
+
+                           RECORDING INFORMATION
+To be recorded in the Office of the Register of Mesne Conveyances for Charleston County,
+                                      South Carolina.
+
+ AFTER RECORDING, RETURN TO: Fielding, Ashworth & Cole LLP, Charleston, South
+                Carolina, Attn: Catherine Ashworth, Partner
+
+           PREPARED BY: Fielding, Ashworth & Cole LLP, counsel for Lender
+
+
+  DRAFT — MARCH 27, 2025 — PRIVILEGED AND CONFIDENTIAL — SUBJECT TO
+                         REVIEW AND COMMENT
+                    Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+                                               TABLE OF CONTENTS
+RECITALS.................................................................................................................................3
+ARTICLE 1 — DEFINITIONS AND RULES OF CONSTRUCTION...........................................4
+ARTICLE 2 — THE LOAN, THE NOTE AND PAYMENT TERMS.............................................9
+ARTICLE 3 — GRANT OF MORTGAGE; SECURITY INTEREST; COLLATERAL...................11
+ARTICLE 4 — ABSOLUTE ASSIGNMENT OF LEASES AND RENTS....................................14
+ARTICLE 5 — REPRESENTATIONS AND WARRANTIES......................................................16
+ARTICLE 6 — AFFIRMATIVE COVENANTS.......................................................................... 21
+ARTICLE 7 — NEGATIVE COVENANTS; SINGLE-PURPOSE ENTITY..................................25
+ARTICLE 8 — RENOVATION AND CONSTRUCTION............................................................28
+ARTICLE 9 — INSURANCE....................................................................................................33
+ARTICLE 10 — RESERVES AND ESCROWS..........................................................................35
+ARTICLE 11 — ENVIRONMENTAL MATTERS AND THE LAND USE RESTRICTION.........37
+ARTICLE 12 — FINANCIAL COVENANTS AND REPORTING...............................................38
+ARTICLE 13 — PREPAYMENT...............................................................................................41
+ARTICLE 14 — EVENTS OF DEFAULT AND REMEDIES......................................................42
+ARTICLE 15 — CASUALTY AND CONDEMNATION.............................................................47
+ARTICLE 16 — GUARANTOR; NON-RECOURSE; LIMITATION OF LIABILITY...................48
+ARTICLE 17 — MISCELLANEOUS........................................................................................ 50
+SIGNATURE PAGE.................................................................................................................54
+NOTARY ACKNOWLEDGMENT.............................................................................................54
+EXHIBIT A — LEGAL DESCRIPTION OF THE PROPERTY....................................................56
+EXHIBIT B — RENT ROLL AND LEASE SUMMARY AS OF THE CLOSING DATE...............58
+EXHIBIT C — PERMITTED EXCEPTIONS............................................................................. 60
+EXHIBIT D — RENOVATION BUDGET SUMMARY...............................................................61
+EXHIBIT E — FORM OF DRAW REQUEST AND ARCHITECT'S CERTIFICATE...................62
+EXHIBIT F — FORM OF ANNUAL LAND USE RESTRICTION COMPLIANCE CERTIFICATE
+................................................................................................................................................64
+
+
+
+
+                                                                Page 2 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+THIS MORTGAGE AND SECURITY AGREEMENT (this “Mortgage”) is made and
+entered into as of April 15, 2025 (the “Closing Date”), by and between
+PALMETTO GATEWAY PARTNERS LLC, a South Carolina limited liability
+company, having its principal office at 88 Broad Street, Suite 200, Charleston,
+South Carolina 29401, South Carolina Secretary of State Filing No. 2024-0011287,
+Employer Identification No. 84-6213750 (together with its successors and
+permitted assigns, “Borrower” and “Mortgagor”), and CALVERLEY HERITAGE
+BANK, a Georgia state-chartered commercial bank insured by the Federal Deposit
+Insurance Corporation, having its principal office at 412 Whitaker Street,
+Savannah, Georgia 31401, Employer Identification No. 58-2947136 (together with
+its successors and assigns, “Lender” and “Mortgagee”).
+
+
+RECITALS
+A. Lender has agreed to make a loan to Borrower in the original principal amount
+of Fourteen Million Seven Hundred Fifty Thousand and No/100 Dollars
+($14,750,000.00) (the “Loan”), on the terms and subject to the conditions set forth
+in that certain binding Term Sheet — Commercial Real Estate Loan dated April 1,
+2025, between Lender and Borrower (Deal Reference CHB CRE Loan No. 2025-
+CHS-0047) (the “Term Sheet”), and in a promissory note of even date herewith in
+the original principal amount of the Loan, executed by Borrower and payable to
+the order of Lender (together with all extensions, renewals, restatements,
+replacements and amendments thereof, the “Note”).
+
+B. The Loan will be advanced in two components: an initial advance of Twelve
+Million Five Hundred Thousand and No/100 Dollars ($12,500,000.00) at Closing
+(the “Initial Advance”), and a renovation holdback of Two Million Two Hundred
+Fifty Thousand and No/100 Dollars ($2,250,000.00) (the “Renovation Holdback”)
+to be held by Lender and disbursed to Borrower from time to time on a draw basis
+in accordance with Article 8 for the purpose of funding a portion of the renovation
+of the Property described on Exhibit D.
+
+C. Borrower is acquiring fee simple title to the Property (as defined below)
+simultaneously with the execution and recording of this Mortgage, and the
+proceeds of the Initial Advance will be applied toward the purchase price of the
+Property, closing costs and funded reserves.
+
+D. Borrower has executed and delivered, or will execute and deliver concurrently
+herewith, (i) the Note; (ii) this Mortgage, which includes an absolute and present
+assignment of all Leases and Rents as provided in Article 4; (iii) a Guaranty
+Agreement from Neil Ashford Graydon, an individual, of 14 Church Street,
+Charleston, South Carolina 29401 (“Guarantor”), including the non-recourse
+carve-out guaranty contemplated by Section 5.5(a) of the Term Sheet; (iv) a
+Completion Guaranty from Guarantor contemplated by Section 5.5(b) of the Term
+Sheet; (v) an Interest Shortfall Guaranty from Guarantor contemplated by Section
+5.5(c) of the Term Sheet; (vi) an Environmental Indemnity Agreement executed by
+Borrower and Guarantor in favor of Lender; and (vii) a UCC-1 financing statement
+to be filed with the South Carolina Secretary of State and a fixture filing to be
+
+
+                                          Page 3 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+recorded in the Office of the Register of Mesne Conveyances for Charleston
+County, South Carolina (the “RMC Office”).
+
+E. This Mortgage is intended to be a first-priority mortgage lien on, and security
+interest in, the Property and the other Collateral, and to constitute an absolute and
+present assignment of all Leases and Rents, as more particularly provided herein.
+
+NOW, THEREFORE, in consideration of the Loan, the covenants and agreements
+contained herein, and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, Borrower and Lender agree as
+follows:
+
+
+ARTICLE 1 — DEFINITIONS AND RULES OF CONSTRUCTION
+1.1 Defined Terms. For purposes of this Mortgage, the following terms have the
+following meanings:
+
+   (a) “Affiliate” means, with respect to any Person, any other Person that directly
+       or indirectly Controls, is Controlled by, or is under common Control with,
+       such Person. “Control” means the possession, directly or indirectly, of the
+       power to direct or cause the direction of the management and policies of a
+       Person, whether through ownership of voting securities, by contract or
+       otherwise.
+   (b) “Annual Debt Service” means, as of any date of determination, the annual
+       amount of principal and interest that would be payable with respect to the
+       outstanding principal balance of the Loan at the interest rate then in effect
+       (after giving effect to the SOFR Floor), calculated on the basis of a twenty-
+       five (25) year amortization schedule, determined without regard to any
+       interest-only period then in effect.
+   (c) “Business Day” means any day other than a Saturday, a Sunday or a day on
+       which national banks in the State of Georgia or the State of South Carolina
+       are authorized or required by law to close.
+   (d) “Closing Date” means April 15, 2025, being the date of this Mortgage and
+       the date on which the Initial Advance is made.
+   (e) “Collateral” means, collectively, the Property and all other property, rights
+       and interests described in Article 3, together with all Proceeds thereof.
+   (f) “Completion Guaranty” means the Completion Guaranty of even date
+       herewith executed by Guarantor in favor of Lender, guaranteeing
+       completion of the Renovation in accordance with the Plans and the
+       Renovation Budget on or before the Substantial Completion Deadline within
+       the Renovation Budget, as the same may be amended, restated or replaced
+       from time to time with Lender’s written consent.
+   (g) “Daily SOFR” means the Secured Overnight Financing Rate as published by
+       the Federal Reserve Bank of New York (or a successor administrator) on the
+       applicable Business Day, or, if such rate is not published on such Business
+       Day, the rate published on the immediately preceding Business Day.
+
+
+                                          Page 4 of 65
+        Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+(h) “Default Rate” means a per annum rate of interest equal to the otherwise
+    applicable interest rate under the Note plus five percent (5.00%) per annum.
+(i) “DSCR” means, for any period of determination, Net Operating Income for
+    such period divided by Annual Debt Service.
+(j) “Environmental Indemnity Agreement” means the Environmental
+    Indemnity Agreement of even date herewith executed by Borrower and
+    Guarantor in favor of Lender, as amended, restated, supplemented or
+    replaced from time to time in accordance with its terms.
+(k) “Environmental Laws” means all federal, state and local laws, statutes,
+    ordinances, rules, regulations, orders, judgments, permits and governmental
+    requirements relating to pollution, the protection of human health or the
+    environment, or the presence, use, generation, storage, treatment,
+    transportation, disposal, release or threatened release of Hazardous
+    Materials, including the Comprehensive Environmental Response,
+    Compensation, and Liability Act (42 U.S.C. § 9601 et seq.), the Resource
+    Conservation and Recovery Act (42 U.S.C. § 6901 et seq.), and all
+    comparable South Carolina statutes and regulations, including the South
+    Carolina Hazardous Waste Management Act and the South Carolina
+    Pollution Control Act, in each case as amended.
+(l) “Event of Default” means any event or condition described in Section 14.1.
+(m)      “GAAP” means generally accepted accounting principles in the
+   United States of America, consistently applied.
+(n) “GC Contract” means that certain construction contract between Borrower,
+    as owner, and the General Contractor, as contractor, providing for a
+    contract sum of Two Million Eight Hundred Fifty Thousand and No/100
+    Dollars ($2,850,000.00) covering hard costs of construction of the
+    Renovation, together with all schedules, exhibits, amendments, change
+    orders and modifications thereto approved by Lender in accordance with
+    Section 8.8.
+(o) “General Contractor” means Beaufort Builders Group LLC, a South
+    Carolina limited liability company, South Carolina General Contractor
+    License No. SC-GC-47921, with its principal office at 2200 Boundary Street,
+    Suite 150, Beaufort, South Carolina 29902.
+(p) “Guaranty” means, collectively, the Guaranty Agreement (including the
+    non-recourse carve-out guaranty), the Completion Guaranty and the Interest
+    Shortfall Guaranty, each of even date herewith and each executed by
+    Guarantor in favor of Lender, as each may be amended, restated or replaced
+    from time to time with Lender’s written consent.
+(q) “Hazardous Materials” means any substance, material or waste that is
+    regulated under any Environmental Law as hazardous, toxic, a pollutant, a
+    contaminant or a waste, including petroleum and petroleum products,
+    perchloroethylene and other chlorinated solvents, volatile organic
+    compounds, polychlorinated biphenyls, asbestos-containing materials, lead-
+    based paint, urea formaldehyde, and radon.
+
+
+                                       Page 5 of 65
+        Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+(r) “Impositions” means all real property taxes, assessments, water and sewer
+    charges, vault charges, business improvement district assessments, and
+    other governmental charges, levies and impositions of every kind and nature
+    whatsoever, whether general or special, ordinary or extraordinary, foreseen
+    or unforeseen, that are or may be assessed, levied or imposed upon the
+    Property, the Rents or the Loan, together with all interest, penalties and
+    costs of collection thereof.
+(s) “Independent Manager” means a natural person who is not, and has never
+    been, a member, manager, officer, employee, creditor, contractor or affiliate
+    of Borrower, Guarantor, Graydon Development Group LLC, Tidewater
+    Opportunity Fund II LP, Harborline Capital Advisors LLC or any of their
+    respective Affiliates, and who is designated as the “Independent Manager”
+    (or equivalent) of Borrower pursuant to Borrower’s organizational
+    documents.
+(t) “Initial Advance” means the advance of Twelve Million Five Hundred
+    Thousand and No/100 Dollars ($12,500,000.00) made on the Closing Date.
+(u) “Insurance Requirements” means all terms of any insurance policy
+    required under Article 9 and all requirements of any insurer, rating bureau
+    or similar organization applicable to the Property.
+(v) “Interest Shortfall Guaranty” means the Interest Shortfall Guaranty of
+    even date herewith executed by Guarantor in favor of Lender, guaranteeing
+    payment of any shortfall in debt service payments during the Renovation and
+    initial lease-up period described therein, as amended, restated or replaced
+    from time to time with Lender’s written consent.
+(w)“Leases” means all present and future leases, subleases, licenses,
+   concessions, occupancy agreements and other agreements (whether written
+   or oral) pursuant to which any Person is granted a right of use or occupancy
+   of any portion of the Property, together with all guaranties, security
+   deposits, letters of credit and other credit support therefor, including,
+   without limitation, the leases identified on Exhibit B.
+(x) “Loan Documents” means, collectively, the Term Sheet (for so long as any
+    obligation thereunder remains in effect), the Note, this Mortgage, the
+    Guaranty, the Environmental Indemnity Agreement, the UCC-1 financing
+    statement and fixture filing, all reserve and escrow agreements, all interest
+    rate protection agreements (if any) between Borrower (or Guarantor) and
+    Lender or its Affiliate, the Operating Agreement Amendment (as defined in
+    Section 7.6), and each other document, instrument, certificate or agreement
+    now or hereafter executed by Borrower, Guarantor or any other Person in
+    connection with the Loan or delivered to Lender in connection therewith, as
+    each may be amended, restated, supplemented or replaced from time to
+    time.
+(y) “LUR” means that certain Land Use Restriction and institutional control
+    recorded in Deed Book 1203 at Page 89 in the RMC Office, imposed by
+    SCDHEC with respect to SCDHEC Site ID SC-29403-0772, as described in
+
+
+
+                                       Page 6 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+      Article 11, together with any amendment, modification, replacement or
+      successor instrument recorded with the approval of SCDHEC.
+   (z) “Maturity Date” means April 15, 2030, being the fifth (5th) anniversary of
+       the Closing Date, or such earlier date on which the entire outstanding
+       principal balance of the Loan, together with all accrued and unpaid interest
+       and all other Secured Obligations, becomes due and payable, whether by
+       acceleration or otherwise.
+
+(aa) “Net Operating Income” means, for any period, the sum of (i) all rents,
+expense reimbursements, percentage rent, parking income, service income and
+other operating income of the Property actually collected during such period, less
+(ii) all operating expenses of the Property paid or accrued during such period,
+including Impositions, insurance premiums, utilities, repairs and maintenance,
+management fees (not to exceed four percent (4%) of gross revenues), and
+common area maintenance costs, in each case determined in accordance with
+GAAP consistently applied, and excluding (A) debt service, (B) capital
+expenditures, (C) depreciation, amortization and other non-cash charges, (D)
+income and franchise taxes, (E) non-recurring income and expense, (F) lease
+termination fees and other extraordinary income, and (G) any income or expense
+attributable to any period more than twelve (12) months prior to the date of
+determination.
+
+(bb) “Operating Agreement” means the Amended and Restated Operating
+Agreement of Borrower effective as of January 12, 2024, as amended through
+March 1, 2025, and as further amended by the Operating Agreement Amendment.
+
+   (cc)     “Permitted Exceptions” means those exceptions to title approved in
+      writing by Lender and identified on Exhibit C, together with such other
+      exceptions as Lender may approve in writing from time to time.
+
+(dd) “Person” means any individual, corporation, limited liability company,
+partnership, joint venture, trust, estate, association, unincorporated organization
+or governmental authority.
+
+(ee) “Plans” means the plans and specifications for the Renovation prepared by
+Borrower’s architect and approved by Lender in writing prior to the Closing Date,
+as amended from time to time with Lender’s written consent in accordance with
+Section 8.7.
+
+(ff) “Proceeds” has the meaning given that term in the South Carolina Uniform
+Commercial Code, S.C. Code Ann. § 36-9-101 et seq., and includes whatever is
+receivable or received when Collateral or proceeds of Collateral are sold, collected,
+exchanged or otherwise disposed of, whether such disposition is voluntary or
+involuntary, and includes all rights to payment, including insurance proceeds,
+condemnation awards and Rents.
+
+(gg) “Property” means (i) the real property described on Exhibit A (the “Land”),
+being Lots 7, 8 and 9 of the Hampstead Village Plat and the vacated Anson Lane
+strip, Charleston County, South Carolina, Tax Map Nos. 460-12-04-007, 460-12-04-
+008 and 460-12-04-009; and (ii) all buildings, structures, improvements, fixtures
+
+                                          Page 7 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+and building systems now or hereafter located on, affixed to or used in connection
+with the Land.
+
+(hh) “Renovation” means the renovation, restoration, modernization and
+improvement of the Property described in the Plans and funded in part by the
+Renovation Holdback in accordance with the Renovation Budget.
+
+   (ii) “Renovation Budget” means the total renovation budget for the Property
+        in the amount of Three Million One Hundred Fifty Thousand and No/100
+        Dollars ($3,150,000.00), as summarized on Exhibit D, as the same may be
+        amended from time to time in accordance with Section 8.2.
+
+(jj) “Renovation Holdback” means Two Million Two Hundred Fifty Thousand and
+No/100 Dollars ($2,250,000.00), being the portion of the Loan to be held by Lender
+and disbursed on a draw basis in accordance with Article 8.
+
+(kk) “Rents” means all rents (including percentage rents), issues, profits, royalties,
+revenue, income, receipts, charges, deposits, security deposits (to the extent of
+Borrower’s interest therein), proceeds of leases, lease termination payments,
+tenant reimbursements, escalation payments, parking revenues, concession
+revenues and other sums now or hereafter payable under or in connection with the
+Leases or the use or occupancy of the Property.
+
+(ll) “SCDHEC” means the South Carolina Department                             of   Health     and
+Environmental Control, and any successor agency.
+
+   (mm)      “Secured Obligations” means all present and future obligations and
+     liabilities of Borrower to Lender under or in respect of the Loan Documents,
+     whether direct or indirect, absolute or contingent, joint or several, due or to
+     become due, now existing or hereafter arising, including (i) the outstanding
+     principal balance of the Loan (including the Renovation Holdback whether
+     or not advanced), (ii) all accrued and unpaid interest, including interest at
+     the Default Rate, (iii) all late charges, prepayment premiums and yield
+     maintenance amounts, (iv) all costs of collection, enforcement, foreclosure,
+     and protection of the Collateral, including reasonable attorneys’ fees
+     actually incurred, (v) all sums advanced by Lender under this Mortgage or
+     any other Loan Document, including advances for Impositions, insurance
+     premiums, repairs, receivership or environmental remediation, and (vi) all
+     obligations under any interest rate protection agreement between Borrower
+     (or Guarantor) and Lender or any Affiliate of Lender.
+
+(nn) “SOFR Floor” means a rate of three percent (3.00%) per annum, being the
+minimum Daily SOFR used in determining the rate of interest under the Note.
+
+(oo) “Substantial Completion” means completion of the Renovation in
+accordance with the Plans, as certified by Borrower’s architect, and the issuance
+by the City of Charleston of a certificate of occupancy (or equivalent) for the
+renovated portions of the Property.
+
+(pp) “Substantial Completion Deadline” means June 15, 2026, being the date
+fourteen (14) months after the Closing Date.
+
+
+                                          Page 8 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+(qq) “Treasury Rate” means, with respect to any date of determination, the yield
+to maturity, as of the second (2nd) Business Day preceding such date, of the
+United States Treasury security reported in Federal Reserve Statistical Release
+H.15 — Selected Interest Rates (or any successor publication) having a maturity
+date closest to, but not exceeding, the last day of the Yield Maintenance Period;
+and if no published maturity date exactly matches the last day of the Yield
+Maintenance Period, the Treasury Rate shall be determined by linear interpolation
+between the two published maturities nearest to such last day.
+
+(rr) “UCC” means the South Carolina Uniform Commercial Code, S.C. Code Ann. §
+36-1-101 et seq.
+
+(ss) “Yield Maintenance Period” means the period commencing on the day after
+the expiration of the Lockout Period and ending on the last day of the forty-eighth
+(48th) month following the Closing Date, being April 15, 2029.
+
+(tt) “Lockout Period” means the period commencing on the Closing Date and
+ending on the last day of the twenty-fourth (24th) month following the Closing
+Date, being April 15, 2027.
+
+(uu) “Guarantor” means Neil Ashford Graydon, an individual, residing at 14
+Church Street, Charleston, South Carolina 29401, and his estate, heirs, successors
+and permitted assigns.
+
+1.2 Rules of Construction. In this Mortgage, unless the context otherwise
+requires: (a) the singular includes the plural and vice versa; (b) headings and
+captions are for convenience only and do not affect interpretation; (c) “including”
+means “including without limitation”; (d) references to Articles, Sections and
+Exhibits are to Articles and Sections of, and Exhibits to, this Mortgage, each of
+which is incorporated herein by reference; (e) “hereof,” “herein,” “hereunder” and
+similar terms refer to this Mortgage as a whole; (f) references to any statute,
+regulation or agreement include amendments, replacements and successor
+provisions; (g) “days” means calendar days unless Business Days are specified; and
+(h) this Mortgage has been negotiated by the parties with the assistance of counsel
+and shall not be construed more strictly against either party as the drafter.
+
+1.3 Accounting Terms. All accounting terms not otherwise defined herein have
+the meanings assigned to them under GAAP, applied on a consistent basis.
+
+
+ARTICLE 2 — THE LOAN, THE NOTE AND PAYMENT TERMS
+2.1 The Note; Principal Amount. Borrower has executed and delivered the Note
+in the original principal amount of Fourteen Million Seven Hundred Fifty Thousand
+and No/100 Dollars ($14,750,000.00), representing the Initial Advance and the
+Renovation Holdback. The outstanding principal balance of the Note, together with
+all accrued and unpaid interest and all other Secured Obligations, shall be due and
+payable on the Maturity Date.
+
+2.2 Interest Rate. Interest shall accrue on the outstanding principal balance of
+the Loan at a floating rate per annum equal to Daily SOFR plus two hundred
+
+
+                                          Page 9 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+eighty-five (285) basis points (2.85%), provided that, for purposes of determining
+the applicable rate, Daily SOFR shall not be less than the SOFR Floor. Interest
+shall be computed on the basis of the actual number of days elapsed over a year of
+three hundred sixty (360) days.
+
+2.3 Payments. Accrued interest on the outstanding principal balance of the Loan
+shall be due and payable monthly in arrears on the fifteenth (15th) day of each
+calendar month (each, a “Payment Date”), commencing on May 15, 2025, with
+the final payment due on the Maturity Date. All payments shall be made in lawful
+money of the United States, in immediately available funds, to Lender at its
+address for payment set forth in Section 17.6 or to such other account as Lender
+may designate in writing, without setoff, deduction, counterclaim or withholding of
+any kind.
+
+2.4 Interest-Only Period; Amortization. From the Closing Date through and
+including April 15, 2027 (the “Interest-Only Period”), each monthly payment
+shall consist solely of accrued interest on the outstanding principal balance of the
+Loan. Commencing with the Payment Date occurring on May 15, 2027, and
+continuing on each Payment Date thereafter through and including the Maturity
+Date, each monthly payment shall consist of principal and interest in the amount
+necessary to fully amortize the then outstanding principal balance of the Loan over
+a twenty-five (25) year amortization schedule at the interest rate then in effect
+(after giving effect to the SOFR Floor), with the entire remaining unpaid principal
+balance, all accrued and unpaid interest and all other Secured Obligations due and
+payable on the Maturity Date. Borrower acknowledges that the Loan is a balloon
+loan and that the scheduled monthly payments after the Interest-Only Period will
+not fully amortize the Loan over its term.
+
+2.5 Default Rate. Upon the occurrence and during the continuance of an Event of
+Default, the outstanding principal balance of the Loan and, to the extent permitted
+by applicable law, all other Secured Obligations, shall bear interest at the Default
+Rate, accruing from the date of the Event of Default until such Event of Default is
+cured or the Loan is repaid in full, whichever first occurs. The application of the
+Default Rate is not a waiver of any Event of Default nor a waiver of Lender’s right
+to accelerate the Loan, and interest at the Default Rate shall be a Secured
+Obligation.
+
+2.6 Late Charge. If any monthly installment of principal and/or interest is not
+received by Lender within ten (10) calendar days after the applicable Payment
+Date, Borrower shall pay to Lender, on demand, a late charge equal to five percent
+(5%) of the overdue installment. Borrower acknowledges that the late charge is
+intended to compensate Lender for the additional administrative expense of
+processing late payments and is not a penalty, and that the late charge is payable
+whether or not an Event of Default has occurred and whether or not Lender has
+given notice. The late charge is in addition to, and not in lieu of, interest at the
+Default Rate.
+
+2.7 Maximum Lawful Rate; Savings Clause. Notwithstanding anything to the
+contrary in this Mortgage or the other Loan Documents, in no event shall the total
+
+
+                                         Page 10 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+interest and other charges contracted for, charged or received by Lender under
+the Loan Documents exceed the maximum rate permitted by applicable law. If any
+amount in excess of such maximum is charged or received, (a) it shall be deemed a
+mistake and shall be canceled automatically, or, at Lender’s option, applied to
+reduce the principal balance of the Loan, and (b) the effective rate of interest shall
+be automatically reduced to the maximum lawful rate, and any amounts previously
+paid in excess of such rate shall be credited against the principal balance of the
+Loan. To the extent permitted by applicable law, all amounts that constitute
+interest shall be amortized, prorated, allocated and spread over the full period of
+the Loan.
+
+2.8 Application and Order of Payments. All payments received by Lender shall
+be applied (a) first, to any sums advanced by Lender for the protection of the
+Collateral, (b) second, to late charges, prepayment premiums and other fees then
+due, (c) third, to accrued and unpaid interest, (d) fourth, to principal, and (e) fifth,
+to any other Secured Obligations, in each case in such order as Lender may
+determine in its discretion and in accordance with the Note. Any payment received
+after 2:00 p.m. Eastern time on a Business Day shall be deemed received on the
+next Business Day.
+
+
+ARTICLE 3 — GRANT OF MORTGAGE; SECURITY INTEREST;
+COLLATERAL
+3.1 Granting Clause. For the purpose of securing the payment and performance
+of all Secured Obligations, Borrower hereby grants, bargains, sells, conveys,
+mortgages, pledges, hypothecates, assigns, transfers and sets over unto Lender,
+and grants to Lender a first-priority mortgage lien on and security interest in, all of
+Borrower’s right, title and interest, whether now owned or hereafter acquired, in,
+to and under the following (collectively, the “Collateral”):
+
+   (a) the Land described on Exhibit A, being Lots 7, 8 and 9 of the Hampstead
+       Village Plat, as recorded in Plat Book 41 at Page 218 in the RMC Office,
+       together with that certain strip of land formerly known as Anson Lane,
+       vacated by City of Charleston Ordinance No. 2019-084 and conveyed by
+       quitclaim deed recorded in Deed Book 1128 at Page 443 in the RMC Office,
+       and more particularly described on Exhibit A, together with all rights,
+       privileges, tenements, hereditaments, easements, rights-of-way and
+       appurtenances thereunto belonging or in any way appertaining, and all
+       reversions and remainders therein; Charleston County Tax Map Nos. 460-
+       12-04-007, 460-12-04-008 and 460-12-04-009;
+   (b) all buildings, structures, improvements, fixtures and building systems now
+       or hereafter erected, installed or located on, in or under the Land, including
+       all HVAC equipment, elevators and elevator systems, plumbing, electrical
+       systems, fire protection and life safety systems, roofing, and all materials,
+       supplies, equipment and goods delivered to the Land and intended for
+       incorporation therein;
+
+
+
+
+                                          Page 11 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   (c) all personal property, equipment, machinery, furniture, furnishings, trade
+       fixtures, inventory, supplies and other tangible personal property owned by
+       Borrower and used or useful in connection with the ownership, operation,
+       management, renovation, maintenance or leasing of the Property;
+   (d) all accounts, chattel paper, deposit accounts, instruments, letter-of-credit
+       rights, investment property, general intangibles, payment intangibles,
+       software and supporting obligations, in each case to the extent relating to
+       the Property or the operation thereof;
+   (e) all Leases, together with all Rents (subject to Article 4), and all rights of
+       Borrower as landlord under the Leases;
+   (f) all permits, licenses, approvals, entitlements, development rights, zoning
+       rights, building permits, certificates of occupancy and other governmental
+       authorizations relating to the Property, and all rights of Borrower under any
+       City of Charleston encroachment permit, license or agreement relating to
+       the balcony encroachment described in Section 5.14;
+   (g) all contracts, subcontracts, purchase orders, warranties, guaranties,
+       indemnities, claims, causes of action and rights of action relating to the
+       construction, renovation, operation, maintenance, repair or insurance of the
+       Property, including all of Borrower’s right, title and interest in, to and under
+       the GC Contract, the Plans, and all architect’s and engineer’s agreements
+       relating to the Renovation;
+   (h) all deposits, reserves, escrow accounts and other funds now or hereafter
+       held by or on behalf of Lender in connection with the Loan, including the
+       Tax and Insurance Escrow, the Capital Replacement Reserve, the TI/LC
+       Reserve and the Renovation Holdback, together with all interest accrued
+       thereon (subject to Article 10);
+   (i) all insurance proceeds, including unearned premiums, and all condemnation
+       awards, damages, awards of compensation and other payments arising from
+       the damage, destruction, taking or impairment of the Property or any
+       portion thereof or interest therein, and all rights of Borrower to make claims
+       for any of the foregoing;
+   (j) all books and records (in any medium) relating to the Property or the
+       Collateral, including tenant files, lease files, operating records, plans,
+       specifications, surveys and environmental reports; and
+   (k) all Proceeds and products of any of the foregoing, and all additions,
+       accessions, substitutions, replacements, renewals, improvements and
+       betterments thereto.
+
+3.2 Habendum. TO HAVE AND TO HOLD the Collateral, together with all rights,
+privileges and appurtenances thereto, unto Lender, its successors and assigns, in
+fee simple (as to the Land and improvements), forever, for the purposes and on the
+terms and conditions set forth in this Mortgage.
+
+3.3 Security Agreement; Fixture Filing. This Mortgage constitutes a security
+agreement under the UCC with respect to all Collateral that constitutes personal
+
+
+                                         Page 12 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+property or fixtures, and Borrower grants to Lender, as secured party, a security
+interest in all such Collateral. This Mortgage is also intended to be effective as a
+financing statement filed as a fixture filing covering fixtures, and for such
+purposes: (a) the names of the debtor and the secured party are set forth in
+Section 3.5; (b) the mailing address of the debtor is 88 Broad Street, Suite 200,
+Charleston, South Carolina 29401, and the mailing address of the secured party is
+412 Whitaker Street, Savannah, Georgia 31401; (c) Borrower is the record owner
+of the Land; and (d) the Land is described on Exhibit A and is located in
+Charleston County, South Carolina.
+
+3.4 Future Advances; Maximum Principal Amount. This Mortgage secures the
+Initial Advance and the Renovation Holdback, and all other Secured Obligations,
+whether advanced before, at or after the date hereof. This Mortgage is given to
+secure a debt that may be incurred in whole or in part by future advances, and the
+total principal amount of the debt secured hereby shall not exceed Fourteen
+Million Seven Hundred Fifty Thousand and No/100 Dollars ($14,750,000.00) at any
+one time outstanding, together with interest thereon, premiums, late charges,
+costs of collection, advances for the protection of the Collateral and all other
+Secured Obligations. All future advances shall have the same priority as the Initial
+Advance, and Lender shall be entitled to all of the benefits and protections
+afforded by applicable South Carolina law with respect to mortgages securing
+future advances. Borrower acknowledges that Lender has no obligation to make
+any advance except in accordance with the terms of the Loan Documents.
+
+3.5 Debtor Information. Borrower’s exact legal name is “Palmetto Gateway
+Partners LLC,” and Borrower is a South Carolina limited liability company
+organized under the laws of the State of South Carolina, South Carolina Secretary
+of State Filing No. 2024-0011287, Employer Identification No. 84-6213750.
+Borrower’s organizational identification number is 2024-0011287. Borrower shall
+not change its name, entity type, jurisdiction of organization or organizational
+identification number, or its principal place of business, without giving Lender at
+least thirty (30) days’ prior written notice and taking all action reasonably
+requested by Lender to maintain the perfection and priority of Lender’s security
+interest.
+
+3.6 After-Acquired Property; Accessions. All property of the types described in
+Section 3.1 that is acquired by Borrower after the date hereof (other than
+inventory sold in the ordinary course of business) shall be subject to the lien and
+security interest of this Mortgage immediately upon acquisition, without further
+act of the parties, and Borrower shall execute such further instruments as Lender
+may reasonably request to perfect Lender’s interest therein.
+
+3.7 No Merger; Cross-Collateralization. The lien of this Mortgage shall not
+merge with any other lien, and no acquisition by Lender of any other interest in the
+Property, whether by foreclosure, deed in lieu, purchase or otherwise, shall merge
+or extinguish the lien of this Mortgage or affect the priority thereof. The Collateral
+secures all Secured Obligations and none of the Collateral shall be released except
+as expressly provided in this Mortgage or as approved by Lender in writing.
+
+
+
+                                         Page 13 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+3.8 Recording; Further Assurances. Borrower shall, at Borrower’s sole cost and
+expense, record this Mortgage in the RMC Office and file the UCC-1 financing
+statement with the South Carolina Secretary of State, and shall execute, deliver,
+record and file all further mortgages, deeds of trust, security agreements,
+financing statements (including continuation and amendment statements), fixture
+filings, affidavits, certificates and other instruments, and take all other action
+reasonably requested by Lender from time to time, to create, perfect, maintain,
+continue and preserve the lien and security interest granted hereby and the
+priority thereof. Borrower hereby authorizes Lender to file any such financing
+statements, including financing statements describing the Collateral as “all assets”
+or “all personal property of every kind and description,” without Borrower’s
+signature, and Borrower ratifies any such filing made prior to the date hereof.
+
+3.9 Payment of Recording Taxes. Borrower shall pay all recording fees,
+documentary stamp taxes, mortgage recording taxes, intangible recording taxes
+and other charges payable in connection with the recording or filing of this
+Mortgage and the other Loan Documents, and shall pay any additional amounts
+payable upon the recording of any future advance or supplemental instrument.
+
+
+ARTICLE 4 — ABSOLUTE ASSIGNMENT OF LEASES AND RENTS
+4.1 Absolute and Present Assignment. Borrower hereby unconditionally,
+absolutely and presently grants, transfers, assigns and sets over to Lender all of
+Borrower’s right, title and interest, whether now owned or hereafter acquired, in,
+to and under (a) all Leases, including each Lease identified on Exhibit B and all
+Leases hereafter entered into with respect to any portion of the Property, and (b)
+all Rents, together with all rights, powers, privileges, benefits and remedies of
+Borrower as landlord under the Leases, including the right to receive and collect
+all Rents and to enforce every provision of the Leases. This assignment is an
+absolute and present assignment and not an assignment as additional security
+only, and is effective immediately upon execution and recording of this Mortgage,
+without the necessity of any further act by Borrower. This assignment is made
+pursuant to and is intended to be effective under the South Carolina Uniform
+Assignment of Rents Act, as enacted in Title 29, Chapter 3 of the South Carolina
+Code of Laws. The assignment of Rents contained in this Article 4 is intended to
+satisfy, and is in lieu of, any separate Assignment of Leases and Rents
+contemplated by Section 5.2 of the Term Sheet.
+
+4.2 License to Collect Prior to Default. Notwithstanding the absolute nature of
+the assignment in Section 4.1, Lender hereby grants to Borrower a revocable
+license to collect and use the Rents prior to the occurrence of an Event of Default,
+subject to the terms of the Loan Documents, including the requirements of Article
+10 with respect to reserves and escrows. This license shall be automatically
+revoked upon the occurrence of an Event of Default, without any further act by
+Lender, and may be revoked by Lender at any time upon the occurrence of an
+Event of Default. The license granted in this Section 4.2 shall not constitute a
+waiver of Lender’s rights under Section 4.1 or under the Assignment of Rents Act,
+
+
+
+                                         Page 14 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+and shall not be construed as a release or reconveyance of the assignment of
+Rents.
+
+4.3 Enforcement Upon Default. Upon the occurrence and during the
+continuance of an Event of Default, Lender may, in its sole discretion and without
+the necessity of obtaining a court order, appointing a receiver, entering into
+possession, or taking any other action, and without regard to the adequacy of the
+value of the Collateral:
+
+   (a) notify any or all tenants under the Leases, in writing, to pay all Rents
+       directly to Lender or to a depository account designated by Lender, and
+       each such tenant shall thereafter be obligated to make all payments directly
+       to Lender or its designee, and shall be entitled to rely on such notice without
+       inquiry and without liability to Borrower;
+   (b) collect, sue for, compromise, settle and give receipts for all Rents;
+   (c) enforce, at Borrower’s expense, all terms of the Leases, including the
+       obligation to pay Rents, and exercise all rights and remedies of the landlord
+       thereunder, including the right to evict, terminate, renew, modify, accept
+       surrender of, or otherwise deal with any Lease, without releasing any tenant
+       or guarantor from liability;
+   (d) apply all Rents received to the Secured Obligations in such order as Lender
+       may determine in accordance with Section 2.8, or, at Lender’s election, hold
+       the same as cash collateral for the Secured Obligations; and
+   (e) take any other action permitted under the Assignment of Rents Act or other
+       applicable law.
+
+4.4 Tenant Direction Letters; Estoppel Certificates; SNDAs. Concurrently
+with the execution of this Mortgage, Borrower shall execute and deliver to Lender,
+for delivery at Lender’s election upon an Event of Default, tenant direction letters
+in form reasonably satisfactory to Lender, addressed to each tenant under the
+Leases, directing payment of Rents to Lender. Borrower shall use commercially
+reasonable efforts to obtain and deliver to Lender (a) a tenant estoppel certificate
+from each tenant in occupancy at the Property, in form reasonably satisfactory to
+Lender, and (b) a subordination, non-disturbance and attornment agreement
+(“SNDA”) from each such tenant, in form reasonably satisfactory to Lender.
+Borrower shall use commercially reasonable efforts to obtain an estoppel
+certificate and an SNDA from each tenant with respect to each Lease entered into
+after the Closing Date. Borrower acknowledges that the lease with Lowcountry
+Provisions Inc. described on Exhibit B contains no assignment or subletting
+provision, no estoppel certificate obligation and no subordination provisions, and
+Borrower represents that, notwithstanding the absence of such provisions,
+Borrower has the full right and authority to assign all Rents under such Lease as
+provided herein and that the assignment of Rents is enforceable against such
+tenant upon notification in accordance with the Assignment of Rents Act. Borrower
+shall use commercially reasonable efforts to obtain, at the first renewal, extension
+or amendment of such Lease, an amendment adding customary assignment and
+estoppel provisions.
+
+
+                                         Page 15 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+4.5 Subordination of Leases; Attornment. Each Lease now or hereafter
+existing is and shall be subject and subordinate in all respects to this Mortgage
+and to all advances made or to be made under the Note, to the full extent of all
+Rents and other sums secured hereby, unless Lender expressly agrees otherwise in
+a written SNDA or subordination agreement. Borrower shall not subordinate any
+Lease to any other mortgage, deed of trust or lien. Borrower shall, upon Lender’s
+request following a foreclosure or conveyance in lieu of foreclosure, cause each
+tenant under a Lease to attorn to the purchaser or transferee at such foreclosure
+or conveyance and to recognize such purchaser or transferee as the landlord under
+its Lease for the balance of the term thereof; and Lender may, in its discretion,
+deliver a commercially reasonable non-disturbance agreement to any tenant. Any
+SNDA delivered by Lender may provide that the tenant’s rights of first refusal,
+rights of first offer, options to purchase and other purchase rights (including the
+right of first refusal held by Harmon & Wren Design Studio LLC with respect to
+Bay 2) shall not be binding upon, or enforceable against, Lender or any purchaser
+at foreclosure or transferee in lieu of foreclosure.
+
+4.6 Security Deposits. Borrower’s interest in all security deposits and other
+tenant deposits now or hereafter held under the Leases is hereby assigned to
+Lender as part of the Collateral; provided, however, that Lender shall have no
+liability or responsibility with respect to any security deposit unless and until
+actually received by Lender, and Lender shall have no obligation to hold security
+deposits in a segregated account or to pay interest thereon except as required by
+applicable law or the applicable Lease. Borrower shall hold all security deposits in
+accordance with applicable law and the applicable Leases, and shall not apply any
+security deposit except as permitted by the applicable Lease and applicable law.
+
+4.7 No Liability of Lender; Authority. Lender shall not be obligated to perform
+any obligation of Borrower under any Lease, to appear in or defend any action
+relating to any Lease, or to incur any expense in connection therewith, unless
+Lender elects in writing to do so. Borrower hereby irrevocably appoints Lender as
+its attorney-in-fact, effective upon the occurrence of an Event of Default, to execute
+and deliver in Borrower’s name, place and stead all notices, instruments and
+agreements reasonably necessary to enforce the assignment of Rents and the
+Leases, which appointment is coupled with an interest and is irrevocable. The
+exercise of the rights granted in this Article 4 shall not make Lender a mortgagee
+in possession, shall not constitute an assumption by Lender of any obligation under
+any Lease, and shall not impair Lender’s right to pursue any other remedy.
+
+4.8 No Release of Borrower. Nothing in this Article 4 shall release Borrower
+from any liability or obligation under any Lease or the Loan Documents, and
+Borrower shall remain liable for the performance of all landlord obligations under
+the Leases and for the payment of the Secured Obligations.
+
+
+ARTICLE 5 — REPRESENTATIONS AND WARRANTIES
+Borrower represents and warrants to Lender as of the Closing Date and as of the
+date of each advance of Loan proceeds (except to the extent a representation is
+expressly stated to be made as of a specified date) that:
+
+                                         Page 16 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+5.1 Organization, Good Standing and Authority. Borrower is a limited liability
+company duly organized, validly existing and in good standing under the laws of
+the State of South Carolina, and is duly qualified and authorized to transact
+business in each other jurisdiction in which such qualification is necessary.
+Borrower has all requisite power and authority to own, operate, renovate and
+mortgage the Property and to execute, deliver and perform this Mortgage and the
+other Loan Documents to which it is a party. The execution, delivery and
+performance by Borrower of the Loan Documents have been duly authorized by all
+necessary limited liability company action, including the written approval of
+Members holding not less than seventy-five percent (75%) of the outstanding
+membership interests in Borrower, as required by Section 3.2(ii) of the Operating
+Agreement for any financing in excess of $1,000,000, and such approval has not
+been rescinded, amended or superseded.
+
+5.2 Enforceability; No Conflicts; Governmental Approvals. This Mortgage and
+each other Loan Document to which Borrower is a party constitutes the legal, valid
+and binding obligation of Borrower, enforceable against Borrower in accordance
+with its terms, except as enforceability may be limited by bankruptcy, insolvency,
+reorganization, moratorium or other laws affecting creditors’ rights generally and
+by general principles of equity. The execution, delivery and performance of the
+Loan Documents by Borrower do not and will not (a) violate any provision of
+Borrower’s organizational documents, (b) violate any applicable law, order or
+judgment, (c) conflict with, result in a breach of, or constitute a default under any
+agreement to which Borrower is a party or by which the Property is bound, or (d)
+except for the Permitted Exceptions and the liens created by the Loan Documents,
+result in the creation of any lien on the Property. No consent, approval,
+authorization or filing (other than the recording and filing contemplated by Section
+3.8) is required in connection with the execution, delivery or performance of the
+Loan Documents.
+
+5.3 Title to the Property. Borrower holds, and will hold as of the Closing Date,
+good and marketable fee simple title to the Property, free and clear of all liens,
+mortgages, security interests, encumbrances, easements and other title matters,
+except the Permitted Exceptions. This Mortgage constitutes and will constitute a
+valid first-priority mortgage lien on and security interest in the Property, subject
+only to the Permitted Exceptions, and, upon recording and filing as contemplated
+by Section 3.8, will be duly perfected. Borrower has not executed any other
+mortgage, deed of trust, security agreement, assignment of leases or rents, or
+financing statement affecting the Property other than as disclosed to Lender in
+writing. Borrower acknowledges that the title insurer has advised that the strip of
+land formerly known as Anson Lane was conveyed to Borrower’s predecessor in
+title by quitclaim deed only, and Borrower represents that the transaction
+documents reflect an unbroken chain of vesting to Borrower and that no Person
+other than Borrower has any claim to such strip.
+
+5.4 Leases and Rent Roll. Exhibit B sets forth a true, correct and complete rent
+roll and summary of all Leases affecting the Property as of the Closing Date,
+including the tenant name, premises, leasable area, lease commencement and
+expiration dates, base rent and escalations, security deposits, renewal options,
+
+
+                                         Page 17 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+rights of first refusal or first offer, assignment and subletting provisions, and
+estoppel and SNDA obligations. Borrower has delivered to Lender true, correct
+and complete copies of each Lease. Except as disclosed on Exhibit B: (a) no Lease
+has been assigned, subleased, amended, modified, extended, renewed, terminated
+or surrendered; (b) no tenant is in default or has any outstanding claim or offset
+against Borrower; (c) no rent has been prepaid more than thirty (30) days in
+advance; (d) no tenant has any option to purchase, right of first refusal or right of
+first offer with respect to any portion of the Property, other than the right of first
+refusal in favor of Harmon & Wren Design Studio LLC with respect to Bay 2; (e) no
+tenant has any exclusive use or exclusivity right except the exclusive specialty
+grocery use in favor of Lowcountry Provisions Inc.; and (f) no Lease has been
+recorded or is the subject of a memorandum of lease of record.
+
+5.5 Litigation and Condemnation. There is no action, suit, proceeding,
+arbitration, mediation, claim or investigation pending or, to Borrower’s knowledge,
+threatened against Borrower, Guarantor or the Property, at law or in equity, before
+any court, arbitrator or governmental authority, that if adversely determined could
+reasonably be expected to have a material adverse effect on Borrower, Guarantor,
+the Property or the Collateral, or that questions the validity of any Loan Document.
+There is no pending or, to Borrower’s knowledge, threatened condemnation,
+eminent domain, rezoning, special assessment or similar proceeding affecting any
+portion of the Property.
+
+5.6 Environmental Matters; Land Use Restriction. Except as disclosed in the
+Phase I Environmental Site Assessment prepared by Clearfield Environmental
+Consulting LLC, Report No. CLR-2025-0119, dated January 28, 2025 (the “Phase I
+ESA”): (a) no Hazardous Materials are present at, on, under or migrating from the
+Property in violation of Environmental Laws or in a condition that requires
+reporting, investigation, remediation or the implementation of institutional
+controls; (b) Borrower has not received any notice of violation, request for
+information, demand or claim relating to Environmental Laws or Hazardous
+Materials; (c) there are no underground or above-ground storage tanks at the
+Property; and (d) the Property is not listed on any federal or state environmental
+database. Borrower acknowledges that the Property is subject to a Controlled
+Recognized Environmental Condition on Lot 7 arising from historical
+contamination at the adjoining property known as 518 King Street (SCDHEC Site
+ID SC-29403-0772), that SCDHEC issued a No Further Action letter dated August
+12, 2021 subject to the continuing implementation of the institutional controls
+described in the LUR, and that the LUR is a Permitted Exception. Borrower further
+represents that (i) the current use of the ground floor of Lot 7 as a specialty
+grocery is consistent with the LUR, (ii) no residential use of the ground floor of Lot
+7 has occurred or will occur, (iii) the vapor barrier beneath the ground-floor slab of
+Lot 7 is, to Borrower’s knowledge, intact, and (iv) Borrower has not received any
+notice from SCDHEC of non-compliance with the LUR.
+
+5.7 Zoning; Compliance with Laws. The Property is located in the GB (General
+Business) zoning district of the City of Charleston, South Carolina, and the current
+use and occupancy of the Property, and the Renovation as contemplated by the
+Plans, comply with all applicable zoning, building, fire, health, safety,
+
+
+                                         Page 18 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+environmental, accessibility and other laws, ordinances, rules, regulations and
+orders (“Applicable Laws”), except to the extent that any non-compliance is being
+remedied as part of the Renovation in accordance with the Plans. Borrower has not
+received any notice of any violation of Applicable Laws affecting the Property that
+remains uncured.
+
+5.8 Insurance. Borrower maintains, or as of the Closing Date will maintain, each
+policy of insurance required under Article 9, in the amounts and with the carriers
+required therein, and each such policy is in full force and effect with premiums
+paid.
+
+5.9 Financial Statements; No Material Adverse Change. All financial
+statements, rent rolls, operating statements, budgets and other financial
+information furnished by or on behalf of Borrower or Guarantor to Lender in
+connection with the Loan (including the Renovation Budget and Exhibit B) are
+true, correct and complete in all material respects and fairly present the financial
+condition and results of operations of the applicable Person as of the dates and for
+the periods indicated. There has been no material adverse change in the financial
+condition, business, assets or operations of Borrower or Guarantor since the dates
+of such information.
+
+5.10 Single-Purpose Entity; Organizational Documents. Borrower is, and
+since its formation has been, a single-purpose entity, and Borrower’s
+organizational documents, as amended by the Operating Agreement Amendment
+(as defined in Section 7.6), contain, and at all times during the term of the Loan
+will contain, the single-purpose entity provisions required by Section 7.6. Borrower
+has delivered to Lender a true, correct and complete copy of its Operating
+Agreement, together with the Operating Agreement Amendment executed by all of
+its Members, and Borrower’s organizational documents have not been amended or
+modified except as reflected in the copies delivered to Lender.
+
+5.11 Renovation; Plans; Permits; GC Contract. Borrower has delivered to
+Lender true, correct and complete copies of the GC Contract, the Plans, and the
+Renovation Budget. The GC Contract is in full force and effect, has not been
+amended except as disclosed to Lender in writing, and no default or event that
+with notice or lapse of time would constitute a default exists thereunder. The
+Renovation Budget accurately and completely describes the costs of completing
+the Renovation, and Borrower is not aware of any cost of completing the
+Renovation in accordance with the Plans that is not included in the Renovation
+Budget (other than costs of the type identified in Section 8.3 as Borrower’s
+responsibility). All building permits, demolition permits, certificates and approvals
+required to commence and complete the Renovation have been or, as of the
+commencement of the applicable portion of the work, will be obtained, other than
+the Board of Architectural Review approvals described in Section 8.7. The General
+Contractor is duly licensed in the State of South Carolina as a general contractor
+under License No. SC-GC-47921.
+
+5.12 Impositions and Other Charges. All Impositions due and payable with
+respect to the Property for all periods prior to the Closing Date have been paid in
+
+
+                                         Page 19 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+full, and there are no delinquent Impositions, tax liens, pending tax sales, or
+special assessments affecting the Property other than Impositions for the year
+2025 that are not yet due and payable, as described in Exhibit C. Borrower has
+not received any notice of any pending or proposed tax reassessment, special
+assessment or reassessment appeal affecting the Property.
+
+5.13 No Mechanics’ Liens. No work has been performed, and no materials have
+been furnished, at the Property that could give rise to a mechanics’ lien,
+materialmen’s lien or similar lien, except work and materials that have been paid
+for in full and for which lien waivers have been delivered to Lender or the title
+insurer, and except the Renovation, which will be conducted and paid for in
+accordance with Article 8.
+
+5.14 Encroachments, Easements and Boundary Matters. Except for (a) the
+encroachment of a decorative iron balcony extending approximately two and one-
+half (2.5) feet beyond the front façade of the building over the King Street public
+right-of-way, as shown on the ALTA/NSPS Land Title Survey prepared by
+Cartwright Land Surveying LLC dated January 15, 2025, and (b) the utility
+easement in favor of South Carolina Electric & Gas recorded in Deed Book 987 at
+Page 112 in the RMC Office, there are no encroachments, boundary line violations,
+easements, rights-of-way, party wall agreements or other matters affecting the
+Property that would be disclosed by an accurate survey, except as shown on such
+survey and on the plat recorded in Plat Book 41 at Page 218 in the RMC Office.
+Borrower acknowledges that the balcony encroachment is a Permitted Exception,
+that the title insurer has recommended that Lender obtain an endorsement
+affording affirmative coverage with respect to such encroachment, and that
+Borrower shall cooperate in obtaining any encroachment license, permit or
+agreement from the City of Charleston reasonably required to maintain such
+encroachment.
+
+5.15 Solvency. Borrower is solvent, is able to pay its debts as they become due,
+and does not intend to, and does not believe that it will, incur debts or liabilities
+beyond its ability to pay as they mature. Borrower is not contemplating the filing
+of, and no other Person is contemplating the filing on behalf of Borrower of, any
+petition under the United States Bankruptcy Code or any other insolvency
+proceeding, and no receiver, trustee, custodian or similar official has been
+appointed for Borrower or any substantial part of its assets.
+
+5.16 Survival; Restatement. All representations and warranties in this Article 5
+shall survive the Closing Date and the making of each advance and shall be
+deemed remade as of the date of each advance of Loan proceeds (including each
+draw of the Renovation Holdback), except that any representation with respect to
+leases, financial statements or litigation shall be deemed to refer to the most
+recent information delivered to Lender pursuant to Article 12. Borrower shall
+promptly notify Lender in writing if any representation or warranty ceases to be
+true and correct in any material respect.
+
+
+
+
+                                         Page 20 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+ARTICLE 6 — AFFIRMATIVE COVENANTS
+From and after the Closing Date and until the Secured Obligations are paid and
+performed in full, Borrower shall, at Borrower’s sole cost and expense:
+
+6.1 Payment of Secured Obligations. Punctually pay and perform all Secured
+Obligations when due, in accordance with the Note, this Mortgage and the other
+Loan Documents.
+
+6.2 Impositions. Pay, before the same become delinquent, all Impositions;
+provide Lender with evidence of payment upon request; and deposit with Lender
+the monthly escrow amounts required by Section 10.1. Borrower shall not suffer or
+permit any lien for Impositions to attach to the Property. If Borrower pays any
+Imposition that may lawfully be paid in installments over a period of years,
+Borrower may do so only after prior written notice to Lender. Borrower may
+contest in good faith, by appropriate proceedings diligently conducted and without
+risk of sale, forfeiture or loss of the Property, any Imposition, provided that
+Borrower shall deposit such security as Lender may reasonably require.
+
+6.3 Insurance. Maintain, and cause each tenant under a Lease to the extent
+required by its Lease, at all times during the term of the Loan, the insurance
+required by Article 9, and deliver to Lender the evidence of insurance required by
+Section 9.7.
+
+6.4 Maintenance, Repair and Replacement; No Waste. Maintain, repair,
+replace and keep the Property, including the Land, improvements, building
+systems, fixtures, common areas, landscaping, parking areas and appurtenances,
+in good order, condition and repair, and in a first-class condition consistent with
+the standards of comparable mixed-use commercial properties in the Charleston,
+South Carolina metropolitan area. Borrower shall promptly (a) complete any
+repairs or replacements to the Property required to keep it in such condition,
+whether or not covered by insurance, and (b) commence and diligently pursue the
+cure of any condition that violates any Applicable Law or that would otherwise
+impair the value or use of the Property. Borrower shall not commit or permit any
+waste of the Property or any portion thereof. All repairs, replacements and
+alterations shall be of substantially equal or better quality and value than the items
+replaced.
+
+6.5 Compliance with Laws and Permits. Comply at all times with all Applicable
+Laws applicable to the Property, the Renovation and the conduct of Borrower’s
+business, including all zoning, building, fire, life safety, health, environmental,
+historic preservation and accessibility laws, and maintain in full force and effect all
+permits, licenses, certificates of occupancy, approvals and governmental
+authorizations necessary for the ownership, operation, renovation and use of the
+Property. Borrower shall promptly deliver to Lender copies of any notice of
+violation, citation or order received from any governmental authority.
+
+6.6 Environmental Compliance. Comply, and cause all tenants and occupants of
+the Property and all contractors performing work at the Property to comply, with
+
+
+
+                                          Page 21 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+all Environmental Laws and with the LUR in accordance with Article 11, and
+perform and observe all covenants, conditions and restrictions of the LUR.
+
+6.7 Leasing Covenants; Estoppels and SNDAs.
+
+   (a) Use commercially reasonable efforts to lease all vacant space at the
+       Property at market rents and on terms consistent with those prevailing for
+       comparable mixed-use commercial properties in the Charleston, South
+       Carolina metropolitan area, and on terms reasonably acceptable to Lender,
+       in compliance with Section 7.7.
+   (b) All new Leases and all amendments, modifications, extensions, renewals,
+       terminations and surrenders of Leases shall be on Lender-approved forms,
+       shall be subordinate to this Mortgage in accordance with Section 4.5, shall
+       not contain any option to purchase, right of first refusal or right of first offer
+       with respect to any portion of the Property (except as disclosed on Exhibit
+       B), and shall require the tenant to deliver estoppel certificates and SNDAs
+       upon request. Borrower shall deliver to Lender a copy of each new Lease
+       and each amendment, modification, extension or renewal within ten (10)
+       business days after execution, together with any lease guaranty, rent
+       commencement notice and tenant work letter.
+   (c) Borrower shall use commercially reasonable efforts to obtain and deliver to
+       Lender, within thirty (30) days after Lender’s written request, a tenant
+       estoppel certificate and an SNDA from each tenant under a Lease, and shall
+       deliver such estoppel certificates from all tenants in occupancy as of the
+       Closing Date no later than the Closing Date. Borrower acknowledges that
+       delivery of an estoppel certificate and SNDA from Lowcountry Provisions
+       Inc. is a condition to Lender’s obligation to make the Initial Advance, that
+       the Lease with Lowcountry Provisions Inc. does not itself require such
+       delivery, and that Borrower shall use commercially reasonable efforts
+       (without obligation to grant economic concessions) to obtain the same.
+   (d) Borrower shall not grant any exclusive use, exclusivity, co-tenancy, “go-
+       dark,” termination, cancellation or kick-out right, or any option to purchase,
+       right of first refusal or right of first offer, without Lender’s prior written
+       consent in accordance with Section 7.7.
+
+6.8 Books and Records; Inspection. Maintain complete and accurate books and
+records with respect to the Property and the Renovation in accordance with GAAP,
+and permit Lender and its agents, representatives, appraisers, engineers,
+environmental consultants and auditors to inspect the Property and Borrower’s
+books and records at any reasonable time upon reasonable prior notice, subject to
+the rights of tenants under the Leases and to Borrower’s reasonable health and
+safety requirements. Lender may conduct appraisals and property condition
+assessments at Borrower’s expense not more than once per calendar year in the
+absence of an Event of Default, and at any time and as often as Lender deems
+appropriate during the continuance of an Event of Default.
+
+
+
+
+                                          Page 22 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+6.9 Financial Reporting. Deliver to Lender the financial statements, rent rolls,
+operating statements, lease copies and other information required by Article 12,
+together with a compliance certificate as required by Section 12.5.
+
+6.10 Reserves and Escrows. Fund and maintain the Tax and Insurance Escrow,
+the Capital Replacement Reserve and the TI/LC Reserve in accordance with Article
+10, and apply all disbursements from such accounts for the purposes for which
+they were established.
+
+6.11 Further Assurances; Estoppel Certificates to Lender. Execute,
+acknowledge and deliver to Lender such further instruments and take such further
+action as Lender may reasonably request to carry out the purposes of this
+Mortgage. Within fifteen (15) days after Lender’s written request (and not more
+than twice in any calendar year in the absence of a Default), Borrower shall deliver
+to Lender a certificate certifying that (a) the Loan Documents are in full force and
+effect and have not been amended, (b) no Event of Default exists, and (c) such
+other matters as Lender may reasonably request.
+
+6.12 Single-Purpose and Separateness Covenants. At all times during the term
+of the Loan, Borrower shall:
+
+   (a) engage in no business or activity other than the ownership, operation,
+       renovation, leasing, management and disposition of the Property and
+       activities incidental thereto;
+   (b) maintain its own separate books of account, financial records and bank
+       accounts, separate and apart from those of any other Person;
+   (c) not commingle its funds or assets with those of any Affiliate, Member,
+       manager or other Person;
+   (d) hold itself out to the public as a legal entity separate and distinct from any
+       other Person, including its Members and Affiliates, and conduct its business
+       in its own name, using its own stationery, invoices, checks and accounts;
+   (e) maintain adequate capitalization in light of its contemplated business
+       operations, transactions and liabilities;
+   (f) pay its own liabilities from its own assets and not pay or guaranty the
+       liabilities of any Affiliate;
+   (g) observe all limited liability company formalities and maintain an arms’-
+       length relationship with its Affiliates;
+   (h) not guarantee or become obligated for the debts of any other Person;
+   (i) not acquire obligations or securities of its Members or Affiliates, and not
+       pledge its assets for the benefit of any other Person except as contemplated
+       by the Loan Documents;
+   (j) not incur any additional indebtedness, whether secured or unsecured,
+       without Lender’s prior written consent, in accordance with Section 7.1;
+   (k) not dissolve, liquidate, merge, consolidate or wind up its affairs, and not file
+       or consent to any petition under the United States Bankruptcy Code or any
+
+                                         Page 23 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+      other insolvency proceeding, without the affirmative vote of the Independent
+      Manager and Lender’s prior written consent; and
+   (l) not amend, modify or waive any single-purpose entity provision of its
+       organizational documents without Lender’s prior written consent in each
+       instance.
+
+6.13 Management of the Property. Manage the Property in a commercially
+reasonable manner consistent with the standards described in Section 6.4, and not
+enter into, or permit any amendment to or termination of, any management
+agreement, leasing agreement or similar agreement affecting the Property without
+Lender’s prior written consent. Any management agreement entered into with
+Lender’s consent shall provide that Lender may terminate the agreement, without
+penalty or fee, upon Lender’s succession to or acquisition of the Property by
+foreclosure, deed in lieu or otherwise.
+
+6.14 Contracts, Warranties and Claims. Perform all of Borrower’s obligations
+under the GC Contract, architect’s agreements, maintenance contracts, equipment
+warranties and other contracts relating to the Property; enforce all warranties,
+guaranties and indemnities for the benefit of Lender; and not terminate, amend or
+waive any material right thereunder without Lender’s prior written consent.
+
+6.15 Defense of the Collateral; Lender’s Right to Cure. Defend the Collateral
+against all claims and demands of all Persons, and appear in and defend any action
+or proceeding that may affect the Collateral, Lender’s interest therein or the lien
+or priority of this Mortgage. If Borrower fails to perform any covenant or fails to
+pay any Imposition, insurance premium, mechanic’s claim or other charge
+affecting the Collateral, or fails to comply with the LUR or any Environmental Law,
+Lender may (but shall not be obligated to), after five (5) Business Days’ prior
+written notice to Borrower (or immediately if Lender reasonably determines that
+an emergency exists or that the Collateral or Lender’s interest therein is at risk),
+pay, perform or cure the same, and all amounts so expended, together with
+interest at the Default Rate from the date of expenditure and all costs and
+expenses (including reasonable attorneys’ fees), shall be Secured Obligations
+payable on demand and secured by this Mortgage.
+
+6.16 Notices. Promptly, and in any event within five (5) Business Days, notify
+Lender in writing of (a) any Event of Default or any event that with notice or lapse
+of time, or both, would constitute an Event of Default; (b) any litigation,
+arbitration, governmental proceeding, citation, violation or order affecting
+Borrower, Guarantor or the Property that involves a claim in excess of $100,000 or
+that could materially and adversely affect the Property or the Collateral; (c) any
+fire or other casualty, condemnation or threatened condemnation affecting the
+Property; (d) any actual or threatened release of Hazardous Materials at the
+Property, any violation of the LUR, any inspection, investigation, notice of
+violation, order or correspondence from SCDHEC or any other environmental
+authority relating to the Property, and any breach, modification or termination of
+the LUR; (e) any material change in the ownership or management of Borrower or
+Guarantor; and (f) any default under the GC Contract or cessation of the
+Renovation for more than ten (10) consecutive days.
+
+
+                                         Page 24 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+6.17 Completion of the Renovation. Complete the Renovation in accordance
+with the Plans, the Renovation Budget and Article 8, on or before the Substantial
+Completion Deadline, and obtain a certificate of occupancy (or equivalent) from
+the City of Charleston for the renovated portions of the Property.
+
+6.18 Maintenance of Perfection. Take all action necessary to maintain the
+perfection, priority and enforceability of Lender’s lien on and security interest in
+the Collateral and Lender’s interest in the Leases and Rents, including the filing of
+continuation statements and the recording of any supplemental instruments.
+
+6.19 Lender’s Expenses. Reimburse Lender, on demand, for all reasonable out-
+of-pocket costs and expenses incurred by Lender in connection with the
+administration, monitoring, enforcement and protection of the Loan and the
+Collateral, including legal fees, construction inspection fees, appraisal and
+environmental review fees, and the cost of any protective advance, together with
+interest at the Default Rate if not reimbursed within ten (10) days after demand, all
+of which shall be Secured Obligations.
+
+
+ARTICLE 7 — NEGATIVE COVENANTS; SINGLE-PURPOSE ENTITY
+From and after the Closing Date and until the Secured Obligations are paid and
+performed in full, Borrower shall not, without Lender’s prior written consent:
+
+7.1 Indebtedness. Incur, create, assume, guarantee or permit to exist any
+indebtedness, whether secured or unsecured, direct or contingent, including any
+mezzanine loan, preferred equity investment or other financing arrangement, other
+than the Secured Obligations and trade payables incurred in the ordinary course of
+business and not more than ninety (90) days past due.
+
+7.2 Liens. Create, incur, assume or permit to exist any mortgage, deed of trust,
+lien, pledge, security interest, charge, encumbrance, judgment lien, mechanics’ or
+materialmen’s lien, tax lien, or other lien or encumbrance on the Property or any
+other Collateral, or any portion thereof or interest therein, whether senior, pari
+passu or subordinate to this Mortgage, other than the lien of this Mortgage and the
+Permitted Exceptions.
+
+7.3 Transfer Restrictions.
+
+   (a) Sell, convey, transfer, assign, mortgage, pledge, hypothecate, encumber or
+       otherwise dispose of the Property or any portion thereof or interest therein,
+       whether voluntarily or involuntarily, by operation of law or otherwise,
+       including any easement, leasehold interest, license, right-of-way grant,
+       dedication, subdivision, condominium conversion or air rights transfer,
+       except Leases entered into in compliance with Section 6.7.
+   (b) Permit any transfer, sale, assignment, pledge, hypothecation or other
+       disposition of any ownership or economic interest in Borrower or any
+       interest therein exceeding ten percent (10%) individually or twenty-five
+       percent (25%) in the aggregate, other than transfers among the existing
+       Members of Borrower (Graydon Development Group LLC, Tidewater
+
+
+                                         Page 25 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+      Opportunity Fund II LP and Harborline Capital Advisors LLC) that are
+      permitted under and consummated in accordance with the Operating
+      Agreement and as to which Borrower has given Lender at least fifteen (15)
+      days’ prior written notice and such transferee has confirmed in writing that
+      it is bound by the single-purpose entity provisions of Section 6.12.
+   (c) Permit any change in the Control of Borrower, Graydon Development Group
+       LLC, Guarantor, or any other Person that Controls Borrower, whether by
+       transfer of direct or indirect ownership interests, merger, consolidation,
+       conversion, reorganization, sale of all or substantially all of the assets of any
+       such Person, or the replacement, resignation or removal of the Independent
+       Manager, whether or not such transaction constitutes a transfer of a
+       membership interest in Borrower under the Operating Agreement. Borrower
+       acknowledges that the Operating Agreement does not currently restrict
+       indirect or upstream changes in the ownership, control or management of
+       Borrower’s Members and that this Section 7.3(c) is intended to capture such
+       changes.
+   (d) Permit any transfer of any interest in the Property or in Borrower while an
+       Event of Default exists, or in connection with any transaction intended to
+       avoid the restrictions of this Section 7.3.
+
+Any transfer in violation of this Section 7.3 shall be void ab initio at Lender’s
+election, shall constitute an immediate Event of Default without notice or
+opportunity to cure in accordance with Section 14.1(g), and shall entitle Lender to
+exercise all remedies available under Article 14 and under applicable law.
+
+7.4 Change in Use; Prohibition on Residential Conversion. Change the use of
+the Property, or any portion thereof, from mixed-use retail and office use
+consistent with the GB (General Business) zoning classification, or use or permit
+the use of the ground floor of Lot 7 (Tax Map No. 460-12-04-007, comprising Bay 1
+at 520 King Street) for any residential purpose, dwelling, overnight occupancy or
+purpose that would violate the LUR, or take any action that would constitute a
+modification, termination or violation of the LUR.
+
+7.5 Alterations and Demolition. Demolish, raze, materially alter, remove or add
+to any improvement on the Property, or remove any fixture, building system,
+equipment or personal property forming part of the Collateral (except replacement
+with property of substantially equal or better quality), except for (a) the
+Renovation in accordance with Article 8, (b) tenant improvements required under
+Leases approved by Lender or entered into in compliance with Section 6.7, and (c)
+ordinary repair and maintenance in accordance with Section 6.4.
+
+7.6 Amendments to Organizational Documents; Single-Purpose Entity
+Provisions.
+
+   (a) Amend, modify, restate, waive, repeal or suspend any provision of
+       Borrower’s organizational documents, including the Operating Agreement,
+       without Lender’s prior written consent in each instance; provided that
+       Borrower may, without Lender’s consent, make amendments that do not
+       adversely affect Lender or the Collateral and that do not affect any single-
+
+                                         Page 26 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+      purpose entity, separateness, independent manager, bankruptcy-remote or
+      transfer restriction provision.
+   (b) Operate or permit its organizational documents to be operated in a manner
+       inconsistent with any single-purpose entity provision. “Operating
+       Agreement Amendment” means the amendment to the Operating
+       Agreement, in form and substance reasonably satisfactory to Lender,
+       executed by all three Members of Borrower (including Tidewater
+       Opportunity Fund II LP, acting through its general partner Tidewater GP
+       Holdings LLC, and Harborline Capital Advisors LLC), effective not later than
+       the Closing Date, which adds and implements (i) the requirement of an
+       Independent Manager whose affirmative vote is required before Borrower
+       may institute or consent to any bankruptcy or insolvency proceeding,
+       dissolve, liquidate, merge, consolidate or wind up its affairs, (ii) the
+       separateness covenants described in Section 6.12, (iii) a single-purpose
+       purpose clause restricting Borrower’s business to the ownership, operation,
+       renovation, leasing, management and financing of the Property and
+       activities incidental thereto, (iv) a requirement that any amendment or
+       modification of the foregoing provisions require unanimity of the Members
+       and Lender’s written consent, and (v) such other provisions as Lender may
+       reasonably require to confirm that the restrictions in this Mortgage are
+       binding on all Members. Borrower acknowledges that, as of the date of the
+       Term Sheet, the Operating Agreement did not contain such provisions, and
+       Borrower shall not make any representation inconsistent with this
+       acknowledgment.
+   (c) Cause or permit Borrower to (i) have any assets other than those related to
+       the Property, (ii) have any indebtedness other than as permitted by Section
+       7.1, (iii) be named as a direct or contingent beneficiary or loss payee on any
+       insurance policy of any Affiliate, or (iv) identify Borrower as a division or
+       part of any other Person.
+
+7.7 Amendments and Terminations of Leases. Amend, modify, extend, renew,
+terminate, accept the surrender of, or waive any material right under any Lease, or
+consent to any assignment or sublease under any Lease, except that Borrower
+may, without Lender’s consent, (a) take any such action with respect to a Lease if
+the action is required by the terms of the Lease or by applicable law, and (b) take
+any such action that does not reduce rent, shorten the term, increase landlord
+obligations or decrease tenant obligations, in each case subject to the restrictions
+in Section 6.7. Lender’s prior written consent shall be required for (i) any new
+Lease or amendment for premises in excess of five thousand (5,000) square feet,
+(ii) any new Lease or renewal for a term in excess of five (5) years (including any
+renewal or extension options), (iii) any Lease containing a right of first refusal,
+right of first offer, option to purchase, exclusivity, co-tenancy, termination or kick-
+out right, and (iv) any termination, surrender or cancellation of a Lease prior to its
+stated expiration. Lender’s consent shall not be unreasonably withheld,
+conditioned or delayed. Borrower shall deliver to Lender copies of all executed
+leases and lease amendments within ten (10) business days after execution, in
+accordance with Section 12.3(e).
+
+
+                                          Page 27 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+7.8 Easements, Dedications, Subdivision and Restrictions. Grant any
+easement, license, right-of-way or encroachment agreement, dedicate any portion
+of the Property to any public or private use, subdivide the Property, record any
+declaration, covenant, condition or restriction affecting the Property, impose any
+restrictive covenant, or enter into any agreement with any adjoining owner,
+without Lender’s prior written consent, which shall not be unreasonably withheld
+with respect to grants that do not materially impair the value, use, access or
+marketability of the Property; provided that Borrower shall not permit any action
+described in this Section 7.8 that could reasonably be expected to impair the
+priority of this Mortgage or the Collateral. Any such instrument to which Lender
+consents shall recite that it is subject and subordinate to this Mortgage.
+
+7.9 Hazardous Materials. Cause or permit any Hazardous Materials to be
+brought upon, treated, kept, stored, disposed of, released or transported to, from
+or at the Property, or any activity that would violate any Environmental Law or the
+LUR, except for de minimis quantities of customary office, cleaning, maintenance
+and (in the case of the specialty grocery tenant) food-service supplies that are
+used, stored and disposed of in compliance with applicable Environmental Laws
+and the Leases; provided that no activity shall be permitted that would reasonably
+be expected to result in the reopening of SCDHEC Site ID SC-29403-0772, the
+impairment of the No Further Action status of the Property, or the imposition of
+any institutional control in addition to the LUR.
+
+7.10 Affiliate Transactions. Enter into any transaction or agreement with any
+Affiliate of Borrower, Guarantor or any Member of Borrower, including any
+management, leasing, development or asset management agreement, except on
+arms’-length terms, disclosed in writing to Lender, and approved in writing by
+Lender.
+
+7.11 Distributions; Payments to Members. Make any distribution, dividend,
+return of capital, loan repayment or other payment to any Member or Affiliate, or
+redeem or repurchase any membership interest, (a) during the continuance of an
+Event of Default, or (b) if, after giving effect to such payment, Borrower would fail
+to maintain the net worth or liquidity required by Section 12.2.
+
+
+ARTICLE 8 — RENOVATION AND CONSTRUCTION
+8.1 The Renovation Holdback. Lender shall hold the Renovation Holdback and
+shall disburse the same to Borrower from time to time in accordance with this
+Article 8 for the purpose of paying Renovation Costs (as defined in Section 8.2).
+Lender shall have no obligation to disburse any portion of the Renovation
+Holdback unless and until each applicable condition in Section 8.5 has been
+satisfied. The Renovation Holdback is a portion of the Loan and bears interest from
+the Closing Date regardless of whether it has been disbursed, in accordance with
+the Note.
+
+8.2 Renovation Budget; Renovation Costs; Reallocations. “Renovation
+Costs” means all hard and soft costs of completing the Renovation in accordance
+with the Plans, the GC Contract and the Renovation Budget, including the cost of
+
+
+                                         Page 28 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+construction, labor, materials, tenant improvement allowances, architects’,
+engineers’ and consultants’ fees, permit and inspection fees, construction
+management fees, builder’s risk and other insurance attributable to the
+Renovation, and the contingency set forth in the Renovation Budget. Borrower
+shall cause the Renovation to be completed in accordance with the Renovation
+Budget attached as Exhibit D. Borrower may reallocate amounts among line items
+of the Renovation Budget without Lender’s consent, provided that (a) no
+reallocation increases the total Renovation Budget, (b) no reallocation increases
+the amount allocated to any line item by more than ten percent (10%) of such line
+item, (c) no reallocation decreases the contingent or soft-cost line items below the
+amounts shown on Exhibit D, and (d) Borrower delivers to Lender written notice
+of the reallocation within ten (10) business days. Any reallocation not satisfying the
+foregoing shall require Lender’s prior written consent.
+
+8.3 Borrower Equity; Cost Overruns. Borrower shall fund, from its own funds
+and not from Loan proceeds, the portion of the Renovation Costs not funded by the
+Renovation Holdback, being not less than Nine Hundred Thousand and No/100
+Dollars ($900,000) (the “Renovation Equity”), together with all costs of the
+Renovation in excess of the Renovation Budget and all costs of completing the
+Renovation not funded by the Renovation Holdback. Borrower shall not be entitled
+to any reimbursement of the Renovation Equity from Loan proceeds. If at any time
+Lender reasonably determines that the undisbursed portion of the Renovation
+Holdback is insufficient to pay the remaining Renovation Costs, Borrower shall,
+within fifteen (15) days after Lender’s written demand, deposit with Lender an
+amount equal to the deficiency, which amount shall be disbursed by Lender in
+accordance with this Article 8. Borrower shall fund its share of Renovation Costs
+such that at no time shall the aggregate amount disbursed from the Renovation
+Holdback exceed seventy-one and forty-three hundredths percent (71.43%) of the
+aggregate Renovation Costs incurred and certified to Lender as of such date (being
+the ratio of the Renovation Holdback, $2,250,000, to the Renovation Budget,
+$3,150,000).
+
+8.4 Draw Request Procedure.
+
+   (a) Borrower may request a disbursement from the Renovation Holdback no
+       more frequently than once per calendar month, by delivering to Lender a
+       written draw request not less than ten (10) Business Days prior to the
+       requested disbursement date.
+   (b) Each draw request shall be substantially in the form attached as Exhibit E,
+       shall be signed by Borrower and certified by Borrower’s architect of record,
+       and shall include: (i) an AIA G702/G703 Application and Certificate for
+       Payment detailing the work completed, the amounts previously paid, the
+       amount currently requested and the percentage of completion; (ii) a
+       schedule of the line items of the Renovation Budget to which the requested
+       disbursement is to be applied and the remaining balance of each such line
+       item; (iii) conditional lien waivers for the current draw and unconditional
+       lien waivers for all prior draws from the General Contractor and each
+       subcontractor performing work in an amount exceeding Twenty-Five
+
+
+                                         Page 29 of 65
+          Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+     Thousand and No/100 Dollars ($25,000.00); (iv) a title date-down
+     endorsement from the title insurer confirming that no intervening
+     mechanics’, materialmen’s or other liens or encumbrances have been
+     recorded against the Property since the date of this Mortgage or the most
+     recent date-down endorsement, as applicable; (v) evidence of Lender’s
+     satisfactory inspection of the work in progress in accordance with Section
+     8.9; (vi) invoices or other evidence of the costs for which reimbursement is
+     requested, to the extent reasonably requested by Lender; (vii) a certification
+     that Borrower has funded its portion of Renovation Costs in accordance with
+     Section 8.3; and (viii) such other information as Lender may reasonably
+     request.
+  (c) Lender shall, within ten (10) Business Days after receipt of a complete and
+      conforming draw request and satisfaction of the conditions in Section 8.5,
+      disburse the requested amount, less the retainage required by Section 8.6,
+      directly to Borrower or, at Lender’s election, to the General Contractor,
+      subcontractors, materialmen or other Persons entitled to payment, by joint
+      check or otherwise.
+
+8.5 Conditions to Each Disbursement. Lender’s obligation to disburse any
+portion of the Renovation Holdback is subject to satisfaction of each of the
+following conditions, each in form and substance satisfactory to Lender:
+
+  (a) no Event of Default or event that with notice or lapse of time, or both, would
+      constitute an Event of Default shall have occurred and be continuing;
+  (b) all representations and warranties in Article 5 shall be true and correct in all
+      material respects;
+  (c) the Renovation shall be proceeding in accordance with the Plans and the
+      Renovation Budget, and there shall exist no material defect, deficiency or
+      departure from the Plans;
+  (d) each condition set forth in Section 8.4 shall have been satisfied and all
+      documents required thereunder shall have been delivered to Lender;
+  (e) Borrower shall have funded the Renovation Equity in accordance with
+      Section 8.3;
+  (f) no mechanics’ or materialmen’s lien shall have been filed against the
+      Property and remain undischarged or unbonded, and the title insurer shall
+      have issued the date-down endorsement required by Section 8.4(b)(iv);
+  (g) all building permits, Board of Architectural Review approvals (to the extent
+      required for the work in question) and other governmental approvals
+      required for the work shall have been obtained;
+  (h) if the work in question involves any penetration of, alteration to, or work
+      within ten (10) feet of the ground-floor slab of Bay 1 on Lot 7, Borrower shall
+      have delivered to Lender (i) evidence of written notice to SCDHEC as
+      required by the LUR, (ii) a vapor barrier protection and restoration plan
+      prepared by a licensed environmental professional reasonably acceptable to
+      Lender, and (iii) a certification from such professional that the vapor barrier
+
+
+                                        Page 30 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+      has been inspected and, following the work, restored in accordance with the
+      LUR; and
+   (i) Lender shall have received evidence that the undisbursed Renovation
+       Holdback, together with Borrower’s remaining unfunded Renovation Equity
+       commitment, is sufficient to complete the Renovation in accordance with the
+       Renovation Budget.
+
+8.6 Retainage. Lender shall retain ten percent (10%) of each disbursement from
+the Renovation Holdback (the “Retainage”) until Substantial Completion has been
+achieved in accordance with Section 8.11. Retainage shall be released in
+accordance with Section 8.15.
+
+8.7 Plans and Specifications; Permits; Board of Architectural Review. The
+Renovation shall be performed in accordance with the Plans approved by Lender.
+Borrower shall not amend, modify or supplement the Plans in any manner that
+constitutes a Major Change (as defined in Section 8.8) without Lender’s prior
+written consent. Borrower shall obtain and maintain in full force and effect all
+permits, licenses and approvals necessary for the Renovation, including any
+approval of the City of Charleston Board of Architectural Review applicable to the
+façade restoration and to the decorative iron balcony described in Section 5.14,
+and shall deliver copies thereof to Lender upon request.
+
+8.8 GC Contract; Change Orders. Borrower has delivered to Lender a complete
+copy of the GC Contract, including all schedules, exhibits and amendments.
+Borrower shall not amend, modify, supplement, terminate or accept the
+assignment of the GC Contract, and shall not approve or enter into any change
+order, amendment or supplemental agreement under the GC Contract, without
+Lender’s prior written consent if such action (a) increases the contract sum of the
+GC Contract or the Renovation Budget, (b) reduces the scope of the Renovation, (c)
+affects the structural, mechanical, electrical, plumbing, fire protection, elevator or
+façade systems, (d) affects the ground-floor slab of Bay 1 on Lot 7 or the vapor
+barrier beneath such slab, or (e) would reasonably be expected to delay
+Substantial Completion beyond the Substantial Completion Deadline (each, a
+“Major Change”). Borrower hereby assigns to Lender, as part of the Collateral, all
+of Borrower’s right, title and interest in, to and under the GC Contract and the
+Plans, and shall cause the General Contractor and Borrower’s architect to execute
+and deliver to Lender a consent to such assignment and collateral assignment in
+form reasonably satisfactory to Lender.
+
+8.9 Inspections. Lender, and any third-party inspector retained by Lender (at
+Borrower’s expense), may inspect the Property and the work in progress at any
+reasonable time upon reasonable prior notice, and Borrower shall provide access
+and such information as Lender or its inspector may request. Borrower shall cause
+the work to be corrected promptly if any inspection discloses defective work or a
+departure from the Plans. Borrower acknowledges that no inspection by Lender
+shall constitute a waiver of any default, an approval of any work, or an assumption
+of responsibility for the adequacy, legality or quality of the Renovation, and that
+Lender has no duty to inspect.
+
+
+
+                                         Page 31 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+8.10 Mechanic’s Liens; Lien Waivers; Title Date-Downs. Borrower shall pay
+when due all costs of the Renovation and shall keep the Property free from
+mechanics’, materialmen’s and other liens. If any such lien is filed, Borrower shall,
+within thirty (30) days after notice thereof, cause the lien to be discharged of
+record or bonded over in a manner reasonably satisfactory to Lender and the title
+insurer. Borrower shall obtain unconditional lien waivers from the General
+Contractor and all subcontractors as a condition to each disbursement, and shall
+obtain a final title date-down endorsement and final lien waivers as a condition to
+the release of Retainage. Borrower shall not permit any stop notice, notice of
+nonpayment or similar claim to remain undischarged in a manner that could impair
+the Property or Lender’s lien.
+
+8.11 Substantial Completion; Substantial Completion Deadline. Borrower
+shall achieve Substantial Completion of the Renovation on or before June 15, 2026,
+time being of the essence. Borrower shall notify Lender in writing not less than
+fifteen (15) days prior to the anticipated date of Substantial Completion, and shall
+deliver to Lender (a) a certificate of Substantial Completion from Borrower’s
+architect, (b) a copy of the certificate of occupancy (or equivalent) issued by the
+City of Charleston for the renovated portions of the Property, (c) a certification
+that the Renovation has been completed in accordance with the Plans and within
+the Renovation Budget, and (d) evidence that all costs of the Renovation have been
+paid or will be paid from the final disbursement. Failure to achieve Substantial
+Completion on or before the Substantial Completion Deadline shall constitute an
+Event of Default in accordance with Section 14.1(h) and shall entitle Lender to
+exercise its rights under the Completion Guaranty.
+
+8.12 Failure to Complete; Deemed Completion. If Borrower fails to achieve
+Substantial Completion by the Substantial Completion Deadline, then, in addition
+to Lender’s other remedies, Lender may (but shall not be obligated to) assume
+responsibility for completing the Renovation, and all amounts expended by Lender
+in doing so, together with interest at the Default Rate, shall be Secured
+Obligations. Lender’s exercise of any right under this Section 8.12 shall not release
+Borrower or Guarantor from any obligation under the Loan Documents or the
+Completion Guaranty.
+
+8.13 Coordination with the LUR and Vapor Barrier. Borrower shall cause the
+General Contractor, all subcontractors, Borrower’s architect and all other Persons
+performing work at the Property to be informed in writing of the existence and
+location of the vapor barrier beneath the ground-floor slab of Bay 1 on Lot 7, of the
+restrictions imposed by the LUR, and of the requirements of Section 11.3, prior to
+the commencement of any work at the Property. Borrower shall not permit any
+penetration, removal, alteration or compromise of the vapor barrier, and shall not
+permit any work affecting the Bay 1 slab, without (a) prior written notice to
+SCDHEC in accordance with the LUR, (b) Lender’s prior written consent, and (c)
+supervision and post-work inspection and certification by a licensed environmental
+professional reasonably acceptable to Lender, all at Borrower’s expense.
+
+8.14 No Obligation to Complete; No Lender Liability. Lender shall have no
+obligation to complete the Renovation, to advance any amount in excess of the
+
+
+                                         Page 32 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+Renovation Holdback, or to pay any cost of the Renovation in excess of the
+amounts available in the Renovation Holdback and Borrower’s Renovation Equity.
+Lender’s approval of the Plans, the Renovation Budget, the GC Contract or any
+draw request, and any inspection by Lender or its consultant, shall not constitute a
+representation or warranty by Lender as to the adequacy, sufficiency, quality,
+legality or feasibility of the Renovation or the Plans, and Lender shall have no
+liability to Borrower or any other Person with respect thereto. Borrower
+acknowledges that Borrower, and not Lender, is the owner of the Property and the
+party responsible for the Renovation.
+
+8.15 Retainage Release; Final Disbursement. Upon Lender’s receipt of
+satisfactory evidence of Substantial Completion, final unconditional lien waivers
+from the General Contractor and all subcontractors and materialmen, a final title
+date-down endorsement, the certificate of occupancy, and confirmation that the
+vapor barrier and all LUR requirements have been satisfied, Lender shall release
+the Retainage and make the final disbursement from the Renovation Holdback.
+Lender may withhold the Retainage or any portion thereof until completion of all
+punch list items reasonably acceptable to Lender.
+
+8.16 Completion Guaranty. The obligations of Borrower under this Article 8 are
+guaranteed by Guarantor pursuant to the Completion Guaranty, which guarantees
+completion of the Renovation within the Renovation Budget and on or before the
+Substantial Completion Deadline. Borrower’s failure to achieve Substantial
+Completion by the Substantial Completion Deadline shall constitute a failure under
+the Completion Guaranty and an Event of Default under this Mortgage.
+
+8.17 No Waiver. Acceptance by Borrower of any disbursement, or Lender’s
+approval of any draw request, inspection report or plan, shall not constitute a
+waiver of any condition, covenant or Event of Default, or an approval of any work
+not conforming to the Plans.
+
+
+ARTICLE 9 — INSURANCE
+9.1 Property Insurance. Borrower shall maintain at all times during the term of
+the Loan, at its sole expense, comprehensive all-risk (special form) property
+insurance covering the Property and all improvements, fixtures and betterments
+thereon, on a replacement cost basis without deduction for depreciation, with an
+agreed amount endorsement (waiver of coinsurance) and, if the Property is in a
+special flood hazard area, flood coverage as required by Section 9.3. Such
+insurance shall include coverage for fire, lightning, windstorm, hail, explosion, riot
+and civil commotion, vandalism, malicious mischief, sprinkler leakage, water
+damage, and such other perils as Lender may reasonably require, and shall include
+ordinance or law coverage, debris removal, and business income/rental value
+coverage in an amount not less than twelve (12) months of gross rents and
+operating expenses.
+
+9.2 Commercial General Liability. Borrower shall maintain commercial general
+liability insurance written on an occurrence basis, with minimum limits of Two
+Million and No/100 Dollars ($2,000,000.00) per occurrence and Five Million and
+
+
+                                         Page 33 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+No/100 Dollars ($5,000,000.00) in the aggregate, including coverage for premises
+liability, operations liability, products and completed operations, personal and
+advertising injury, and contractual liability (including the liability assumed under
+this Mortgage), naming Lender as an additional insured. Borrower shall also
+maintain automobile liability and employers’ liability insurance in amounts
+reasonably satisfactory to Lender.
+
+9.3 Flood Insurance. Borrower shall maintain flood insurance with respect to the
+improvements on the Property in an amount not less than Five Million and No/100
+Dollars ($5,000,000.00), naming Lender as mortgagee and loss payee. Borrower
+acknowledges that the Property is located in FEMA Flood Zone X (an area of
+minimal flood hazard), that flood insurance is not required by federal regulation for
+properties in Zone X, and that Lender nevertheless requires such flood insurance
+as a condition of the Loan. Borrower shall deliver to Lender evidence of the flood
+zone determination and shall comply with all applicable requirements of the Flood
+Disaster Protection Act of 1973, as amended, and the regulations thereunder.
+
+9.4 Builder’s Risk Insurance. During the period from the Closing Date through
+Substantial Completion, Borrower shall maintain builder’s risk insurance written
+on a completed value, all-risk basis in an amount not less than Three Million One
+Hundred Fifty Thousand and No/100 Dollars ($3,150,000.00), covering the
+Property and the Renovation against all risks of physical loss or damage during the
+course of construction, including coverage for materials in transit and stored off-
+site, and naming Lender as mortgagee and loss payee. Such coverage may be
+provided as part of the General Contractor’s policy, provided that Lender’s
+interests are protected by an appropriate endorsement and Lender approves the
+form.
+
+9.5 Other Insurance. Borrower shall maintain (a) workers’ compensation
+insurance in the amounts required by the laws of the State of South Carolina,
+covering all of Borrower’s employees and, to the extent not covered by the General
+Contractor’s or a subcontractor’s policy, all persons engaged in the Renovation; (b)
+umbrella/excess liability insurance with limits of not less than Five Million and
+No/100 Dollars ($5,000,000.00) per occurrence and in the aggregate, providing
+excess coverage over commercial general liability, automobile liability and
+employers’ liability; and (c) such other insurance, in such amounts and covering
+such risks, as Lender may reasonably require from time to time.
+
+9.6 Carrier Ratings; Policy Terms. All insurance required under this Article 9
+shall be issued by insurers licensed or authorized to do business in the State of
+South Carolina, having an A.M. Best rating of not less than A-:VII, and shall be
+written on forms reasonably acceptable to Lender. Each policy shall provide that it
+may not be canceled, non-renewed or materially modified without not less than
+thirty (30) days’ prior written notice to Lender (ten (10) days’ notice for
+nonpayment of premium), and shall contain a waiver of subrogation against Lender
+to the extent available and a mortgagee/loss payee clause in favor of Lender (or,
+for liability policies, an additional insured endorsement) on forms acceptable to
+Lender.
+
+
+
+                                         Page 34 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+9.7 Evidence of Insurance. Borrower shall deliver to Lender, at or prior to the
+Closing Date and thereafter at least ten (10) days prior to each policy renewal,
+certificates of insurance and, upon Lender’s request, copies of policies and
+endorsements, naming Lender as mortgagee, loss payee and/or additional insured
+as applicable. If Lender does not receive evidence of renewal coverage at least ten
+(10) days prior to expiration, Lender may, but shall not be obligated to, procure
+such coverage and the cost thereof shall be a Secured Obligation.
+
+9.8 Application of Proceeds. All insurance proceeds shall be held and applied in
+accordance with Article 15 and Section 14.7. Borrower shall not settle or
+compromise any claim under any policy in excess of Two Hundred Fifty Thousand
+and No/100 Dollars ($250,000.00) without Lender’s prior written consent. Lender
+shall be entitled to participate in any adjustment of any material claim.
+
+9.9 Lender’s Right to Insure. If Borrower fails to obtain or maintain any
+insurance required by this Article 9, Lender may (but shall not be obligated to)
+obtain such insurance and pay the premiums therefor, and the amount so paid,
+together with interest at the Default Rate, shall be a Secured Obligation payable
+on demand and secured by this Mortgage.
+
+9.10 No Representation as to Adequacy. Lender’s approval of any insurance
+policy, carrier or limit shall not constitute a representation that such insurance is
+adequate to protect Borrower’s or Lender’s interests, and Lender shall have no
+liability for the adequacy or sufficiency of any coverage.
+
+
+ARTICLE 10 — RESERVES AND ESCROWS
+10.1 Tax and Insurance Escrow. Borrower shall make monthly deposits with
+Lender, on each Payment Date, in an amount equal to one-twelfth (1/12) of the
+estimated annual Impositions and casualty and liability insurance premiums for the
+Property (for all three tax parcels described on Exhibit A), as reasonably
+determined by Lender, and shall deposit with Lender at the Closing Date any
+positive escrow balance or amount reasonably required by Lender to establish the
+escrow (the “Tax and Insurance Escrow”). Lender shall apply the Tax and
+Insurance Escrow toward the payment of Impositions and insurance premiums as
+they become due and payable. Lender may adjust the monthly escrow amount
+periodically to reflect actual or anticipated tax assessments and insurance
+premiums and shall give Borrower notice of any such adjustment; Borrower shall
+pay the adjusted amount commencing with the first Payment Date occurring after
+such notice. If the amount on deposit is insufficient to pay any Imposition or
+premium when due, Borrower shall pay the deficiency to Lender within fifteen (15)
+days after demand. Lender shall have no obligation to ascertain whether any
+Imposition has been paid, and shall have no liability for any penalty or interest
+arising out of the payment obligations of Borrower.
+
+10.2 Capital Replacement Reserve. Borrower shall deposit with Lender, on each
+Payment Date, the amount of Six Hundred Forty-Five and 83/100 Dollars
+($645.83), being Twenty-Five Cents ($0.25) per square foot per year multiplied by
+31,000 square feet of gross building area, divided by twelve (12) months (the
+
+
+                                         Page 35 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+“Capital Replacement Reserve”). Funds in the Capital Replacement Reserve
+shall be disbursed to Borrower upon Lender’s approval of qualifying capital
+expenditures, which approval shall not be unreasonably withheld, conditioned or
+delayed and shall be subject to Lender’s reasonable review and approval
+procedures, including receipt of invoices, paid receipts and lien waivers for the
+completed work.
+
+10.3 Tenant Improvement and Leasing Commission Reserve. Borrower shall
+deposit with Lender at the Closing Date the sum of One Hundred Fifty Thousand
+and No/100 Dollars ($150,000.00) into a tenant improvement and leasing
+commission reserve account (the “TI/LC Reserve”). Disbursements from the TI/LC
+Reserve shall be subject to Lender’s prior written approval, shall be made upon
+Lender’s receipt of documentation reasonably acceptable to Lender, and shall be
+used exclusively for tenant improvement costs and leasing commissions incurred in
+connection with the leasing of vacant space at the Property. Upon any draw-down
+from the TI/LC Reserve, Borrower shall, within thirty (30) days after Lender’s
+written demand, replenish the TI/LC Reserve to the full amount of One Hundred
+Fifty Thousand and No/100 Dollars ($150,000.00) from Borrower’s own funds.
+
+10.4 Renovation Holdback. The Renovation Holdback shall be held and
+disbursed in accordance with Article 8 and is not subject to this Article 10, except
+that Lender shall account for the Renovation Holdback in the same manner as the
+other reserves and escrows for record-keeping purposes.
+
+10.5 General Reserve Provisions. All reserves and escrows shall be held by
+Lender in accounts maintained by Lender or by a depository institution acceptable
+to Lender, and may be commingled with other funds of Lender (including funds
+held for other borrowers). No interest shall be payable to Borrower on any reserve
+or escrow except as required by applicable law, and any interest actually earned
+shall be credited to the applicable account and applied as provided in this Article
+10. All reserves and escrows shall be Collateral for the Secured Obligations and, at
+Lender’s election upon an Event of Default, may be applied to the Secured
+Obligations in such order as Lender determines. Lender shall have no fiduciary
+obligation to Borrower with respect to any reserve or escrow, and any relationship
+created hereby is that of debtor and creditor. Lender may require additional
+reserves as a condition to any consent, waiver or amendment requested by
+Borrower.
+
+10.6 Failure to Deposit. If Borrower fails to make any deposit required by this
+Article 10, Lender may, but shall not be obligated to, fund such deposit and the
+amount so funded shall be a Secured Obligation bearing interest at the Default
+Rate; provided that a failure to make any deposit required by this Article 10 that
+continues for five (5) Business Days after written notice from Lender shall
+constitute an Event of Default.
+
+10.7 Return of Reserves. Upon the payment and performance in full of all
+Secured Obligations and the termination of Lender’s commitment to make
+advances, Lender shall return to Borrower any balance remaining in the reserves
+
+
+
+
+                                         Page 36 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+and escrows, less any amounts applied or required to be applied to the Secured
+Obligations.
+
+10.8 Application to Secured Obligations. At Lender’s election upon the
+occurrence of an Event of Default, Lender may apply any or all amounts held in the
+reserves and escrows to the Secured Obligations, whether or not then due.
+
+
+ARTICLE 11 — ENVIRONMENTAL MATTERS AND THE LAND USE
+RESTRICTION
+11.1 Environmental Covenants. Borrower shall, at its sole cost and expense: (a)
+comply, and cause all tenants, occupants, contractors and agents at the Property
+to comply, with all Environmental Laws and with the LUR; (b) not cause or permit
+any release of Hazardous Materials at, on, under or from the Property that
+requires reporting, investigation, remediation or the imposition of any institutional
+control under any Environmental Law; (c) not permit any Person to conduct any
+activity at the Property that would reasonably be expected to result in the
+reopening of SCDHEC Site ID SC-29403-0772 or the impairment of the No Further
+Action determination dated August 12, 2021; (d) maintain all institutional controls
+required by the LUR in full force and effect and in good working order; and (e)
+promptly deliver to Lender copies of all notices, orders, correspondence and
+reports received from or delivered to SCDHEC or any other environmental
+authority relating to the Property.
+
+11.2 Compliance with the Land Use Restriction. Without limiting Section 11.1,
+Borrower shall (a) comply with, and cause all tenants and occupants of the
+Property to comply with, each covenant, condition and restriction contained in the
+LUR; (b) not use, and not permit any tenant or occupant to use, the ground floor of
+Lot 7 (Tax Map No. 460-12-04-007, comprising Bay 1 at 520 King Street) for
+residential purposes, overnight occupancy or any use prohibited by the LUR; (c)
+maintain, repair and keep in good condition and working order the vapor barrier
+system installed beneath the concrete floor slab of Bay 1 on Lot 7; (d) not
+penetrate, remove, alter, compromise or permit the penetration, removal,
+alteration or compromise of such vapor barrier without prior written approval of
+SCDHEC and Lender’s prior written consent; (e) cause any renovation,
+construction, demolition or alteration activity affecting the floor slab of Bay 1 to
+include inspection and, if necessary, repair or replacement of the vapor barrier,
+with prior written notification to SCDHEC; (f) cause periodic inspections of the
+vapor barrier to be conducted by a licensed environmental professional not less
+frequently than annually during the term of the Loan and at any other time
+required by the LUR or requested by SCDHEC; (g) deliver to Lender, within thirty
+(30) days after the end of each calendar year, an officer’s certificate substantially
+in the form attached as Exhibit F certifying compliance with the LUR and
+attaching the most recent inspection report; (h) not modify, amend, terminate,
+release or seek the modification, amendment, termination or release of the LUR
+without Lender’s prior written consent; and (i) not permit the Property or any
+portion thereof to be used in a manner that would cause SCDHEC to reopen
+SCDHEC Site ID SC-29403-0772.
+
+
+                                         Page 37 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+11.3 Notice Prior to Work Affecting Bay 1. Borrower shall notify Lender and
+SCDHEC in writing not less than fifteen (15) days prior to the commencement of
+any work that will penetrate, disturb or come within ten (10) feet of the ground-
+floor slab of Bay 1 on Lot 7, and shall furnish Lender with the vapor barrier
+protection plan, the identity and qualifications of the environmental professional
+engaged to supervise the work, and the post-work certification described in
+Section 8.5(h).
+
+11.4 Environmental Indemnity; Recourse. Borrower and Guarantor have
+executed and delivered the Environmental Indemnity Agreement, which
+indemnifies Lender against all losses, liabilities, damages, costs and expenses
+(including reasonable attorneys’ fees) arising from or relating to the presence,
+release or threatened release of Hazardous Materials at, on, under or from the
+Property, and from any violation of the LUR or any Environmental Law. The
+obligations under the Environmental Indemnity Agreement are full recourse
+obligations of Borrower and Guarantor, are not limited by Section 16.2 or by the
+value of the Collateral, and shall survive the repayment of the Loan, foreclosure,
+any conveyance in lieu of foreclosure, and the release of this Mortgage.
+
+11.5 Lender’s Right to Cure Environmental Matters. If Borrower fails to
+comply with this Article 11, or if Lender reasonably determines that immediate
+action is necessary to protect human health, the environment or the Collateral,
+Lender may, after such notice to Borrower as is reasonable under the
+circumstances (or without notice in an emergency), take such action as Lender
+deems necessary, including retaining environmental consultants, conducting
+investigations, implementing or maintaining institutional controls, communicating
+with SCDHEC, and performing remediation, and all costs and expenses so
+incurred, together with interest at the Default Rate, shall be Secured Obligations.
+
+11.6 No Reliance; No Representation by Lender. Lender’s acceptance of the
+Phase I ESA and any other environmental report shall not constitute a
+representation, warranty or acknowledgment by Lender as to the environmental
+condition of the Property, and Borrower acknowledges that Borrower has
+conducted its own investigation of the environmental condition of the Property and
+is not relying on Lender with respect thereto.
+
+11.7 Survival. The obligations of Borrower under this Article 11 shall survive the
+repayment of the Loan, foreclosure, any conveyance in lieu of foreclosure and the
+release of this Mortgage, to the extent of any liability arising from conditions
+existing or acts occurring prior to such release.
+
+11.8 Event of Default. Without limiting Section 14.1, the failure of Borrower to
+comply with Section 11.1 or Section 11.2, or the occurrence of any violation,
+modification or termination of the LUR, shall constitute an Event of Default
+(subject only to the cure period provided in Section 14.2(b), where applicable).
+
+
+ARTICLE 12 — FINANCIAL COVENANTS AND REPORTING
+12.1 Minimum Debt Service Coverage Ratio.
+
+
+                                         Page 38 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   (a) Borrower shall maintain a DSCR of not less than 1.25 to 1.00 (the “DSCR
+       Covenant”), tested as of the last day of each calendar quarter, commencing
+       with the calendar quarter ending June 30, 2027 (being the first full calendar
+       quarter ending after the twenty-fourth (24th) month following the Closing
+       Date), and continuing quarterly thereafter. Each test shall be based on Net
+       Operating Income for the trailing twelve (12) month period ending on the
+       last day of the applicable calendar quarter and Annual Debt Service
+       determined as of the last day of such quarter.
+   (b) Borrower shall deliver to Lender, concurrently with each quarterly test, a
+       compliance certificate setting forth in reasonable detail the calculation of
+       Net Operating Income, Annual Debt Service and DSCR, together with
+       supporting operating statements and rent rolls.
+   (c) A failure to maintain the DSCR Covenant as of the end of any two (2)
+       consecutive calendar quarters shall constitute an Event of Default in
+       accordance with Section 14.1(i), subject to Borrower’s right to cure in
+       accordance with Section 12.6.
+   (d) Lender and Borrower acknowledge that the DSCR Covenant is measured
+       against annual debt service calculated on a twenty-five (25) year
+       amortization schedule and that the DSCR Covenant is not measured during
+       the Interest-Only Period.
+
+12.2 Net Worth and Liquidity Covenants.
+
+   (a) Borrower shall maintain at all times during the term of the Loan (i) a net
+       worth of not less than One Million and No/100 Dollars ($1,000,000.00), and
+       (ii) liquid assets (defined as cash, cash equivalents, marketable securities
+       and unencumbered deposits held at federally insured depository institutions)
+       of not less than Five Hundred Thousand and No/100 Dollars ($500,000.00).
+   (b) Guarantor shall maintain at all times during the term of the Loan (i) a net
+       worth of not less than One Million and No/100 Dollars ($1,000,000.00), and
+       (ii) liquid assets of not less than Five Hundred Thousand and No/100 Dollars
+       ($500,000.00).
+   (c) Compliance with this Section 12.2 shall be tested annually, based on the
+       financial statements and certificates delivered pursuant to Section 12.3.
+
+12.3 Financial Reporting. Borrower shall deliver to Lender:
+
+   (a) Annual audited financial statements of Borrower, prepared in accordance
+       with GAAP by an independent certified public accounting firm acceptable to
+       Lender, within one hundred twenty (120) days after the end of Borrower’s
+       fiscal year;
+   (b) An annual personal financial statement of Guarantor, in form and detail
+       reasonably satisfactory to Lender, within one hundred twenty (120) days
+       after the end of each calendar year;
+   (c) Quarterly rent rolls for the Property, certified by Borrower as true, correct
+       and complete, within thirty (30) days after the end of each calendar quarter;
+
+
+                                         Page 39 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   (d) Annual property operating statements for the Property, including a detailed
+       income and expense report and a comparison to the approved budget, within
+       one hundred twenty (120) days after the end of Borrower’s fiscal year;
+   (e) Copies of all Leases, lease amendments, lease guarantees and material lease
+       correspondence executed or received by Borrower with respect to the
+       Property, within ten (10) business days after execution or receipt; and
+   (f) Such other information regarding Borrower, Guarantor or the Property as
+       Lender may reasonably request from time to time.
+
+Borrower acknowledges that the Operating Agreement requires only annual
+financial statements “reviewed” (and not audited) by an independent certified
+public accountant, and that the reporting requirements of this Section 12.3 are
+more extensive than those in the Operating Agreement. Borrower shall cause the
+required audited financial statements to be prepared and delivered
+notwithstanding the Operating Agreement.
+
+12.4 Compliance Certificate. Concurrently with the delivery of the annual
+financial statements and each quarterly rent roll, Borrower shall deliver to Lender
+a certificate of a manager or authorized officer of Borrower certifying that (a) the
+financial statements and rent rolls are true, correct and complete in all material
+respects, (b) no Event of Default exists or, if an Event of Default exists, specifying
+the nature and status thereof, and (c) Borrower is in compliance with Sections 12.1
+and 12.2 (with the supporting calculations).
+
+12.5 Lender’s Audit Rights. Lender and its representatives may audit, examine
+and make copies of Borrower’s books and records relating to the Property and the
+Renovation at any reasonable time upon reasonable prior notice, and may
+communicate directly with Borrower’s accountants and, upon the occurrence of an
+Event of Default, with tenants. Borrower shall pay the reasonable costs of any such
+audit following an Event of Default.
+
+12.6 DSCR Cure. Notwithstanding Section 14.1(i), Borrower may cure a failure to
+maintain the DSCR Covenant by paying to Lender, within thirty (30) days after
+Lender’s written notice of such failure, an amount (the “DSCR Cure Amount”)
+that, when applied to the outstanding principal balance of the Loan, would result in
+a DSCR of not less than 1.25 to 1.00 as of the end of the most recently ended
+calendar quarter, as reasonably determined by Lender and set forth in its notice.
+Any DSCR Cure Amount shall be applied to the outstanding principal balance of
+the Loan, shall not constitute a voluntary prepayment, shall not be subject to any
+prepayment premium, penalty or yield maintenance, and shall not relieve Borrower
+of the obligation to comply with the DSCR Covenant for any subsequent period.
+Borrower may exercise the cure right under this Section 12.6 not more than twice
+during the term of the Loan, and not more than once in any period of four (4)
+consecutive calendar quarters, and no cure shall be available with respect to any
+failure to maintain the DSCR Covenant occurring during the continuance of any
+other Event of Default.
+
+12.7 Guarantor Financial Statements; No Change in Guarantor. Borrower
+shall cause Guarantor to deliver the financial statements and information required
+
+                                         Page 40 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+by Section 12.3(b), and Borrower shall promptly notify Lender of any change in the
+ownership or control of Guarantor or of Graydon Development Group LLC.
+
+
+ARTICLE 13 — PREPAYMENT
+13.1 Lockout Period. The Loan may not be prepaid, in whole or in part, during
+the Lockout Period. No voluntary prepayment of principal shall be permitted
+during the Lockout Period. Any tender of payment in violation of this Section 13.1
+is prohibited, and Lender may refuse to accept such tender. If Lender elects, in its
+sole discretion, to accept any such tender, the Yield Maintenance Premium shall be
+payable as though the prepayment had been made on the first day of the Yield
+Maintenance Period, in addition to all other amounts payable under the Loan
+Documents, and such acceptance shall not constitute a waiver of any Event of
+Default.
+
+13.2 Yield Maintenance Period. From the expiration of the Lockout Period
+through the last day of the Yield Maintenance Period, the Loan may be prepaid in
+whole, but not in part, upon not less than thirty (30) days’ prior written notice to
+Lender, and upon simultaneous payment of a yield maintenance premium (the
+“Yield Maintenance Premium”) equal to the greater of:
+
+   (a) one percent (1.00%) of the outstanding principal balance of the Loan as of
+       the date of prepayment; and
+   (b) the present value, discounted at the Treasury Rate, of the excess, if any, of
+       (i) the interest that would have accrued on the principal amount being
+       prepaid at the interest rate in effect under the Note on the date of
+       prepayment (after giving effect to the SOFR Floor) for the period from the
+       date of prepayment through the last day of the Yield Maintenance Period,
+       over (ii) the interest that would accrue on such principal amount at a rate
+       per annum equal to the Treasury Rate plus fifty (50) basis points (0.50%) for
+       such period.
+
+The present value described in clause (b) shall be calculated using monthly
+discounting, with each month’s interest differential discounted from the last day of
+the applicable month to the date of prepayment, and shall in no event be less than
+zero. If the date of prepayment is not the first day of a month, the interest
+differential for the month in which the prepayment occurs shall be prorated on the
+basis of the actual number of days remaining in such month. The Yield
+Maintenance Premium shall be determined by Lender in good faith, and Lender’s
+written calculation, absent manifest error, shall be conclusive and binding on
+Borrower.
+
+13.3 Open Prepayment Period. During the final twelve (12) months of the term
+of the Loan (being from and after April 15, 2029 through the Maturity Date), the
+Loan may be prepaid in whole or in part, at any time and from time to time,
+without payment of any prepayment premium, penalty or yield maintenance
+amount, upon not less than fifteen (15) days’ prior written notice to Lender.
+
+
+
+
+                                         Page 41 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+13.4 Notice; Conditions. Each notice of prepayment shall be irrevocable and
+shall specify the proposed prepayment date and amount. No prepayment shall be
+effective unless and until (a) all accrued and unpaid interest, all late charges, all
+prepayment premiums or yield maintenance amounts due and all other Secured
+Obligations owing on the prepayment date are paid in full, and (b) Lender has
+received the notice required by this Article 13. Any partial prepayment permitted
+under Section 13.3 shall be applied to the outstanding principal balance in inverse
+order of maturity and shall not reduce or postpone any scheduled payment of
+principal or interest, and the regularly scheduled payments shall continue in effect.
+
+13.5 Involuntary Prepayments. Any prepayment of the Loan resulting from the
+application of insurance proceeds or condemnation awards under Article 15, or
+from Lender’s application of any reserve, escrow or other Collateral, shall be
+applied at par without any prepayment premium, penalty or yield maintenance
+amount.
+
+13.6 Acceleration Following an Event of Default. The acceleration of the
+maturity of the Loan following an Event of Default is not a voluntary prepayment;
+however, the Yield Maintenance Premium that would have been payable under
+Section 13.2 had Borrower prepaid the Loan in full on the date of acceleration
+shall be due and payable as part of the Secured Obligations, together with interest
+at the Default Rate and all other amounts owing under the Loan Documents.
+
+13.7 No Other Prepayments. Except as expressly provided in this Article 13 and
+in Article 15, Borrower shall not prepay the Loan in whole or in part, and no
+prepayment shall be made from the proceeds of any subordinate financing.
+
+
+ARTICLE 14 — EVENTS OF DEFAULT AND REMEDIES
+14.1 Events of Default. Each of the following shall constitute an Event of Default
+under this Mortgage and the other Loan Documents:
+
+   (a) the failure of Borrower to pay any principal, interest, late charge,
+       prepayment premium or any other amount due under the Loan Documents
+       on or before the date when due, subject to the cure period in Section
+       14.2(a);
+   (b) the breach by Borrower of any covenant, agreement or obligation contained
+       in this Mortgage or any other Loan Document, subject to the cure periods in
+       Section 14.2;
+   (c) any representation or warranty made by Borrower or Guarantor in this
+       Mortgage, any other Loan Document, or in any certificate, report or other
+       document furnished in connection with the Loan, proves to have been false,
+       misleading or inaccurate in any material respect when made or deemed
+       made;
+   (d) the filing by or against Borrower or Guarantor of any petition under the
+       United States Bankruptcy Code or any other insolvency, receivership,
+       reorganization, arrangement, liquidation or similar proceeding, or the
+       appointment of a receiver, trustee, custodian, sequestrator or similar official
+
+                                         Page 42 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+      for Borrower, Guarantor or any substantial part of the property or assets of
+      either, or any assignment for the benefit of creditors by Borrower or
+      Guarantor, or any admission by Borrower or Guarantor of its inability to pay
+      its debts generally as they become due, or any action by Borrower or
+      Guarantor to authorize any of the foregoing;
+   (e) a default by Borrower or Guarantor under any other indebtedness for
+       borrowed money in an amount exceeding Two Hundred Fifty Thousand and
+       No/100 Dollars ($250,000.00), individually or in the aggregate, which
+       default is not cured within any applicable cure or grace period;
+   (f) the failure of Borrower to maintain any insurance required by Article 9,
+       subject to the cure period in Section 14.2(d);
+   (g) any violation of the transfer restrictions set forth in Section 7.3;
+   (h) the failure of Borrower to achieve Substantial Completion of the Renovation
+       on or before the Substantial Completion Deadline;
+   (i) the DSCR falling below 1.25 to 1.00 for two (2) consecutive calendar
+       quarters following the commencement of DSCR testing under Section 12.1,
+       without cure in accordance with Section 12.6;
+   (j) any breach of the single-purpose entity or separateness covenants set forth
+       in Section 6.12 or Section 7.6, or any amendment, modification or waiver of
+       any single-purpose entity provision of Borrower’s organizational documents
+       in violation of Section 7.6;
+   (k) a material adverse change in the financial condition, business, assets or
+       operations of Borrower or Guarantor that, in Lender’s reasonable judgment,
+       materially impairs the ability of Borrower to perform its obligations under
+       the Loan Documents or of Guarantor to perform its obligations under the
+       Guaranty;
+   (l) the failure of Borrower to comply with Article 11, or the modification,
+       amendment, termination, release or violation of the LUR, or the receipt by
+       Borrower or Lender of any notice from SCDHEC that SCDHEC Site ID
+       SC-29403-0772 has been or may be reopened, or that the LUR has been or
+       may be violated, modified or terminated;
+   (m)      the occurrence of any default or event of default under any other Loan
+      Document (including the Guaranty, the Completion Guaranty, the Interest
+      Shortfall Guaranty and the Environmental Indemnity Agreement), after the
+      expiration of any applicable cure period thereunder; or
+   (n) the occurrence of any other event or condition that constitutes an Event of
+       Default under any other Loan Document.
+
+14.2 Cure Periods. The following cure periods shall apply to the Events of Default
+described in Section 14.1:
+
+   (a) Payment Defaults. Five (5) Business Days after the date on which payment
+       was due. The accrual of late charges under Section 2.6 and of interest at the
+       Default Rate shall not be affected by the existence of this cure period.
+
+
+                                          Page 43 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   (b) Non-Monetary Defaults. Thirty (30) calendar days after written notice
+       from Lender to Borrower of the default; provided that if the default is of a
+       nature that it cannot reasonably be cured within thirty (30) calendar days
+       and Borrower has commenced and is diligently pursuing the cure, the cure
+       period shall be extended for an additional period not to exceed sixty (60)
+       calendar days (for a total cure period not to exceed ninety (90) calendar
+       days), and provided further that no such extension shall apply if the failure
+       to cure would reasonably be expected to result in the loss, forfeiture or
+       material impairment of the Collateral or of Lender’s lien or priority.
+   (c) Single-Purpose Entity and Transfer Defaults. No cure period. Any
+       breach of Section 6.12, Section 7.3 or Section 7.6 shall constitute an
+       immediate Event of Default without notice or opportunity to cure.
+   (d) Insurance Defaults. Ten (10) days after written notice from Lender to
+       Borrower.
+   (e) Land Use Restriction Defaults. Ten (10) Business Days after written
+       notice from Lender to Borrower, unless (i) SCDHEC has issued a notice of
+       violation, order or directive with respect to the LUR, or (ii) the violation is
+       not capable of being cured, in which case the Event of Default shall be
+       immediate.
+
+14.3 Remedies Upon Default. Upon the occurrence and during the continuance
+of an Event of Default, Lender may, in addition to all other rights and remedies
+available at law or in equity, exercise any one or more of the following remedies,
+cumulatively and without notice or demand (all of which are hereby waived to the
+fullest extent permitted by applicable law):
+
+   (a) declare the entire outstanding principal balance of the Loan, together with
+       all accrued and unpaid interest and all other Secured Obligations,
+       immediately due and payable, whereupon the same shall become
+       immediately due and payable without presentment, demand, protest or
+       further notice of any kind;
+   (b) enforce this Mortgage and foreclose the lien hereof in accordance with
+       Section 14.4;
+   (c) exercise all rights and remedies with respect to the Leases and Rents under
+       Article 4, and apply for the appointment of a receiver under Section 14.5;
+   (d) exercise all rights and remedies of a secured party under the UCC, including
+       the right to take possession of the Collateral, to require Borrower to
+       assemble the Collateral and make it available to Lender at a place
+       designated by Lender, and to sell, lease or otherwise dispose of the
+       Collateral, at public or private sale, with or without notice (Borrower
+       acknowledging that ten (10) days’ notice of any such sale is commercially
+       reasonable);
+   (e) enter upon and take possession of the Property, and manage, operate,
+       maintain, repair, renovate and lease the same, and collect the Rents;
+
+
+
+
+                                         Page 44 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   (f) exercise all rights of Borrower under the GC Contract, the Plans, the Leases,
+       the permits and the warranties, and complete or cause the completion of the
+       Renovation;
+   (g) apply any or all reserves, escrows and other Collateral (including insurance
+       proceeds and condemnation awards) to the Secured Obligations;
+   (h) recover judgment against Borrower for the Secured Obligations, to the
+       extent provided in Section 16.2, and enforce any judgment against the
+       Collateral;
+   (i) exercise its rights under the Guaranty, the Completion Guaranty, the
+       Interest Shortfall Guaranty and the Environmental Indemnity Agreement;
+       and
+   (j) exercise any other right or remedy available under the Loan Documents or
+       applicable law.
+
+14.4 Judicial Foreclosure; No Power of Sale. Upon the occurrence of an Event
+of Default, Lender may foreclose this Mortgage in accordance with the laws of the
+State of South Carolina by an action in the Court of Common Pleas for Charleston
+County, South Carolina (or in any other court of competent jurisdiction), for the
+foreclosure and sale of the Property and the other Collateral, or for the
+enforcement of any of Lender’s rights hereunder. Borrower acknowledges that the
+State of South Carolina is a judicial foreclosure jurisdiction and that this Mortgage
+does not, and shall not be construed to, grant Lender any power of sale exercisable
+without judicial proceedings. In any foreclosure action, Lender shall be entitled to
+a judgment for the Secured Obligations, for the sale of the Property and the other
+Collateral, for the appointment of a receiver, for its costs and expenses (including
+reasonable attorneys’ fees and costs of title), and for a deficiency judgment to the
+extent permitted by applicable law. Borrower waives, to the fullest extent
+permitted by applicable law, any right to require Lender to marshal assets or to
+pursue any particular remedy or any particular portion of the Collateral before
+pursuing any other remedy or portion. Nothing in this Section 14.4 or elsewhere in
+this Mortgage shall constitute a waiver of any right of redemption or statutory
+appraisal right that may not be waived under applicable law, and Lender’s rights in
+respect of any deficiency shall be subject to Borrower’s statutory appraisal rights
+under the laws of the State of South Carolina.
+
+14.5 Receiver. Upon the occurrence of an Event of Default, Lender shall be
+entitled, as a matter of right and without notice to Borrower or any other Person
+and without regard to the adequacy of the security for the Secured Obligations, to
+the appointment of a receiver of the Property and the Rents (including rents
+accrued and unpaid and rents thereafter accruing) in any action to enforce this
+Mortgage or in any other proceeding. Any receiver so appointed shall have all
+powers necessary to manage, operate, maintain, repair, lease and otherwise deal
+with the Property, including the power to collect the Rents directly from tenants,
+and Borrower irrevocably consents to such appointment. The appointment of a
+receiver shall not impair or affect Lender’s right to pursue foreclosure or any other
+remedy.
+
+
+
+                                         Page 45 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+14.6 Power of Attorney. Borrower hereby irrevocably appoints Lender, effective
+upon the occurrence of an Event of Default, as its attorney-in-fact, with full power
+of substitution, to (a) notify tenants and collect the Rents, (b) complete the
+Renovation and deal with the General Contractor, subcontractors, architects and
+governmental authorities, (c) execute and deliver leases, amendments, notices,
+receipts, releases, lien waivers and other instruments with respect to the Property,
+(d) take any action required to comply with or cure any violation of the LUR or any
+Environmental Law, and (e) take any other action Lender deems necessary or
+appropriate to protect the Collateral and the Secured Obligations. This
+appointment is coupled with an interest and is irrevocable.
+
+14.7 Application of Proceeds. All amounts received by Lender upon any sale or
+other disposition of the Collateral, and all Rents and other amounts received
+following an Event of Default, shall be applied in the following order: first, to the
+payment of all costs and expenses of the sale or enforcement, including reasonable
+attorneys’ fees, court costs and title charges; second, to the payment of any
+protective advances made by Lender; third, to accrued and unpaid interest
+(including interest at the Default Rate), late charges and premiums; fourth, to the
+outstanding principal balance of the Loan; and fifth, to any other Secured
+Obligations, with any surplus paid to Borrower or to whomsoever may be lawfully
+entitled thereto, subject to applicable law.
+
+14.8 Deficiency. If the proceeds of any foreclosure sale or other disposition of the
+Collateral are insufficient to pay the Secured Obligations in full, Borrower shall be
+liable for the deficiency only to the extent provided in Section 16.2, and Lender
+shall be entitled to a deficiency judgment to the extent permitted by applicable
+law, subject to Borrower’s statutory appraisal rights.
+
+14.9 No Waiver; No Notice. No failure or delay by Lender in exercising any
+right, power or remedy shall operate as a waiver thereof, and no single or partial
+exercise of any right, power or remedy shall preclude any other or further exercise
+thereof. Lender may exercise any remedy without prior notice or demand except as
+expressly required by this Mortgage or by applicable law, and Borrower waives
+presentment, demand for payment, protest, notice of dishonor, notice of
+nonpayment, notice of acceleration and notice of intent to accelerate, to the fullest
+extent permitted by applicable law.
+
+14.10 Lender’s Right to Perform. If Borrower fails to perform any obligation
+under this Mortgage, Lender may (but shall not be obligated to) perform such
+obligation, and any amounts expended by Lender shall be Secured Obligations
+bearing interest at the Default Rate, payable on demand and secured by this
+Mortgage, and shall not constitute a waiver of the underlying Event of Default.
+
+14.11 Remedies Cumulative. No remedy conferred upon Lender is intended to
+be exclusive of any other remedy, and each and every remedy shall be cumulative
+and in addition to every other remedy given hereunder, now or hereafter existing
+at law, in equity, by statute or otherwise.
+
+14.12 Waiver of Certain Defenses. To the fullest extent permitted by applicable
+law, Borrower waives (a) any defense based on the statute of limitations, (b) any
+
+
+                                         Page 46 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+defense based on the doctrine of election of remedies, (c) any right to assert
+against Lender any claim, defense or setoff that Borrower may have against any
+other Person, and (d) any right to require Lender to proceed against any other
+Person or any other collateral. Nothing in this Section 14.12 shall limit any defense
+or right that may not be waived under applicable law.
+
+
+ARTICLE 15 — CASUALTY AND CONDEMNATION
+15.1 Notice. Borrower shall give Lender prompt written notice of any fire or other
+casualty affecting the Property and of any actual or threatened condemnation,
+eminent domain proceeding, taking or conveyance in lieu thereof affecting the
+Property or any portion thereof or any easement or right-of-way therein.
+
+15.2 Casualty. Upon any casualty, Borrower shall promptly commence and
+diligently pursue the adjustment of the insurance claim and, subject to this Section
+15.2, the restoration of the Property. Lender shall have the right to participate in
+the adjustment of any claim in excess of Two Hundred Fifty Thousand and No/100
+Dollars ($250,000.00). If the casualty loss is less than Five Hundred Thousand and
+No/100 Dollars ($500,000.00), no Event of Default exists, and the insurance
+proceeds are sufficient to complete the restoration, Borrower may apply the
+proceeds to the restoration of the Property in accordance with plans approved by
+Lender. If the casualty loss equals or exceeds Five Hundred Thousand and No/100
+Dollars ($500,000.00), or if an Event of Default exists, or if the proceeds are
+insufficient to complete the restoration, or if the restoration cannot reasonably be
+completed within twelve (12) months after the casualty, Lender may elect, in its
+sole discretion, either (a) to permit Borrower to restore the Property subject to
+such conditions as Lender may reasonably impose, including the deposit of the
+proceeds into a Lender-controlled escrow account and the satisfaction of the
+conditions set forth in Section 15.4, or (b) to apply the insurance proceeds to the
+Secured Obligations in accordance with Section 15.5.
+
+15.3 Condemnation. Upon any taking or threatened taking, Lender may elect, in
+its sole discretion, either (a) to permit Borrower to restore the remaining Property
+(to the extent restoration is reasonably practicable) and to apply the condemnation
+award to such restoration subject to the conditions in Section 15.4, or (b) to apply
+the condemnation award to the Secured Obligations in accordance with Section
+15.5. Borrower shall not settle, compromise or agree to any award without
+Lender’s prior written consent if the award exceeds Two Hundred Fifty Thousand
+and No/100 Dollars ($250,000.00).
+
+15.4 Conditions to Restoration. As a condition to any restoration with insurance
+proceeds or condemnation awards, (a) no Event of Default shall exist; (b) the
+restoration shall be completed in accordance with plans approved by Lender, in
+compliance with all Applicable Laws and in a workmanlike manner, and shall
+restore the Property to a condition at least equal to its condition immediately prior
+to the casualty or taking; (c) the proceeds, together with any additional amounts
+deposited by Borrower, shall be sufficient to complete the restoration; (d) if the
+restoration involves any work affecting the ground-floor slab of Bay 1 on Lot 7, the
+requirements of Sections 8.13 and 11.3 shall be satisfied; and (e) Borrower shall
+
+                                         Page 47 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+have delivered to Lender such architect’s certificates, contracts, lien waivers and
+title date-down endorsements as Lender may reasonably require. All proceeds held
+by Lender for restoration shall be disbursed in accordance with Article 8, with
+appropriate adjustments to reflect the scope of the restoration work.
+
+15.5 Application of Proceeds to the Secured Obligations. Any insurance
+proceeds or condemnation awards that Lender elects to apply to the Secured
+Obligations shall be applied at par, without any prepayment premium, penalty or
+yield maintenance amount, in the order set forth in Section 14.7, and shall be
+applied first to accrued interest, then to principal, and shall not postpone or reduce
+any scheduled payment.
+
+15.6 Failure to Restore. If Borrower fails to commence and diligently pursue any
+restoration to which Lender has consented, or fails to complete such restoration
+within the period approved by Lender, Lender may undertake or complete the
+restoration, and all amounts expended by Lender, together with interest at the
+Default Rate, shall be Secured Obligations.
+
+
+ARTICLE 16 — GUARANTOR; NON-RECOURSE; LIMITATION OF
+LIABILITY
+16.1 Guaranty. The obligations of Borrower under this Mortgage and the other
+Loan Documents are guaranteed by Guarantor pursuant to the Guaranty (including
+the non-recourse carve-out guaranty), the Completion Guaranty and the Interest
+Shortfall Guaranty, and are further supported by the Environmental Indemnity
+Agreement. Lender may proceed against Guarantor under the Guaranty without
+first proceeding against Borrower, the Property or any other Collateral, and
+without any obligation to exhaust any remedy.
+
+16.2 Limitation of Liability; Non-Recourse. Except as provided in Section 16.3
+and in the Environmental Indemnity Agreement, Lender shall look solely to the
+Collateral for the payment of the Secured Obligations, and no Member of
+Borrower, and no manager, officer, employee or Affiliate of Borrower or of any
+Member, shall have any personal liability for the payment or performance of the
+Secured Obligations. Nothing in this Section 16.2 shall (a) limit the liability of
+Guarantor under the Guaranty, the Completion Guaranty, the Interest Shortfall
+Guaranty or the Environmental Indemnity Agreement, (b) constitute a release of
+Borrower from any obligation under the Loan Documents, (c) limit the liability of
+any Person for its own fraud, misrepresentation or willful misconduct, or (d) limit
+Lender’s right to collect the Secured Obligations from the Collateral and from any
+Person that has expressly assumed the obligations of Borrower in writing.
+
+16.3 Recourse Carve-Outs. Notwithstanding Section 16.2, Guarantor shall be
+fully and personally liable for the entire outstanding amount of the Secured
+Obligations upon the occurrence of any of the following (collectively, the “Carve-
+Out Events”), whether or not caused by or within the control of Borrower or
+Guarantor:
+
+
+
+
+                                         Page 48 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   (a) fraud, intentional misrepresentation or willful misconduct by Borrower or
+       Guarantor, or any of their respective agents, in connection with the Loan or
+       the Property;
+   (b) misapplication or misappropriation of Rents, security deposits, insurance
+       proceeds, condemnation awards or any reserve or escrow held by or on
+       behalf of Lender;
+   (c) the voluntary filing of a petition in bankruptcy or any other insolvency
+       proceeding by or on behalf of Borrower, or Borrower’s consent to the
+       appointment of a receiver or to the entry of an order for relief in any
+       involuntary proceeding, or Borrower’s cooperation with any Person in
+       causing any such filing, consent or order;
+   (d) environmental liability arising from or relating to the acts or omissions of
+       Borrower, Guarantor or their respective agents with respect to Hazardous
+       Materials at the Property, and any violation of the LUR, in each case to the
+       extent provided in the Environmental Indemnity Agreement and this Article
+       16;
+   (e) any violation of the transfer restrictions set forth in Section 7.3;
+   (f) the failure of Borrower to obtain or maintain insurance required by Article 9
+       following Lender’s written notice and the expiration of the cure period in
+       Section 14.2(d), to the extent of any loss not covered as a result thereof;
+   (g) the failure of Borrower to comply with Section 7.2 or Section 7.3 resulting in
+       the creation of a lien or encumbrance senior to or pari passu with this
+       Mortgage;
+   (h) the failure of Borrower to comply with the single-purpose entity and
+       separateness covenants in Section 6.12 or Section 7.6, if such failure results
+       in the substantive consolidation of Borrower with any other Person in any
+       bankruptcy or insolvency proceeding;
+   (i) Borrower’s assertion in any proceeding that any Loan Document is not a
+       valid, binding and enforceable obligation of Borrower; or
+   (j) Borrower’s failure to complete the Renovation in accordance with Article 8,
+       to the extent provided in the Completion Guaranty.
+
+16.4 Environmental Indemnity Not Limited. The obligations of Borrower and
+Guarantor under the Environmental Indemnity Agreement and Article 11 are full
+recourse obligations and are not limited or affected by Section 16.2, by the value
+or sufficiency of the Collateral, by any foreclosure, or by the release of this
+Mortgage.
+
+16.5 Guarantor Acknowledgments. Guarantor has executed this Mortgage
+solely for purposes of acknowledging the provisions of this Article 16 and the
+provisions of Article 11, and such acknowledgment shall not be construed as
+imposing on Guarantor any obligation other than those set forth in the Guaranty,
+the Completion Guaranty, the Interest Shortfall Guaranty and the Environmental
+Indemnity Agreement.
+
+
+                                          Page 49 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+16.6 Interest Shortfall Guaranty. Without limiting the foregoing, the Interest
+Shortfall Guaranty guarantees payment of any shortfall in monthly interest
+payments due under the Note during the first fourteen (14) months following the
+Closing Date (through and including June 15, 2026), to the extent that Net
+Operating Income from the Property is insufficient to cover such monthly interest
+payments, all as more particularly provided in the Interest Shortfall Guaranty.
+Borrower acknowledges that the Interest Shortfall Guaranty does not reduce,
+waive or defer any payment obligation of Borrower under the Note or this
+Mortgage, and that all payments of interest and principal remain due in
+accordance with the Note.
+
+
+ARTICLE 17 — MISCELLANEOUS
+17.1 Amendments; Waivers. This Mortgage may be amended, modified or
+supplemented only by a written instrument signed by Borrower and Lender. No
+waiver of any provision of this Mortgage, or of any breach or default, shall be
+effective unless in writing signed by Lender, and no such waiver shall be deemed a
+waiver of any other provision, breach or default or of any subsequent breach or
+default. Lender’s acceptance of any payment after the due date shall not constitute
+a waiver of the Event of Default arising therefrom.
+
+17.2 Severability. If any provision of this Mortgage is held to be invalid, illegal or
+unenforceable in any respect, such invalidity, illegality or unenforceability shall not
+affect any other provision, and this Mortgage shall be construed as if such
+provision had never been contained herein, to the fullest extent permitted by
+applicable law.
+
+17.3 Entire Agreement; Conflict. The Loan Documents constitute the entire
+agreement of the parties with respect to the Loan and supersede all prior
+agreements and understandings. In the event of any conflict between the terms of
+the Term Sheet and the terms of this Mortgage or any other Loan Document, the
+terms of this Mortgage or such other Loan Document shall control. In the event of
+any conflict between this Mortgage and the Note with respect to the payment of
+principal, interest or prepayment premiums, the Note shall control.
+
+17.4 Successors and Assigns. This Mortgage shall bind and benefit Borrower
+and Lender and their respective successors and permitted assigns. Borrower may
+not assign, delegate or transfer any of its rights or obligations under this Mortgage
+without Lender’s prior written consent, and any attempted assignment without
+such consent shall be void. Lender may assign, sell, participate or otherwise
+transfer all or any portion of its interest in the Loan and this Mortgage (including
+to any Federal Home Loan Bank or in connection with any securitization) without
+Borrower’s consent, and in connection therewith may disclose to any actual or
+prospective assignee, participant, rating agency or investor all information relating
+to Borrower, Guarantor and the Property, subject to customary confidentiality
+arrangements.
+
+17.5 No Third-Party Beneficiaries. Except for Lender’s successors and assigns
+and the indemnified parties under the Environmental Indemnity Agreement and
+
+
+                                          Page 50 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+Section 17.10, nothing in this Mortgage shall confer any right or remedy upon any
+Person other than the parties hereto.
+
+17.6 Notices. All notices, demands, consents, approvals and other
+communications under this Mortgage shall be in writing and shall be deemed duly
+given (a) when delivered personally, (b) one Business Day after deposit with a
+nationally recognized overnight courier, or (c) three (3) Business Days after
+deposit in the United States mail, certified or registered, postage prepaid, return
+receipt requested, addressed as follows (or to such other address as a party may
+designate by notice given in accordance with this Section 17.6):
+
+If to Lender:
+Calverley Heritage Bank, 412 Whitaker Street, Savannah, Georgia 31401,
+Attention: Marcus Prideaux, Senior Vice President — Commercial Real Estate
+Lending, with a copy (which shall not constitute notice) to Fielding, Ashworth &
+Cole LLP, Charleston, South Carolina, Attention: Catherine Ashworth, Partner.
+
+If to Borrower:
+Palmetto Gateway Partners LLC, 88 Broad Street, Suite 200, Charleston, South
+Carolina 29401, Attention: Neil Ashford Graydon, with a copy (which shall not
+constitute notice) to Cartwright & Lyons LLP, Charleston, South Carolina.
+
+If to Guarantor:
+Neil Ashford Graydon, 14 Church Street, Charleston, South Carolina 29401.
+
+17.7 Governing Law. This Mortgage shall be governed by and construed in
+accordance with the laws of the State of South Carolina, without regard to
+principles of conflicts of law that would require the application of the laws of
+another jurisdiction. The parties acknowledge that the Property is located in the
+State of South Carolina and that the laws of the State of South Carolina govern the
+creation, perfection, priority, enforcement and foreclosure of the lien created
+hereby.
+
+17.8 Venue; Consent to Jurisdiction. Borrower irrevocably submits to the non-
+exclusive jurisdiction of the courts of the State of South Carolina and the United
+States District Court for the District of South Carolina for the purpose of any suit,
+action or proceeding arising out of or relating to this Mortgage or the Loan
+Documents, and Borrower waives any objection to venue in Charleston County,
+South Carolina and any defense based on forum non conveniens. Nothing in this
+Section shall limit Lender’s right to bring an action in any other court of competent
+jurisdiction, including any court in which the Property or any other Collateral is
+located or in which Borrower maintains assets.
+
+17.9 WAIVER OF JURY TRIAL. TO THE FULLEST EXTENT PERMITTED BY
+APPLICABLE LAW, BORROWER AND LENDER EACH KNOWINGLY,
+VOLUNTARILY, INTENTIONALLY AND IRREVOCABLY WAIVE ANY RIGHT
+TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM
+ARISING OUT OF OR RELATING TO THIS MORTGAGE, ANY OTHER LOAN
+
+
+                                          Page 51 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+DOCUMENT, THE LOAN OR THE PROPERTY. BORROWER AND LENDER
+EACH ACKNOWLEDGE THAT THIS WAIVER IS A MATERIAL INDUCEMENT
+TO LENDER TO MAKE THE LOAN AND THAT EACH HAS HAD THE
+OPPORTUNITY TO CONSULT WITH COUNSEL REGARDING THIS WAIVER.
+BORROWER AND LENDER EACH AGREE THAT THIS SECTION MAY BE
+FILED WITH ANY COURT AS WRITTEN EVIDENCE OF THIS WAIVER.
+
+17.10 Attorneys’ Fees and Expenses. Borrower shall pay on demand all
+reasonable costs and expenses (including reasonable attorneys’ fees, expert
+witness fees, court costs and title charges) incurred by Lender in connection with
+(a) the preparation, negotiation, administration, amendment and enforcement of
+the Loan Documents, (b) any workout, restructuring or forbearance, (c) the
+enforcement or defense of Lender’s rights under the Loan Documents, (d) any
+foreclosure, receivership, bankruptcy or insolvency proceeding, and (e) the
+protection, preservation or realization upon the Collateral. All such amounts shall
+be Secured Obligations and shall bear interest at the Default Rate from the date
+incurred if not paid within ten (10) days after demand.
+
+17.11 Time of the Essence. Time is of the essence with respect to each provision
+of this Mortgage requiring performance or payment by Borrower.
+
+17.12 Counterparts; Electronic Signatures. This Mortgage may be executed in
+one or more counterparts, each of which shall be deemed an original and all of
+which together shall constitute one and the same instrument. Delivery of an
+executed counterpart by facsimile, electronic mail (including PDF) or electronic
+signature platform shall have the same force and effect as delivery of an originally
+executed counterpart, and the parties agree that this Mortgage may be executed
+and delivered by electronic signature in accordance with the South Carolina
+Uniform Electronic Transactions Act and the federal Electronic Signatures in
+Global and National Commerce Act.
+
+17.13 Construction; Headings. The headings in this Mortgage are for
+convenience of reference only and shall not affect its interpretation. Words of any
+gender include each other gender, and words in the singular include the plural and
+vice versa.
+
+17.14 Survival. All representations, warranties, covenants, indemnities and
+agreements of Borrower contained in this Mortgage shall survive the Closing Date,
+the making of each advance, the foreclosure of this Mortgage, any conveyance in
+lieu of foreclosure, and the release or satisfaction of this Mortgage, to the extent
+provided herein.
+
+17.15 Further Assurances. Borrower shall execute, acknowledge, deliver and
+record such further instruments and take such further action as Lender may
+reasonably request to carry out the purposes of this Mortgage.
+
+17.16 No Partnership; Relationship of Parties. Nothing in this Mortgage shall
+be deemed to create a partnership, joint venture, joint enterprise or fiduciary
+relationship between Borrower and Lender. The relationship of Borrower and
+Lender is solely that of borrower and lender (and mortgagor and mortgagee), and
+
+
+                                         Page 52 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+Lender shall not be deemed a partner, joint venturer, agent, trustee or fiduciary of
+Borrower.
+
+17.17 Lender’s Discretion. Whenever this Mortgage provides that Lender may
+act in its discretion, or that a matter must be satisfactory to Lender, such
+determination shall be made by Lender in good faith and in accordance with
+commercially reasonable standards, unless this Mortgage expressly provides that
+Lender may act in its sole discretion, in which case Lender’s discretion shall be
+absolute, subject only to the implied covenant of good faith and fair dealing.
+
+17.18 Business Day Convention. If any Payment Date or other date on which
+performance is required is not a Business Day, such date shall be extended to the
+next succeeding Business Day, and interest shall continue to accrue during such
+extension.
+
+17.19 Copies; Lost Instruments. Borrower shall be entitled to a copy (which
+may be electronic) of this Mortgage and the other Loan Documents as executed.
+No lost instrument affidavit shall be required as a condition to any enforcement
+action in which Lender produces a copy of the recorded Mortgage.
+
+17.20 Acknowledgment of Terms. Borrower acknowledges that it has read this
+Mortgage, understands its terms, has had the opportunity to consult with counsel
+of its choosing, and has executed this Mortgage voluntarily and without duress.
+
+[SIGNATURE PAGES FOLLOW]
+
+
+
+
+                                         Page 53 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+SIGNATURE PAGE
+IN WITNESS WHEREOF, Borrower has executed this Mortgage and Security
+Agreement as of the date first written above, and Lender has accepted this
+Mortgage and Security Agreement for the purposes set forth herein.
+
+BORROWER:
+
+PALMETTO GATEWAY PARTNERS LLC, a South Carolina limited liability
+company
+
+By: Graydon Development Group LLC, a South Carolina limited liability
+company, its Managing Member
+
+By: _______________________________________
+
+Name: Neil Ashford Graydon
+
+Title: Managing Member of Graydon Development Group LLC
+
+Date: ____________________
+
+LENDER:
+
+CALVERLEY HERITAGE BANK, a Georgia state-chartered commercial bank
+
+By: _______________________________________
+
+Name: Marcus Prideaux
+
+Title: Senior Vice President — Commercial Real Estate Lending
+
+Date: ____________________
+
+GUARANTOR ACKNOWLEDGMENT:
+
+The undersigned, Neil Ashford Graydon, individually, acknowledges the terms of
+this Mortgage and Security Agreement and, without becoming personally liable for
+the payment of the Secured Obligations except as expressly provided in the
+Guaranty, the Completion Guaranty, the Interest Shortfall Guaranty and the
+Environmental Indemnity Agreement, agrees to be bound by the provisions of
+Article 11 and Article 16 hereof.
+
+By: _______________________________________
+
+Neil Ashford Graydon, individually
+
+Date: ____________________
+
+
+NOTARY ACKNOWLEDGMENT
+STATE OF SOUTH CAROLINA )
+
+COUNTY OF CHARLESTON )
+
+
+                                         Page 54 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+I, the undersigned Notary Public for the State of South Carolina, do hereby certify
+that ___________________________, who is personally known to me (or who produced
+____________________ as identification), appeared before me this day in person and
+acknowledged that he/she is the Managing Member of Graydon Development
+Group LLC, a South Carolina limited liability company, which is the Managing
+Member of Palmetto Gateway Partners LLC, a South Carolina limited liability
+company, and that he/she, as such Managing Member, being duly authorized,
+executed the foregoing instrument for and on behalf of such limited liability
+companies, and that the instrument is the act and deed of Palmetto Gateway
+Partners LLC.
+
+WITNESS my hand and official seal this ____ day of April, 2025.
+
+_______________________________________
+
+Notary Public for South Carolina
+
+My Commission Expires: ____________________
+
+(SEAL)
+
+
+
+
+                                         Page 55 of 65
+               Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+EXHIBIT A — LEGAL DESCRIPTION OF THE PROPERTY
+PARCEL ONE (Lots 7, 8 and 9, Hampstead Village Plat):
+
+ALL that certain piece, parcel or lot of land, together with the improvements
+thereon, situate, lying and being in the City of Charleston, County of Charleston,
+State of South Carolina, being shown and designated as Lots 7, 8 and 9 of the
+Hampstead Village Plat, as recorded in Plat Book 41 at Page 218, in the Office of
+the Register of Mesne Conveyances for Charleston County, South Carolina, and
+having such shapes, metes, bounds and measurements as shown on said plat,
+reference to which is hereby made for a more complete and accurate description
+thereof.
+
+Being commonly known as 520–534 King Street, Charleston, South Carolina
+29403.
+
+Tax Map Nos.: 460-12-04-007 (Lot 7), 460-12-04-008 (Lot 8) and 460-12-04-
+009 (Lot 9).
+
+PARCEL TWO (Vacated Anson Lane Strip):
+
+TOGETHER WITH that certain strip or parcel of land formerly constituting a
+portion of Anson Lane, a public street, which was vacated and closed by the City of
+Charleston pursuant to Ordinance No. 2019-084, and conveyed to the
+predecessor in title by that certain Quitclaim Deed recorded in Deed Book 1128
+at Page 443, in the Office of the Register of Mesne Conveyances for Charleston
+County, South Carolina, said strip being adjacent to and contiguous with Lot 7 of
+the Hampstead Village Plat, and being shown and designated on that certain plat
+prepared by Cartwright Land Surveying LLC, dated January 15, 2025, and
+recorded in Plat Book 64 at Page 91, in the Office of the Register of Mesne
+Conveyances for Charleston County, South Carolina.
+
+[METES AND BOUNDS DESCRIPTION — TO BE INSERTED FROM THE
+ALTA/NSPS LAND TITLE SURVEY CERTIFIED TO LENDER, BORROWER
+AND THE TITLE INSURER AND DELIVERED IN ACCORDANCE WITH
+REQUIREMENT 9 OF COMMITMENT NO. PT-2025-04-1178.]
+
+FOR INFORMATIONAL PURPOSES ONLY — PROPERTY SUMMARY:
+
+Item                                          Description
+Street address                                520–534 King Street, Charleston, South Carolina 29403
+County                                        Charleston County, South Carolina
+Tax Map Nos.                                  460-12-04-007; 460-12-04-008; 460-12-04-009
+Land area                                     Approximately 0.38 acres (approximately 16,553 square
+                                              feet)
+Improvements                                  Mixed-use commercial building; three ground-floor retail
+                                              bays (approximately 11,400 SF) and two upper-floor office
+                                              suites (approximately 19,600 SF); total gross building area
+                                              approximately 31,000 SF
+Zoning                                        GB (General Business), City of Charleston
+Title commitment                              No. PT-2025-04-1178, effective February 28, 2025
+                                              (Prestige Title & Settlement Services LLC, agent for
+
+
+                                             Page 56 of 65
+       Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+Item                                  Description
+                                      Commonwealth National Title Underwriters Inc.)
+
+
+
+
+                                     Page 57 of 65
+            Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+EXHIBIT B — RENT ROLL AND LEASE SUMMARY AS OF THE
+CLOSING DATE
+                                                              Base
+                                                              rent      Annual
+Space       Tenant        Status       SF          Type       $/SF      rent         Expires
+Bay 1      Lowcountry      Occupied    3,800       NNN        $28.50    $108,300     12/31/2027
+(Ground) — Provisions Inc.
+Lot 7
+Bay 2      Vacant         Vacant       3,800       —          —         $0           —
+(Ground) —
+Lot 8
+Bay 3      Harmon &       Occupied     3,800       Modified   $24.00    $91,200      06/30/2026
+(Ground) — Wren Design                             Gross
+Lot 9      Studio LLC
+2nd Floor   Tidemark      Occupied     9,800       NNN        $22.00    $215,600     03/31/2029
+Suite A     Consulting
+            Group LLC
+2nd Floor   Vacant        Vacant       9,800       —          —         $0           —
+Suite B
+Total                     3 of 5       31,000                           $415,100
+                          units
+
+Notes and disclosures (incorporated into the representations in Section
+5.4):
+
+   1. Rent escalations; certified rent roll. The amounts shown above are the
+      base rents stated in the leases and in Borrower’s certified rent roll.
+      Borrower’s rent roll also reflects contractual escalations, being a three
+      percent (3%) annual increase under the Lowcountry Provisions Inc. lease
+      commencing January 1, 2025 (which would produce a rent of $29.36/SF and
+      $111,549 per annum) and a two and one-half percent (2.5%) annual increase
+      under the Harmon & Wren Design Studio LLC lease commencing July 1,
+      2023 (which would produce a rent of $25.22/SF and $95,836 per annum as
+      of July 1, 2024). Borrower shall certify to Lender, on or before the Closing
+      Date, the rent actually payable under each Lease as of the Closing Date, and
+      this Exhibit B shall be conformed to that certification prior to recording.
+      The annual base rent payable as of the Closing Date, determined in
+      accordance with the contractual escalation provisions, is $422,985.
+   2. Right of first refusal — Bay 2. The lease with Harmon & Wren Design
+      Studio LLC grants that tenant a right of first refusal with respect to Bay 2
+      (3,800 SF). Any bona fide third-party offer to lease Bay 2 must first be
+      offered to Harmon & Wren Design Studio LLC on the same material terms,
+      with a fifteen (15) business day acceptance period. The ROFR survives
+      renewal of the Bay 3 lease. If the Bay 3 lease is not renewed, the ROFR
+      terminates.
+   3. Renewal options. Lowcountry Provisions Inc.: one five-year renewal at fair
+      market value with a floor equal to the then-current rent (nine months’
+      notice; notice deadline March 31, 2027). Harmon & Wren Design Studio
+      LLC: one three-year renewal at 95% of fair market value (six months’ notice;
+
+
+                                            Page 58 of 65
+        Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+   notice deadline December 31, 2025). Tidemark Consulting Group LLC: two
+   three-year renewals at fair market value (twelve months’ notice).
+4. Tenant early termination right (Harmon & Wren). The Bay 3 lease
+   contained an early termination right effective June 30, 2025 upon payment
+   of three months’ rent, exercisable only upon six months’ prior written notice.
+   The notice deadline of December 31, 2024 has passed without exercise, and
+   the termination right has therefore lapsed.
+5. Assignment and subletting. Lowcountry Provisions Inc.: no provision —
+   the lease is silent on assignment and subletting and contains no consent
+   requirement. Harmon & Wren Design Studio LLC: assignment requires
+   Landlord’s prior written consent, not to be unreasonably withheld;
+   subletting of up to 50% of the premises permitted with 30 days’ notice.
+   Tidemark Consulting Group LLC: assignment requires Landlord’s prior
+   written consent, which may be withheld in Landlord’s sole discretion;
+   subletting with consent not to be unreasonably withheld.
+6. Estoppel and SNDA obligations. Lowcountry Provisions Inc.: lease
+   contains no estoppel certificate obligation and no subordination, non-
+   disturbance or attornment provisions. Harmon & Wren Design Studio LLC:
+   estoppel certificate within 15 business days of request; lease subordinate to
+   any mortgage provided a commercially reasonable non-disturbance
+   agreement is delivered to tenant. Tidemark Consulting Group LLC: estoppel
+   certificate within 10 business days of request; lease subordinate to any
+   mortgage and tenant agrees to execute an SNDA upon request.
+7. Security deposits held: Lowcountry Provisions Inc. $18,050; Harmon &
+   Wren Design Studio LLC $15,200; Tidemark Consulting Group LLC $35,933;
+   total $69,183.
+8. Exclusivity. Lowcountry Provisions Inc. holds an exclusive right to use as a
+   specialty grocery/gourmet provisions retailer within the Property.
+9. Memoranda of lease. No memorandum of any Lease has been recorded.
+10.Vacancy. Bay 2 (3,800 SF) and 2nd Floor Suite B (9,800 SF) are vacant,
+   comprising 13,600 SF, or approximately 43.9% of gross building area.
+   Occupied area is 17,400 SF, or approximately 56.1% of gross building area.
+
+
+
+
+                                      Page 59 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+EXHIBIT C — PERMITTED EXCEPTIONS
+The Permitted Exceptions are the exceptions to title approved in writing by
+Lender, which, as of the Closing Date, are the following exceptions set forth in
+Schedule B, Part II of Commitment No. PT-2025-04-1178 (as the same may be
+modified by the endorsements obtained at closing):
+
+   1. Real property taxes for the year 2025 and subsequent years on Tax
+      Map Nos. 460-12-04-007, 460-12-04-008 and 460-12-04-009, County of
+      Charleston, State of South Carolina, a lien not yet due and payable.
+   2. Utility easement in favor of South Carolina Electric & Gas recorded in
+      Deed Book 987 at Page 112, RMC Office for Charleston County, South
+      Carolina, affecting the westerly boundary of Lot 9.
+   3. SCDHEC Land Use Restriction (Controlled Recognized Environmental
+      Condition — Lot 7) recorded in Deed Book 1203 at Page 89, RMC Office
+      for Charleston County, South Carolina, SCDHEC Site ID SC-29403-0772,
+      prohibiting residential use of the ground floor of Lot 7 (Tax Map No. 460-12-
+      04-007) and requiring maintenance and periodic inspection of the vapor
+      barrier beneath the slab of the ground-floor commercial space on Lot 7, as
+      more particularly described in Article 11.
+   4. Balcony encroachment over the King Street right-of-way, being the
+      encroachment of a decorative iron balcony extending approximately two and
+      one-half (2.5) feet beyond the front façade of the building, as shown on the
+      ALTA/NSPS Land Title Survey prepared by Cartwright Land Surveying LLC
+      dated January 15, 2025.
+   5. Rights of tenants in possession under the Leases described on Exhibit B,
+      as tenants only, without any option to purchase or right of first refusal to
+      purchase the Property or any portion thereof, except the right of first refusal
+      in favor of Harmon & Wren Design Studio LLC with respect to Bay 2.
+   6. Matters shown on the plat recorded in Plat Book 41 at Page 218, RMC
+      Office for Charleston County, South Carolina, including setback lines, rights-
+      of-way, drainage easements and notations thereon.
+   7. Such other matters as Lender may approve in writing from time to time,
+      which approval shall be evidenced by Lender’s written consent, an
+      endorsement to Lender’s title policy, or Lender’s written acceptance of the
+      title policy at closing.
+
+
+
+
+                                         Page 60 of 65
+             Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+EXHIBIT D — RENOVATION BUDGET SUMMARY
+                                                                                Renovation
+Line                                                                            Holdback
+item      Description                  Contractor / vendor    Amount            allocation
+1         HVAC replacement             Beaufort Builders      $1,200,000        $850,000
+                                       Group LLC
+2         Elevator modernization       Beaufort Builders      $475,000          $375,000
+                                       Group LLC
+3         Façade restoration           Beaufort Builders      $625,000          $425,000
+          (including decorative iron   Group LLC
+          balcony)
+4         Tenant improvement           Various (per lease     $550,000          $450,000
+          allowances                   terms)
+5         Soft costs and               Various consultants    $300,000          $150,000
+          contingency
+          Total Renovation                                    $3,150,000        $2,250,000
+          Budget
+
+Funding sources:
+
+Source                                               Amount
+Lender Renovation Holdback (from Loan proceeds)      $2,250,000
+Borrower Renovation Equity                           $900,000
+Total Renovation Funding                             $3,150,000
+
+Contract reference: GC Contract with Beaufort Builders Group LLC (SC General
+Contractor License No. SC-GC-47921) — hard costs $2,850,000 (line items 1
+through 4). Soft costs and contingency of $300,000 are outside the scope of the GC
+Contract.
+
+Substantial Completion Deadline: June 15, 2026.
+
+
+
+
+                                              Page 61 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+EXHIBIT E — FORM OF DRAW REQUEST AND ARCHITECT’S
+CERTIFICATE
+DRAW REQUEST NO. ____
+
+Borrower: Palmetto Gateway Partners LLC
+
+Lender: Calverley Heritage Bank
+
+Property: 520–534 King Street, Charleston, South Carolina 29403
+
+Requested disbursement date: ______________
+
+Amount requested: $______________________
+
+Retainage (10%): $______________________
+
+Net amount requested: $______________________
+
+   1. The AIA G702/G703 Application and Certificate for Payment for this draw is
+      attached and is certified by Borrower’s architect of record.
+   2. The work for which payment is requested has been completed in accordance
+      with the approved Plans and the Renovation Budget. Attached is a schedule
+      showing, for each line item of the Renovation Budget: the original budget,
+      the amounts previously disbursed, the amount requested, and the remaining
+      balance.
+   3. Percentage of completion of the Renovation as of the date of this request:
+      _____%.
+   4. Attached are conditional lien waivers for the current draw and unconditional
+      lien waivers for all prior draws from the General Contractor and from each
+      subcontractor performing work in an amount exceeding $25,000.
+   5. Attached is a title date-down endorsement from the title insurer confirming
+      that no intervening liens or encumbrances have been recorded against the
+      Property since the date of this Mortgage or the most recent date-down
+      endorsement.
+   6. Borrower certifies that Borrower has funded the Renovation Equity in
+      accordance with Section 8.3 of the Mortgage such that, after giving effect to
+      this draw, aggregate disbursements from the Renovation Holdback will not
+      exceed 71.43% of aggregate Renovation Costs incurred and certified to date.
+   7. No Event of Default, and no event that with notice or lapse of time or both
+      would constitute an Event of Default, exists.
+   8. If this request relates to any work penetrating, disturbing or within ten (10)
+      feet of the ground-floor slab of Bay 1 on Lot 7: attached are (a) evidence of
+      written notice to SCDHEC, (b) the vapor barrier protection plan, and (c) the
+      certification of the environmental professional required by Section 8.5(h) of
+      the Mortgage.
+
+BORROWER: PALMETTO GATEWAY PARTNERS LLC
+
+
+                                         Page 62 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+By: Graydon Development Group LLC, its Managing Member
+
+By: ___________________________________
+
+Name: Neil Ashford Graydon
+
+ARCHITECT’S CERTIFICATE
+
+I certify that the work for which payment is requested has been completed in
+accordance with the approved Plans and specifications, that the percentage of
+completion stated above is accurate, and that the amount requested is properly
+payable.
+
+Architect: __________________________________
+
+By: ___________________________________
+
+Name / Title: _____________________________
+
+SC License No.: ___________________________
+
+Date: ____________________
+
+
+
+
+                                         Page 63 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+EXHIBIT F — FORM OF ANNUAL LAND USE RESTRICTION
+COMPLIANCE CERTIFICATE
+Borrower: Palmetto Gateway Partners LLC
+
+Lender: Calverley Heritage Bank
+
+Property: 520–534 King Street, Charleston, South Carolina 29403
+
+SCDHEC Site ID: SC-29403-0772
+
+Land Use Restriction: Recorded in Deed Book 1203 at Page 89, RMC Office for
+Charleston County, South Carolina
+
+Certification period: January 1, ____ through December 31, ____
+
+The undersigned, on behalf of Palmetto Gateway Partners LLC, hereby certifies to
+Calverley Heritage Bank as follows:
+
+   1. The ground floor of Lot 7 (Tax Map No. 460-12-04-007), comprising Bay 1 at
+      520 King Street, has not been used for residential purposes and has been
+      used solely for commercial retail purposes during the certification period.
+   2. The vapor barrier system installed beneath the concrete floor slab of Bay 1
+      has been maintained in good condition and working order, has not been
+      penetrated, removed or compromised, and remains in place and functioning.
+      Attached as Schedule 1 is the most recent inspection report of the licensed
+      environmental professional who inspected the vapor barrier on
+      ______________.
+   3. No renovation, construction, demolition or alteration activity affecting the
+      floor slab of Bay 1 has been undertaken during the certification period,
+      except as described on Schedule 2 (including the date of written notice to
+      SCDHEC and the post-work certification of the environmental professional).
+   4. Borrower has received no notice from SCDHEC of any violation of the Land
+      Use Restriction, and no notice that SCDHEC Site ID SC-29403-0772 has
+      been or may be reopened.
+   5. Borrower has complied with all other terms and conditions of the Land Use
+      Restriction during the certification period.
+   6. The No Further Action determination of SCDHEC dated August 12, 2021
+      remains in effect, to Borrower’s knowledge.
+
+PALMETTO GATEWAY PARTNERS LLC
+
+By: Graydon Development Group LLC, its Managing Member
+
+By: ___________________________________
+
+Name: Neil Ashford Graydon
+
+Title: Managing Member of Graydon Development Group LLC
+
+
+
+                                         Page 64 of 65
+           Mortgage and Security Agreement — CHB / Palmetto Gateway Partners LLC — DRAFT 03/27/2025
+
+
+
+Date: ____________________
+
+
+
+
+                                         Page 65 of 65
+

@@ -1,0 +1,510 @@
+{
+  "task_id": "real-estate/draft-loan-agreement",
+  "judge_model": "deepseek-flash",
+  "criteria_results": [
+    {
+      "id": "C-001",
+      "title": "ISSUE_001: Cover memo identifies LTC ratio exceeds 80% maximum",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly identifies the LTC exceedance in multiple places. Section 3.1.1 states 'Loan-to-cost is 83.77% against an 80% maximum (Term Sheet §6.1), an excess of $2,140,000.' Issue A-2 is dedicated to the LTC exceedance, and Table 3 explicitly shows the recomputation '47,500,000 ÷ 56,700,000 = 83.774%' with the result 'exceeds the 80% maximum.' The top-risk register (Table 2, item 1) also flags the LTC breach as Critical. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-002",
+      "title": "ISSUE_001: Cover memo notes mezzanine loan doesn't count as borrower equity",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum identifies the $9,200,000 mezzanine loan, including through Brightleaf Mezzanine Capital LLC, and repeatedly states that mezzanine debt is borrowed money rather than borrower equity. It explains that if the land or budget was mezzanine-funded, the Borrower has no true equity and the LTC/LTV analyses rest on a false premise. It also directly ties the lack of borrower equity and the $47,500,000 senior loan to the 83.77% LTC breach."
+    },
+    {
+      "id": "C-003",
+      "title": "ISSUE_001: Cover memo quantifies equity shortfall (~$2,140,000)",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum explicitly quantifies the equity/LTC shortfall as $2,140,000 in the Executive Summary (§3.1.1), in the top-risk register (Item 1), in Table 3 (LTC excess = $47,500,000 − $45,360,000 = $2,140,000, with the maximum loan at 80% LTC of $56,700,000 shown as $45,360,000), and in Issue A-2, which analyses the shortfall in detail and explains why the proposed $2,140,000 escrow does not cure it. The calculation matches the criterion precisely."
+    },
+    {
+      "id": "C-004",
+      "title": "ISSUE_001: Loan agreement includes equity escrow or restructuring mechanism",
+      "verdict": "pass",
+      "reasoning": "The agreement contains multiple operative mechanisms addressing the LTC gap: Section 2.6 requires the Commitment to be permanently reduced or cured by the Borrower funding additional equity sufficient to satisfy the 80% LTC (and 65% LTV) condition before Closing, with a Compliance Certificate five Business Days before Closing; Section 7.6 establishes a $2,140,000 Equity Deposit Account with equity-first application to Project Costs, source verification, and Commitment reduction if sourced from prohibited sources; Section 4.1(p) makes the Equity Deposit a condition precedent to the Initial Advance; Section 5.1(i) makes equity disbursement a condition to each Advance; and Section 6.3(c) requires the Borrower to deposit funds for cost overruns. Drafting Note 2 further analyzes that the escrow alone does not cure LTC unless the Commitment is reduced dollar-for-dollar, and Section 2.6 adopts exactly that restructuring. The criterion is satisfied."
+    },
+    {
+      "id": "C-005",
+      "title": "ISSUE_002: Cover memo identifies interest reserve may be insufficient",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly flags the interest reserve adequacy issue. Table 2 (row 10, issue A-7) identifies the $4,850,000 interest reserve, notes the Borrower's claimed $221,325 surplus at 3.50% SOFR versus a $365,830 shortfall at 4.35% and the Credit Memo's ~$565,000 shortfall, and recommends re-modeling and increasing the reserve to approximately $5,215,830. Part 5, section A-7 provides detailed analysis showing the reserve may be insufficient over the 30-month construction period, with shortfalls reaching $1,278,000 at 5.35% and $9,025,000 interest on a full draw. The criterion is satisfied."
+    },
+    {
+      "id": "C-006",
+      "title": "ISSUE_002: Cover memo notes below-market SOFR assumption in budget",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly identifies the below-market SOFR assumption in the interest reserve analysis. Issue A-7 states that the Borrower's Interest Reserve Analysis models a $221,325 surplus 'at an assumed SOFR of 3.50% (all-in 6.75%)' and contrasts it with the same sheet's sensitivity table showing a $365,830 shortfall at SOFR 4.35%, which the table annotates as 'Current market SOFR as of Jan 2025.' Table 3 likewise records the 3.50% assumption and cross-references the 4.35% current-market figure. The discrepancy is flagged and characterised as an understated assumption requiring re-modelling at current SOFR."
+    },
+    {
+      "id": "C-007",
+      "title": "ISSUE_002: Loan agreement requires borrower to fund interest reserve shortfalls",
+      "verdict": "pass",
+      "reasoning": "The loan agreement contains multiple provisions expressly addressing interest reserve insufficiency. Section 7.2 requires the Borrower to pay any shortfall when the Interest Reserve is insufficient. Section 7.3 prohibits replenishment from Loan proceeds and requires any replenishment 'from the Borrower's own funds.' Section 7.4 establishes an Interest Reserve Adequacy Test required with each Draw Request (and before each Advance), obligating the Borrower to deposit any deficiency before funding. Section 7.5 requires the Borrower to deposit funds within five (5) Business Days after notice of a projected deficiency, imposes quarterly adequacy assessments, and makes failure to deposit an Event of Default. Section 5.1(h) also makes the interest reserve test a condition to each Advance, and Section 3.7 requires the Borrower to pay interest from its own funds once the reserve is exhausted. Both the shortfall-funding requirement and a periodic (per-draw/quarterly) adequacy testing mechanism are clearly present."
+    },
+    {
+      "id": "C-008",
+      "title": "ISSUE_003: Cover memo identifies conflicting pledges of membership interests",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly identifies the conflicting pledges in Issue D-1 ('Both loans are secured by a pledge of 100% of the membership interests and no intercreditor agreement exists'), citing Term Sheet §1.4 (mezzanine pledge of 100% of membership interests), Term Sheet §8 (senior pledge of 100% by all members), and the organizational chart, and states that 'Two first-priority pledges of the same collateral cannot both exist.' The issue is also escalated in the Executive Summary's Top-Risk Register as item 9 ('Competing 100% pledges; no intercreditor (D-1)'). Issue D-3 identifies the mezzanine lender as Brightleaf Mezzanine Capital LLC (an affiliate of the 28% member, Brightleaf Investors Group LLC), so the conflict is tied to the specific mezzanine lender named in the criterion. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-009",
+      "title": "ISSUE_003: Cover memo recommends intercreditor agreement as closing condition",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly recommends that execution of the intercreditor agreement be a hard, non-waivable closing condition and that the senior lender's pledge receive first priority. Issue D-1 states that the mezzanine pledge and senior pledge both purport to cover 100% of membership interests and that the intercreditor agreement is 'negotiated but is not yet executed'; the recommendation is to 'Make execution of the intercreditor agreement on the Credit Memorandum's terms a hard closing condition (not waivable); require the senior pledge to be perfected by delivery of certificates...'. The Top-Risk Register (item 9) likewise recommends 'Senior first, mezzanine second under a fully executed Intercreditor Agreement', and Part 14.2 lists D-1 among the non-waivable items. Draft §4.1(q) makes it a closing condition. This satisfies the criterion."
+    },
+    {
+      "id": "C-010",
+      "title": "ISSUE_003: Loan agreement conditions closing on executed intercreditor agreement",
+      "verdict": "pass",
+      "reasoning": "The agent's draft expressly makes closing/initial advance conditional on the Intercreditor Agreement. Section 4.1(q) requires execution and delivery of the Intercreditor Agreement between the Lender and the Mezzanine Lender as a condition to the Initial Advance, and Section 14.5(a) further provides that no Advance may be made unless the Intercreditor Agreement is executed, delivered, and in full force. Article 14 also resolves the competing pledge priority by providing that the Lender's Liens rank first and the Mezzanine Lender's pledge ranks second under the Intercreditor Agreement. Thus the criterion is satisfied."
+    },
+    {
+      "id": "C-011",
+      "title": "ISSUE_004: Cover memo identifies NFA residential use restriction conflict",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum identifies the NCDEQ NFA letter's restriction of approximately 0.38 acres to non-residential use, specifically discusses the northeast corner of Parcel 0821-04-72-4102, and flags the conflict with the project plans' 14 residential units above that restricted area in issue C-3 and related sections. It treats the issue as material, discusses whether the restriction is legally permissible, and recommends closing conditions and NCDEQ confirmation."
+    },
+    {
+      "id": "C-012",
+      "title": "ISSUE_004: Cover memo discusses impact on appraised value and leasing",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly addresses the financial and valuation impact of the NFA residential use restriction. It discusses that 14 residential units may not be deliverable or leasable for residential use, quantifies the potential NOI loss at $377,160, states the resulting NOI of $4,499,640 and DSCR of 1.21x, and explains that the appraisal's as-completed and as-stabilised values ($72.8M and $76.2M) rest on the full 212-unit programme. It also recommends an appraisal addendum addressing value without the affected units. This satisfies the criterion."
+    },
+    {
+      "id": "C-013",
+      "title": "ISSUE_004: Loan agreement includes environmental compliance covenant or CP",
+      "verdict": "pass",
+      "reasoning": "The loan agreement extensively addresses the NFA residential use conflict. Section 4.1(e)(vi) is a condition precedent requiring, before closing or before advances for work above the Restricted Area, either (A) a written NCDEQ modification of the NFA Letter permitting residential use, (B) written NCDEQ confirmation that residential occupancy subject to the vapor mitigation system is permitted, or (C) a Lender-approved redesign eliminating residential use above the Restricted Area. Section 13.2(b) is an ongoing covenant prohibiting any use other than non-residential use of the Restricted Area unless NCDEQ modifies the NFA Letter in writing and the Lender consents. Section 13.4 requires an architect overlay analysis and satisfaction of those alternatives before residential units can be delivered, and Section 16.1(k) makes failure to comply with NFA Letter conditions an Event of Default. Environmental representations (8.1(n)) and NFA compliance covenants (13.1-13.5) are also included. This squarely satisfies the criterion."
+    },
+    {
+      "id": "C-014",
+      "title": "ISSUE_005: Cover memo identifies borrower has zero direct cash equity",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum explicitly identifies that the Borrower's cash equity contribution is zero. Section 3.1.4 states that if the Borrower's budget is correct 'there is no equity in the capital stack.' Section A-3 states that Total Project Costs of $56,700,000 are funded by $47,500,000 of senior debt and $9,200,000 of mezzanine debt, 'with Borrower cash equity of zero (Term Sheet §5.1).' Table 3 shows Total Sources as '47,500,000 + 9,200,000 + 0.' The zero equity issue is therefore flagged and tied to the arithmetic specified in the criterion."
+    },
+    {
+      "id": "C-015",
+      "title": "ISSUE_005: Cover memo discusses circular affiliate funding concern",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum extensively discusses the circular affiliate funding concern. Issue D-3 is devoted to it: Brightleaf Investors Group LLC (a 28% member) received its interest for $0 cash 'in consideration of its commitment to arrange third-party mezzanine financing,' which was arranged through Brightleaf Mezzanine Capital LLC — an entity under common control of Thomas R. Chen, who also manages Brightleaf Investors Group. The memo analyses the consequences (same economic interest on both sides of the senior loan, negative control over major decisions, affiliate subordinated lender, arm's-length concerns) and recommends disclosure, intercreditor protections, independent manager and non-consolidation opinion. Issue D-4 reinforces this by analysing the 'circular funding' of the land via mezzanine proceeds/member capital calls and noting the Credit Memorandum itself raised circular funding as a possibility. A-11 and E-7 also address the resulting invalidity of the equity analyses."
+    },
+    {
+      "id": "C-016",
+      "title": "ISSUE_005: Loan agreement requires evidence of equity contribution as CP",
+      "verdict": "pass",
+      "reasoning": "The draft contains an express condition precedent to closing requiring evidence of the Borrower's equity contribution: Section 4.1(p) ('Equity Contribution') requires evidence that the Equity Deposit ($2,140,000) has been made and that the source of funds has been verified under Section 7.6(c), which itself mandates traced capital call notices, subscription agreements, 90-day bank/brokerage statements and a managing member certificate, and provides for a dollar-for-dollar Commitment reduction if the equity is sourced from the Mezzanine Lender or affiliates. The draft also squarely addresses the adequacy of the land contribution as equity: Schedule 3 line 1.01 treats the $8,200,000 land acquisition as funded by the Mezzanine Loan, and Drafting Note 9 flags the three irreconcilable accounts of how the land was funded, warns that if the land was mezzanine-funded the 'land as equity' premise underlying LTC/LTV/HVCRE is wrong and combined leverage is 100%, and points to Sections 7.6(c) and 14.6 as protections; Drafting Note 16 further computes net land equity (~$5,500,000) against the $8,900,000 as-is value less the $3,400,000 existing mortgage. Annex I items 3 and 19 cross-reference these conflicts. The criterion is therefore satisfied."
+    },
+    {
+      "id": "C-017",
+      "title": "ISSUE_006: Cover memo identifies unsatisfied prior deed of trust",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly flags the Triangle Commercial Bank deed of trust. Section 3.1.2 of the Executive Summary states that 'The $3,400,000 existing deed of trust is not funded anywhere in the sources and uses,' noting that the Title Commitment makes satisfaction of the Triangle Commercial Bank deed of trust (Book 6215, Page 892) a condition to issuing a first-priority policy. Issue B-2 is devoted to it, recording the Title Commitment Schedule B-I Requirement 4 (deed of trust dated September 14, 2018, securing $3,400,000 in favour of Triangle Commercial Bank) and recommending a payoff letter, inclusion of the payoff as a use, and simultaneous recording of the cancellation with the new Deed of Trust at or before closing (Draft §§4.1(h), 14.3). Table 2 ranks it as the #2 risk ('Existing Mortgage unfunded — Critical'). The criterion is fully satisfied."
+    },
+    {
+      "id": "C-018",
+      "title": "ISSUE_006: Loan agreement requires payoff/release of prior DOT as CP",
+      "verdict": "pass",
+      "reasoning": "The agreement expressly makes payoff and release of the Triangle Commercial Bank deed of trust a condition precedent to closing. Section 4.1(h) requires evidence of satisfaction/discharge of the Existing Mortgage, including a recorded cancellation or certificate of satisfaction or the payoff amount held in escrow, sufficient to delete the title exception. Section 14.3 further requires the Existing Mortgage to be satisfied and discharged on the Closing Date, with the Title Company instructed to record the cancellation/certificate of satisfaction simultaneously with the Lender's Deed of Trust. This satisfies the criterion."
+    },
+    {
+      "id": "C-019",
+      "title": "ISSUE_007: Cover memo identifies SPE/affiliate substantive consolidation risk",
+      "verdict": "pass",
+      "reasoning": "Section D-3 of the cover memorandum expressly identifies that Brightleaf Investors Group LLC holds a 28% membership interest for $0 and that the mezzanine financing was arranged through Brightleaf Mezzanine Capital LLC, an entity under common control of Thomas R. Chen. The analysis explicitly links this affiliate relationship to substantive consolidation risk, noting the Credit Memorandum §9.3 identifies the risk and that 'the same economic interest sits on both sides of the senior loan.' D-5 further requires a non-consolidation opinion and independent manager to address this risk. The criterion is satisfied."
+    },
+    {
+      "id": "C-020",
+      "title": "ISSUE_007: Cover memo recommends SPE protections (independent directors, non-consolidation opinions, anti-commingling)",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly recommends SPE protections, including appointing an independent manager and obtaining a non-consolidation opinion (Issue D-5), and further recommends independent-manager and non-consolidation protections in connection with the affiliate relationship (Issue D-3). This satisfies the criterion."
+    },
+    {
+      "id": "C-021",
+      "title": "ISSUE_007: Loan agreement includes SPE covenants addressing affiliate separation",
+      "verdict": "pass",
+      "reasoning": "Article 12 of the draft contains comprehensive SPE and separateness covenants expressly addressing affiliate separation: Section 12.2(a) requires separate books, records, accounts and financial statements from any member, manager, Affiliate or the Mezzanine Lender; Section 12.2(b) prohibits commingling of funds with members, managers or Affiliates; Section 12.2(f) requires fair and reasonable allocation of shared overhead and arm's-length relationships with members, managers and Affiliates; Section 12.2(g)/(j) bar pledging assets or making loans to affiliates; and Section 12.4 requires an independent manager with approval rights over bankruptcy actions and organizational amendments. Section 12.5 adds non-consolidation opinion and annual separateness certification, and Events of Default in Section 16.1(i) enforce the SPE covenants. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-022",
+      "title": "ISSUE_008: Cover memo or loan agreement includes SOFR fallback/benchmark replacement",
+      "verdict": "pass",
+      "reasoning": "Section 3.3(d) of the draft, captioned 'Benchmark Replacement,' expressly addresses the discontinuation or non-representativeness of SOFR, including triggers (permanent/indefinite discontinuation, administrator or regulator public statement, illegality of use), a mechanism for the Lender to substitute a successor benchmark rate with a conforming spread adjustment, reference to ARRC recommended best practices and prevailing market convention, thirty days' notice, and a 'hardwired' replacement requiring no Borrower consent provided the successor rate and adjustment are consistent with ARRC recommended fallback language and applied consistently to comparable CRE loans. This constitutes a benchmark replacement/conforming changes mechanism consistent with ARRC recommendations, satisfying the criterion."
+    },
+    {
+      "id": "C-023",
+      "title": "ISSUE_008: Cover memo identifies need for SOFR benchmark replacement provisions",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum addresses SOFR transition in section F-2, noting the Term Sheet's ARRC-consistent benchmark replacement provisions, that the benchmark replacement language is described but not drafted, and recommending hardwired replacement language along with lookback and related conventions. This satisfies the criterion."
+    },
+    {
+      "id": "C-024",
+      "title": "ISSUE_009: Cover memo discusses completion guaranty",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum discusses the completion guaranty as part of the guaranty structure. Section 3.2 expressly refers to 'the completion and carry guaranties' alongside guarantor support as supporting the credit. Issue E-2 analyzes the Completion Guaranty in detail (noting it would be breached on the day given because the Construction Maturity Date precedes substantial completion, and recommending conforming the Completion Guaranty to an extended maturity date). The Completion Guaranty is also referenced in issues B-6 and E-3, and the Carry Guaranty is discussed in A-7. Thus the completion guaranty is clearly part of the memo's discussion of the guaranty structure."
+    },
+    {
+      "id": "C-025",
+      "title": "ISSUE_009: Cover memo discusses 25% partial repayment guaranty at $11,875,000 each",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly discusses the 25% partial repayment guaranty and the $11,875,000-per-guarantor formulation. Under issue A-5, it records that the Term Sheet states an aggregate 25% guaranty of $11,875,000, while the Credit Memorandum states '$11,875,000 per guarantor,' and it analyzes the resulting discrepancy. The criterion is therefore satisfied."
+    },
+    {
+      "id": "C-026",
+      "title": "ISSUE_009: Cover memo addresses need for bad boy carve-out triggers",
+      "verdict": "fail",
+      "reasoning": "The criterion requires the cover memorandum to address 'bad boy' carve-out triggers (e.g., fraud, voluntary bankruptcy, unauthorized transfers, environmental liability) that would convert the partial repayment guaranty to full recourse. Reviewing the memo, the guaranty discussion is confined to quantum (A-5: $11,875,000 aggregate vs. 'per guarantor'), guarantor support/liquidity (H-1), and North Carolina anti-deficiency enforceability (H-2). Bankruptcy risk is discussed only in the structural/SPE context (D-3 affiliate-controlled bankruptcy risk; D-5 independent manager and non-consolidation opinion) — i.e., preventing a voluntary filing rather than triggering full recourse under the guaranty. Neither 'bad boy,' 'carve-out,' nor any trigger converting the partial guaranty to full recourse appears anywhere in the memorandum; there is no discussion of fraud, unauthorized transfers, or environmental-liability springing recourse. The criterion is therefore not satisfied."
+    },
+    {
+      "id": "C-027",
+      "title": "ISSUE_009: Loan agreement or guaranty provisions include bad boy carve-outs",
+      "verdict": "pass",
+      "reasoning": "Section 15.1(e) of the draft expressly provides 'Recourse Carve-Outs' to the Partial Repayment Guaranty, stating that upon triggering events — including fraud or intentional misrepresentation, voluntary bankruptcy or insolvency filing by the Borrower, unauthorized transfer or encumbrance of the Property or Pledged Interests, environmental liability, waste, breach of SPE covenants, and failure to maintain required insurance — the Partial Repayment Guaranty converts into a full recourse obligation of each Guarantor for 100% of the outstanding principal balance, accrued interest, fees and enforcement costs. This matches the criterion's requirements for bad boy carve-out triggers converting a partial guaranty to full recourse, and the carve-outs are also cross-referenced in the guaranty provisions of Section 15.3 (continuing guaranty, waiver of defences, absolute and unconditional obligations)."
+    },
+    {
+      "id": "C-028",
+      "title": "ISSUE_009: Addresses NC foreclosure considerations for guaranty",
+      "verdict": "pass",
+      "reasoning": "The output squarely addresses North Carolina-specific foreclosure considerations relevant to the guaranty in both documents. The cover memorandum's Issue H-2 ('North Carolina's anti-deficiency regime affects the guaranty structure') analyzes N.C.G.S. § 45-21.16 (power-of-sale foreclosure notice/hearing) and § 45-21.36 (fair-value credit on deficiency judgments), and recommends a savings provision preserving the fair-value credit, a severability clause specific to the guaranties, a guarantee of payment without purporting to waive § 45-21.36, and a NC enforceability opinion. The loan agreement implements this: Section 15.3(e) expressly states the Guaranty is not discharged by foreclosure, deed in lieu, a deficiency judgment, or application of N.C.G.S. § 45-21.36; Section 15.4 ('Deficiency and Fair Price Confirmation') addresses the judicial foreclosure regime, § 45-21.16, and § 45-21.36, and confirms no non-waivable rights are waived; Section 17.4 ('Preservation of Anti-Deficiency Rights') restates the point in the remedies article. Drafting Note 19 further flags the election-of-remedies and waiver-enforceability questions. This comfortably satisfies the criterion."
+    },
+    {
+      "id": "C-029",
+      "title": "ISSUE_010: Cover memo identifies unspecified extension option conditions",
+      "verdict": "pass",
+      "reasoning": "The memo identifies in issue D-6 that the Term Sheet's six-month extension is 'subject to conditions to be set in the Loan Agreement' (i.e., to be determined without enumeration). It further recommends in issue A-10 (and Table 2, issue 3) a specific combined debt-service coverage test as a condition to any extension, implemented in Draft §21.2(d). This satisfies the criterion by flagging the unspecified extension conditions and establishing a specific condition for the drafter."
+    },
+    {
+      "id": "C-030",
+      "title": "ISSUE_010: Loan agreement specifies at least 4 extension conditions",
+      "verdict": "pass",
+      "reasoning": "Article 21 expressly enumerates at least four extension conditions, including no event of default, substantial completion and certificate of occupancy, minimum occupancy threshold, DSCR based on actual NOI, extension fee, interest rate cap, and continued effectiveness of the intercreditor agreement. All listed criteria are satisfied."
+    },
+    {
+      "id": "C-031",
+      "title": "ISSUE_011: Cover memo or loan agreement addresses retainage release and NC lien law",
+      "verdict": "pass",
+      "reasoning": "The loan agreement expressly ties retainage release to North Carolina lien law. Section 5.9/6.6/6.7 (Release Conditions for the Final Advance releasing the full $3,475,000 retainage, and noting the $3,275,000/$200,000 discrepancy) conditions the release on: (i) final, unconditional statutory-form lien waivers from the Contractor and each subcontractor and materialman, or, where no waiver is delivered, expiration of the statutory period for filing a claim of lien under N.C.G.S. §44A-12 without a claim being filed, or posting of a lien bond or other security acceptable to the Lender and Title Company (§6.7(c)); (ii) expiration of the Chapter 44A lien filing period or a title date-down confirming no liens filed (§6.7(d)); and (iii) a title date-down insuring the Deed of Trust free of claims (§6.7(e)). Article 4.1(m) also requires pre-closing statutory waivers and a lien agent designation under §44A-11.3, and Schedule 4 shows the retainage release as Advance 9. The cover memorandum likewise addresses retainage (issue E-3) and mechanic's lien relation-back/Chapter 44A risk (B-11). Thus retainage release is fully connected to lien waiver and lien-period requirements, satisfying ISSUE_011."
+    },
+    {
+      "id": "C-032",
+      "title": "ISSUE_011: Loan agreement retainage release conditions include lien waivers",
+      "verdict": "pass",
+      "reasoning": "Section 6.7 (Release Conditions) expressly requires architect's final completion certificate, final unconditional certificate of occupancy, final unconditional lien waivers from the contractor and subcontractors/materialmen (or expiration of the statutory lien period or posting of a lien bond), and expiration of the statutory lien period or title date-down confirming no liens. This satisfies the criterion by including at least two of the specified conditions, including lien waiver requirements."
+    },
+    {
+      "id": "C-033",
+      "title": "ISSUE_012: Cover memo identifies CC&R architectural review as potential delay risk",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum expressly identifies the Brightleaf Historic District Association's CC&R architectural review process as a potential construction-delay risk. Issue B-5 (Table 2 item 13) explains that the Appraisal assumes ARC approval, the title officer has no evidence of submission, and the Declaration requires submission at least 90 days before construction with the building permit conditioned on approval or deemed approval — so the City cannot issue a permit and construction cannot lawfully begin, making the 90-day period critical to the timetable. Issue B-6 adds that an unapproved exterior change could halt construction via the Association's injunctive rights, and recommends Lender consent to any plan change requiring ARC approval. Issue E-9 and A-6 reinforce that historic-district architectural review can force design changes and create schedule risk. The recorded book/page for the Declaration (Book 6984, Page 1155) is not cited — the memo refers to it via Title Commitment Exception 11 — but the substance of the criterion, identifying CC&R architectural review as a delay risk, is clearly met."
+    },
+    {
+      "id": "C-034",
+      "title": "ISSUE_012: Loan agreement requires evidence of CC&R/design approval as CP",
+      "verdict": "pass",
+      "reasoning": "The draft expressly includes the CC&R/design approval requirement as a closing condition precedent in Section 4.1(k), which requires evidence that the Brightleaf Historic District Association Architectural Review Committee has approved the Approved Plans, or that the 60-day deemed-approval period has expired without written action, or a written waiver. It also includes covenant provisions requiring compliance with the recorded declaration and Architectural Review Committee approval: Section 9.1(q) (Architectural Review Compliance), Section 20.3 (submission of plans, obtaining approval or deemed approval, payment of assessments), Section 6.4(c) (change orders requiring ARB approval before Lender consent), Section 6.4(a) and 10.1(h)-(i) (plan modifications require Lender consent), and Schedule 2 Exception 11. Drafting Note 22 and Annex Item 17 flag the source-document inconsistency and confirm the requirement."
+    },
+    {
+      "id": "C-035",
+      "title": "Loan agreement correctly states loan amount as $47,500,000",
+      "verdict": "pass",
+      "reasoning": "The draft states the Loan Amount consistently as $[47,500,000] — on the cover page, in Section 1.1(xx) (\"'Loan Amount' means $[47,500,000]\"), in the Commitment definition (Advances not to exceed the Loan Amount), in the Note (original principal amount of the Loan Amount), and in Schedule 3 (senior Loan column totals $47,500,000). Although the figure is bracketed as a working-draft item and Section 2.6 flags a possible LTC-driven reduction to $45,360,000, the agreement does state the maximum loan amount/commitment as $47,500,000. The criterion is satisfied."
+    },
+    {
+      "id": "C-036",
+      "title": "Loan agreement correctly identifies Lender as Pinnacle Savings Bank, N.A.",
+      "verdict": "pass",
+      "reasoning": "The loan agreement consistently identifies the Lender as 'Pinnacle Savings Bank, N.A., a national banking association' — in the cover page header, in Section 1.1(uu) definition of 'Lender', in the signature block, and in the notice address block. The Lender is neither misnamed nor omitted."
+    },
+    {
+      "id": "C-037",
+      "title": "Loan agreement correctly identifies Borrower as Harborview Capital Partners LLC",
+      "verdict": "pass",
+      "reasoning": "The loan agreement explicitly identifies the Borrower on the cover page as 'Harborview Capital Partners LLC, a North Carolina limited liability company,' and consistently names it as the Borrower throughout the document (e.g., Section 1.1(pp), Section 8.1(a), and signature block)."
+    },
+    {
+      "id": "C-038",
+      "title": "Loan agreement states construction period rate as Daily Simple SOFR + 3.25%",
+      "verdict": "pass",
+      "reasoning": "Section 3.1 (Interest Rate — Construction Period) of the draft Loan Agreement expressly states that from the Closing Date through the last day of the Construction Period, the outstanding principal balance bears interest at a rate per annum equal to Daily Simple SOFR plus 3.25% (the 'Construction Rate'). The benchmark (Daily Simple SOFR), spread (3.25%), and per annum rate structure all match the criterion, and Section 3.3 further confirms the Daily Simple SOFR convention and 360-day year computation."
+    },
+    {
+      "id": "C-039",
+      "title": "Loan agreement states SOFR floor of 1.00%",
+      "verdict": "pass",
+      "reasoning": "The loan agreement expressly defines a SOFR Floor of 1.00% in the definition of 'SOFR' and in Section 3.3(c). Section 3.3(c) states that if Daily Simple SOFR is less than 1.00%, SOFR shall be deemed to be 1.00% for determining interest, and it notes the resulting minimum all-in rate during the Construction Period. Since Section 3.1 applies Daily Simple SOFR plus 3.25% during the construction period, the 1.00% SOFR floor applies during construction."
+    },
+    {
+      "id": "C-040",
+      "title": "Loan agreement states correct mini-perm interest rate",
+      "verdict": "pass",
+      "reasoning": "Section 3.2 states that during the Mini-Perm Period the Loan bears interest at 'Daily Simple SOFR plus 3.50%' (the 'Mini-Perm Rate'). The SOFR floor of 1.00% is specified in the definition of 'SOFR' (Section 1.1(ttt)) and in Section 3.3(c), which also confirms the resulting minimum all-in Mini-Perm rate of 4.50%. The rate, spread, and floor all match the criterion."
+    },
+    {
+      "id": "C-041",
+      "title": "Loan agreement states correct default rate",
+      "verdict": "pass",
+      "reasoning": "Section 1.1(v) defines the \"Default Rate\" as the sum of (i) the rate of interest otherwise applicable to the Loan on such day under Section 3.1 or 3.2, plus (ii) five percent (5.00%). Section 3.4 applies that Default Rate upon an Event of Default, and Drafting Note 3 reiterates that the Default Rate is the applicable contract rate plus 5.00%. The 5.00% premium matches the criterion exactly."
+    },
+    {
+      "id": "C-042",
+      "title": "Loan agreement states correct construction maturity date",
+      "verdict": "pass",
+      "reasoning": "Section 1.1(q) defines the Construction Maturity Date as [August 28, 2027] — exactly 30 months after the anticipated February 28, 2025 Closing Date — and the Construction Period is defined as commencing on the Closing Date and ending on that date. The date is stated correctly; the bracketed alternative (December 31, 2027) is a flagged drafting issue about schedule buffer and does not make the primary stated date incorrect."
+    },
+    {
+      "id": "C-043",
+      "title": "Loan agreement states correct mini-perm maturity date",
+      "verdict": "pass",
+      "reasoning": "The agreement defines the Mini-Perm Maturity Date as August 28, 2028, which is 12 months after the stated Construction Maturity Date of August 28, 2027. This satisfies the criterion, though it also notes an alternative construction maturity date subject to drafting resolution."
+    },
+    {
+      "id": "C-044",
+      "title": "Loan agreement includes the 6-month extension option",
+      "verdict": "pass",
+      "reasoning": "Article 21 includes a one-time Extension Option extending the Mini-Perm Maturity Date from August 28, 2028 to February 28, 2029, which is a 6-month extension as required by the criterion."
+    },
+    {
+      "id": "C-045",
+      "title": "Loan agreement states correct origination fee",
+      "verdict": "pass",
+      "reasoning": "Section 3.5(a) states: 'The Borrower shall pay to the Lender at Closing a non-refundable origination fee of $475,000, being one percent (1.00%) of the Loan Amount.' This matches the criterion exactly—1.00% of the $47,500,000 Loan Amount ($475,000), payable at Closing. The amount is also consistently reflected in Schedule 3 (line 4.02, $475,000) and in the Initial Advance allocation in Section 5.5."
+    },
+    {
+      "id": "C-046",
+      "title": "Loan agreement includes exit fee of 0.50% during construction period",
+      "verdict": "pass",
+      "reasoning": "Section 3.5(b) expressly provides a non-refundable exit fee equal to 0.50% of the outstanding principal balance if the Loan is repaid during the Construction Period, satisfying the criterion."
+    },
+    {
+      "id": "C-047",
+      "title": "Loan agreement includes exit fee of 0.25% during first 6 months of mini-perm",
+      "verdict": "pass",
+      "reasoning": "Section 3.5(b) of the draft expressly provides an exit fee of 0.25% of the outstanding principal balance if repayment occurs during the first six (6) months of the Mini-Perm Period (with 0.50% during the Construction Period and zero thereafter). This matches the criterion exactly."
+    },
+    {
+      "id": "C-048",
+      "title": "Loan agreement provides no exit fee after first 6 months of mini-perm",
+      "verdict": "pass",
+      "reasoning": "Section 3.5(b)(iii) expressly provides that the Exit Fee is zero if repayment occurs after the first six months of the Mini-Perm Period. This satisfies the criterion."
+    },
+    {
+      "id": "C-049",
+      "title": "Loan agreement includes unused line fee",
+      "verdict": "pass",
+      "reasoning": "Section 3.5(c) of the drafted agreement expressly provides for an Unused Line Fee: 'The Borrower shall pay to the Lender, quarterly in arrears, commencing on the first quarterly date following the Closing Date, a fee equal to 0.25% per annum on the average daily undrawn portion of the Commitment during the applicable quarter.' This matches the criterion's requirement of a 0.25% per annum unused commitment fee on the average daily undrawn balance."
+    },
+    {
+      "id": "C-050",
+      "title": "Loan agreement includes interest reserve provisions ($4,850,000)",
+      "verdict": "pass",
+      "reasoning": "The draft includes an Interest Reserve of $4,850,000 funded from loan proceeds at Closing. Section 7.1 establishes a segregated Interest Reserve Account credited with $[4,850,000] from the Initial Advance; Section 5.5 confirms the Initial Advance includes the Interest Reserve of $[4,850,000] applied directly to that account; the defined term in Section 1.1(qq) and Schedule 3 line 4.01 also state $4,850,000. Sections 7.2–7.5 provide disbursement, adequacy testing and replenishment mechanics. Although Drafting Note 8 flags potential inadequacy and the amount is bracketed as subject to business terms, the specified reserve amount and funding mechanism are present and correct."
+    },
+    {
+      "id": "C-051",
+      "title": "Loan agreement includes disbursement/draw schedule with milestones",
+      "verdict": "pass",
+      "reasoning": "Schedule 4 (Draw Schedule as Conformed) provides a milestone-based disbursement schedule that includes foundation complete, structural frame to Level 3, topped out, building envelope complete, MEP rough-in, interior finish (50% of units), substantial completion/TCO, and retainage release, each with specific dollar amounts. The advance amounts (9,475,000 + 4,691,250 + 6,255,000 + 6,255,000 + 4,691,250 + 3,127,500 + 3,127,500 + 3,127,500 + 3,475,000 + 1,835,000 + 1,440,000) sum precisely to the $47,500,000 Loan Amount, and the schedule is cross-referenced to the draw mechanics in Article 5 (e.g., Sections 5.5, 5.9, 6.6). The criterion is satisfied."
+    },
+    {
+      "id": "C-052",
+      "title": "Loan agreement includes 10% retainage holdback on hard costs",
+      "verdict": "pass",
+      "reasoning": "The draft expressly provides for a 10% retainage holdback on hard construction costs in the definition of 'Retainage' (Section 1.1(ss)), in Section 6.6, and in Schedule 4."
+    },
+    {
+      "id": "C-053",
+      "title": "Loan agreement includes correct collateral (first priority deed of trust)",
+      "verdict": "pass",
+      "reasoning": "The draft expressly lists as collateral a first-priority deed of trust encumbering the Property. Section 14.1(a) grants 'a first-priority deed of trust, assignment of rents, security agreement and fixture filing encumbering the fee simple interest in the Land and all improvements, fixtures and appurtenances.' The Land is defined in Section 1.1(ss) as the two Durham parcels — PIN 0821-04-72-3341 (601 Foster Street) and PIN 0821-04-72-4102 (615 Foster Street) — with full metes-and-bounds descriptions and recorded deed references in Schedule 1. First priority is reinforced by Section 14.2 (Deed of Trust insured as a valid first-priority lien subject only to Permitted Exceptions), the Title Policy definition in Section 1.1(yyy), Section 4.1(g) closing condition, and Schedule 2 (Existing Mortgage expressly excluded as a Permitted Exception and required to be released at Closing). The criterion is satisfied."
+    },
+    {
+      "id": "C-054",
+      "title": "Loan agreement includes assignment of rents and leases as collateral",
+      "verdict": "pass",
+      "reasoning": "The loan agreement expressly includes a collateral assignment of rents and leases: Article 14.1(b) grants a first-priority assignment of rents and leases of all present and future Leases, rents, revenues and income from the Property; the Loan Documents definition includes the Assignment of Rents; and Article 17 provides remedies to enforce it."
+    },
+    {
+      "id": "C-055",
+      "title": "Loan agreement includes assignment of construction contract (Graystone Construction Group Inc.)",
+      "verdict": "pass",
+      "reasoning": "The draft expressly includes a collateral assignment of the Construction Contract with Graystone Construction Group Inc. Section 1.1(p) defines the Construction Contract as the GMP contract between the Borrower and Graystone Construction Group Inc. (NC GC License No. 78442). Section 14.1(d) grants 'a collateral assignment of the Construction Contract and all rights, claims and benefits thereunder, including all warranties, guarantees, retainage and performance and payment bonds.' The 'Loan Documents' definition (Section 1.1(yy)) lists the 'Assignment of Construction Contract,' and Section 4.1(l) makes execution and delivery of the collateral assignment (with the Contractor's consent to assignment) a closing condition. The requirement is satisfied."
+    },
+    {
+      "id": "C-056",
+      "title": "Loan agreement includes assignment of architect's contract (Meridian Design Collective PC)",
+      "verdict": "pass",
+      "reasoning": "The loan agreement expressly includes a collateral assignment of the Architect's contract. Section 14.1(e) grants a collateral assignment of the Architect's contract and all architectural plans, drawings, and specifications, with the Architect's consent; Section 4.1(l) makes collateral assignment of the Architect's contract a closing condition; and the definition of 'Architect' identifies Meridian Design Collective PC. Thus the criterion is satisfied."
+    },
+    {
+      "id": "C-057",
+      "title": "Loan agreement includes minimum net worth covenant ($12,000,000 annually)",
+      "verdict": "pass",
+      "reasoning": "Section 11.1(e) of the draft expressly contains a Borrower Net Worth covenant requiring the Borrower to maintain a minimum net worth of $[12,000,000], tested annually within 120 days after the end of each Fiscal Year and certified in a Compliance Certificate. The threshold matches the criterion ($12,000,000) and the annual testing requirement is present. Although the amount is bracketed and Drafting Note 10 flags arithmetical concerns and suggests alternative formulations, the covenant itself is included as required. Exhibit B's Compliance Certificate form also tracks this covenant (Section 11.1(e), ≥ $[12,000,000])."
+    },
+    {
+      "id": "C-058",
+      "title": "Loan agreement includes minimum guarantor liquidity covenant ($5,000,000 quarterly)",
+      "verdict": "pass",
+      "reasoning": "Section 11.1(d) ('Guarantor Liquidity') expressly requires the Guarantors to maintain combined liquid assets (cash, cash equivalents and marketable securities convertible within 30 days) of not less than $5,000,000, 'tested quarterly, with the first test on [March 31, 2025].' The covenant is also reflected in the Compliance Certificate (Exhibit B) and in Schedule 7 reporting requirements (quarterly liquidity certification), and a breach is made an Event of Default under Sections 16.1(n)(ii) and 15.3(f). The threshold and quarterly testing match the criterion exactly."
+    },
+    {
+      "id": "C-059",
+      "title": "Loan agreement includes negative covenant on additional debt",
+      "verdict": "pass",
+      "reasoning": "The agreement contains an express negative covenant in Article 10, Section 10.1(a), prohibiting the Borrower from incurring, assuming, or permitting additional Indebtedness without the Lender's prior written consent, subject only to specified permitted exceptions (the Loan, the Mezzanine Loan, and ordinary-course trade payables). This satisfies the criterion."
+    },
+    {
+      "id": "C-060",
+      "title": "Loan agreement requires monthly construction progress reports",
+      "verdict": "pass",
+      "reasoning": "Section 9.1(l) expressly requires the Borrower to deliver a construction progress report within 15 days after each calendar month during the Construction Period, and the report must include the Inspection Consultant's report. Schedule 7 also lists this as a monthly reporting requirement, so the loan agreement requires monthly construction progress reports with third-party inspector sign-off."
+    },
+    {
+      "id": "C-061",
+      "title": "Loan agreement requires builder's risk insurance",
+      "verdict": "pass",
+      "reasoning": "The draft expressly requires builder's risk insurance in Section 19.1(a), specifying all-risk coverage on a replacement-cost basis, minimum amount, and lender mortgagee/loss payee status, and it is also listed in Schedule 5."
+    },
+    {
+      "id": "C-062",
+      "title": "Loan agreement requires commercial general liability insurance (at least $5,000,000)",
+      "verdict": "pass",
+      "reasoning": "Section 19.1(b) of the loan agreement expressly requires Commercial General Liability insurance of not less than $5,000,000 per occurrence and $10,000,000 in the aggregate, covering premises liability, products and completed operations, contractual liability, etc. Schedule 5 (Insurance Requirements) repeats the $5,000,000 per occurrence / $10,000,000 aggregate minimum with the Lender named as additional insured. The requirement meets the criterion."
+    },
+    {
+      "id": "C-063",
+      "title": "Loan agreement requires umbrella coverage (at least $10,000,000)",
+      "verdict": "pass",
+      "reasoning": "Section 19.1(c) of the draft requires 'Umbrella or Excess Liability. Not less than $10,000,000 per occurrence and in the aggregate, excess of the general liability, automobile and employers' liability coverages,' and Schedule 5 (Insurance Requirements) repeats the $10,000,000 per occurrence and aggregate minimum. This satisfies the criterion of requiring umbrella coverage of at least $10,000,000."
+    },
+    {
+      "id": "C-064",
+      "title": "Loan agreement references completion guaranty from both guarantors",
+      "verdict": "pass",
+      "reasoning": "The loan agreement identifies both guarantors, Elena Vasquez-Torres and Reginald K. Osei, and Article 15.1(a) expressly requires a Completion Guaranty executed by each Guarantor, with the Guaranty definition covering both individuals. Thus the completion guaranty from both guarantors is referenced."
+    },
+    {
+      "id": "C-065",
+      "title": "Loan agreement states correct partial repayment guaranty (25% / $11,875,000 each)",
+      "verdict": "fail",
+      "reasoning": "The draft includes a 25% partial repayment guaranty, but it expressly structures it as an aggregate cap of $11,875,000 for all guarantors collectively—not $11,875,000 per guarantor. Section 15.2 limits total recovery to $11,875,000 notwithstanding joint and several liability, and Drafting Note 18 rejects the Credit Memorandum's '$11,875,000 per guarantor' formulation. Because the criterion requires $11,875,000 each, the structure/amount is incorrect."
+    },
+    {
+      "id": "C-066",
+      "title": "Loan agreement includes representations and warranties article with required topics",
+      "verdict": "pass",
+      "reasoning": "The loan agreement includes Article 8, Representations and Warranties, which covers all six required topics: entity formation and authority (8.1(a)-(b)), no conflicts (8.1(c)), financial statements accuracy (8.1(f)), title to property (8.1(d)), environmental compliance (8.1(n)), and no litigation (8.1(e))."
+    },
+    {
+      "id": "C-067",
+      "title": "Loan agreement includes events of default article with required categories",
+      "verdict": "pass",
+      "reasoning": "Article 16 ('Events of Default') expressly includes payment default (§16.1(a)), representation breach (§16.1(b)), covenant defaults (§16.1(c)-(d)), bankruptcy/insolvency (§16.1(e)), construction-specific defaults (§16.1(f)), material adverse change (§16.1(g)), and cross-default (§16.1(j)). It therefore covers all seven required categories, exceeding the five-category threshold."
+    },
+    {
+      "id": "C-068",
+      "title": "Loan agreement includes remedies provisions",
+      "verdict": "pass",
+      "reasoning": "The draft contains a full Article 17 (Remedies) that expressly provides for acceleration of the loan (Section 17.1(a)), cessation of advances and termination of the Commitment (Section 17.1(b)), application of the Default Rate (17.1(c)), foreclosure of the Deed of Trust under N.C.G.S. Chapter 45 including power of sale and judicial foreclosure (17.1(d)), UCC Article 9 remedies, enforcement of guaranties, application of reserves, exercise of rights over pledged interests, specific performance, receivership (17.3), setoff (17.6), cumulative remedies (17.2), and preservation of anti-deficiency rights (17.4). These satisfy the criterion for remedies upon an event of default, including acceleration, cessation of advances, exercise of deed of trust rights, and other customary remedies."
+    },
+    {
+      "id": "C-069",
+      "title": "Loan agreement includes environmental indemnity provisions",
+      "verdict": "pass",
+      "reasoning": "The draft thoroughly includes environmental indemnity provisions. Article 1.1(aa) defines the 'Environmental Indemnity' (an Environmental Indemnity Agreement from Borrower and each Guarantor in favour of Lender), and Section 18.3 sets out its substantive terms: unlimited in amount, independent of the other Loan Documents, surviving repayment/foreclosure/deed in lieu, and expressly covering costs of modifying or defending the NFA Letter, additional investigation or remediation required by NCDEQ, third-party claims relating to the Recognised Environmental Condition, and operation/maintenance of the vapour mitigation system. Section 18.1(d) independently indemnifies the Lender for Environmental Laws and Hazardous Materials, expressly including matters described in the Phase I ESA, Phase II ESA and NFA Letter, including investigation and remediation costs. Section 15.1(d) requires the unlimited environmental indemnity as a condition of closing, and Article 13 imposes NFA Letter compliance covenants for the known petroleum/UST contamination (Restricted Area, soil management plan, deed notice, vapour mitigation). The known REC is squarely addressed: Drafting Note 14 recounts the former 2,000-gallon diesel UST and remediation volumes/costs, Section 13.2 governs the Restricted Area and NFA Letter conditions, and Section 4.1(f) requires pollution legal liability insurance naming the Lender as additional insured/loss payee against NFA modification, additional remediation and third-party claims relating to the Recognised Environmental Condition. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-070",
+      "title": "Loan agreement includes soil vapor mitigation system requirement",
+      "verdict": "pass",
+      "reasoning": "The draft loan agreement expressly requires the soil vapor mitigation system throughout. Section 4.1(e)(v) makes design/incorporation of the sub-slab depressurization system a closing condition; Section 13.2(a) (NFA Letter Condition 1) covenants to design, install, commission, operate, maintain and test the sub-slab depressurization system beneath all enclosed structures over the Restricted Area; Section 13.3 imposes ongoing maintenance, inspection, testing and no-degradation obligations (and binds transferees via a covenant running with the land); Section 13.5 requires draw-period certifications that the system is being installed per approved design; Section 6.4(d) and Section 10.1(i) prohibit eliminating or degrading the system without Lender consent; Schedule 3-A(e) includes the passive sub-slab depressurization system (with active conversion capability) in the Approved Plans; and Schedule 3 line 2.08 ties the system to the parking structure scope. The requirement is present as both condition precedent and covenant, satisfying the criterion."
+    },
+    {
+      "id": "C-071",
+      "title": "Loan agreement includes conditions precedent to each advance/draw with required items",
+      "verdict": "pass",
+      "reasoning": "The agreement includes Article 5 conditions precedent to each Advance/Draw. It expressly requires a complete Draw Request with supporting documentation (5.1(c), 5.4), an Inspection Consultant report confirming completion and work quality (5.1(d)), a title date-down endorsement confirming no intervening liens (5.1(f)), and bring-down of representations and warranties (5.1(b)). Therefore it covers all four required items."
+    },
+    {
+      "id": "C-072",
+      "title": "Loan agreement property description includes both parcel IDs",
+      "verdict": "pass",
+      "reasoning": "The Property is identified with both parcel IDs (0821-04-72-3341 and 0821-04-72-4102) and both addresses (601 and 615 Foster Street, Durham, NC 27701) on the cover page and in the definitions/Schedule 1."
+    },
+    {
+      "id": "C-073",
+      "title": "Loan agreement identifies GMP construction contract at $34,750,000",
+      "verdict": "pass",
+      "reasoning": "The loan agreement expressly defines the Construction Contract as a guaranteed maximum price contract with Graystone Construction Group Inc. in the GMP amount of $34,750,000, and repeatedly references that amount and contractor elsewhere."
+    },
+    {
+      "id": "C-074",
+      "title": "Loan agreement references mezzanine loan from Brightleaf Mezzanine Capital LLC at $9,200,000",
+      "verdict": "pass",
+      "reasoning": "The draft expressly defines the 'Mezzanine Lender' as Brightleaf Mezzanine Capital LLC, a North Carolina limited liability company (Section 1.1(bbb)), and defines the 'Mezzanine Loan' in Section 1.1(ccc) as the mezzanine loan in the principal amount of $9,200,000 bearing interest at 12.50% per annum. The $9,200,000 amount and the Brightleaf Mezzanine Capital LLC name are repeated consistently throughout (e.g., Schedule 3 funding table, Sections 10.1(a), 14.5, 14.6, and Annex I item 19). The name and amount are therefore correctly stated and the mezzanine loan is prominently referenced."
+    },
+    {
+      "id": "C-075",
+      "title": "Loan agreement states mezzanine loan rate of 12.50% fixed with coterminous maturity",
+      "verdict": "pass",
+      "reasoning": "Section 1.1(ccc) defines the Mezzanine Loan as bearing interest at the fixed rate of 12.50% per annum. Coterminous maturity is expressly stated in Section 14.5(b)(viii) ('provisions addressing the extension of the Mezzanine Loan coterminously with any extension of the Loan') and Section 21.2(g) (requiring that 'the maturity of the Mezzanine Loan has been extended coterminously with the extension of the Loan'), and reinforced by Drafting Note 17(c), which confirms the record describes the Mezzanine Loan as coterminous with the Loan 'including any extension period' while flagging that the Intercreditor Agreement must implement it. Both required elements—12.50% fixed rate and coterminous maturity—are present and correctly stated."
+    },
+    {
+      "id": "C-076",
+      "title": "Loan agreement includes definitions article with key defined terms",
+      "verdict": "pass",
+      "reasoning": "Article 1 is a Definitions and Interpretation article with Section 1.1 (alphabetical defined terms) and Section 1.2 (additional defined terms). It defines all 12 listed terms: SOFR (ttt), Business Day (j), Construction Period (r), Mini-Perm Period (fff), Maturity Date (aaa), Project (qqq), Property (1.2(h)), Lender (uu), Guarantor (ll), Event of Default (ee), Collateral (1.2(a)), and Borrower (defined on the cover page and used consistently). This far exceeds the 8-of-12 threshold."
+    },
+    {
+      "id": "C-077",
+      "title": "Cover memo correctly calculates LTV (As-Completed) as approximately 65.25%",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum repeatedly and correctly states the as-completed LTV as 65.25% ($47,500,000 ÷ $72,800,000), including in the Executive Summary, the recomputation table (Table 3), and issue A-1. It also expressly records that the Credit Memorandum applies a bank policy maximum of 70% and reports the metric as 'Pass', i.e. that 65.25% is within the 70% ceiling. Although the memo additionally flags that 65.25% slightly exceeds the 65% covenant in the executed Term Sheet (a separate, more rigorous point), the criterion's core requirement — correct calculation of as-completed LTV at ~65.25% and recognition of the 70% policy maximum — is satisfied. No material miscalculation is present."
+    },
+    {
+      "id": "C-078",
+      "title": "Cover memo correctly identifies DSCR as approximately 1.31x",
+      "verdict": "pass",
+      "reasoning": "The memo explicitly states the stabilised DSCR as 1.31x, computed as $4,876,800 stabilised NOI ÷ $3,728,750 annual debt service (7.85% interest-only on $47,500,000), which recomputes to 1.308x. Table 3 records 'Stabilised DSCR 1.31x — Agrees,' and the figure is referenced in the Executive Summary and Issue A-10. It also confirms the ratio exceeds the 1.25x covenant (noting the 1.21x failure scenario if 14 units are lost). The DSCR is correctly calculated and presented."
+    },
+    {
+      "id": "C-079",
+      "title": "Loan agreement includes conditions precedent to closing article",
+      "verdict": "pass",
+      "reasoning": "The draft contains a distinct Article 4 — 'Conditions Precedent to Closing' — with Section 4.1 listing conditions to the Initial Advance, including: Loan Documents and Note/Guaranties (4.1(a)-(b)), organizational documents and authorizing resolutions (4.1(c)), appraisal (4.1(d)), environmental reports/Phase I & II/NFA Letter (4.1(e)-(f)), title policy/commitment (4.1(g), 4.2), Existing Mortgage payoff (4.1(h)), survey (4.1(i)), zoning/permits (4.1(j)), construction and architect contracts (4.1(l)), lien waivers (4.1(m)), lien agent (4.1(n)), insurance certificates (4.1(o)), equity contribution/Equity Deposit (4.1(p)), executed Intercreditor Agreement with Mezzanine Lender (4.1(q)), non-consolidation opinion and legal opinions of counsel (4.1(r)-(s)), financial information (4.1(t)), compliance certificates (4.1(u)), KYC (4.1(v)), flood determination (4.1(w)), Approved Budget/Draw Schedule (4.1(x)), and no MAC (4.1(z)). All deliverables enumerated in the criterion are present, so the criterion is satisfied."
+    },
+    {
+      "id": "C-080",
+      "title": "Loan agreement requires lender's title insurance policy as closing CP",
+      "verdict": "pass",
+      "reasoning": "Section 4.1 (Conditions to the Initial Advance) subsection (g) expressly conditions closing on delivery of the Title Policy (or an unconditionally binding pro forma/marked-up commitment plus a 'nothing further' letter) in the amount of the Loan Amount, insuring the Deed of Trust as a valid first-priority lien on the Land and Improvements subject only to the Permitted Exceptions, and including the endorsements in Section 4.2. 'Title Company' is defined in Section 1.1(www) as Aldersgate Title & Escrow Inc., and the Title Policy is defined in Section 1.1(yyy) as the ALTA Loan Policy issued by that Title Company. The requirement is therefore present as a closing condition precedent protecting the lender's first-priority deed of trust."
+    },
+    {
+      "id": "C-081",
+      "title": "Both deliverables are produced (loan agreement and cover memo)",
+      "verdict": "pass",
+      "reasoning": "The agent's output contains two clearly labeled, separate deliverables: 'loan-agreement-draft.docx' (a full construction-to-mini-permanent loan agreement with articles, schedules, exhibits, and drafting notes) and 'cover-memorandum.docx' (a separate privileged cover memorandum with source-document review, issue analysis, tables, and recommendations). Both are present and distinguishable as separate work products, satisfying the criterion."
+    },
+    {
+      "id": "C-082",
+      "title": "Cover memo cites specific source documents when identifying issues",
+      "verdict": "pass",
+      "reasoning": "The cover memorandum consistently cites specific source documents by name and section when identifying issues — for example, Term Sheet §6.1 for the LTC covenant (A-2), Credit Memorandum §5.3/§9.1 for the escrow cure, Title Commitment Schedule B-I Requirement 4 and Schedule B-II Exception 10 for the existing deed of trust (B-2/B-5), Phase I ESA §7 for the NCDEQ NFA conditions (C-1/C-2), Appraisal §7 for operating expenses (A-8), Org Chart §1.3 and Detailed Budget line 1.01 for the land funding conflict (D-4), and the Borrower's Draw Schedule for the reconciliation errors (E-4). Table 1 also inventories all seven source documents with dates, authors, and extent read. The criterion is clearly satisfied."
+    },
+    {
+      "id": "C-083",
+      "title": "Loan agreement addresses the borrower as a single-purpose entity",
+      "verdict": "pass",
+      "reasoning": "The draft contains a dedicated Article 12 ('Single-Purpose Entity and Separateness Covenants') requiring the Borrower to maintain SPE status (Section 12.1) and imposing detailed separateness covenants (Section 12.2): maintaining separate books of account and records, not commingling funds, holding itself out as a separate entity, observing LLC formalities, paying its own liabilities, maintaining adequate capital, not pledging assets for others, and maintaining separate telephone/letterhead/email. Section 12.3 restricts bankruptcy filings absent independent manager consent, Section 12.4 mandates an independent manager, and Section 12.5 requires a non-consolidation opinion and annual separateness certificates. Supporting provisions reinforce the SPE structure: Section 8.1(k) (SPE representation), Section 10.1(j) (Nature of Business — no business other than the Project), Section 10.1(l) (no subsidiaries), Section 16.1(i) (SPE breach as Event of Default), and Schedule 7 reporting (SPE/separateness certificate). The criterion is fully satisfied."
+    },
+    {
+      "id": "C-084",
+      "title": "Loan agreement includes governing law as North Carolina",
+      "verdict": "pass",
+      "reasoning": "Section 22.2 (\"Governing Law; Venue; Waiver of Jury Trial\") expressly provides that the Agreement and the other Loan Documents \"shall be governed by, and construed in accordance with, the laws of the State of North Carolina, without regard to its conflict-of-laws principles,\" and submits the parties to North Carolina courts. This is reinforced by the Article 22 heading, which includes \"Governing Law,\" and by related references throughout the document (e.g., N.C.G.S. citations, Durham County venue). North Carolina is clearly specified as the governing law."
+    }
+  ]
+}

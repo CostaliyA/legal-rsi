@@ -1,0 +1,13 @@
+{
+  "task_id": "real-estate/identify-issues-in-estoppel-certificate",
+  "judge_model": "deepseek-flash",
+  "score": 0.0,
+  "max_score": 1.0,
+  "all_pass": false,
+  "n_passed": 34,
+  "n_criteria": 35,
+  "n_grading_errors": 0,
+  "criterion_fraction": 0.9714285714285714,
+  "beta": 0.2,
+  "reward_task": 0.19428571428571428
+}

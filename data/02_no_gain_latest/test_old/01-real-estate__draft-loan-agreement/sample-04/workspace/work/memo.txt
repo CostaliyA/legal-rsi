@@ -1,0 +1,4678 @@
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+MEMORANDUM
+PRIVILEGED AND CONFIDENTIAL — ATTORNEY-CLIENT
+COMMUNICATION — ATTORNEY WORK PRODUCT
+To: Katharine “Kate” Drummond, Partner
+From: Marcus Webb, Associate
+Copy: David Forsythe, Senior Vice President, Pinnacle Savings Bank, N.A. (Sections 1,
+3 and 8 only)
+Date: February 3, 2025
+Client/Matter: Pinnacle Savings Bank, N.A. / 1041-0088
+Re: Pinnacle Savings Bank, N.A. / Harborview Capital Partners LLC — The
+Piedmont at Brightleaf — $47,500,000 Construction-to-Mini-Permanent Loan
+(Bank Loan No. CRE-2025-0342): Cover Memorandum to the First Draft of the
+Loan Agreement; Material Issues and Inconsistencies Across the Source
+Documents
+
+This memorandum accompanies the first draft of the Loan Agreement (the
+“Draft”) for the captioned transaction. It records (a) the source documents
+reviewed, (b) the material issues and inconsistencies we identified across those
+documents, (c) our recommendation for resolving each, and (d) where each issue is
+addressed in the Draft. Section 5 is organized by issue number; the Draft crossrefers to those numbers throughout, and each cross-reference is keyed to the
+numbering used here.
+1. Purpose, Scope and Method
+1.1 Purpose. The Bank’s Credit Memorandum dated January 22, 2025
+recommends approval of a $47,500,000 construction-to-mini-permanent loan to
+Harborview Capital Partners LLC, subject to conditions of approval and to
+resolution of enumerated risk factors. Our instruction is to convert the executed
+Term Sheet dated January 10, 2025 and the approved credit into definitive
+documentation, and to report on the material issues and inconsistencies in the
+record before the Draft is circulated. This memorandum does that report.
+1.2 Method. We read each source document in full. We then re-performed every
+material computation in the record rather than accepting the stated result: the
+sources and uses, the loan-to-cost, loan-to-value and debt service coverage ratios,
+the interest reserve projection, the draw schedule footings, the stabilization
+analysis, the guaranty percentages, the acreage and frontage figures, and each
+date interval. Where a document stated a result that we could not reproduce, we
+have said so and shown our arithmetic. Every proposition in Section 5 is tied to a
+specific document and section. Where the record is silent we have said so rather
+than assumed a fact.
+1.3 What this memorandum is not. We have not re-underwritten the credit, and
+we express no view on whether the Bank should make the Loan. Our commentary
+on credit metrics is limited to testing internal consistency and to identifying where
+
+1
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+a document’s stated conclusion does not follow from its own figures — because
+those are matters that will be relied on in documentation and, potentially, in a
+bankruptcy or enforcement proceeding. We have not reviewed the full Phase II
+Environmental Site Assessment, the NFA letter itself, the GMP contract, the
+architect’s agreement, either party’s financial statements, or the operating
+agreement in unexcerpted form; none is in the record furnished to us (see Issue
+44).
+1.4 Convention. “Term Sheet” means the executed term sheet dated January 10,
+2025. “Credit Memorandum” means the Senior Loan Committee Credit
+Memorandum dated January 22, 2025. “Appraisal” means the executive summary
+of the self-contained appraisal report by Ridgeline Appraisal Services Inc. dated
+November 15, 2024 (File RAS-2024-1147). “Phase I ESA” means the excerpted
+Phase I Environmental Site Assessment by Sentinel Environmental Consulting LLC
+dated October 28, 2024 (Project SEC-2024-1147). “Title Commitment” means
+Commitment No. NC-2024-88712 issued by Aldersgate Title & Escrow Inc.,
+effective December 5, 2024. “Organizational Chart” means the borrower
+organizational chart and operating agreement excerpts prepared by Calloway &
+Strauss PLLC dated January 2025. “Draw Schedule” means the Borrower-prepared
+construction and draw schedule dated January 8, 2025. References to “$” are: all
+amounts are in United States dollars.
+2. Documents Reviewed and Status
+#
+
+Document
+
+Date
+
+Prepared by
+
+Status / Gaps
+
+1
+
+Executed Term Sheet
+(non-binding except §§
+22–23)
+
+Jan. 10, 2025
+
+Pinnacle Savings Bank,
+N.A.
+
+Executed by both parties.
+Contains internal
+inconsistencies (Issue 42)
+
+2
+
+Senior Loan Committee
+Credit Memorandum
+
+Jan. 22, 2025
+
+D. Forsythe, SVP
+
+Approved subject to conditions.
+Several conclusions not
+reproducible (Issues 1–3, 9, 31)
+
+3
+
+Appraisal executive
+summary (187-page
+report referenced, not
+furnished)
+
+Nov. 15, 2024
+
+Ridgeline Appraisal
+Services Inc.; L.
+Haverford, MAI
+
+Executive summary only; full
+report not in record. Contains
+two internal inconsistencies
+(Issues 18, 22, 26)
+
+4
+
+Preliminary Title
+Commitment
+No. NC-2024-88712
+
+Dec. 5, 2024
+
+Aldersgate Title &
+Escrow Inc.; P. Langley
+
+Expires June 5, 2025. No
+evidence of the NFA deed
+notice; no evidence of ARC
+approval; Prior Deed of Trust
+unreleased
+
+5
+
+Phase I ESA (excerpted)
+
+Oct. 28, 2024
+
+Sentinel Environmental
+Consulting LLC; Dr. J.
+Whitfield, P.E.
+
+Excerpts only. NFA letter and
+Phase II report referenced but
+not furnished. AAI shelf life to
+April 26, 2025
+
+6
+
+Borrower organizational
+chart and operating
+agreement excerpts
+
+Jan. 2025
+
+Calloway & Strauss
+PLLC
+
+Excerpts only; complete
+operating agreement not in
+record. Certification undated
+and unsigned
+
+7
+
+Construction budget and
+draw schedule (3
+worksheets)
+
+Jan. 8, 2025
+
+Harborview Capital
+Partners LLC
+
+Does not foot in two places
+(Issues 11, 12); interest reserve
+built on a stale rate assumption
+(Issue 10)
+
+2
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+#
+
+Document
+
+Date
+
+Prepared by
+
+8
+
+Phase II ESA (Sentinel
+Project SEC-2024-1089)
+
+Aug. 30, 2024
+
+Sentinel
+
+Not in record. Referenced by
+the Phase I ESA and the NCDEQ
+file
+
+9
+
+NCDEQ No Further
+Action letter (Site ID
+IHSB-24-1203)
+
+Sept. 30,
+2024
+
+NCDEQ IHSB
+
+Not in record. Terms taken
+from the Phase I ESA summary
+
+10
+
+Recorded Deed Notice /
+declaration of land use
+restrictions
+
+Due Nov. 29,
+2024
+
+Borrower
+
+Not in record; not shown on
+the Title Commitment (Issue
+23)
+
+11
+
+Intercreditor agreement
+with Brightleaf
+Mezzanine Capital LLC
+
+—
+
+Negotiated, not
+executed
+
+Not in record. A hard closing
+condition
+
+12
+
+GMP construction
+contract; architect’s
+agreement
+
+2024
+
+Graystone Construction
+Group Inc.; Meridian
+Design Collective PC
+
+Referenced as executed; not in
+record
+
+13
+
+Amended and restated
+operating agreement
+(complete)
+
+Mar. 14,
+2019, as
+amended
+through
+Dec. 1, 2024
+
+Harborview Capital
+Partners LLC
+
+Excerpts only (Issues 37, 38)
+
+14
+
+ALTA/NSPS survey
+
+—
+
+Not yet obtained
+
+Outstanding. Required to close
+and to cure the legal description
+defect (Issue 17)
+
+15
+
+Phase I and Phase II
+reliance letters for the
+Bank
+
+Oct. 28, 2024
+(Phase I only)
+
+Sentinel
+
+Phase I reliance letter
+referenced as Appendix G;
+Phase II reliance letter not
+addressed (Issue 27)
+
+16
+
+Borrower and guarantor
+financial statements; tax
+returns
+
+Dec. 15 and
+18, 2024
+(PFS)
+
+Borrower / Guarantors
+
+Summaries only; Borrower
+statements not furnished; tax
+returns not furnished (Issues
+31, 44)
+
+17
+
+Appraisal, zoning, flood,
+environmental and title
+diligence
+
+Various
+
+Various
+
+Several items pending; see
+Section 8
+
+3
+
+Status / Gaps
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+3. Executive Summary
+The Loan can be documented, but the record as furnished does not support several
+of the conclusions the Credit Memorandum relies on, and three of those
+conclusions go to the core of the credit rather than to documentation niceties.
+They are:
+(a) The Project has no borrower equity, and the Loan is oversized against
+the Bank’s own limits. The sources and uses allocates one hundred percent of
+the $56,700,000 of Total Project Costs to the $47,500,000 senior loan and the
+$9,200,000 mezzanine loan, with Borrower cash equity stated at $0 (Draw
+Schedule, “Summary” and “Detailed Budget” worksheets; Credit Memorandum
+§5.1 and Appendix C). The $8,200,000 land cost is shown in the Detailed Budget as
+funded by Mezzanine Loan proceeds, not by member equity. That is
+irreconcilable with the Term Sheet (§5.2: land “funded from prior capital
+contributions by the Borrower’s members”), the Credit Memorandum (§2.2:
+“capital calls from all three members”), and the Organizational Chart (§1.3:
+contributed by Ms. Vasquez-Torres “from her personal resources”). On the face of
+the sources and uses, the Mezzanine Loan is a land take-out: at closing it repays
+whoever funded the land. If that is right, then the “land equity” that the Credit
+Memorandum credits at $8,200,000 in its equity analysis (Credit Memorandum §
+5.3, § 9.1: $2,140,000 cash + $8,200,000 land = $10,340,000, or 18.2%) is the
+same $8,200,000 that the Credit Memorandum’s own sources table has already
+counted as mezzanine debt. It is counted twice. True equity is $0, or $2,140,000 if
+the equity escrow is funded with genuinely independent cash. See Issue 5.
+(b) The Loan exceeds both of the Bank’s leverage limits as set in the
+executed Term Sheet, and the prescribed cure does not work. Loan-to-cost is
+83.77% against an 80% maximum (a $2,140,000 excess). As-completed loan-tovalue is 65.25% against the 65% maximum in Term Sheet §§ 4 and 6.2 (a $180,000
+excess) — a breach the Credit Memorandum does not report, because it measures
+against a 70% policy limit that contradicts the executed Term Sheet. The Credit
+Memorandum’s cure — deposit $2,140,000 of equity — is presented as an
+alternative to reducing the Loan Amount, but on its own it cannot work: because
+every dollar of Total Project Costs is already allocated to the two loans, adding
+$2,140,000 of equity to the sources column while leaving the Loan at $47,500,000
+produces $58,840,000 of sources against $56,700,000 of uses. The equity must
+displace Loan proceeds. The two “alternatives” in Credit Memorandum §5.1 and
+§10.1.2 are in fact two halves of a single fix: reduce the Loan Amount to
+$45,360,000 and fund $2,140,000 of equity. See Issues 1, 2 and 3.
+(c) The interest reserve is not adequate, and the record gives three
+different answers to how inadequate. The Draw Schedule projects a surplus of
+$221,325 on a Daily Simple SOFR assumption of 3.50%; the same worksheet’s own
+sensitivity table at 4.35% projects a shortfall of $(365,830); and the Credit
+Memorandum projects a shortfall of $(565,000). All three purport to measure the
+same thing. The difference is methodology: the Draw Schedule’s month-by-month
+accrual is arithmetically sound but is built on a rate assumption 85 basis points
+
+4
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+below the rate used everywhere else in the record, and the Credit Memorandum’s
+average-balance shortcut overstates total interest by roughly $200,000 at the same
+rate. On the Draw Schedule’s own draw pattern at 4.35% Daily Simple SOFR, total
+construction-period interest is approximately $5,211,500 and the shortfall is
+approximately $361,500. The reserve is short, and the Senior Loan Committee
+approved it as “adequate.” See Issues 9 and 10.
+Beyond those three, the record contains a cluster of issues that individually are
+capable of resolution but collectively indicate that the transaction documents were
+assembled from inconsistent inputs:
+
+
+The Draw Schedule does not foot. Draw 9 shows $4,275,000 of components
+against a stated draw of $3,275,000, and the component columns aggregate to
+$48,500,000 against a $47,500,000 facility. The Detailed Budget’s “Net
+Disbursable” total is overstated by $725,000. The 10% retainage is $3,475,000,
+but the documents release $3,275,000. See Issues 11, 12 and 13.
+
+
+
+The environmental record is materially incomplete. The NFA letter
+requires a deed notice to be recorded by November 29, 2024. The Phase I ESA
+(October 28, 2024) records no evidence of recording. The Appraisal (November
+15, 2024) states it is recorded. The Title Commitment (effective December 5,
+2024) searches the public records and does not show it. It is also absent from
+the Term Sheet’s list of Permitted Exceptions. If the notice was not recorded,
+the NFA determination is out of compliance and the site’s regulatory status is
+impaired; if it was recorded, the Title Policy will carry an unlisted exception.
+Either way the Bank needs the recorded instrument. The Phase II report and the
+NFA letter are not in the record at all. See Issues 21, 23 and 27.
+
+
+
+The residential use restriction has not been resolved and the record
+does not establish its scope. The Credit Memorandum asserts that fourteen
+residential units sit above the restricted 0.38 acres. The Phase I ESA expressly
+says that this “requires a detailed overlay” and was not determined. The
+number fourteen appears to have been taken from the unit count of threebedroom units. The Appraisal expressly declines to adjust value for the
+restriction. See Issue 24.
+
+
+
+Two dates are three days apart and cannot both be met. Projected
+Substantial Completion is August 31, 2027; the Construction Maturity Date and
+the guaranteed completion date are August 28, 2027. Draw 8 is scheduled in the
+thirty-month of a thirty-month construction period and Draw 9 falls after
+maturity. See Issue 28.
+
+
+
+Borrower’s net worth cannot be reconciled and the covenant would be
+breached on day one. Borrower’s only identified asset is the Property,
+acquired for $8,200,000, encumbered by a $3,400,000 deed of trust. That
+balance sheet yields net worth of approximately $4,800,000, not the
+$14,200,000 asserted, and the proposed $12,000,000 covenant would fail
+immediately. See Issue 31.
+
+5
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+4. Top-Risk Register
+Ranked by severity. “Critical” means we would not close without resolution. “High”
+means a material restructuring or a substantive condition is required. “Medium”
+and “Low” are documentation and diligence items.
+#
+
+Issue
+
+Severity
+
+Resolution
+
+1
+
+Loan-to-cost 83.77% vs 80%
+maximum; equity escrow does
+not cure it
+
+Critical
+
+Reduce Loan Amount to $45,360,000
+and fund $2,140,000 equity (both, not
+either)
+
+§ 8.1; §
+3.1(g)
+
+5
+
+No borrower equity; three
+inconsistent accounts of the
+$8.2M land funding
+
+Critical
+
+Obtain source-of-funds certification;
+restate sources and uses; prohibit
+reimbursement of member advances
+
+§ 5.4; §
+7.5(d)
+
+2
+
+As-completed LTV 65.25%
+exceeds Term Sheet 65% cap
+
+Critical
+
+Cure follows from Issue 1; conform
+covenant and credit file
+
+§ 8.2
+
+23
+
+NFA deed notice not evidenced
+as recorded
+
+Critical
+
+Obtain recorded instrument or NCDEQ
+written confirmation before closing
+
+§ 3.1(j); Ex.
+H¶6
+
+24
+
+Residential units above the
+restricted area: scope unverified
+
+Critical
+
+Architect’s overlay certified; NCDEQ
+modification or redesign; condition to
+advances
+
+§ 3.1(k); §
+10.6
+
+39
+
+Conflicting 100% membership
+interest pledges; intercreditor
+unexecuted
+
+Critical
+
+Executed intercreditor as an unwaivable
+closing condition
+
+§ 3.1(c);
+Art. XVI
+
+9
+
+Interest reserve inadequate;
+three inconsistent projections
+
+High
+
+Size reserve on the Draw Schedule
+accrual at 4.35% (≈$5,215,800) or add
+≈$365,000; add mandatory
+replenishment and adequacy testing
+
+§ 4.5
+
+11
+
+Draw schedule does not foot
+($48.5M of components; Draw 9
+gap)
+
+High
+
+Rebuild schedule; substitute Exhibit C
+
+§ 4.1; Ex. C
+
+13
+
+Retainage $3,475,000 vs
+released $3,275,000
+
+High
+
+Conform to 10%
+
+§ 4.3; Ex. C
+¶2
+
+28
+
+Completion 3 days after
+Construction Maturity Date;
+Draw 9 post-maturity
+
+High
+
+Add 30-day completion tolerance; rephase milestones
+
+§ 6.2(b); §
+13.1
+
+31
+
+Borrower net worth $14.2M
+unreconciled; covenant fails on
+day one
+
+High
+
+Obtain reconciliation; redefine covenant
+
+§ 8.5; §
+3.1(p)
+
+37
+
+Operating Agreement 75%
+supermajority; mezzanine
+affiliate holds a veto
+
+High
+
+100% member consent; amend the
+approval thresholds
+
+§ 3.1(d)
+
+8
+
+Project Budget omits payoff,
+unused line fee, exit/extension
+fee and cap cost
+
+High
+
+Add to budget or confirm outside
+sources
+
+§ 5.14; Ex.
+B¶2
+
+6
+
+Mezzanine debt service
+unfunded; combined coverage
+0.93x
+
+High
+
+Disclose; add debt yield covenant and
+take-out analysis
+
+§ 8.4; §
+16.4
+
+20
+
+Brightleaf ARC approval:
+Appraisal says obtained, title
+officer says no evidence
+
+High
+
+Obtain ARC approval or deemedapproval evidence
+
+§ 3.1(l)
+
+17
+
+Legal description internally
+inconsistent by 7.78 feet
+
+High
+
+Survey and corrected Exhibit A
+
+§ 3.1(i); Ex.
+A
+
+21
+
+Permitted Exceptions omit the
+environmental use restriction
+
+High
+
+Add as a Permitted Exception
+
+Ex. H ¶ 6
+
+6
+
+Draft ref.
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+#
+
+Issue
+
+Severity
+
+Resolution
+
+Draft ref.
+
+7
+
+Loan proceeds fund $1,835,000
+developer fee before equity is at
+risk
+
+High
+
+Defer; condition on completion and no
+overrun
+
+§ 6.11; §
+7.5
+
+14
+
+“Equity first” inconsistent with
+a $9,475,000 Draw 1 at 0%
+completion
+
+Medium
+
+Carve out Draw 1 expressly; reduce
+Draw 1
+
+§ 4.2(i)
+
+12
+
+Detailed Budget “Net
+Disbursable” overstated by
+$725,000
+
+Medium
+
+Correct schedule
+
+Ex. B ¶ 3
+
+15
+
+Contingency disbursed as a
+scheduled draw
+
+Medium
+
+Treat as reserve
+
+§ 4.1; §
+4.10
+
+10
+
+Interest reserve built on 3.50%
+SOFR; methodology
+inconsistent
+
+Medium
+
+Rebuild at current rate
+
+§ 4.5(d)
+
+3
+
+Recommended restructure and
+loan sizing
+
+Critical
+
+See Section 5, Issue 3
+
+§ 8.1
+
+4
+
+HVCRE classification (14.20%
+contributed capital vs 15%)
+
+Medium
+
+Accept classification or contribute
+additional $580,000
+
+§ 8.1 note
+
+16
+
+FEMA panel number and
+effective date differ between
+Appraisal and Phase I ESA
+
+Low
+
+Obtain current flood determination
+
+§ 3.1(s)
+
+18
+
+Frontage 420 ft (Appraisal) vs
+500.5 ft (legal descriptions);
+parcel acreage differs
+
+Medium
+
+Survey to resolve
+
+§ 3.1(i)
+
+19
+
+Title mechanics: expiry,
+underwriter, escrow officer,
+ICL, lien priority
+
+Medium
+
+Closing deliverables
+
+§ 3.1(h)
+
+22
+
+Builder’s risk limit $34,750,000
+is $12,750,000 below the Loan
+Amount
+
+Medium
+
+Require full insurable value
+
+§ 11.1(a)
+
+25
+
+NFA conditions and deadlines
+not carried into the loan
+documents
+
+High
+
+Article X covenants
+
+Art. X
+
+26
+
+Remediation volumes: 320 / 340
+/ 1,200 cubic yards
+
+Low
+
+Confirm from Phase II and completion
+report
+
+Ex. E
+
+27
+
+Environmental document gaps;
+Phase II reliance letter
+
+High
+
+Deliver Phase II, NFA letter, reliance
+letters
+
+§ 3.1(j)
+
+29
+
+CC&R assessment of ≈$34,500
+p.a. omitted from NOI and
+valuations
+
+Medium
+
+Adjust NOI; disclose
+
+§ 8.8
+
+30
+
+DSCR tested on trailing actuals
+before stabilization; no debt
+yield test
+
+High
+
+Test on stabilized basis; add debt yield
+
+§ 8.3; § 8.4
+
+32
+
+No Guarantor net worth
+covenant; Term Sheet § 15
+cross-reference error
+
+Medium
+
+Fix threshold or delete the Event of
+Default
+
+§ 8.7; §
+14.1(q)
+
+33
+
+Partial repayment guaranty:
+25% aggregate or $11,875,000
+per guarantor
+
+High
+
+Confirm 25% aggregate reading
+
+§ 13.3
+
+34
+
+Carry guaranty scope: Term
+Sheet vs Credit Memorandum
+
+Medium
+
+Adopt Term Sheet formulation; extend to
+mini-perm
+
+§ 13.2
+
+7
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+#
+
+Issue
+
+Severity
+
+Resolution
+
+Draft ref.
+
+35
+
+Reporting requirements differ
+between Term Sheet and Credit
+Memorandum
+
+Low
+
+Single schedule
+
+Ex. F
+
+36
+
+Extension conditions not in
+Term Sheet; 1.15x vs 1.25x
+
+High
+
+Conform; Borrower has not agreed
+
+§ 2.13; Ex.
+G
+
+38
+
+SPE amendment and
+independent manager need the
+same 75% consent
+
+High
+
+100% consent as a closing condition
+
+§ 3.1(d), (e)
+
+40
+
+North Carolina law: deficiency,
+usury, UCC Article 9, power of
+sale
+
+Medium
+
+Confirm guaranty structure before
+execution
+
+§ 13.4; Art.
+XV
+
+41
+
+Contractor financials and
+bonding not a Term Sheet
+condition
+
+Medium
+
+Add as a closing condition
+
+§ 3.1(n)
+
+42
+
+Term Sheet internal
+inconsistencies (LTV, “single
+advance”, deposit)
+
+Medium
+
+Memorandum of understanding with the
+Bank
+
+§ 18.7
+
+43
+
+Party, address and name
+inconsistencies
+
+Low
+
+Correct in execution copies
+
+—
+
+44
+
+Missing documents and open
+diligence
+
+High
+
+Section 8 closing checklist
+
+§ 3.1
+
+8
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+5. Schedule of Material Issues
+Each issue below states the sources, our finding (with arithmetic where the issue is
+quantitative), our recommendation, and the place in the Draft where the point is
+addressed. Where the record is silent we say so; we have not supplied facts the
+documents do not contain.
+Part A — Capital Structure and Loan Sizing
+
+Issue 1 — Loan-to-Cost Ratio Exceeds the 80% Maximum, and the
+Prescribed Equity Escrow Does Not Cure It
+Severity: Critical.
+Sources: Term Sheet § 3.1 ($47,500,000), § 5.2 (Total Uses $56,700,000), § 6.1
+(maximum LTC 80%); Credit Memorandum §§ 5.1, 5.3, 9.1, 10.1.2, 14.1; Draw
+Schedule, “Summary” worksheet (LTC Excess / Equity Shortfall $2,140,000).
+Finding. The arithmetic is right and the conclusion is wrong. Loan-to-cost is
+$47,500,000 ÷ $56,700,000 = 83.7743%, which exceeds the 80% maximum set in
+Term Sheet § 6.1. At 80%, the maximum senior loan is $56,700,000 × 0.80 =
+$45,360,000; the Loan exceeds that by $2,140,000. To restore 80%, either the
+Loan must come down or Total Project Costs must rise by $2,675,000 ($47,500,000
+÷ 0.80 = $59,375,000).
+The Credit Memorandum’s cure — deposit $2,140,000 into a Bank-controlled
+equity escrow — does not by itself change the ratio. Because the sources and uses
+allocates 100% of the $56,700,000 to the two loans (senior $47,500,000 = 83.77%;
+mezzanine $9,200,000 = 16.23%; Borrower cash equity $0.00%; Credit
+Memorandum § 5.1 and Appendix C; Draw Schedule “Summary”), there is no
+unfunded line item for the escrowed equity to pay. Adding $2,140,000 to sources
+produces $58,840,000 of sources against $56,700,000 of uses — a $2,140,000
+surplus — while the Loan remains $47,500,000 and is still fully drawn to complete
+the Project. The escrowed cash does not reduce the numerator unless it reduces
+the commitment.
+The Credit Memorandum presents the equity escrow (condition 10.1.2), a
+reduction of the Loan to $45,360,000, and additional evidence of independent land
+equity as alternatives (“either: (a) … or (b) … or (c) …”). They are not
+alternatives. Option (a) requires option (b) to have any effect on LTC.
+Recommendation. Treat the two as a single fix: reduce the Loan Amount to
+$45,360,000 and require the $2,140,000 equity contribution. That closes:
+$45,360,000 senior + $9,200,000 mezzanine + $2,140,000 equity = $56,700,000.
+LTC becomes exactly 80.00%. Obtain the Senior Loan Committee’s written
+confirmation that the commitment is reduced (this is a change to the credit
+approval and to the Term Sheet loan amount, so it requires Committee action, not
+merely documentation). Alternatives worth presenting to the Bank: (i) restate Total
+Project Costs upward by adding the omitted costs in Issue 8 — note that adding the
+Triangle Commercial Bank payoff alone at its $3,400,000 original principal would
+
+9
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+bring Total Project Costs to $60,100,000 and LTC to 79.03%, but would require
+$3,400,000 of new funding (the same circularity); or (ii) substitute the Appraisal’s
+$8,900,000 land value for the $8,200,000 cost basis in the budget, giving Total
+Project Costs of $57,400,000 and LTC of 82.75% — still above 80%. Neither
+alternative works without new equity.
+Draft reference: § 8.1 (testing language and the arithmetic), § 3.1(g) (equity
+escrow condition with the reservation noted).
+
+Issue 2 — The As-Completed Loan-to-Value Ratio Exceeds the Executed
+Term Sheet’s 65% Limit
+Severity: Critical.
+Sources: Term Sheet § 4 (“The Lender’s maximum loan-to-value ratio shall not
+exceed 65% on an as-completed basis”) and § 6.2 (65% as-completed and asstabilized); Credit Memorandum § 6.1 and § 12 (maximum LTV 70% for
+construction loans; as-completed 65.25% reported as “Pass”); Appraisal § 10
+($72,800,000 as-completed; $76,200,000 as-stabilized; LTV 65.25% and 62.34%).
+Finding. $47,500,000 ÷ $72,800,000 = 65.2473%. That exceeds the Term Sheet’s
+65% cap by 0.25 percentage points, or $180,000 in principal amount ($72,800,000
+× 0.65 = $47,320,000). The as-stabilized ratio ($47,500,000 ÷ $76,200,000 =
+62.3360%) is compliant.
+The Credit Memorandum does not report this. Its underwriting table (¶ 6.1) and its
+regulatory section (¶ 12) both state the applicable maximum as 70%, described as
+“Bank Policy,” and mark the ratio as a pass. The executed Term Sheet says 65%,
+twice. The executed Term Sheet is the operative commercial agreement; a policy
+maximum more permissive than the deal-specific maximum does not override it.
+The credit file should be corrected so that the Committee approved against the
+limit the term sheet actually contains.
+Recommendation. The Issue 1 fix cures this as well: at $45,360,000, the ascompleted ratio is 62.31% and the as-stabilized ratio is 59.53%. Conform the
+covenant in the Loan Agreement to 65% (not 70%). Ask the Bank to correct the
+credit file and to confirm the 70% figure was not the basis of approval.
+Draft reference: § 8.2 (both limits stated as 65%, with the computation and the
+conflict disclosed).
+
+Issue 3 — Recommended Restructure and Loan Sizing
+Severity: Critical (structuring).
+Sources: All of the above; Credit Memorandum §§ 5.1, 5.3, 9.1, 12.
+Finding. The record
+recommend the first.
+
+supports
+
+four
+
+10
+
+internally
+
+consistent
+
+structures.
+
+We
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Structure
+
+Senior loan
+
+Mezzanine
+
+True equity
+
+LTC
+
+LTV (ascompleted)
+
+HVCRE
+
+A
+
+As
+documented
+
+$47,500,000
+
+$9,200,000
+
+$0
+
+83.77
+%
+
+65.25% Yes
+(14.20%)
+
+B
+
+Credit
+Memorandu
+m’s escrow
+option taken
+alone
+
+$47,500,000
+
+$9,200,000
+
+$2,140,000
+(unallocated)
+
+83.77
+%
+
+65.25% Yes
+(14.20%)
+
+C
+
+Recommend
+ed: loan
+reduction +
+equity
+
+$45,360,000
+
+$9,200,000
+
+$2,140,000
+
+80.00
+%
+
+62.31% Yes
+(14.20%)
+
+D
+
+Loan
+reduction +
+equity + land
+at appraised
+value
+
+$45,360,000
+
+$9,200,000
+
+$2,140,000
+(land booked at
+$8,900,000)
+
+80.00
+%
+
+62.31% Borderline
+(15.16%)
+
+Recommendation. Adopt Structure C and offer Structure D to the Bank as a
+means of addressing the regulatory capital issue in Issue 4. In each case obtain: (i)
+Senior Loan Committee approval of the reduced commitment; (ii) a revised Term
+Sheet or written confirmation of the reduced Loan Amount so that the Loan
+Documents and the Term Sheet agree; (iii) a source-of-funds certification for the
+$2,140,000 (Issue 5); and (iv) restated sources and uses. Note that any reduction
+in the Loan Amount reduces the Origination Fee ($475,000 → $453,600 at 1.00%)
+and the available Interest Reserve, and that the Draw Schedule in Exhibit C of the
+Draft must then be re-based — we have not attempted that adjustment because the
+Draw Schedule needs to be rebuilt in any event (Issue 11).
+Draft reference: § 8.1, § 8.2, § 3.1(g).
+
+Issue 4 — HVCRE Classification
+Severity: Medium.
+Sources: Credit Memorandum § 12; Appraisal § 10 (as-completed value
+$72,800,000); Draw Schedule (land at $8,200,000, no borrower equity).
+Finding. The Credit Memorandum computes contributed capital as $2,140,000
+equity plus $8,200,000 land at cost = $10,340,000, or 14.2033% of the
+$72,800,000 as-completed value, against the 15% threshold ($10,920,000), a
+$580,000 shortfall. We reproduce those figures. Two observations. First, the
+calculation only reaches 14.2% because the Credit Memorandum credits the land
+at $8,200,000; on the sources and uses as actually constructed, the land is funded
+by the Mezzanine Loan and contributed capital would be $2,140,000, or 2.94%
+(Issue 5). Second, if the land is contributed at its appraised value of $8,900,000,
+contributed capital is $8,900,000 + $2,140,000 = $11,040,000, or 15.16% —
+which would avoid HVCRE classification and the 150% risk weight, with no
+additional cash from the sponsor.
+
+11
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. Present Structure D (Issue 3) to the Bank. Contributing the
+land at appraised value is the cheapest available route to the 15% threshold and is
+a matter of how the contribution is documented and evidenced, not of new money.
+Confirm with the Bank’s regulatory reporting group that the land may be counted
+at appraised value under the applicable rule before the credit file is finalized.
+Draft reference: § 8.1 (drafting note), § 5.4 (capital contribution schedule).
+
+Issue 5 — The Record Gives Three Irreconcilable Accounts of How the
+$8,200,000 Land Cost Was Funded; There Is No Borrower Equity
+Severity: Critical.
+Sources: Term Sheet § 5.2 (“The land … was acquired by the Borrower prior to the
+closing of the Loan and is contributed to the Project as the Borrower’s equity. The
+land acquisition was funded from prior capital contributions by the Borrower’s
+members”); Credit Memorandum § 2.2 (“acquired by Ms. Vasquez-Torres on behalf
+of the Borrower through capital calls from all three members, including Brightleaf
+Investors Group LLC, at a total acquisition cost of $8,200,000”); Organizational
+Chart § 1.3 (land “contributed to Harborview Capital Partners LLC by Elena
+Vasquez-Torres at a cost basis of $8,200,000 … originally acquired by
+Ms. Vasquez-Torres in a transaction funded from her personal resources”;
+Brightleaf Investors Group LLC and Mr. Osei each contributed $0); Draw
+Schedule, “Detailed Budget” line 1.01 (Land Acquisition — Vendor “Prior
+Acquisition — Closed”; Funded by Senior Loan $0; Funded by Mezzanine Loan
+$8,200,000; Funded by Borrower Equity $0; note: “Previously closed; funded by
+mezzanine loan proceeds and member capital calls”); Title Commitment Schedule
+A ¶ 5 (title vested by Special Warranty Deed recorded in Book 7598, Page 443
+(Parcel 1) and Page 445 (Parcel 2), dated June 12, 2023, from Foster Street
+Properties LLC).
+Finding. Three accounts, each inconsistent with the others and with the record
+evidence:
+1. Member capital contributions (Term Sheet; Credit Memorandum — “all three
+members, including Brightleaf Investors Group LLC”).
+2. Ms. Vasquez-Torres’s personal resources (Organizational Chart; Brightleaf
+Investors Group LLC and Mr. Osei each at $0).
+3. Mezzanine Loan proceeds (Draw Schedule Detailed Budget — the only place
+in the record that states a funding source for the land, and it states a lender
+source, not an equity source).
+
+The recorded deed supports none of the equity accounts in the form given: it
+shows a purchase by Harborview directly from Foster Street Properties LLC
+on June 12, 2023 — not a contribution of land to a newly formed entity, and not a
+purchase by Ms. Vasquez-Torres. The Organizational Chart’s statement that the
+land was contributed “upon formation of the project entity” is inconsistent with a
+formation date of March 14, 2019 and an acquisition date of June 12, 2023.
+
+12
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+The accounts also conflict on the acquisition date: the Phase I ESA says
+Harborview “acquired the Subject Property in 2022” (§ 2.2); the Appraisal says the
+$8,200,000 was “the price paid by Harborview Capital Partners LLC in early 2024”
+(§ 6.1); the deed says June 12, 2023.
+The consequence is not semantic. If the land was acquired in 2023 with member
+money and is refinanced at closing with Mezzanine Loan proceeds, then at closing
+the sponsor is repaid $8,200,000 (less the Prior Deed of Trust payoff) and the
+Project ends with no equity at all. The Credit Memorandum would then have
+double-counted the land: once as a use funded by mezzanine debt in its sources
+and uses, and again as $8,200,000 of “land equity” in its equity analysis (§ 5.3, §
+9.1) and in its HVCRE analysis (§ 12). That is the single most important finding in
+this review, and it is the reason the LTC, LTV and HVCRE conclusions in the Credit
+Memorandum cannot be relied on.
+Recommendation. Before the Draft is circulated, require from Borrower (and
+from Borrower’s counsel) a schedule of all capital contributions and member
+advances since formation, on a cash-movement basis, identifying for each: date,
+amount, contributor, bank account, and the use to which the funds were applied;
+together with the settlement statement for the June 2023 acquisition, the source of
+the $8,200,000 purchase price (including the extent to which the Prior Deed of
+Trust was assumed rather than paid), and a certification that no member advance
+will be repaid from the proceeds of the Loan or the Mezzanine Loan. Verify the
+cash movements against bank statements, not just against a schedule. Then restate
+the sources and uses so that equity and debt are each shown once, and present the
+restated table to the Committee. If the Mezzanine Loan does reimburse member
+advances at closing, that is a Distribution of loan proceeds to the sponsor on day
+one; it must be identified as such, approved explicitly, and carved out of (or, better,
+prohibited by) the negative covenant. The Draft prohibits it absent express
+permission (§ 7.5(d)) and requires the Disclosure Schedule (§ 5.4) — but the
+prohibition is only as good as the disclosure behind it.
+Draft reference: § 5.4 and Schedule 5.4; § 7.5(d); § 5.11; § 2.3; § 3.1(g).
+
+Issue 6 — Mezzanine Debt Service Is Not Funded Anywhere, and Combined
+Debt Service Coverage Is 0.93x
+Severity: High.
+Sources: Term Sheet § 1.4 (Mezzanine Loan $9,200,000, 12.50% fixed,
+coterminous); Credit Memorandum § 4.4 (interest “accrues and is paid-in-kind
+during construction; cash pay during mini-perm”); Draw Schedule Detailed Budget
+(no line item for mezzanine interest); Appraisal § 7 (Stabilized NOI $4,876,800);
+Credit Memorandum § 6.1 (DSCR 1.31x, senior only).
+Finding. No document in the record funds Mezzanine Loan debt service. The
+Approved Project Budget of $56,700,000 contains no line for mezzanine interest, in
+either its PIK or its cash-pay form. At 12.50% on $9,200,000:
+
+13
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+
+
+PIK accretion over a 30-month Construction Period: $9,200,000 × 12.50% × 2.5
+= $2,875,000, producing an accreted balance of approximately $12,075,000
+at the start of the Mini-Perm Period.
+
+
+
+Cash interest during the 12-month Mini-Perm Period on that balance:
+$1,509,375.
+
+
+
+If interest is paid in cash from the outset, the monthly Mezzanine Loan interest
+is $95,833, is not in the budget, and Borrower has no cash with which to pay it
+(Issue 5).
+
+Every coverage figure in the record is a senior-only figure. On a combined basis,
+using the Appraiser’s Stabilized NOI and the Credit Memorandum’s 4.35% SOFR
+assumption: combined debt service is $3,728,750 senior + $1,509,375 mezzanine
+= $5,238,125, and combined coverage is 0.93x. Combined debt at stabilization
+would be $47,500,000 + $12,075,000 = $59,575,000, or 78.18% of the
+$76,200,000 as-stabilized value, and the combined debt yield is 8.19% (senior-only
+debt yield 10.27%). The property does not cover total debt service from operations;
+the mini-perm exit depends on refinance proceeds, not on cash flow.
+Recommendation. (a) Require disclosure of the Mezzanine Loan’s full payment
+mechanics before closing, and require quarterly reporting of accreted balances
+(Draft § 16.4). (b) Add a debt yield covenant of not less than 8.50% (Draft § 8.4)
+— a rate-insensitive measure, which the Term Sheet lacks entirely. (c) Require a
+formal take-out/refinancing analysis at lease-up and as a condition to the Extension
+Option, including the combined leverage ratio. (d) Do not represent in the credit
+file that the Loan is self-liquidating; on a whole-loan basis it is not.
+Draft reference: § 16.4 (with the computation noted), § 8.4, Exhibit G(k).
+
+Issue 7 — Loan Proceeds Fund a $1,835,000 Developer Fee Payable to the
+Borrower Before Any Equity Is at Risk
+Severity: High.
+Sources: Term Sheet § 5.2 (Developer Fee $2,835,000, “5% of total project cost”);
+§ 14 (no distributions during the Construction Period “except for payment of the
+developer fee in accordance with the approved Project Budget”); Draw Schedule
+Detailed Budget line 5.01 (Vendor: Harborview Capital Partners LLC; Senior
+Loan $1,835,000; Mezzanine Loan $1,000,000); Draw Schedule “Draw Schedule”
+worksheet, draws 6 through 9 (Developer Fee allocated).
+Finding. The Developer Fee is 5.00% of Total Project Costs and is payable to
+Borrower itself. $1,835,000 of it is funded by the senior Loan and $1,000,000 by
+the Mezzanine Loan. Combined with Issue 5, the economics are: the loans fund
+100% of costs, of which 5% ($2,835,000) flows to the sponsor-controlled Borrower
+as a fee. That is not equity in any sense; it is negative equity.
+The Term Sheet’s distribution carve-out is also incoherent as drafted. Borrower is
+the payee, so a developer fee paid to Borrower is not a Distribution at all (there is
+no transfer to a member); and if the fee is then distributed to members during the
+Construction Period, that is a Distribution that the carve-out prohibits. The Draft
+
+14
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+resolves this by defining “Distributions” to capture both (§ 1.1), permitting the fee
+only to Borrower (§ 6.11), and conditioning it.
+Recommendation. (a) Defer the Developer Fee: it should be earned only on
+Substantial Completion, and paid only if no Cost Overrun, no Interest Reserve
+deficiency, no unfunded equity obligation and no Event of Default exists, and only
+after the Construction Inspector confirms sufficient funds to complete. (b) Cap the
+senior-funded portion at the $1,835,000 allocated in the budget and prohibit
+payment of the $1,000,000 mezzanine-funded portion from Loan proceeds. (c)
+Require that the fee be paid to Borrower and not to any member or Affiliate
+(already the budget’s vendor, but should be a covenant). (d) Consider
+subordinating the entire fee to repayment of the Loan — the strongest available
+answer to the equity problem, and one the Bank can reasonably require given that
+it is lending 100% of cost.
+Draft reference: § 6.11; § 7.5(a) and (d); definition of “Distributions” in § 1.1.
+
+15
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Part B — Budget, Interest Reserve and Disbursement
+
+Issue 8 — The Approved Project Budget Omits Known Costs
+Severity: High.
+Sources: Term Sheet § 5.2 and Exhibit C; Credit Memorandum § 5.2 and Appendix
+C; Draw Schedule Detailed Budget; Term Sheet §§ 3.4, 12, 18; Credit
+Memorandum § 9.7; Title Commitment Schedule B–II ¶ 10.
+Finding. The budget totals $56,700,000 and includes land, hard costs, soft costs,
+the Interest Reserve, the Origination Fee, the Developer Fee and contingency. It
+does not include any of the following, each of which is a real cost of this
+transaction:
+Omitted item
+
+Source of the obligation
+
+Estimated amount
+
+Payoff of the Prior Deed of
+Trust (Triangle
+Commercial Bank)
+
+Title Commitment Sch. B–II
+¶ 10; Credit Memorandum §
+9.7
+
+Unused line fee, 0.25% p.a.
+on average undrawn
+balance
+
+Term Sheet § 3.4
+
+≈$125,400 over 30 months (average undrawn
+balance computed from the Draw Schedule’s own
+draw pattern: $20,070,815)
+
+Exit Fee, 0.50% of
+outstanding balance
+
+Term Sheet § 3.4
+
+$237,500 if repaid during construction; $118,750 in
+the first six months of the mini-perm
+
+Extension Fee, 0.25%
+
+Credit Memorandum § 11(e)
+(not in the Term Sheet)
+
+≈$118,750
+
+Interest Rate Cap premium
+
+Credit Memorandum §§ 6.1,
+9.8 (recommended)
+
+Not quantified anywhere in the record
+
+Mezzanine Loan interest
+
+Issue 6
+
+Up to $3,400,000 (original principal; current
+balance not in record — the title officer notes
+counsel’s advice that the loan was “partially
+repaid”)
+
+≈$2,875,000 (PIK, 30 months)
+
+The Prior Deed of Trust point deserves emphasis. The budget contains no line for
+its payoff, yet the Bank’s own title condition requires it to be satisfied at closing,
+and the Credit Memorandum says Borrower’s counsel “represents that this deed of
+trust will be satisfied at closing from the proceeds of the senior construction loan
+or from borrower funds” (§ 9.7). Funding a $3,400,000 payoff from senior Loan
+proceeds would create a $3,400,000 hole in a budget in which every dollar is
+already allocated. Funding it from “borrower funds” is not credible given Issue 5.
+The most likely reading — which we recommend testing with the closing statement
+— is that the $8,200,000 “Land Acquisition” line is in substance a refinancing of
+the land (payoff of the Prior Deed of Trust plus reimbursement of member
+advances), funded by the Mezzanine Loan. If so, the sources and uses is internally
+consistent but confirms zero equity (Issue 5).
+Recommendation. Obtain a current payoff letter before the budget is finalized,
+and require Borrower to present a restated sources and uses that shows the payoff,
+all financing fees and the cap premium as uses, with an identified source for each.
+Add the items to Exhibit B, or list them in a schedule of costs to be funded outside
+the Loan (as Exhibit B ¶ 2 of the Draft now does). Confirm in writing that the Loan
+will not fund any portion of the payoff.
+
+16
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Draft reference: § 5.14 and Schedule 5.14; Exhibit B ¶ 2; § 2.9(b)–(d).
+
+Issue 9 — The Interest Reserve Is Inadequate, and the Record Contains
+Three Mutually Inconsistent Measurements
+Severity: High.
+Sources: Term Sheet § 10 ($4,850,000); Credit Memorandum § 6.2 and § 9.2
+(shortfall $565,000; at +100 bps, $1,278,000); Draw Schedule “Draw Schedule”
+worksheet, Section 2 (surplus $221,325 at 3.50% SOFR; shortfall $(365,830) at
+4.35%); Draw Schedule Detailed Budget line 4.01 (“assumes SOFR at 3.50%”).
+Finding. Three documents, three answers, one question:
+Source
+
+SOFR
+assumption
+
+All-in
+rate
+
+Draw Schedule, Section 2
+(month-by-month accrual)
+
+3.50%
+
+6.75%
+
+Draw Schedule, Section 2
+sensitivity table
+
+4.35%
+
+7.60%
+
+Credit Memorandum § 6.2
+(average-balance shortcut)
+
+4.35%
+
+Total construction
+interest
+
+Surplus / (shortfall)
+vs $4,850,000
+
+$4,628,675
+
+$221,325
+
+5 , 215 , 830∨¿∗¿
+(365,830)**
+
+7.60%
+
+5 , 415 , 000∨¿∗¿
+(565,000)**
+
+We reproduced the Draw Schedule’s month-by-month accrual and it is
+arithmetically sound: eight balance steps (Draws 1 through 8), each at balance ×
+6.75% ÷ 12, aggregate to $4,628,675, an implied average outstanding balance of
+$27,429,185 over 30 months. Two defects follow.
+First, the reserve was sized at 3.50% Daily Simple SOFR. Every other document in
+the record — Term Sheet § 4, Credit Memorandum §§ 6.1, 6.2 and 9.2, and the
+Appraisal § 10 — uses 4.35% as the current rate. The budget line itself says
+“assumes SOFR at 3.50%.” The reserve is therefore sized on a rate 85 basis points
+below the rate the Bank used to approve the credit.
+Second, the Credit Memorandum’s $565,000 shortfall is overstated. Its method is
+$28,500,000 × 7.60% × 2.5 = $5,415,000, using an assumed average balance of
+$28,500,000 described as “roughly 60%” of the commitment. The actual average
+balance implied by the Draw Schedule’s own draw pattern is $27,429,185, not
+$28,500,000. The correct total at 7.60% is therefore approximately
+
+5 , 211 , 545∗¿ a n d t h e c o r r e c t s h o r t f a l l a p p r o x i m a t e l y ∗¿
+(361,545) — about $203,500 less than the Credit Memorandum states. (The Draw
+Schedule’s own sensitivity result, $(365,830), is consistent with ours; the small
+difference is rounding in its monthly recomputation.)
+The conclusion is unchanged — the reserve is inadequate — but the magnitude
+matters, because it determines how much the Bank should require Borrower to
+contribute, and because the Senior Loan Committee approved $4,850,000 as
+“adequate based on current rate assumptions” (¶ 6.2, ¶ 9.2). It is not adequate at
+the current rate.
+
+17
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. (a) Re-size the Interest Reserve by re-running the Draw
+Schedule accrual at the then-current Daily Simple SOFR at closing (4.35% per the
+record), producing approximately $5,211,500, or approximately $361,500 more
+than the $4,850,000 budgeted. (b) Correct the Credit Memorandum’s § 6.2 and §
+9.2 analysis and advise the Committee that its adequacy finding was based on a
+stale rate. (c) Retain in the Loan Agreement the mandatory replenishment
+obligation (Term Sheet § 10; Credit Memorandum § 6.2) together with the
+adequacy test at each draw, which the Term Sheet does not require and the Credit
+Memorandum only recommends. (d) Note that any reduction in the Loan Amount
+under Issue 1 reduces the funds available for the Interest Reserve, so the reserve
+and the loan amount must be sized together.
+Draft reference: § 4.5 (including the Interest Reserve Adequacy Test at § 4.5(d)
+and replenishment at § 4.5(e)); § 14.1(b).
+
+Issue 10 — Interest Reserve Methodology
+Severity: Medium.
+Sources: Term Sheet § 3.3 (interest on actual days over a 360-day year); Draw
+Schedule Section 2 (monthly interest computed as balance × rate ÷ 12).
+Finding. The Draw Schedule computes each month’s accrual as balance × all-in
+rate ÷ 12. That is a 30/360 convention. The Term Sheet requires actual days
+elapsed over a 360-day year. Over a 30-month period the difference is small (a
+few thousand dollars) but it is systematic, and it compounds whenever the reserve
+is tested. More significantly, the Draw Schedule assumes each draw occurs at the
+start of a month and that no draw occurs in the same month as another; the actual
+timing will differ, and because the reserve is funded at closing and accrues interest
+on itself, timing errors run in one direction. We recommend the reserve be sized on
+a month-by-month basis using actual/360 and the projected draw dates in the Draw
+Schedule rather than a level average balance.
+Recommendation. Rebuild the interest reserve analysis on an actual/360 basis
+keyed to the estimated draw dates (February 2025 through October 2027). Use the
+same schedule as the basis for the Interest Reserve Adequacy Test so that the test
+and the sizing are consistent. Do not use the average-balance method in the Credit
+Memorandum for either purpose.
+Draft reference: § 2.4(b); § 4.5(d).
+
+Issue 11 — The Draw Schedule Does Not Foot
+Severity: High.
+Sources: Draw Schedule, “Draw Schedule” worksheet, Section 1; Term Sheet §
+9.2; Credit Memorandum § 7.1.
+Finding. We re-added every column. Every draw row foots except Draw 9:
+
+18
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Draw
+
+Sum of components (net hard cost + soft + reserve + fee +
+developer fee + contingency)
+
+Stated total
+draw
+
+Difference
+
+1
+
+$9,475,000
+
+$9,475,000
+
+$0
+
+2
+
+$5,212,500
+
+$5,212,500
+
+$0
+
+3
+
+$6,950,000
+
+$6,950,000
+
+$0
+
+4
+
+$6,950,000
+
+$6,950,000
+
+$0
+
+5
+
+$5,212,500
+
+$5,212,500
+
+$0
+
+6
+
+$3,475,000
+
+$3,475,000
+
+$0
+
+7
+
+$3,475,000
+
+$3,475,000
+
+$0
+
+8
+
+$3,475,000
+
+$3,475,000
+
+$0
+
+9
+
+$4,275,000
+
+$3,275,000
+
+$1,000,000
+
+Total
+
+$48,500,000
+
+$47,500,000
+
+$1,000,000
+
+Draw 9 shows the $3,475,000 retainage release plus a $200,000 developer fee
+allocation plus a $600,000 contingency allocation — $4,275,000 — against a stated
+draw of $3,275,000. As a result the component columns aggregate to $48,500,000
+against a $47,500,000 facility. The $1,000,000 difference is exactly the portion of
+the Developer Fee that the Detailed Budget allocates to the Mezzanine Loan
+(5.01: senior $1,835,000, mezzanine $1,000,000): the draw schedule disburses the
+full $2,835,000 from the Loan and then plugs Draw 9 downward by $1,000,000 to
+force the total to $47,500,000.
+Two consequences. First, the schedule as delivered would have the Loan disburse
+$1,000,000 of Developer Fee that the budget says the Mezzanine Loan funds.
+Second, because the plug is applied to a row whose hard-cost component is the
+retainage release, a reviewer cannot tell from the schedule whether the retainage
+is fully released (Issue 13).
+Recommendation. Reject the schedule. Substitute Exhibit C to the Draft, which
+we rebuilt as follows: Draws 1 through 8 unchanged (each foots); Draw 9 = full
+$3,475,000 retainage release, with no developer fee or contingency allocated to it;
+developer fee and contingency shown separately as reserve items, disbursed only
+on approval. The rebuilt schedule foots to $47,500,000 and reconciles to the
+Detailed Budget’s funding columns. Borrower must re-issue the schedule in this
+form, certified by the Managing Member, before it is attached as an exhibit.
+Draft reference: § 4.1 (reserves are not scheduled disbursements); § 4.10; Exhibit
+C and its notes.
+
+Issue 12 — The Detailed Budget’s “Net Disbursable” Total Does Not Foot
+Severity: Medium.
+Sources: Draw Schedule, “Detailed Budget” worksheet (column “Net Disbursable
+(excl. Retainage)”).
+Finding. The column foots to $45,025,000 but the grand total row states
+$45,750,000 — a $725,000 overstatement. We confirmed this by summing every
+
+19
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+line item. (The relationship Total Project Costs less Retainage = $56,700,000 −
+$3,475,000 = $53,225,000 is a third figure again, so the column is not defined
+consistently either; the $45,025,000 column sum equals Total Project Costs less
+Retainage less the $8,200,000 land already disbursed.)
+Separately, every other column in the Detailed Budget foots and the sources and
+uses balances: Total Project Costs $56,700,000; Loan $47,500,000; Mezzanine
+Loan $9,200,000; Borrower equity $0; Retainage $3,475,000.
+Recommendation. Correct the total. Because the column definition is unclear,
+redefine it (we suggest “Total Project Costs less Retainage less amounts already
+disbursed”) and label it accordingly.
+Draft reference: Exhibit B ¶ 3.
+
+Issue 13 — Retainage: 10% Is $3,475,000, but the Documents Release
+$3,275,000
+Severity: High.
+Sources: Term Sheet § 9.1 (“a 10% retainage holdback”); § 9.2 (Draw 9
+“Retainage Release” $3,275,000); Credit Memorandum § 7.1 (same; and ¶ 7.1
+states the retainage “represents approximately 9.4% of the hard construction cost
+GMP of $34,750,000”); Draw Schedule Detailed Budget (Retainage $3,475,000 =
+exactly 10%).
+Finding. 10% of the $34,750,000 GMP is $3,475,000. The Term Sheet, the Credit
+Memorandum and the Draw Schedule all state the release as $3,275,000. The
+Credit Memorandum notices the discrepancy and describes the release as
+“approximately 9.4%” rather than correcting it: $3,275,000 ÷ $34,750,000 =
+9.4245%. The $200,000 difference is unexplained and appears to be a plug (Issue
+11). Either the retainage is 10% and the release is $3,475,000, or it is 9.42% and
+the documents should say so.
+Recommendation. Conform to 10% / $3,475,000. Retainage is the Bank’s
+principal protection against mechanics’ lien exposure during the statutory lien
+period; understating the release by $200,000 while describing the holdback as
+10% invites an argument at the retainage draw that the Bank is obliged to release
+more than the schedule shows.
+Draft reference: § 4.3; Exhibit C ¶ 2.
+
+Issue 14 — “Equity First” Is Inconsistent with a $9,475,000 Draw at 0%
+Completion
+Severity: Medium.
+Sources: Credit Memorandum § 7.2 (“Equity First. The Borrower’s equity … must
+be fully invested in the Project before any loan advances are made, other than the
+initial closing advance (Draw 1)”); § 10.2.8; Draw Schedule (Draw 1 = $9,475,000
+at 0% cumulative completion); Term Sheet § 9.2.
+
+20
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Finding. Draw 1 disburses $9,475,000 — 19.95% of the facility — at zero percent
+completion, comprising 100% of Soft Costs ($4,150,000), the entire Interest
+Reserve ($4,850,000) and the Origination Fee ($475,000). The equity-first principle
+is therefore satisfied only by an express carve-out for the largest single leakage in
+the facility. In substance, the Bank funds 100% of soft costs and the whole interest
+reserve at closing while no construction has occurred and no borrower cash is at
+risk.
+Two further points on Draw 1. Disbursing 100% of soft costs up front is aggressive;
+soft costs are typically drawn as incurred, and a front-loaded soft cost draw means
+the Bank has no visibility into actual soft cost spend until much later. And the
+Interest Reserve is funded into the Loan and accrues interest on itself — so
+approximately $4.85 million of the draw earns interest that is itself paid from the
+same $4.85 million. That is conventional for construction loans, but it should be
+sized on a correctly stated rate (Issue 9).
+Recommendation. (a) Keep the express Draw 1 carve-out but reduce Draw 1:
+disburse the Origination Fee and the Interest Reserve at closing, and disburse soft
+costs as incurred, against invoices, in the first several draws. That would reduce
+Draw 1 by up to $4,150,000 and materially improve the Bank’s position without
+changing the facility amount. (b) If the Bank prefers to keep the single soft-cost
+draw, add a covenant that any soft cost line that comes in under budget is credited
+against the Loan, not retained by Borrower.
+Draft reference: § 4.2(i) (carve-out with the drafting note); § 4.2(d)–(f).
+
+Issue 15 — Contingency Is Disbursed as a Scheduled Draw Rather Than
+Held as a Reserve
+Severity: Medium.
+Sources: Draw Schedule Section 1 (contingency amounts allocated in Draws 2
+through 9: $521,250, $695,000, $695,000, $521,250, $102,500, $102,500,
+$113,750, $600,000); Credit Memorandum § 5.2 (contingency $1,440,000, i.e.,
+4.14% of hard costs).
+Finding. The contingency is 4.14% of hard costs, which is within normal range.
+But the Draw Schedule treats it as a scheduled cost: $521,250 of contingency is
+disbursed at Draw 2 (foundation complete), before any change order exists, and
+the allocations step down across later draws. A contingency is a reserve — it
+should be held and disbursed only against an identified cost, because its entire
+purpose is to absorb the unforeseen. Disbursing it on a schedule converts the
+cushion into working capital.
+Recommendation. Treat the contingency as a reserve (Draft § 4.1 and § 4.10):
+advanced only on the Bank’s written approval of a specific requisition identifying
+the cost, its cause, and why a budgeted line does not cover it. Require the
+Construction Inspector to opine on the adequacy of the remaining contingency at
+each draw.
+
+21
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Draft reference: § 4.1; § 4.10(a); Exhibit C.
+
+22
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Part C — Title, Survey, Legal Description and Insurance
+
+Issue 16 — The Flood Zone Determination Is Internally Inconsistent
+Severity: Low.
+Sources: Appraisal § 2 (“Flood Zone X … Community Panel Number 3710406400J,
+with an effective date of May 2, 2019”); Phase I ESA § 2.3 (“FEMA Flood Insurance
+Rate Map Panel 3720098700J, effective March 2, 2009 … Zone X”).
+Finding. Two different FEMA panel numbers and two different effective dates for
+the same site. Both conclude Zone X (minimal hazard) and both conclude that flood
+insurance is not required, so the conclusions agree even though the identifiers do
+not — one of the two is simply wrong or out of date. The Term Sheet (§ 19)
+requires flood insurance only if the Property is in a Special Flood Hazard Area, and
+the Credit Memorandum (§ 8.1, § 12) says a determination will be obtained prior to
+closing.
+Recommendation. Obtain a current standard flood hazard determination from a
+vendor acceptable to the Bank (a requirement of the Bank’s own flood compliance
+program in any event) and do not rely on either document. Insert the
+determination in the closing file. Do not issue the Loan without a compliant
+determination, because the penalties for lending on improved real property in a
+SFHA without flood insurance are the Bank’s, not the Borrower’s.
+Draft reference: § 3.1(s); § 11.1(e).
+
+Issue 17 — The Legal Description Is Internally Inconsistent by 7.78 Feet
+Severity: High.
+Sources: Title Commitment Schedule A ¶ 6 (both parcel descriptions).
+Finding. Parcel 1 is described as a rectangle with a north-south dimension of
+298.62 feet and an east-west dimension of 305.41 feet, beginning at a point in the
+eastern right-of-way margin of Foster Street. Parcel 2 begins at the southwestern
+corner of Parcel 1 and its second call runs “South 87°45’27” East, 297.63 feet to
+a new iron pipe, being the southeastern corner of Parcel 1.” That is not
+possible: the southeastern corner of Parcel 1 is 305.41 feet east of its southwestern
+corner, not 297.63 feet. The description is short by 7.78 feet, and Parcel 2’s
+closing call (“thence along the southern boundary of Parcel 1, North 87°45’27”
+West, 297.63 feet to the point and place of BEGINNING”) cannot close on Parcel
+1’s southern boundary for the same reason.
+We checked the areas and they do reconcile (298.62 × 305.41 = 91,201.5 sf =
+2.094 acres, against the stated 2.09; 201.88 × 297.63 = 60,085.5 sf = 1.379 acres,
+against the stated 1.38; total 151,287 sf = 3.473 acres), which suggests the error
+is in one distance call rather than in the overall geometry. But an error of 7.78 feet
+on a boundary that abuts a neighbouring parcel is exactly the kind of defect that
+produces a boundary dispute, an adverse possession claim, or a title exception that
+the Bank cannot remove.
+
+23
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+The Term Sheet leaves Exhibit A blank: “ [Legal descriptions to be provided by
+Aldersgate Title & Escrow Inc. and confirmed by survey prior to closing.] ” The
+Draft reproduces the title commitment descriptions with the defect flagged.
+Recommendation. Require the ALTA/NSPS survey as a hard closing condition (it
+already is under Title Commitment Schedule B–I ¶ 5 and Term Sheet § 18, but it
+has not been obtained) and require the surveyor to reconcile the two calls and to
+certify a corrected description. Conform Exhibit A to the certified survey, obtain
+the Title Company’s confirmation that it will insure the corrected description, and
+delete or modify standard exceptions 2 and 3 (encroachments, overlaps, boundary
+disputes) on the basis of the survey and an owner’s affidavit.
+Draft reference: § 3.1(i); Exhibit A and its drafting note.
+
+Issue 18 — Frontage and Parcel Acreage Figures Conflict Across the Record
+Severity: Medium.
+Sources: Appraisal § 2 (“approximately 420 feet of frontage along Foster Street on
+the western boundary”; combined 3.47 acres); Title Commitment Schedule A ¶ 6
+(Parcel 1 2.09 acres; Parcel 2 1.38 acres; combined 3.47 acres); Phase I ESA § 1
+and § 2.1 (Parcel 0821-04-72-3341 “approximately 1.89 acres”; Parcel 0821-04-724102 “approximately 1.58 acres”; combined 3.47 acres); Term Sheet § 2 (3.47
+acres combined).
+Finding. The combined acreage is consistently 3.47 acres, but the split between
+the parcels is not: title says 2.09 / 1.38; the environmental consultant says 1.89 /
+1.58. Both sum to 3.47, which suggests one of them transposed the figures. The
+legal descriptions support the title figures (see Issue 17). Frontage is also
+inconsistent: the Appraisal says 420 feet along Foster Street; the two legal
+descriptions together give 298.62 + 201.88 = 500.50 feet. Neither figure can be
+derived from the other.
+This matters beyond tidiness. The environmental restriction applies to the
+northeast corner of Parcel 0821-04-72-4102, and the acreage of that parcel
+determines what proportion of it is restricted (0.38 ÷ 1.38 = 27.5% on the title
+figures; 0.38 ÷ 1.58 = 24.1% on the ESA figures). It also matters because the
+Phase I ESA’s site orientation is inconsistent with the legal description: the ESA
+says the site “fronts Foster Street to the north” and that Parcel 0821-04-72-3341 is
+the “western parcel,” while the legal descriptions place Foster Street on the
+western boundary and describe Parcel 2 as lying directly south of Parcel 1. The
+ESA’s Figure 3 narrative repeats the error (“Foster Street is depicted along the
+northern boundary”; parcels arranged east-west).
+Recommendation. Have the surveyor fix the parcel areas and frontage, and have
+the environmental consultant (or the Bank’s environmental consultant) confirm the
+location of the Environmental Restricted Area by reference to the recorded
+deed notice and the survey, not by reference to the ESA’s figure. The Loan
+Agreement should define “Environmental Restricted Area” by metes and bounds
+
+24
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+tied to the deed notice, which the Draft does (§ 1.1), precisely because the ESA’s
+spatial description cannot be mapped onto the legal description.
+Draft reference: § 1.1 (“Environmental Restricted Area”); Exhibit E Part 1; §
+3.1(i).
+
+Issue 19 — Title Mechanics: Commitment Expiry, Underwriter, Escrow
+Officer and Lien Priority
+Severity: Medium.
+Sources: Title Commitment (Notes and Conditions; Note 4; Note 6); Term Sheet §
+18.
+Finding. Four points, none individually serious but each a closing-file defect if not
+addressed:
+(a) The commitment expires June 5, 2025. The target Closing Date is February
+28, 2025, so there is time; but if closing slips past June 5, 2025 (which is plausible
+given the open items in Section 8), the commitment must be extended before
+closing. Add to the closing checklist.
+(b) The issuing underwriter is not identified. The commitment describes
+Aldersgate as “a title insurance company authorized to transact business in the
+State of North Carolina.” A commitment should name the underwriting company
+whose policy will issue. Confirm whether Aldersgate is a direct writer or an agent,
+identify the underwriter, and confirm its financial strength and its acceptance of
+the Bank’s required endorsements.
+(c) The escrow officer’s email domain does not match the company. Note 6
+gives “plangley@crestviewtitle.com” for Aldersgate Title & Escrow Inc. That is
+either a legacy domain, a rebranding, or a template artifact. Confirm before wiring
+funds. Combined with Note 3 (Insured Closing Letter available on request), we
+recommend the Bank obtain the ICL and verify the wire instructions by telephone
+call-back to an independently confirmed number — a standard control that costs
+nothing.
+(d) Mechanics’ lien priority. Note 4 correctly flags N.C.G.S. § 44A-10: a claim of
+lien relates back to the first furnishing of labor or materials. If any work has begun
+or materials have been delivered before the Deed of Trust is recorded, the Bank’s
+first-priority position is at risk. The record shows demolition in August 2024 and
+remediation in September 2024 — i.e., substantial prior work on the site.
+Whether that work gives rise to lien rights that relate back ahead of the Deed of
+Trust depends on whether the work was lienable and whether the claimant is the
+same “improver.” Obtain a survey and an owner’s/general contractor’s affidavit
+confirming no labor or materials have been furnished for the Project before
+recording, and full lien releases from the demolition and remediation contractors
+before closing.
+Recommendation. Add each item to the closing checklist; make the ICL and the
+pre-recording lien affidavits closing conditions.
+
+25
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Draft reference: § 3.1(h); § 6.2(c).
+
+Issue 20 — Brightleaf Historic District ARC Approval: A Direct Conflict
+Between the Appraisal and the Title Officer
+Severity: High.
+Sources: Appraisal § 2 (“the architectural design has been reviewed and approved
+by the Brightleaf Historic District Association in accordance with the CC&Rs”);
+Title Commitment Schedule B–II ¶ 11 Note (“The Company has not received
+evidence that the current project plans … have been submitted to or approved by
+the Brightleaf Historic District Association Architectural Review Committee”);
+Credit Memorandum §§ 9.8 and 10.1.14 (requires evidence of approval as a closing
+condition).
+Finding. The two statements are irreconcilable. One of them is wrong. The
+Declaration recorded in Book 6984, Page 1155 (as amended in Book 7102, Page
+388) requires prior written ARC approval for all new construction, requires
+submission at least ninety (90) days before the anticipated commencement of
+construction, deems approval to have been granted if the ARC does not act within
+sixty (60) days of a complete submission, and gives the Association and any
+affected owner a right to seek injunctive relief to halt unapproved
+construction. The Title Policy will carry the Declaration as an exception
+(Schedule B–II ¶ 11), so the Bank is not insured against an enforcement action.
+If ARC approval has not been obtained and the deemed-approval period has not
+run, construction commenced on or after the Closing Date could be enjoined,
+which would be both a Completion Guaranty trigger and an Event of Default. As at
+the date of the Title Commitment (December 5, 2024), the 90-day pre-construction
+submission requirement could not be satisfied before a February 28, 2025 closing
+unless submission occurred by November 30, 2024 — and the title officer says
+there is no evidence of submission at all.
+Recommendation. Treat this as a high-priority closing condition. Require from
+Borrower: (a) a dated copy of the ARC submission package; (b) the ARC’s written
+approval, or (c) evidence that 60 days have elapsed since a complete submission
+without written action (deemed approval), together with a supporting opinion from
+Borrower’s counsel on the sufficiency of the submission; and (d) written
+confirmation from the Title Company that it will not except to the absence of
+approval. Given the timeline, the Bank should expect that closing may need to be
+deferred, or the deemed-approval route relied on with a supporting legal opinion
+and, if available, a letter from the Association.
+Draft reference: § 3.1(l); § 6.3 (no modification to plans that would require
+further ARC approval).
+
+Issue 21 — The Permitted Exceptions Omit the Environmental Use
+Restriction
+Severity: High.
+
+26
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Sources: Term Sheet § 18 (four Permitted Exceptions: standard exceptions; Duke
+Energy easement; City stormwater easement; Brightleaf CC&Rs); Title
+Commitment Schedule B–II ¶¶ 7–13 (does not list an environmental use
+restriction); Appraisal § 8 (“This land use restriction is memorialized in a
+Declaration of Land Use Restrictions recorded at the Durham County Register of
+Deeds”); Phase I ESA § 7 Condition 4 (deed notice required to be recorded by
+November 29, 2024).
+Finding. The Term Sheet enumerates four Permitted Exceptions and requires all
+other Schedule B–II matters to be removed at or before closing. The environmental
+land use restriction is a fifth exception that is not on the list. It cannot be removed
+— it is a condition of the NFA determination and must remain of record. Left
+unaddressed, the Term Sheet’s own closing condition (“All other exceptions …
+shall be removed, released, or otherwise satisfied on or before the Closing Date”)
+is either unsatisfiable or would require the Bank to accept the Title Policy with an
+unapproved exception.
+Recommendation. Add the recorded Declaration of Land Use Restrictions / deed
+notice as a Permitted Exception (Draft Exhibit H ¶ 6), with recording information
+inserted on recordation. This is also the natural place to define the Environmental
+Restricted Area by reference.
+Draft reference: Exhibit H ¶ 6; § 1.1.
+
+Issue 22 — Builder’s Risk Insurance Is Capped Below the Loan Amount
+Severity: Medium.
+Sources: Term Sheet § 19 (Builder’s Risk “in an amount not less than the total
+hard construction costs ($34,750,000)”); Credit Memorandum § 8.1 (same); Draw
+Schedule Detailed Budget line 3.09 (builder’s risk premium $210,000).
+Finding. The required limit equals the GMP exactly and is $12,750,000 less
+than the Loan Amount. Improvements under construction will be worth the GMP
+plus soft costs, developer fee and interest — that is, the Loan balance will exceed
+the insured value. On a total loss, the Bank’s recovery would be capped at
+$34,750,000 against an exposure that, by the end of construction, will be
+approximately $47,500,000. The GMP is a cost, not an insurable value; the two are
+not the same measure.
+Recommendation. Require builder’s risk in an amount not less than the full
+insurable replacement value of the improvements (which should be not less than
+the GMP plus soft costs and the developer fee, and in no event less than the
+outstanding principal balance of the Loan). Add soft cost and, if available, delay-incompletion and ordinance-or-law coverage. The incremental premium is small
+relative to the coverage gap.
+Draft reference: § 11.1(a) and its drafting note.
+
+27
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Part D — Environmental
+
+Issue 23 — The NFA Deed Notice Is Not Evidenced as Recorded, and the
+Record Conflicts on Whether It Was
+Severity: Critical.
+Sources: Phase I ESA § 1 and § 7 Condition 4 (deed notice to be recorded in the
+Durham County Registry within 60 days of the NFA letter dated September 30,
+2024 — i.e., by November 29, 2024; and “as of the date of this Phase I ESA
+(October 28, 2024), the consultant was not provided evidence that the required
+deed notice has been recorded”); Appraisal § 8 (“memorialized in a Declaration of
+Land Use Restrictions recorded at the Durham County Register of Deeds”); Title
+Commitment (effective December 5, 2024; Schedule B–II ¶¶ 7–13 list no such
+instrument); Credit Memorandum § 10.1.7 (does not require the deed notice);
+Term Sheet § 17 (does not mention the deed notice).
+Finding. Three documents, three positions, and the two that post-date the
+deadline disagree:
+
+
+Phase I ESA (October 28, 2024 — before the deadline): no evidence of
+recording; deadline had not yet passed.
+
+
+
+Appraisal (November 15, 2024 — before the deadline): states the restriction is
+recorded. The appraiser cannot have verified this; the deadline had not yet
+arrived when the appraisal was dated.
+
+
+
+Title Commitment (effective December 5, 2024 — after the deadline): performs
+a full public-records search of the Durham County Registry and lists thirteen
+Schedule B–II exceptions. No declaration of land use restrictions appears.
+If the deed notice had been recorded between September 30 and November 29,
+2024, a commitment effective December 5, 2024 should show it.
+
+The title officer’s silence is significant evidence that the notice was not recorded.
+If it was not, the NFA determination is out of compliance with its own condition 4,
+and the site’s regulatory status (“NFA — Conditional”) is impaired. Neither the
+Term Sheet nor the Credit Memorandum makes the deed notice a closing
+condition; the Credit Memorandum’s environmental condition (§ 10.1.7) addresses
+the vapor mitigation system, the use restriction and the Phase I/II, but not the
+notice.
+Recommendation. This is a closing condition, not a diligence item. Require: (a)
+the recorded instrument, with recording data, or (b) written confirmation from
+NCDEQ that the recording deadline has been satisfied by a filing that the Title
+Company has not yet indexed, or (c) if the deadline was missed, written
+confirmation from NCDEQ that the NFA determination remains in effect
+notwithstanding late recording, or (d) a re-issued NFA letter. Do not accept
+Borrower’s or Borrower’s counsel’s assurance; verify by direct search of the
+Durham County Registry. Also require an opinion of Borrower’s counsel on the
+enforceability and scope of the recorded restriction, since a restriction that is not
+properly recorded may not run with the land.
+
+28
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Draft reference: § 3.1(j); § 10.2(d); Exhibit H ¶ 6; Exhibit F.
+
+Issue 24 — The Scope of the Residential Use Restriction Has Not Been
+Established
+Severity: Critical.
+Sources: Phase I ESA § 7 Condition 2 and § 8.5 (the restriction limits the ~0.38acre area to non-residential use; “any change in land use to residential or other
+sensitive use … would require additional investigation and/or remediation … and a
+modification to this NFA determination”); Phase I ESA § 8.5 and Recommendation
+1 (“The consultant did not independently verify whether any residential units
+would be positioned directly above the affected 0.38-acre area … this
+determination requires a detailed overlay of the proposed building floor plans with
+the environmental delineation map”; the client “should verify the spatial
+relationship”); Credit Memorandum §§ 8.2 and 9.5 (“the current project plans
+position 14 residential units in the building structure directly above this area at the
+podium level and upper floors”); Appraisal § 8 (“The appraiser has not adjusted the
+valuation conclusions to account for any potential impact of the NFA use
+restriction on the residential unit mix or leasability of units positioned above the
+restricted area”; “expresses no opinion as to the legal permissibility of the planned
+residential use”).
+Finding. The Credit Memorandum treats the spatial conflict as established. The
+Phase I ESA — the only document that examined the question — expressly declines
+to conclude anything and recommends that the overlay be performed. The number
+“14” in the Credit Memorandum corresponds exactly to the number of threebedroom units in the Project (142 one-bedroom, 56 two-bedroom, 14 threebedroom); it appears that the unit count has migrated into the environmental
+analysis without any spatial finding behind it.
+The Credit Memorandum’s quantification is arithmetically correct but built on that
+unverified premise: 14 units × $2,245 × 12 = $377,160 of annual revenue; NOI
+would fall from $4,876,800 to $4,499,640; DSCR would fall from 1.31x to 1.21x,
+below the 1.25x minimum. If the CC&R assessment omission (Issue 29) is added on
+top, NOI is $4,465,140 and DSCR is 1.20x.
+We make three further observations. First, the restriction is a land use restriction
+on a defined area; whether it prohibits residential occupancy of floors built above
+that area, with a functioning vapor mitigation system, is a legal and regulatory
+question that requires NCDEQ’s written position, not an inference. Second, the
+NFA letter’s condition 1 requires the vapor mitigation system beneath “any
+enclosed structure” over the affected area — which implies that enclosed structure
+over the area was contemplated, but does not resolve occupancy type. Third, even
+if NCDEQ permits residential occupancy, the Appraiser has not adjusted value, so
+the $72,800,000 and $76,200,000 values on which the LTV ratios depend expressly
+ignore the issue.
+
+29
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. (a) Require the Project Architect to deliver a certified overlay
+of the floor plans (levels 2–6) on the Phase II delineation, identifying every unit and
+every occupied space within or above the Environmental Restricted Area and
+stating the unit count. (b) On the basis of the overlay, require one of the three
+resolutions in Draft § 3.1(k): an NCDEQ modification permitting residential use;
+redesign eliminating residential occupancy of the affected area; or a written
+NCDEQ determination that the restriction does not extend to enclosed structures
+above the affected area where the vapor mitigation system operates. (c) At the
+Bank’s election, permit closing and defer the resolution to a condition of advances
+for construction in the affected area (Draft § 10.6). (d) Correct the Credit
+Memorandum’s § 8.2 and § 9.5 to record that the spatial relationship is unverified,
+and restate the DSCR sensitivity as a range rather than a finding. (e) Require the
+environmental consultant to review the architect’s overlay and confirm it.
+Draft reference: § 3.1(k); § 10.2(b); § 10.6; § 10.9; § 5.7(e); definition of
+“Environmental Restricted Area” in § 1.1.
+
+Issue 25 — The NFA Conditions and Their Deadlines Are Not Carried into
+the Loan Documents
+Severity: High.
+Sources: Phase I ESA § 7 (four conditions: vapor mitigation system with as-builts
+and performance verification to NCDEQ within 90 days of completion of the
+building foundation; non-residential use restriction; NCDEQ-approved soil
+management plan before any subsurface disturbance; deed notice within 60 days);
+Term Sheet § 17 (mentions only the vapor mitigation system); Credit Memorandum
+§ 10.3 (mentions the vapor mitigation system and general environmental
+compliance).
+Finding. The Term Sheet’s environmental covenant addresses one of four
+conditions. It says nothing about the land use restriction as a covenant, nothing
+about the deed notice, nothing about the soil management plan, and nothing about
+the 90-day as-built/verification deadline. The Credit Memorandum adds the use
+restriction (as a closing condition) but not the operational covenants. There are
+therefore no enforceable documentary obligations covering three of the four NFA
+conditions, one of which (the soil management plan) must be in place before any
+excavation in the affected area — work that will occur during the construction
+period.
+Recommendation. Article X of the Draft carries all four conditions as continuing
+covenants, together with (a) the as-built and performance verification deadline, (b)
+a prohibition on subsurface disturbance without an approved soil management
+plan, (c) an obligation to deliver all NCDEQ correspondence within ten business
+days, (d) an annual compliance certification, and (e) an Event of Default for noncompliance (Draft § 14.1(n)). The Bank should also require Borrower to deliver the
+NCDEQ-approved soil management plan and the vapor mitigation system design as
+closing deliverables (Draft § 3.1(j)), not as construction-period items, because the
+
+30
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+soil management plan governs the very first excavation in the affected area and the
+vapor system must be designed into the foundation.
+Draft reference: Article X; § 3.1(j); § 14.1(n); Exhibit E Part 2.
+
+Issue 26 — Remediation Quantities and Costs Are Stated Inconsistently
+Severity: Low (but a useful diagnostic).
+Sources: Appraisal § 8 (approximately 320 cubic yards of petroleum-impacted
+soil); Credit Memorandum § 8.2 (approximately 340 cubic yards); Phase I ESA §
+6.1 (approximately 1,200 cubic yards, with excavation to approximately 12 feet
+below grade); Phase I ESA § 6.3 (remediation cost approximately $485,000);
+Appraisal § 6.1 (demolition and remediation “cost approximately $680,000”);
+Draw Schedule Detailed Budget line 3.05 (Environmental & Geotechnical,
+$185,000, for “Phase I, Phase II, remediation monitoring, geotech”).
+Finding. Three different volumes for the same excavation (320 / 340 / 1,200 cubic
+yards — a factor of nearly four). Two different costs ($485,000 / $680,000, the
+latter apparently including demolition). The budget carries $185,000, which is less
+than the remediation cost alone, but the remediation was completed in September
+2024 and is a past cost, so it is presumably embedded in the land basis rather than
+in the forward budget — a point neither document states.
+The volume matters because it is the best available proxy for whether the
+remediation was complete. The Phase I ESA explains that contamination above
+residential standards remains in situ at depths of 10 to 14 feet along the eastern
+boundary “where excavation was limited by the proximity of the adjoining property
+and critical underground utility infrastructure” — so excavation was partial by
+design, not by accident. That is consistent with the NFA determination and the
+use restriction, but it should be documented accurately.
+Recommendation. Obtain the Phase II report and the remediation completion
+report (Issue 27) and take the figures from primary documents. Correct the
+Appraisal and Credit Memorandum summaries. Do not finalize Exhibit E of the
+Loan Agreement until the volumes and costs are confirmed.
+Draft reference: Exhibit E Part 1 (table, with the inconsistency flagged).
+
+Issue 27 — Environmental Document Gaps and Reliance
+Severity: High.
+Sources: Phase I ESA (cover page; § 5 note; § 11; Appendix list); Credit
+Memorandum § 13 (diligence table).
+Finding. Four gaps:
+(a) The Phase II report is not in the record. The Phase I ESA refers to it as a
+separate engagement (Sentinel Project No. SEC-2024-1089, dated August 30,
+2024) and summarises its results “for reference and completeness.” The Bank’s
+environmental condition (Term Sheet § 11; Credit Memorandum § 10.1.7) requires
+
+31
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+“related Phase II investigation results.” A lender should not close on a summary of
+a Phase II in a Phase I. Obtain the report.
+(b) The NFA letter is not in the record. Its terms are known only through the
+Phase I ESA’s summary (§ 7). Obtain the letter itself, with Site ID IHSB-24-1203 /
+Incident No. NONUST-24-0847.
+(c) No Phase II reliance letter. The Phase I ESA refers to a reliance letter for the
+Bank dated October 28, 2024 (Appendix G). There is no equivalent for the Phase II.
+Without reliance, the Bank cannot sue the consultant on the Phase II.
+(d) Phase I shelf life. Under 40 C.F.R. § 312.20(c) the Phase I ESA (October 28,
+2024) has a 180-day shelf life expiring April 26, 2025. A February 28, 2025
+closing is inside the window; a closing after that date requires an update to
+preserve All Appropriate Inquiries protection — which matters directly to the
+Bank’s CERCLA secured-creditor and bona fide prospective purchaser positions.
+Given the open items in Section 8, a delay past April 26, 2025 is a realistic
+possibility.
+Recommendation. Make the Phase II report, the NFA letter and both reliance
+letters closing deliverables, and add a condition requiring an updated Phase I if
+closing occurs after April 26, 2025 (Draft § 6.16). Consider requiring the reliance
+letters to name the Bank’s successors and assigns, since the Loan may be
+participated or assigned.
+Draft reference: § 3.1(j); § 6.16.
+
+32
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Part E — Construction Schedule and Completion
+
+Issue 28 — Substantial Completion Is Projected Three Days After the
+Construction Maturity Date, and Draw 9 Falls After Maturity
+Severity: High.
+Sources: Term Sheet § 2 (Projected Substantial Completion: August 31, 2027); §
+3.2 (construction period 30 months; target closing February 28, 2025;
+Construction Maturity Date August 28, 2027); § 7.1 (Completion Guaranty
+requires lien-free completion “on or before the Construction Maturity Date of
+August 28, 2027”); Appraisal § 3 (projected substantial completion August 31,
+2027; as-completed value effective August 31, 2027); Draw Schedule (Draw 8 —
+Substantial Completion/TCO — December 2027 in the “Summary” worksheet
+tabulation of estimated dates shows August 2027; Draw 9 — Retainage Release —
+October 2027); Credit Memorandum § 9.6 (acknowledges “only three days”).
+Finding. We verified the date arithmetic, which is internally consistent: February
+28, 2025 + 30 months = August 28, 2027; + 12 months = August 28, 2028; + 6
+months = February 28, 2029. The problem is not the arithmetic but the
+sequence. The project is scheduled to achieve Substantial Completion on August
+31, 2027, three days after the Construction Maturity Date and three days after the
+date on which the Guarantors must have achieved lien-free completion under the
+Completion Guaranty. The Completion Guaranty is therefore in default on the day
+the construction loan matures, on the project’s own schedule, with zero float.
+The Credit Memorandum ¶ 9.6 recognises the three-day gap and treats the miniperm period as the buffer. That is a fair observation about the Loan — the Loan
+does not mature until August 28, 2028 — but it does not address the Completion
+Guaranty or the construction-period covenants, which both key off August 28,
+2027. As drafted, the Term Sheet requires the Guarantors to guarantee completion
+by a date on which, on the Project’s own schedule, completion has not yet
+occurred.
+Two further timing defects:
+
+
+Draw 8 is scheduled in month 30 of a 30-month construction period — that is,
+at the very end, with substantial completion. There is no margin for a single day
+of delay between the final construction advance and maturity.
+
+
+
+Draw 9 (retainage release) is scheduled for October 2027, after the
+Construction Maturity Date, which means the retainage is released during the
+Mini-Perm Period. The Term Sheet describes Draw 9 as a construction-period
+draw with a “Post-CO” milestone, and the Retainage is security for lien claims
+arising during construction. Releasing it after maturity is not necessarily wrong,
+but it should be deliberate, and the Loan Documents should say what happens if
+retainage conditions are not satisfied until after maturity.
+
+Recommendation. (a) Add a tolerance: require completion within thirty (30)
+days after the Construction Maturity Date in the Completion Guaranty (Draft §
+13.1), and consider whether the Construction Maturity Date should instead be
+
+33
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+defined as the date 30 months after the actual Closing Date so that a delayed
+closing does not compress the construction period (Issue 42). (b) Re-phase the
+construction schedule so that Substantial Completion is targeted at least 60 days
+before the Construction Maturity Date; if that is not achievable, the Bank should
+consider extending the construction period rather than relying on the mini-perm as
+completion float. (c) Address the post-maturity retainage release expressly. (d)
+Obtain the General Contractor’s current critical-path schedule under the GMP
+contract before the milestones in Exhibit D are fixed; the dates in the record are
+the developer’s, not the contractor’s.
+Draft reference: § 6.2(b); § 13.1; § 4.3; Exhibit C ¶ 5; Exhibit D.
+Part F — Financial Covenants, Guaranties and Reporting
+
+Issue 29 — The CC&R Assessment Is Omitted from Net Operating Income
+and from Both Valuations
+Severity: Medium.
+Sources: Title Commitment Schedule B–II ¶ 11(b) (assessment obligations for
+common areas and district-wide improvements “currently assessed at a rate of
+$0.12 per square foot of gross building area per annum, subject to annual
+adjustment”); Appraisal § 7 (operating expenses of $1,262,100 — nine line items,
+none of which is an association assessment; the largest “other” item is $30,038);
+Term Sheet § 4 and Credit Memorandum § 6.3 (NOI $4,876,800 carried forward
+without adjustment).
+Finding. The Property is subject to a mandatory annual assessment of $0.12 per
+square foot of gross building area under the Brightleaf Historic District Association
+Declaration. At 287,500 square feet of gross building area that is $34,500 per
+annum, and it is not among the Appraiser’s nine operating expense line items —
+the aggregate “Other Operating Expenses” line is only $30,038, less than the
+assessment itself. The Appraiser either overlooked the recorded Declaration or
+treated the assessment as immaterial.
+The effect is quantifiable:
+
+
+NOI: $4,876,800 − $34,500 = $4,842,300.
+
+
+
+DSCR at 7.85% on $47,500,000: $4,842,300 ÷ $3,728,750 = 1.2986x (from
+1.31x). Still above 1.25x, but the cushion is thinner than reported.
+
+
+
+As-stabilized value at the Appraiser’s own 6.40% capitalization rate: $4,842,300
+÷ 0.064 = $75,660,900 (from $76,200,000).
+
+
+
+As-stabilized LTV: $47,500,000 ÷ $75,660,900 = 62.78% (from 62.34%).
+
+None of these changes a conclusion by itself. But a $34,500 recurring expense
+omitted from NOI is exactly the sort of item that a buyer, an appraiser or an expert
+will identify in a later dispute, and its existence tells the Bank something about the
+reliability of the operating expense analysis.
+
+34
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. Ask the Appraiser for a written confirmation of whether the
+assessment was considered and, if not, for a revised expense analysis. Add the
+assessment to the Loan Agreement’s Net Operating Income definition so that
+covenant compliance and the DSCR/Debt Yield tests capture it (Draft § 8.8(c)(v)).
+Do not represent the as-stabilized value as $76,200,000 in the credit file without a
+note.
+Draft reference: § 8.8(c)(v) and its drafting note.
+
+Issue 30 — The DSCR Covenant Is Tested on a Basis That Cannot Be
+Satisfied, and There Is No Debt Yield Test
+Severity: High.
+Sources: Term Sheet § 6.3 (“The DSCR shall be tested at the commencement of
+the Mini-Perm Period and annually thereafter based on actual trailing twelvemonth net operating income”); Appraisal § 6.3 (stabilization projected for
+approximately May 2028, nine months after August 31, 2027 completion); Term
+Sheet § 3.2 (Mini-Perm Period commences August 29, 2027); Credit
+Memorandum § 6.1 (DSCR 1.31x computed on stabilized NOI; stress case 1.04x at
++200 bps); § 9.8 (recommends an interest rate cap).
+Finding. The covenant requires DSCR ≥ 1.25x measured on actual trailing
+twelve-month NOI, first tested at the commencement of the Mini-Perm
+Period, which is August 29, 2027. At that date the Project will have completed
+construction two days earlier and will not have been stabilized: the Appraiser
+projects stabilization in May 2028, nine months later. Trailing twelve-month
+actual NOI at August 2027 would reflect a project in early lease-up — possibly very
+little revenue at all, since certificates of occupancy would only recently have
+issued. The covenant, as written, is close to guaranteed to fail on its first test date.
+That is not a credit protection; it is a default waiting to happen, which is useful to
+neither party and damaging to the Bank if it must decide whether to enforce.
+The absence of any rate-insensitive coverage test compounds the problem. The
+single coverage metric in the Term Sheet moves inversely with SOFR, and the
+Credit Memorandum’s own stress test shows 1.04x at +200 basis points (§ 6.1) — a
+fail. There is no debt yield test, so the Bank has no measure of the Loan against the
+property’s income capacity that is independent of the interest rate.
+Recommendation. (a) Test DSCR at the commencement of the Mini-Perm Period
+on a stabilized basis (underwritten NOI adjusted for actual leasing status, or
+trailing three-month annualized in-place NOI with a lease-up adjustment), and
+move the first actual T-12 test to twelve months after the final certificate of
+occupancy. (b) Add a Debt Yield covenant of not less than 8.50% (Draft § 8.4),
+tested on the same dates — on the Appraiser’s NOI that is $4,876,800 ÷
+$57,373,000, i.e., it permits roughly the current senior balance with a modest
+cushion. (c) Require an interest rate cap at the commencement of the Mini-Perm
+Period, not only as an extension condition, given the 1.04x stress result (Draft §
+2.14). (d) Retain the curtailment/cash-collateral cure in Term Sheet § 6.3.
+
+35
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Draft reference: § 8.3 (with drafting note); § 8.4; § 2.14.
+
+Issue 31 — Borrower’s Stated Net Worth of $14,200,000 Cannot Be
+Reconciled, and the $12,000,000 Covenant Fails on Day One
+Severity: High.
+Sources: Term Sheet § 6.4 (net worth $12,000,000, tested annually; “current net
+worth of the Borrower is approximately $14,200,000, based on financial
+statements provided to the Lender”); Credit Memorandum § 2.1 (same, with “a
+cushion of approximately $2,200,000 above the covenant minimum”);
+Organizational Chart § 1.1 (same, “based on the book value of its assets and
+liabilities as of the most recent reporting period”); Title Commitment Schedule A ¶
+5 (Property acquired at $8,200,000); Title Commitment Schedule B–II ¶ 10 (Prior
+Deed of Trust securing $3,400,000); Organizational Chart § 1.3 (borrower’s only
+asset is the land; no member has contributed cash other than the land).
+Finding. We cannot reconstruct a $14,200,000 net worth from any balance sheet
+disclosed in the record. Borrower’s stated asset is the Property, acquired for
+$8,200,000. Its stated liability is the $3,400,000 Prior Deed of Trust (original
+principal; the title officer notes counsel’s advice that it was “partially repaid”).
+That balance sheet yields net worth of approximately $4,800,000 at cost, or
+$5,500,000 if the land is carried at its $8,900,000 appraised value. The gap to the
+asserted $14,200,000 is between $8.7 million and $9.4 million, and no
+document in the record explains it. There is no other asset disclosed; no member
+has contributed cash beyond the land; and the Borrower is represented to be a
+single-purpose entity holding nothing else.
+The consequence is not merely a documentation problem. The proposed covenant
+requires net worth of not less than $12,000,000, tested annually. On the balance
+sheet the record actually supports, Borrower would be in breach of that covenant
+at the Closing Date and at every test date thereafter: post-closing, Borrower’s
+assets and liabilities increase roughly dollar-for-dollar with each Loan and
+Mezzanine Loan advance, so debt-funded construction does not build net worth.
+The completion guaranty and the Carry Guaranty exist to address exactly this, but
+a covenant that is breached from inception is worse than no covenant — it hands
+the Borrower an argument that the Bank waived it, and it gives the Borrower a
+basis to resist enforcement.
+Recommendation. (a) Obtain Borrower’s complete financial statements, with a
+schedule reconciling the $14,200,000 to specific assets and liabilities, and verify
+the largest items. Do not accept the assertion. (b) Once reconciled, redefine the
+covenant so that it measures something the Borrower can actually maintain.
+Options, in order of preference: (i) a net worth test that excludes debt-funded
+construction in progress and permits the Property to be carried at appraised value;
+(ii) a liquidity covenant on Borrower (e.g., Available Cash of not less than a stated
+amount) which is more meaningful for a single-asset SPE; or (iii) deletion of the
+covenant in favour of the guarantor covenants, on the basis that the Borrower is an
+SPE with no independent capacity to cure. (c) Whichever route is taken, require an
+
+36
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+initial compliance certificate at closing that demonstrates compliance with the
+covenant as defined.
+Draft reference: § 8.5 and its drafting note; § 3.1(p); § 5.9; Exhibit I.
+
+Issue 32 — There Is No Guarantor Net Worth Covenant, and Term Sheet §
+15 Cross-References the Wrong Section
+Severity: Medium.
+Sources: Term Sheet § 6.4 (Borrower net worth $12,000,000); § 6.5 (Guarantor
+liquidity $5,000,000); § 15, final bullet (“Any Guarantor’s net worth falls below the
+minimum threshold set forth in Section 6.4”); Credit Memorandum § 2.3 (net worth
+profile of each Guarantor; § 2.3.3 analyses guaranty exposure as a percentage of
+net worth) and § 10.3 (ongoing covenants — net worth for Borrower, liquidity for
+Guarantors, no Guarantor net worth covenant).
+Finding. Term Sheet § 15 makes it an Event of Default if “any Guarantor’s net
+worth falls below the minimum threshold set forth in Section 6.4.” Section 6.4 sets
+the Borrower’s net worth covenant. There is no Guarantor net worth covenant
+anywhere in the Term Sheet. The cross-reference is a drafting error, and it leaves
+the corresponding Event of Default without content.
+The omission also sits oddly with the Credit Memorandum’s own analysis. Section
+2.3.3 computes each Guarantor’s partial repayment exposure as a percentage of
+personal net worth — approximately 39.8% for Ms. Vasquez-Torres ($11,875,000
+÷ $29,800,000 = 39.85%) and approximately 103.3% for Mr. Osei ($11,875,000 ÷
+$11,500,000 = 103.26%) — and expressly notes that Mr. Osei’s exposure exceeds
+his net worth and depends on illiquid real estate. Having identified guarantor net
+worth as a live risk, the credit document contains no covenant that protects it.
+Recommendation. Either insert a Guarantor net worth covenant — we suggest
+75% of the net worth shown in the most recent personal financial statement
+(approximately $22,350,000 for Ms. Vasquez-Torres and $8,625,000 for
+Mr. Osei) — or delete the Event of Default. We prefer the former, and would add a
+requirement that each Guarantor’s real estate holdings be valued at not more than
+a stated percentage of net worth or that the Bank receive an updated appraisal
+summary of the Guarantors’ principal real estate assets annually. If the Bank
+prefers not to impose a net worth test, the liquidity covenant (Term Sheet § 6.5,
+$5,000,000 combined) should be increased, since $5,000,000 against a
+$11,875,000 guaranteed amount is a thin cushion.
+Draft reference: § 8.7 and its drafting note; § 14.1(p)–(q).
+
+Issue 33 — The Partial Repayment Guaranty Is Either 25% of the Loan in
+the Aggregate or $11,875,000 Per Guarantor
+Severity: High.
+Sources: Term Sheet § 7.3 (“a partial repayment guaranty … in the amount of
+25% of the Loan Amount (25% × $47,500,000 = $11,875,000). The Partial
+
+37
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Repayment Guaranty shall be joint and several, meaning that each Guarantor shall
+be individually liable for the full guaranteed amount”); Credit Memorandum § 2.3.1
+and § 2.3.2 (“a 25% partial repayment guaranty (25% × $47,500,000 =
+$11,875,000)” for each Guarantor); § 4.3 (“Each guarantor will provide a 25%
+partial repayment guaranty — 25% of the loan amount of $47,500,000 =
+$11,875,000 per guarantor”).
+Finding. The Term Sheet and the Credit Memorandum describe different
+guaranties.
+
+
+Term Sheet reading: a single $11,875,000 obligation (25% of the Loan), joint
+and several, with each Guarantor liable for the full $11,875,000. Aggregate
+exposure: $11,875,000.
+
+
+
+Credit Memorandum reading: $11,875,000 per guarantor. Aggregate
+exposure: $23,750,000, or 50% of the Loan.
+
+The difference is $11,875,000 of recourse. The Credit Memorandum’s § 2.3.3
+analysis — exposure at 39.8% and 103.3% of net worth — uses the per-guarantor
+figure, which is why Mr. Osei’s exposure appears to exceed his net worth. Under
+the Term Sheet reading his exposure would be 103.3% of net worth only if he were
+liable for the whole amount as a joint and several obligor, which is what the Term
+Sheet actually provides.
+We note that the Term Sheet’s formulation (“joint and several, meaning that each
+Guarantor shall be individually liable for the full guaranteed amount”) is itself
+internally awkward: if the guaranteed amount is $11,875,000 and each is liable for
+the full $11,875,000, then the aggregate is $11,875,000, and the sentence’s
+purpose is to make clear there is no pro-rata limitation — not to double the
+obligation.
+Recommendation. Confirm the Term Sheet reading — 25% of the Loan in the
+aggregate, joint and several — and document it with an express sentence: “The
+Guaranteed Amount is a single obligation of the Guarantors in the aggregate; each
+Guarantor is jointly and severally liable for the entire Guaranteed Amount, and the
+Guaranteed Amount shall not be multiplied by the number of Guarantors.”
+Borrower will likely argue for the per-guarantor reading on the strength of the
+Credit Memorandum; the Bank must not leave the ambiguity in the document.
+Draft § 13.3 is drafted on the Term Sheet reading and the point must be
+raised with the Bank before circulation — this is a commercial term, not a
+drafting choice, and we should not settle it for the Bank.
+Draft reference: § 13.3 and its drafting note.
+
+Issue 34 — The Carry Guaranty Covers Different Periods in the Two
+Documents
+Severity: Medium.
+Sources: Term Sheet § 7.2 (Guarantors “guarantee the payment of interest and
+other carrying costs on the Loan during the term of the Loan”; applies after the
+Interest Reserve is exhausted or is insufficient); Credit Memorandum § 4.3
+38
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+(“guarantee payment of all carrying costs during the construction period,
+including monthly interest payments, real estate taxes, insurance premiums, and
+other carrying expenses”).
+Finding. The Term Sheet covers the whole term (construction and mini-perm); the
+Credit Memorandum covers the construction period only. During the Mini-Perm
+Period there is no interest reserve and no coverage under the narrower reading, so
+the Guarantors’ carry obligation would terminate exactly when the Project is in
+lease-up, the interest reserve is gone, and the risk of a payment default is highest
+— and the Credit Memorandum’s own DSCR analysis (Issue 30) shows the
+coverage margin is thin and rate-sensitive. The Property’s real estate taxes and
+insurance are also “carrying costs” whose scope should be stated.
+Recommendation. Adopt the Term Sheet formulation and state expressly that it
+extends to the Mini-Perm Period and any extension, and that it covers interest, real
+estate taxes, insurance premiums and other carrying costs. The Draft does so (§
+13.2). If the Bank intended the narrower scope, this needs to be resolved before
+circulation, since it is an expansion of the Guarantors’ exposure relative to the
+Credit Memorandum’s description.
+Draft reference: § 13.2 and its drafting note.
+
+Issue 35 — Reporting Requirements Differ Between the Term Sheet and
+the Credit Memorandum
+Severity: Low.
+Sources: Term Sheet §§ 13, 21.1; Credit Memorandum § 10.3; § 7.2.
+Finding. The two lists are similar but not identical. Examples: the Term Sheet
+requires monthly construction progress reports within fifteen days of month end (§
+21.1) while the Credit Memorandum sets no deadline (§ 7.2); the Term Sheet
+requires quarterly unaudited Borrower financial statements (§ 21.1) which the
+Credit Memorandum omits; the Credit Memorandum requires a budget
+reconciliation with each draw (§ 7.2) and an interest reserve reconciliation
+monthly (§ 6.2) which the Term Sheet contains only in part; the Credit
+Memorandum requires a certification of the AIA G702/G703 forms, the Term Sheet
+does not.
+Recommendation. Consolidate into a single schedule. The Draft does so at
+Exhibit F, taking the more demanding of each requirement in each case (which is
+the Bank’s interest, and which is the only reading consistent with both documents).
+Borrower may push back on items that appear only in the Credit Memorandum
+(which Borrower has not seen); where an item is genuinely new, the Bank should
+either waive it or press it expressly.
+Draft reference: Exhibit F; § 6.10.
+
+39
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Issue 36 — Extension Conditions Are Not in the Term Sheet, and the
+Proposed DSCR Test Is Below the Covenant
+Severity: High.
+Sources: Term Sheet § 3.2 (one 6-month extension “subject to satisfaction of
+customary conditions to be determined and set forth in the definitive Loan
+Agreement”); Credit Memorandum § 11 (proposed conditions (a) through (j)); § 6.3
+(1.25x DSCR covenant); § 11(d) (1.15x DSCR extension condition).
+Finding. The Term Sheet delegates the extension conditions to the Loan
+Agreement, so the Bank is entitled to set them — but Borrower has not agreed to
+any of them, and several are material: a 0.25% extension fee (not in the Term
+Sheet), a 75% occupancy requirement, a 1.15x DSCR, an updated appraisal with a
+70% LTV cap (above the Term Sheet’s 65%), an interest rate cap, and a pollution
+legal liability policy.
+Two specific defects. First, the 1.15x DSCR condition sits below the 1.25x
+continuing covenant. Borrower could satisfy the extension condition while in
+breach of the covenant, or the covenant would have to be suspended during the
+extension — neither of which is coherent. Second, the 70% LTV cap in condition
+(h) contradicts the Term Sheet’s 65% maximum; on an updated appraisal the Bank
+should not accept more leverage on extension than it accepted at closing.
+Recommendation. Conform the extension DSCR condition to 1.25x, or keep
+1.15x but require a principal curtailment or cash collateral to bring coverage to
+1.25x at the time of extension (Draft § 8.3(b) already provides the mechanism).
+Conform the LTV cap to 65%. Present the full list to Borrower as the Bank’s
+proposed conditions and flag clearly which are not in the Term Sheet. Expect
+Borrower to resist the extension fee and the pollution legal liability policy in
+particular; both are defensible but should be presented as Bank requirements
+rather than as term sheet terms.
+Draft reference: § 2.13; Exhibit G and its drafting note under ¶ (d) and ¶ (h).
+
+40
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Part G — Entity, Governance and Intercreditor
+
+Issue 37 — The Operating Agreement’s 75% Supermajority Gives the
+Mezzanine Lender’s Affiliate a Veto Over the Loan Itself
+Severity: Critical.
+Sources: Organizational Chart § 1.2 (membership: Elena Vasquez-Torres 62%;
+Brightleaf Investors Group LLC 28%; Reginald K. Osei 10%); § 2.2 (Operating
+Agreement § 3.1: Managing Member’s capital expenditure authority capped at
+$500,000 individually; § 3.2: the following require approval of members holding at
+least 75%: “(a) any sale, transfer, or encumbrance of all or substantially all of the
+Company’s assets; (b) any financing or refinancing of the Property in a principal
+amount in excess of $1,000,000; (c) the admission of any new Member; (d) any
+amendment to this Operating Agreement; (e) any voluntary dissolution … or the
+filing of any petition for relief under any federal or state bankruptcy or insolvency
+law”); § 2.5 (Operating Agreement § 9.1: no member may pledge its interest
+without approval of the Managing Member and members holding at least 75%); §
+1.2 and Credit Memorandum § 2.2 and § 4.4 (Thomas R. Chen is the Managing
+Member of both Brightleaf Investors Group LLC, a 28% member, and Brightleaf
+Mezzanine Capital LLC, the Mezzanine Lender).
+Finding. The Organizational Chart itself does the arithmetic and states the
+conclusion: Ms. Vasquez-Torres (62%) plus Mr. Osei (10%) = 72%, which is below
+the 75% threshold, so “Brightleaf Investors Group LLC holds an effective veto
+right over major decisions, as no combination of the other two members alone can
+reach the required supermajority.”
+Applied to this transaction, the consequence is significant and does not appear to
+have been addressed anywhere in the credit file:
+1. The Loan itself requires 75% approval. Operating Agreement § 3.2(b)
+requires 75% approval for “any financing or refinancing of the Property in a
+principal amount in excess of $1,000,000.” The $47,500,000 Loan is such a
+financing. Brightleaf Investors Group LLC’s consent is therefore a condition of
+the Borrower’s own authorization.
+2. The Membership Interest Pledge requires the same consent. § 9.1
+requires Managing Member approval and 75% approval for any pledge of a
+membership interest. The Bank’s first-priority pledge of 100% of the
+membership interests cannot be granted without Brightleaf’s consent.
+3. The SPE amendment and the independent manager require it too. §
+3.2(d) requires 75% approval for any amendment to the Operating Agreement
+(Issue 38).
+4. Every major decision during the life of the Loan will require it —
+including a sale or refinancing at maturity, and any “encumbrance of all or
+substantially all of the Company’s assets.”
+
+So the affiliate of the subordinated lender, which is also a 28% equity holder, holds
+a blocking position over: the senior Loan, the senior lender’s collateral, the SPE
+amendment the senior lender requires, and the take-out sale or refinancing on
+
+41
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+which the senior lender’s repayment depends. That is a structural conflict the Bank
+should address expressly, and it is not addressed in the Term Sheet or the Credit
+Memorandum, which discuss the affiliate relationship only in terms of substantive
+consolidation risk (Credit Memorandum § 9.3).
+Recommendation. (a) Require a unanimous written consent of all members
+(100%), not merely the 75% required by the Operating Agreement, expressly
+authorizing the Loan, each Loan Document, the Membership Interest Pledge, the
+Deed Notice, the SPE amendment, the Independent Manager appointment and the
+Intercreditor Agreement (Draft § 3.1(d)). (b) Require an amendment to Operating
+Agreement § 3.2 that carves out from the 75% requirement all matters expressly
+approved by the members in the closing consent and all actions taken by the Bank
+in the exercise of its remedies, so that the Bank is not required to obtain a consent
+from an affiliate of the subordinated lender in order to enforce its own collateral.
+(c) Obtain Borrower’s counsel’s written confirmation that the consents delivered
+satisfy §§ 3.2 and 9.1 as in effect on the Closing Date. (d) Consider requiring, as a
+condition to any extension or to any refinancing of the Mezzanine Loan, that the
+75% threshold be reduced to a simple majority, so that Brightleaf cannot block the
+take-out.
+Draft reference: § 3.1(d);
+acknowledgment and consent).
+
+§
+
+3.1(e);
+
+§
+
+16.5;
+
+signature
+
+page
+
+(member
+
+Issue 38 — The SPE Amendment and the Independent Manager
+Requirement Depend on the Same 75% Consent, and the Operating
+Agreement Has None of the Required Provisions
+Severity: High.
+Sources: Organizational Chart § 1.1 and § 2.2 (“The Operating Agreement, as
+currently in effect, does not contain any provision requiring the appointment of an
+independent director or independent manager … There are no separateness
+covenants … no prohibition on commingling of funds with affiliates, and no
+requirement that the Company obtain a non-consolidation opinion”); Term Sheet §
+20; Credit Memorandum §§ 2.1, 9.3, 10.1.4.
+Finding. The Credit Memorandum correctly identifies the need for SPE covenants,
+an independent manager and a non-consolidation opinion, and makes them
+conditions of closing. But the Operating Agreement lacks all of them, so they can
+only be obtained by amendment — and any amendment requires 75% approval
+(Issue 37), which means Brightleaf must consent to the very protections designed
+to address the risk that Brightleaf’s affiliate creates. The Organizational Chart
+confirms the current position in terms, and its certification is both undated and
+unsigned.
+There is a further practical point the Credit Memorandum does not address: an
+independent manager must be identified and appointed before closing, not
+merely provided for. The Bank should interview and approve the individual,
+confirm independence in writing, and confirm the person will serve. A requirement
+in an operating agreement that nobody has agreed to perform is not a protection.
+42
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. (a) Require the amended and restated operating agreement as
+a closing deliverable, in a form the Bank’s counsel has reviewed (not merely “as
+amended for SPE covenants”). (b) Obtain the 100% member consent described in
+Issue 37. (c) Require evidence of the Independent Manager’s appointment, a
+signed independence certificate, and a consent to act, together with a side letter
+acknowledging the Bank’s rights under the Loan Documents. (d) Consider
+requiring a special purpose, bankruptcy-remote entity as the Independent
+Manager (a common institutional solution), so that the protection does not depend
+on a natural person’s continued willingness to serve. (e) Require the nonconsolidation opinion to be reasoned, addressed to the Bank, and re-delivered (or
+brought down) on the occurrence of any bankruptcy of a Related Entity.
+Draft reference: § 3.1(e); § 9.2; § 9.3; § 9.4; § 14.1(p).
+
+Issue 39 — The Two 100% Membership Interest Pledges Cannot Both Be
+First Priority, and the Intercreditor Agreement Is Not Executed
+Severity: Critical.
+Sources: Term Sheet § 1.4 (Mezzanine Loan “secured by a pledge of 100% of the
+membership interests in the Borrower”) and § 8 (senior collateral includes a
+“Pledge of 100% of membership interests in the Borrower by all members”); Credit
+Memorandum § 4.2 (identifies the conflict and proposes that the senior lender hold
+the first-priority pledge and the mezzanine lender the second-priority pledge) and
+§§ 9.4, 10.1.3; Organizational Chart § 1.2 and § 2.5 (mezzanine pledge exists;
+Operating Agreement provides no mechanism to resolve competing pledges);
+Credit Memorandum § 4.4 and § 10.1.3 (intercreditor agreement “currently in the
+process of being negotiated … but has not yet been executed”).
+Finding. The Credit Memorandum identifies this correctly: only one lender can
+hold a first-priority security interest in the same collateral, and as documented the
+two pledges are mutually exclusive as first-priority interests. The Credit
+Memorandum’s proposed resolution — senior first, mezzanine second, with a 90day standstill, cure rights, a purchase option, and bankruptcy protections — is the
+right answer and is what we have drafted (Draft § 16.3).
+The issue is timing and enforceability. The intercreditor agreement is not
+executed, and it is the mechanism by which the Bank’s collateral position is
+created. If the Loan closes first and the intercreditor agreement follows, the Bank
+may hold a first-priority pledge of membership interests from three pledgors while
+the mezzanine lender holds a competing 100% pledge; priority then turns on UCC
+filing sequence and, for a security interest in a certificated or uncertificated LLC
+interest, on control — which for LLC interests means the applicable UCC Article 8
+or 9 control mechanics and, in practice, a control agreement or possession of the
+certificates if the interests are certificated. Filing sequence alone may not resolve
+priority, and the Operating Agreement’s silence on competing pledges
+(Organizational Chart § 2.5) means there is no contractual priority.
+Note also that the Credit Memorandum’s own description of the Mezzanine Loan’s
+collateral is inconsistent with the sources and uses: a pledge of membership
+43
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+interests is not a mortgage on the Property, so the mezzanine lender would be
+lending $9,200,000 against an equity pledge while its own proceeds fund the land
+(Issue 5). That is a structure question about the mezzanine lender’s position, not
+the Bank’s, but it bears on how the mezzanine lender will behave in a workout.
+Recommendation. Treat the executed intercreditor agreement as an unwaivable
+closing condition (Draft § 3.1(c)), as the Credit Memorandum itself requires (“may
+not be waived,” § 4.4). Confirm in the intercreditor agreement: (a) express
+subordination of the mezzanine pledge; (b) the Bank’s first-priority position in both
+the real property collateral and the membership interests; (c) the 90-day standstill;
+(d) the purchase option at par plus accrued; (e) the prohibition on amending the
+mezzanine documents without the Bank’s consent; (f) the bankruptcy filing
+prohibition and non-interference covenant; and (g) an express acknowledgment of
+the Thomas R. Chen common control. Also confirm whether the membership
+interests are certificated and, if so, obtain the certificates and undated stock
+(membership interest) powers; if uncertificated, obtain a control agreement from
+Borrower as issuer or a UCC-1 filing plus the issuer’s acknowledgment. Finally,
+confirm that the Operating Agreement amendment described in Issue 37 removes
+any consent requirement that would impede the Bank’s exercise of remedies
+against the pledged interests.
+Draft reference: § 3.1(c) (non-waivable); § 12.2; § 16.2; § 16.3; § 6.13; § 7.8.
+
+44
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Part H — Legal, Documentation and Open Items
+
+Issue 40 — North Carolina Law Considerations
+Severity: Medium.
+Sources: Credit Memorandum § 4.3 (“North Carolina is a judicial foreclosure state
+and … deficiency judgments following foreclosure are subject to the fair price
+confirmation hearing requirements of N.C.G.S. § 45-21.36”); Term Sheet §§ 21.4
+(North Carolina law and Durham venue), 8 (Deed of Trust), 16 (remedies); Title
+Commitment Note 4 (N.C.G.S. § 44A-10).
+Finding. Four North Carolina points require attention before the Loan Documents
+are finalized, and we have drafted to each (provisions noted below), but each
+should be confirmed by you:
+(a) Deficiency after power of sale. Our understanding is that North Carolina has
+recognized power-of-sale foreclosure since 1967 under Part 6 of Article 2A of
+Chapter 45 of the General Statutes (N.C.G.S. § 45-21.1 et seq.), and the Credit
+Memorandum’s reference to “judicial foreclosure” is imprecise. The material point
+is that N.C.G.S. § 45-21.36 entitles the mortgagor to a credit for the fair market
+value of the property if it is sold for less than fair market value in a power-of-sale
+foreclosure, and that this credit applies in the deficiency action. The statute limits
+deficiency exposure in practice whenever the collateral is sold below value. We
+have drafted the guaranties so that (i) the Partial Repayment Guaranty is a
+separate payment obligation limited to the Guaranteed Amount rather than a
+guaranty of a deficiency, and (ii) the Completion Guaranty is an independent
+obligation to fund completion costs rather than a deficiency obligation. This is the
+most important legal issue in the documentation and we recommend it be
+reviewed before the Guaranties are finalized; the Interaction between § 4521.36 and a “bad boy” full-recourse guaranty is not free from doubt, and the Bank
+should understand that its practical recourse may be to the Completion Guaranty
+and the Carry Guaranty rather than to a deficiency judgment.
+(b) Usury. N.C.G.S. § 24-1.1 permits the parties to agree to any rate of interest on
+a loan in the principal amount of $25,000 or more. The Loan is $47,500,000. The
+Default Rate (contract + 5.00%) is not constrained by the 16% general limit, but
+we have included a savings clause (Draft § 2.11) as a matter of course.
+(c) UCC Article 9 and the pledge. The Membership Interest Pledge must be
+perfected by UCC-1 filing against each pledgor (each of the three members) in the
+correct jurisdiction of organization, and priority over the mezzanine lender’s
+competing pledge should be established by the intercreditor agreement rather
+than by filing sequence. See Issue 39.
+(d) Mechanics’ lien relation-back. N.C.G.S. § 44A-10 and the title officer’s Note
+4; see Issue 19(d).
+
+45
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. Please confirm points (a) and (b) and, if you agree on (a),
+consider whether the Bank should take an additional completion-related guaranty
+or a limited payment guaranty sized to the expected § 45-21.36 shortfall.
+Draft reference: Article XV (particularly § 15.3); § 2.11; § 12.2; § 13.4 and its
+drafting note.
+
+Issue 41 — Contractor Financial Condition and Bonding Are Not a Term
+Sheet Condition
+Severity: Medium.
+Sources: Term Sheet §§ 11, 19 (closing conditions — no contractor financials or
+bonds); Credit Memorandum § 9.8 (“The Bank should verify the financial strength
+and payment and performance bonding capacity of the contractor prior to closing.
+Evidence of the contractor’s financial statements and bonding capacity should be
+included in the closing deliverables”); § 13 (diligence table: GMP contract “to be
+reviewed by Bank’s counsel and construction inspector prior to closing”).
+Finding. The Term Sheet does not require contractor financial statements or
+payment and performance bonds. The Credit Memorandum says both should be
+required. The GMP contract provides cost certainty but not performance security;
+if the General Contractor fails, the Completion Guaranty obliges the Guarantors to
+complete, and the contingency of $1,440,000 (4.14% of hard costs) is the only
+built-in buffer. There is no performance bond in the record, and it is not clear
+whether one is contemplated.
+Recommendation. Add as closing conditions: (a) the General Contractor’s audited
+financial statements for the two most recent fiscal years, with the Bank’s credit
+group reviewing and approving; (b) evidence of payment and performance bonding
+capacity sufficient for a $34,750,000 contract, or an executed performance and
+payment bond; (c) the General Contractor’s consent to the collateral assignment of
+the Construction Contract, with a direct agreement giving the Bank step-in rights;
+and (d) confirmation that the GMP contract contains liquidated damages for delay
+consistent with the construction-period milestones. Item (c) matters because a
+collateral assignment of a construction contract is of limited value without the
+contractor’s acknowledgment.
+Draft reference: § 3.1(n); § 6.2(c); § 12.1(d).
+
+Issue 42 — Internal Inconsistencies in the Term Sheet
+Severity: Medium.
+Sources: Term Sheet, as noted below.
+Finding. Five internal inconsistencies in the executed Term Sheet, each requiring
+a decision in documentation:
+1. Loan-to-value. § 4 (65% as-completed) and § 6.2 (65% as-completed and asstabilized) versus the actual ratio of 65.25%. See Issue 2.
+
+46
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+2. “Single advance facility.” § 3.1 describes the Loan as “structured as a single
+advance facility, with loan proceeds to be disbursed in accordance with the
+approved draw schedule.” A nine-draw construction facility is not a singleadvance facility. We read it as meaning a single commitment drawn in multiple
+advances, and have drafted accordingly (§ 2.1).
+3. Expense deposit. § 22 describes the $75,000 expense deposit as “nonrefundable,” and then in the same sentence provides that “if the Loan does not
+close for any reason, any unused portion of the expense deposit shall be
+returned to the Borrower, net of expenses incurred through the date of
+termination.” Those cannot both be true. The second sentence is the operative
+one; the deposit is a retainer against expenses, not a fee.
+4. Guarantor net worth cross-reference. § 15 refers to a threshold “set forth in
+Section 6.4,” which is the Borrower’s covenant. See Issue 32.
+5. Extension conditions. § 3.2 delegates them to the Loan Agreement without
+any parameters. See Issue 36.
+
+Recommendation. For (1), (4) and (5) the answer lies in Amendments to the
+credit and the Loan Documents, not in a revised Term Sheet (the Term Sheet is
+executed and non-binding as to terms). For (2) and (3), treat the drafting in the
+Loan Documents as controlling and confirm by side letter or in the closing
+instruction. Note that the Term Sheet’s confidentiality, exclusivity and expense
+deposit provisions are expressly binding (§ 22), so (3) matters: the Bank’s
+entitlement to retain the deposit depends on which sentence governs. The Draft
+preserves those three provisions (§ 18.7).
+Draft reference: § 2.1; § 18.7; § 8.2.
+
+Issue 43 — Party, Address and Name Inconsistencies
+Severity: Low.
+Finding. Minor but worth correcting in execution copies, because a mismatch
+between the Loan Documents and the underlying third-party reports is exactly the
+kind of discrepancy that produces an argument about what the Bank relied on:
+Item
+
+Inconsistency
+
+Lender’s address
+
+Term Sheet, Credit Memorandum and Title Commitment: 215 South Tryon Street, 18th
+Floor, Charlotte, NC 28202. Phase I ESA cover page (“as Intended Reliance Party /
+Lender”): 200 South Tryon Street, 18th Floor, Charlotte, NC 28202
+
+Title company
+
+Aldersgate Title & Escrow Inc., but the escrow officer’s email in Note 6 is at
+crestviewtitle.com
+
+Borrower’s
+counsel
+
+Calloway & Strauss PLLC, 324 Blackwell Street, Suite 200, Durham — consistent; the
+Organizational Chart certification is undated and unsigned
+
+Lender’s counsel
+name
+
+“Ashford, Cromdale Consulting & Laine LLP” — consistent across the record; confirm the
+firm name is correct as it appears on the engagement letter
+
+Borrower’s
+counsel in ESA
+
+The Phase I ESA identifies Harborview as “Client” and Pinnacle as “Intended Reliance
+Party”; confirm the reliance letter achieves the Bank’s intended position as an intended
+user entitled to rely
+
+Property
+description
+
+“601 and 615 Foster Street” consistently; the Appraisal § 2 says the site “fronts Foster
+Street to the north” while its own frontage paragraph says “on the western boundary,” and
+the legal descriptions put Foster Street on the west (Issue 18)
+
+47
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Recommendation. Correct in the execution copies; obtain the signed and dated
+Organizational Chart certification; confirm the reliance letter language.
+
+Issue 44 — Missing Documents and Open Diligence
+Severity: High.
+Finding. The following are required to close and are not in the record furnished
+to us. The list is the basis of Section 8.
+#
+
+Item
+
+Source of the requirement
+
+1
+
+Intercreditor Agreement, executed
+
+Term Sheet § 11; Credit
+Memorandum § 10.1.3
+
+2
+
+Amended and restated operating agreement with SPE covenants
+and Independent Manager
+
+Credit Memorandum § 10.1.4
+
+3
+
+Non-consolidation opinion, reasoned, addressed to the Bank
+
+Credit Memorandum §
+10.1.4(b)
+
+4
+
+Unanimous (100%) member consent
+
+Issue 37
+
+5
+
+ALTA/NSPS survey, certified; corrected legal descriptions
+
+Term Sheet § 18; Title
+Commitment Sch. B–I ¶ 5
+
+6
+
+Recorded Deed Notice (or NCDEQ written confirmation)
+
+NFA condition 4; Issue 23
+
+7
+
+NCDEQ-approved soil management plan
+
+NFA condition 3
+
+8
+
+Vapor mitigation system design (licensed NC P.E.)
+
+NFA condition 1
+
+9
+
+Full Phase II ESA (SEC-2024-1089) and reliance letter
+
+Term Sheet § 11; Issue 27
+
+10
+
+NFA letter (full copy)
+
+Term Sheet § 11
+
+11
+
+Phase I reliance letter (Appendix G to the Phase I); updated Phase I
+if closing after April 26, 2025
+
+Phase I ESA § 11
+
+12
+
+Brightleaf Historic District ARC approval or deemed approval
+
+Title Commitment Sch. B–II ¶
+11 Note; Issue 20
+
+13
+
+Payoff letter and satisfaction/release of the Prior Deed of Trust
+
+Title Commitment Sch. B–I ¶ 4;
+Term Sheet § 18
+
+14
+
+GMP construction contract and architect’s agreement, executed;
+contractor’s consent to collateral assignment
+
+Term Sheet § 11; Issue 41
+
+15
+
+Contractor financial statements and bonding evidence
+
+Credit Memorandum § 9.8
+
+16
+
+Building permits and zoning compliance letter
+
+Term Sheet § 11
+
+17
+
+Insurance certificates for all coverages in Article XI, including fullvalue builder’s risk
+
+Term Sheet § 19; § 11.1
+
+18
+
+Current flood hazard determination
+
+Credit Memorandum § 12;
+Issue 16
+
+19
+
+Borrower financial statements reconciling net worth of $14,200,000
+
+Issue 31
+
+20
+
+Guarantor personal financial statements and two years of tax
+returns
+
+Term Sheet § 11
+
+21
+
+Legal opinions (organization, authority, enforceability, lien priority)
+
+Term Sheet § 11
+
+22
+
+Certificates of good standing; member resolutions
+
+Term Sheet § 11
+
+23
+
+Appraisal — full report (187 pages) and the Bank’s internal
+appraisal review memorandum
+
+Term Sheet § 11
+
+48
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+#
+
+Item
+
+Source of the requirement
+
+24
+
+Insured Closing Letter and verified wire instructions
+
+Title Commitment Note 3;
+Issue 19
+
+25
+
+Evidence of Independent Manager appointment and independence
+certificate
+
+Issue 38
+
+26
+
+Source-of-funds documentation for the $2,140,000 equity escrow
+
+Credit Memorandum § 10.1.2;
+Issue 5
+
+Recommendation. Section 8 below assigns each item and a target date.
+
+49
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+6. Reconciliation Schedules
+This Section reproduces the computations on which Section 5 relies. Each figure
+has been re-performed from the source documents; where a document stated a
+result we could not reproduce, the discrepancy is shown.
+
+6.1 Sources and Uses — As Documented, and As We Recommend
+Sources
+
+As documented
+
+Recommended (Structure
+C)
+
+Senior Loan (Pinnacle Savings Bank, N.A.)
+
+$47,500,000
+
+$45,360,000
+
+Mezzanine Loan (Brightleaf Mezzanine Capital LLC)
+
+$9,200,000
+
+$9,200,000
+
+Borrower equity (cash)
+
+$0
+
+$2,140,000
+
+Borrower equity (land, in kind)
+
+$0
+
+$0
+
+Total sources
+
+$56,700,000
+
+$56,700,000
+
+Total uses (Total Project Costs)
+
+$56,700,000
+
+$56,700,000
+
+$0
+
+$0
+
+Sources less uses
+
+Note: the Credit Memorandum’s “escrow only” cure ($2,140,000 equity, Loan
+unchanged) produces $58,840,000 of sources against $56,700,000 of uses — a
+$2,140,000 surplus (Issue 1). The land appears in the Detailed Budget as funded by
+Mezzanine Loan proceeds (Issue 5).
+
+6.2 Leverage, Coverage and Regulatory Metrics
+Metric
+
+Formula
+
+As
+documented
+
+At $45,360,000
+
+Loan-to-cost
+
+Loan ÷ Total Project Costs
+
+83.7743%
+
+80.0000%
+
+LTV, as-completed
+
+Loan ÷ $72,800,000
+
+65.2473%
+
+62.3077%
+
+LTV, as-stabilized
+
+Loan ÷ $76,200,000
+
+62.3360%
+
+59.5276%
+
+DSCR, stabilized I/O at 7.85%
+
+$4,876,800 ÷ interest
+
+1.3079x
+
+1.3696x (interest falls with
+the balance)
+
+DSCR, stress +200 bps at
+9.85%
+
+$4,876,800 ÷ interest
+
+1.0423x
+
+1.0915x
+
+Debt yield (senior)
+
+$4,876,800 ÷ Loan
+
+10.27%
+
+10.75%
+
+Combined debt service
+coverage
+
+$4,876,800 ÷ (senior +
+mezzanine)
+
+0.9310x
+
+0.9619x
+
+Contributed capital ÷ ascompleted value
+
+($8,200,000 + $2,140,000)
+÷ $72,800,000
+
+14.2033%
+
+14.2033%
+
+Contributed capital at appraised
+land value
+
+($8,900,000 + $2,140,000)
+÷ $72,800,000
+
+15.1648%
+
+15.1648%
+
+HVCRE threshold
+
+$72,800,000 × 15%
+
+$10,920,000
+
+$10,920,000
+
+Maximum loan at 80% LTC: $56,700,000 × 0.80 = $45,360,000 (excess
+$2,140,000). Maximum loan at 65% as-completed LTV: $72,800,000 × 0.65 =
+$47,320,000 (excess $180,000). The binding constraint is LTC.
+
+50
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+6.3 Interest Reserve — Three Results for One Question
+Method
+
+SOFR
+
+All-in
+
+Total interest, 30
+months
+
+Result vs $4,850,000
+
+Draw Schedule, month-by-month
+accrual
+
+3.50%
+
+6.75%
+
+$4,628,675
+
+Surplus $221,325
+
+Draw Schedule sensitivity
+
+4.00%
+
+7.25%
+
+$4,975,690
+
+(Shortfall $(125,690))
+
+Draw Schedule sensitivity
+
+4.35%
+
+7.60%
+
+$5,215,830
+
+(Shortfall $(365,830))
+
+Draw Schedule sensitivity
+
+4.75%
+
+8.00%
+
+$5,490,165
+
+(Shortfall $(640,165))
+
+Draw Schedule sensitivity
+
+5.25%
+
+8.50%
+
+$5,832,060
+
+(Shortfall $(982,060))
+
+Our recomputation of the accrual
+at 4.35%
+
+4.35%
+
+7.60%
+
+$5,211,545
+
+(Shortfall
+$(361,545))
+
+Credit Memorandum § 6.2
+
+4.35%
+
+7.60%
+
+$5,415,000
+
+(Shortfall $(565,000))
+
+Implied average outstanding balance from the Draw Schedule accrual: $4,628,675
+÷ (6.75% × 2.5) = $27,429,185. The Credit Memorandum’s $28,500,000
+assumption overstates total interest by approximately $199,500 at the same rate.
+Recommended reserve at 4.35%: approximately $5,215,800 (a $365,800
+increase over $4,850,000), before any reduction of the Loan Amount under Issue 1.
+
+6.4 Draw Schedule Footings
+Draw
+
+Sum of components
+
+Stated total draw
+
+Difference
+
+Cumulative drawn
+
+1
+
+$9,475,000
+
+$9,475,000
+
+$0
+
+$9,475,000
+
+2
+
+$5,212,500
+
+$5,212,500
+
+$0
+
+$14,687,500
+
+3
+
+$6,950,000
+
+$6,950,000
+
+$0
+
+$21,637,500
+
+4
+
+$6,950,000
+
+$6,950,000
+
+$0
+
+$28,587,500
+
+5
+
+$5,212,500
+
+$5,212,500
+
+$0
+
+$33,800,000
+
+6
+
+$3,475,000
+
+$3,475,000
+
+$0
+
+$37,275,000
+
+7
+
+$3,475,000
+
+$3,475,000
+
+$0
+
+$40,750,000
+
+8
+
+$3,475,000
+
+$3,475,000
+
+$0
+
+$44,225,000
+
+9
+
+$4,275,000
+
+$3,275,000
+
+$1,000,000
+
+$47,500,000
+
+Total
+
+$48,500,000
+
+$47,500,000
+
+$1,000,000
+
+—
+
+Component columns as delivered: hard costs (net of retainage) $34,750,000; soft
+costs $4,150,000; interest reserve $4,850,000; origination fee $475,000; developer
+fee $2,835,000; contingency $1,440,000 — total $48,500,000. The $1,000,000
+excess equals the mezzanine-funded portion of the developer fee (Detailed Budget
+line 5.01). The Detailed Budget’s “Net Disbursable” column foots to $45,025,000
+against a stated grand total of $45,750,000 (a $725,000 overstatement).
+
+6.5 Stabilized Net Operating Income — As Reported and As Adjusted
+Line item
+Gross potential income
+
+As reported
+(Appraisal § 7)
+
+Adjustment (Issue
+29)
+
+Adjustment (Issue
+24)
+
+$6,462,000
+
+$6,084,840
+
+$6,462,000
+
+51
+
+Both
+$6,084,840
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Line item
+
+As reported
+(Appraisal § 7)
+
+Adjustment (Issue
+29)
+
+Adjustment (Issue
+24)
+
+Both
+
+Vacancy and credit loss
+(5%)
+
+($323,100)
+
+($323,100)
+
+($304,242)
+
+($304,242)
+
+Effective gross income
+
+$6,138,900
+
+$6,138,900
+
+$5,780,598
+
+$5,780,598
+
+Operating expenses
+
+($1,262,100)
+
+($1,296,600)
+
+($1,262,100)
+
+($1,296,600)
+
+Net operating income
+
+$4,876,800
+
+$4,842,300
+
+$4,518,498
+
+$4,483,998
+
+DSCR at $3,728,750
+
+1.3079x
+
+1.2986x
+
+1.2118x
+
+1.2025x
+
+As-stabilized value at
+6.40%
+
+$76,200,000
+
+$75,660,900
+
+$70,601,500
+
+$70,062,500
+
+62.34%
+
+62.78%
+
+67.28%
+
+67.80%
+
+LTV at $47,500,000
+
+Change: Issue 29 adds the $34,500 annual Brightleaf Historic District Association
+assessment ($0.12 × 287,500 sf). Issue 24 removes the revenue attributable to 14
+units at the $2,245 effective rent ($377,160 gross; $358,302 after 5% vacancy).
+Note that the Credit Memorandum’s own sensitivity (14 units lost) produces NOI of
+$4,499,640 and DSCR of 1.2067x, because it applies the vacancy allowance only
+once; the table above applies it consistently. Either way, if the residential
+restriction cannot be resolved, the DSCR falls below the 1.25x covenant
+and the as-stabilized LTV exceeds the 65% maximum — so Issue 24 is not
+merely an environmental issue but a covenant and leverage issue.
+
+6.6 Land, Area and Frontage
+Item
+
+Appraisal
+
+Title
+Commitment
+
+Phase I
+ESA
+
+Verified from legal descriptions
+
+Parcel 0821-04-72-3341
+
+—
+
+2.09 ac
+
+1.89 ac
+
+298.62 ft × 305.41 ft = 91,201.5 sf =
+2.094 ac
+
+Parcel 0821-04-72-4102
+
+—
+
+1.38 ac
+
+1.58 ac
+
+201.88 ft × 297.63 ft = 60,085.5 sf =
+1.379 ac
+
+Combined
+
+3.47 ac
+
+3.47 ac
+
+3.47 ac
+
+151,287 sf = 3.473 ac (151,153 sf per
+Appraisal)
+
+Foster Street frontage
+
+420 ft
+
+—
+
+—
+
+298.62 + 201.88 = 500.50 ft
+
+As-is land value
+
+$8,900,000
+
+—
+
+—
+
+3.47 ac × $2,565,000/ac = $8,900,550
+→ $8,900,000
+
+The parcel split and the frontage figure in the Appraisal cannot be derived from
+the legal descriptions; the combined acreage can (Issue 18). The legal descriptions
+do not close as written (Issue 17).
+
+6.7 Guaranty and Coverage Percentages
+Metric
+
+Computation
+
+Result
+
+Partial repayment guaranty, Term Sheet
+reading
+
+25% × $47,500,000
+
+$11,875,000
+aggregate
+
+Partial repayment guaranty, Credit
+Memorandum reading
+
+$11,875,000 × 2 Guarantors
+
+$23,750,000
+aggregate
+
+Ms. Vasquez-Torres exposure ÷ net worth
+
+$11,875,000 ÷ $29,800,000
+
+39.85%
+
+52
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+Metric
+
+Computation
+
+Result
+
+Mr. Osei exposure ÷ net worth
+
+$11,875,000 ÷ $11,500,000
+
+103.26%
+
+Combined guarantor net worth
+
+$29,800,000 + $11,500,000
+
+$41,300,000
+
+Combined guarantor liquidity
+
+$6,100,000 + $3,200,000
+
+$9,300,000
+
+Liquidity coverage of the $5,000,000 covenant
+
+$9,300,000 ÷ $5,000,000
+
+1.86x
+
+Liquidity cushion
+
+$9,300,000 − $5,000,000
+
+$4,300,000
+
+Borrower net worth, asserted
+
+—
+
+$14,200,000
+
+Borrower net worth, implied by the record
+
+$8,200,000 land − $3,400,000 deed
+of trust
+
+≈$4,800,000
+
+Borrower net worth, implied at appraised land
+value
+
+$8,900,000 − $3,400,000
+
+≈$5,500,000
+
+6.8 Fees and Costs Not in the Approved Project Budget
+Item
+
+Computation
+
+Amount
+
+Payoff of Prior Deed of Trust
+
+Original principal; current balance to be
+confirmed
+
+Up to $3,400,000
+
+Unused line fee, 30 months
+
+$20,070,815 average undrawn × 0.25% ×
+2.5
+
+Exit Fee if repaid during construction
+
+0.50% × $47,500,000
+
+$237,500
+
+Exit Fee if repaid in first 6 months of miniperm
+
+0.25% × $47,500,000
+
+$118,750
+
+Extension Fee
+
+0.25% × $47,500,000
+
+$118,750
+
+Interest Rate Cap premium
+
+Not quantified in the record
+
+Not quantified
+
+Mezzanine interest, PIK 30 months
+
+$9,200,000 × 12.50% × 2.5
+
+$2,875,000
+
+Mezzanine cash interest, 12 months
+
+$12,075,000 × 12.50%
+
+$1,509,375
+
+Brightleaf HDAA assessment (annual)
+
+$0.12 × 287,500 sf
+
+Total identifiable, excluding the payoff
+and the cap
+
+Certain items are alternative or contingent
+
+≈$125,400
+
+$34,500
+≈$5,019,000
+
+An alternate check on the LTC covenant: if the payoff and the unused line fee were
+added to Total Project Costs, they would total $60,225,400, and LTC would be
+78.87% — compliant, but requiring $3,525,400 of additional funding, which
+returns to the equity problem in Issue 5.
+
+53
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+7. Drafting Notes, Placeholders and Decisions Required
+7.1 Placeholders. The Draft contains bracketed terms intended to be completed
+before circulation. They are:
+Placeholder
+
+Location
+
+Subject
+
+Effective Date / Closing Date
+
+Cover, § 2.1, signature
+pages
+
+To be fixed. Note Issue 28 and the
+Phase I shelf life (§ 6.16)
+
+Novation / loan amount
+
+§ 2.1, § 8.1, §§ 2.9(a),
+2.9(c)
+
+Pending decision on Issue 1 and Issue
+3
+
+Guarantor net worth threshold
+
+§ 8.7
+
+Pending decision on Issue 32
+
+Debt Yield threshold (8.50%)
+
+§ 8.4
+
+Proposed; confirm with credit
+
+Change Order threshold ($100,000)
+
+§ 4.9(b)
+
+Confirm
+
+Casualty/condemnation threshold ($250,000)
+
+§ 11.4
+
+Confirm
+
+Occupancy and DSCR thresholds for
+Distributions
+
+§ 7.5(c)
+
+Proposed; confirm
+
+Extension Option conditions and 1.15x/1.25x
+DSCR
+
+§ 2.13, Exhibit G
+
+Pending decision on Issue 36
+
+Punch-list threshold ($50,000)
+
+§ 4.3(f)
+
+Confirm
+
+Trade payable and equipment lease
+thresholds
+
+§ 7.1
+
+Confirm
+
+Insurance limits and ACORD forms
+
+Article XI
+
+Confirm
+
+Interest Rate Cap counterparty and strike
+
+§ 2.14, Exhibit G(f)
+
+To be determined at the time
+
+Borrower’s fiscal year end
+
+Exhibit F
+
+Not in the record (Borrower formed
+March 14, 2019)
+
+Guarantor decline threshold (35%)
+
+§ 14.1(q)
+
+Proposed; confirm
+
+Legal description
+
+Exhibit A
+
+Survey required (Issue 17)
+
+Environmental Restricted Area metes and
+bounds
+
+Exhibit E Part 1
+
+Deed notice and survey required
+(Issues 23, 18)
+
+Recording data for the deed notice as a
+Permitted Exception
+
+Exhibit H ¶ 6
+
+Issue 23
+
+“Other Amounts” column in Exhibit C
+
+Exhibit C
+
+Rebuilt schedule subject to Issue 1
+adjustment
+
+7.2 Decisions we have taken in the Draft that the Bank may wish to revisit.
+These are instances where the record supported two readings and we chose one;
+each is flagged in the Draft.
+1. Partial repayment guaranty = $11,875,000 aggregate (Term Sheet
+reading), not $11,875,000 per guarantor (Issue 33). This is a commercial term;
+we have drafted the Term Sheet reading and flagged it, but the Bank should
+confirm before circulation.
+2. Carry Guaranty extends through the Mini-Perm Period (Term Sheet
+reading), not construction-only (Issue 34).
+3. Loan-to-value covenant at 65% (Term Sheet), not 70% (Credit Memorandum)
+(Issue 2).
+
+54
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+4. Completion Guaranty 30-day tolerance after the Construction Maturity Date
+(Issue 28), which departs from Term Sheet § 7.1.
+5. Retainage release at $3,475,000 (10%), not $3,275,000 (Issue 13).
+6. Draw Schedule rebuilt (Exhibit C) rather than reproduced (Issue 11).
+7. Debt Yield covenant added at 8.50% (§ 8.4) — not in the Term Sheet; new for
+the Bank to approve.
+8. Environmental use restriction added as a Permitted Exception (Exhibit H
+¶ 6) — not in the Term Sheet (Issue 21).
+9. Builder’s risk at full insurable value, not $34,750,000 (Issue 22).
+10. Report schedule at the more demanding of the two sources (Issue 35).
+
+7.3 Provisions deliberately included that the Term Sheet does not require
+(each is protective of the Bank and each is likely to draw comment from
+Borrower’s counsel): the Interest Reserve Adequacy Test at each draw (§ 4.5(d));
+the Debt Yield covenant (§ 8.4); the prohibition on Distributions other than as
+permitted (§ 7.5); the prohibition on reimbursement of member advances (§ 7.5(d));
+the equity-first condition excluding Draw 1 (§ 4.2(i)); the 100% member consent (§
+3.1(d)); the Independent Manager appointment evidence (§ 3.1(e)); the Pollution
+Legal Liability insurance recommendation (§ 10.5); the Interest Rate Cap at the
+commencement of the mini-perm (§ 2.14); the Subordination of the Developer Fee
+concept (§ 6.11); the contractor financial statements and bonding condition (§
+3.1(n)); and the expense-verification condition (§ 3.1(u)).
+8. Open Items and Closing Checklist
+Target Closing Date remains February 28, 2025, subject to the Phase I ESA shelf
+life (April 26, 2025). Given the volume of open items below, we recommend the
+Bank consider a short extension of the target date rather than compressing
+diligence.
+#
+
+Item
+
+Responsible
+
+Target
+
+Blocking?
+
+1
+
+Senior Loan Committee action confirming
+the reduced Loan Amount and the LTC/LTV
+cure methodology (Issues 1–3)
+
+Bank / Forsythe
+
+Feb. 10,
+2025
+
+Yes
+
+2
+
+Revised Term Sheet or written confirmation
+of the reduced Loan Amount
+
+Bank / Borrower
+
+Feb. 12,
+2025
+
+Yes
+
+3
+
+Schedule of all member capital contributions
+and advances, with bank statement support
+(Issue 5)
+
+Borrower /
+Calloway & Strauss
+
+Feb. 12,
+2025
+
+Yes
+
+4
+
+Source-of-funds certification and
+documentation for the $2,140,000 equity
+escrow (Issue 5)
+
+Borrower
+
+Feb. 14,
+2025
+
+Yes
+
+5
+
+Restated sources and uses reflecting the
+reduced Loan and the equity (Issues 1, 8)
+
+Borrower
+
+Feb. 14,
+2025
+
+Yes
+
+6
+
+Recorded Deed Notice, or NCDEQ written
+confirmation (Issue 23)
+
+Borrower / Sentinel
+
+Feb. 14,
+2025
+
+Yes
+
+7
+
+Executed Intercreditor Agreement (Issue 39)
+
+Bank counsel /
+Mezzanine Lender
+
+Feb. 21,
+2025
+
+Yes (non-waivable)
+
+55
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+#
+
+Item
+
+Responsible
+
+Target
+
+Blocking?
+
+8
+
+Amended and restated operating agreement
+with SPE covenants and Independent
+Manager (Issue 38)
+
+Borrower
+
+Feb. 14,
+2025
+
+Yes
+
+9
+
+100% member consent (Issue 37)
+
+Borrower
+
+Feb. 14,
+2025
+
+Yes
+
+10
+
+Non-consolidation opinion (Issue 38)
+
+Calloway & Strauss
+
+Feb. 24,
+2025
+
+Yes
+
+11
+
+Architect’s certified overlay of the restricted
+area; NCDEQ position or redesign (Issue 24)
+
+Meridian Design
+Collective /
+Borrower
+
+Feb. 17,
+2025
+
+Yes, or condition to
+advances
+
+12
+
+ARC approval or deemed-approval evidence
+(Issue 20)
+
+Borrower
+
+Feb. 17,
+2025
+
+Yes
+
+13
+
+ALTA/NSPS survey; corrected legal
+descriptions (Issues 17, 18)
+
+Borrower / surveyor
+
+Feb. 14,
+2025
+
+Yes
+
+14
+
+Payoff letter and release of the Prior Deed of
+Trust (Issue 8)
+
+Borrower / Title
+Company
+
+Feb. 21,
+2025
+
+Yes
+
+15
+
+Rebuilt draw schedule and corrected
+Detailed Budget (Issues 11, 12, 13)
+
+Borrower
+
+Feb. 12,
+2025
+
+Yes (exhibit)
+
+16
+
+Interest reserve re-sized at 4.35% or the
+then-current rate (Issue 9)
+
+Bank / Borrower
+
+Feb. 12,
+2025
+
+No, but Budget
+amendment
+
+17
+
+Phase II ESA, NFA letter and Phase II
+reliance letter (Issue 27)
+
+Sentinel / Borrower
+
+Feb. 14,
+2025
+
+Yes
+
+18
+
+NCDEQ-approved soil management plan and
+vapor mitigation design (Issue 25)
+
+Borrower /
+engineer
+
+Feb. 21,
+2025
+
+Yes
+
+19
+
+Borrower financial statements reconciling
+the $14,200,000 net worth (Issue 31)
+
+Borrower
+
+Feb. 12,
+2025
+
+Yes
+
+20
+
+Guarantor net worth covenant decision
+(Issue 32)
+
+Bank
+
+Feb. 10,
+2025
+
+No
+
+21
+
+Partial repayment guaranty quantum
+decision (Issue 33)
+
+Bank
+
+Feb. 10,
+2025
+
+No, but before
+circulation
+
+22
+
+Extension Option conditions decision (Issue
+36)
+
+Bank
+
+Feb. 12,
+2025
+
+No
+
+23
+
+Appraisal supplement on the CC&R
+assessment (Issue 29)
+
+Ridgeline Appraisal
+
+Feb. 17,
+2025
+
+No
+
+24
+
+Contractor financial statements and bonding
+evidence (Issue 41)
+
+Graystone /
+Borrower
+
+Feb. 17,
+2025
+
+Yes
+
+25
+
+GMP contract, architect’s agreement and
+contractor consent to assignment (Issue 41)
+
+Borrower
+
+Feb. 17,
+2025
+
+Yes
+
+26
+
+Current flood hazard determination (Issue
+16)
+
+Bank
+
+Feb. 14,
+2025
+
+Yes (regulatory)
+
+27
+
+Title: commitment extension if needed;
+underwriter confirmation; Insured Closing
+Letter; verified wire instructions (Issue 19)
+
+Title Company /
+Bank
+
+Feb. 21,
+2025
+
+Yes
+
+28
+
+Insurance certificates, including full-value
+builder’s risk (Issue 22)
+
+Borrower / broker
+
+Feb. 21,
+2025
+
+Yes
+
+29
+
+Legal opinions; certificates of good standing;
+member resolutions
+
+Calloway & Strauss
+
+Feb. 24,
+2025
+
+Yes
+
+30
+
+Confirmation on North Carolina law points
+(Issue 40)
+
+Drummond
+
+Feb. 12,
+2025
+
+No, but before
+Guaranties
+
+31
+
+Signed and dated Organizational Chart
+certification (Issue 43)
+
+Borrower
+
+Feb. 12,
+2025
+
+No
+
+56
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+#
+32
+
+Item
+Full appraisal and internal appraisal review
+memorandum (Issue 44)
+
+Responsible
+Bank
+
+Target
+Feb. 12,
+2025
+
+Blocking?
+No
+
+8.1 Recommended sequencing. Items 1 through 5 determine the size and
+structure of the Loan and therefore the content of the financial covenants, the
+Draw Schedule and the Interest Reserve. We recommend that no further drafting
+be circulated to Borrower’s counsel until the Bank has taken the Committee action
+in item 1; otherwise the Draft circulated will contain an LTC covenant that the
+Loan breaches on its face, which is an unnecessary invitation to argument. Items 6,
+11 and 12 (environmental and ARC) are the most likely causes of delay; each
+involves a third party (NCDEQ, the Architectural Review Committee) whose
+timetable the Bank does not control. If those three cannot be resolved by February
+14, we recommend moving the target Closing Date rather than waiving them.
+9. Validation, Limitations and Next Steps
+9.1 Verification performed on the Draft. The Draft has been (a) generated and
+round-trip validated as a conforming .docx (ZIP integrity, XML well-formedness,
+ECMA-376 schema, content-type registration and relationship consistency); (b)
+rendered to PDF (71 pages) and reviewed page by page for layout, table fitting,
+orphaned headings and broken cross-references; (c) checked so that every internal
+section cross-reference and every “Cover Memorandum, Issue” cross-reference
+resolves to an existing provision or issue; (d) checked for arithmetic so that each
+figure in the Draft (loan amount, ratios, reserve balances, retainage, draw totals,
+fee amounts) matches the reconciliation in Section 6; and (e) reviewed to confirm
+that each of the six “critical” conditions identified in the Credit Memorandum
+(equity escrow, intercreditor, SPE and non-consolidation, interest reserve
+replenishment, environmental resolution, title clearance) has a corresponding
+operative provision in the Draft and not merely a recital.
+9.2 Limitations. We have not verified any fact asserted by Borrower, the
+Guarantors, the appraiser, the environmental consultant, the title company or the
+General Contractor, except where we have re-performed a computation and said
+so. The record furnished to us omits the documents listed in Issue 44; conclusions
+drawn from excerpts (the Phase I ESA, the Appraisal, the Organizational Chart)
+may change when the complete documents are reviewed. Nothing in this
+memorandum is a substitute for the Bank’s credit judgment, and our comments on
+credit metrics identify internal inconsistency only.
+9.3 Next steps.
+1. Bank decision required on six points before the Draft is circulated: the
+reduced Loan Amount (Issue 1); the equity escrow and its source verification
+(Issue 5); the partial repayment guaranty quantum (Issue 33); the Guarantor net
+worth covenant (Issue 32); the Extension Option conditions (Issue 36); and the
+Debt Yield covenant (Issue 30). We recommend a short conference with
+Mr. Forsythe this week.
+
+57
+
+PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT — Pinnacle / Harborview — CRE-2025-0342
+
+2. Borrower requests to issue on the same day as the Committee decision: the
+source-of-funds schedule and bank support; the recorded deed notice or NCDEQ
+confirmation; the architect’s overlay; the ARC evidence; the survey; the rebuilt
+draw schedule; the full Phase II and NFA letter; the contractor’s financials and
+bonding; and Borrower’s reconciled financial statements.
+3. Third-party requests: Ridgeline Appraisal (CC&R assessment supplement and
+a statement on the residential restriction); Sentinel (Phase II report, reliance
+letter and an overlay review); Aldersgate (underwriter identification, Insured
+Closing Letter, corrected legal descriptions and the pre-recording lien affidavit).
+4. Circulation. Once items 1 and 2 are complete, we will circulate the Draft with a
+clean cover letter to Jonathan Ngo at Calloway & Strauss, without the drafting
+notes or this memorandum.
+
+Prepared by Marcus Webb. Reviewed comments and instructions requested from
+Katharine Drummond.
+
+58
+
+

@@ -1,0 +1,59 @@
+{
+  "description": "五轮第一轮，有增益且发布；附后续加载证据",
+  "parent_snapshot": "parent_snapshot.json",
+  "trial_snapshot": "trial_snapshot.json",
+  "promoted": true,
+  "mean_gain": 0.0053191489361702066,
+  "runs": [
+    {
+      "task_id": "real-estate/identify-issues-in-zoning-compliance-report",
+      "run": "later_load_evidence",
+      "reward": 0.17714285714285716,
+      "snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+      "transcript": "later_load_evidence/transcript.jsonl"
+    },
+    {
+      "task_id": "real-estate/extract-encumbrances-from-title-survey",
+      "run": "train/01-real-estate__extract-encumbrances-from-title-survey",
+      "reward": 0.19701492537313434,
+      "snapshot_id": "harvey-seed-v0001-84e13fea099a",
+      "transcript": "train/01-real-estate__extract-encumbrances-from-title-survey/transcript.jsonl"
+    },
+    {
+      "task_id": "real-estate/identify-issues-in-estoppel-certificate",
+      "run": "train/02-real-estate__identify-issues-in-estoppel-certificate",
+      "reward": 0.19428571428571428,
+      "snapshot_id": "harvey-seed-v0001-84e13fea099a",
+      "transcript": "train/02-real-estate__identify-issues-in-estoppel-certificate/transcript.jsonl"
+    },
+    {
+      "task_id": "real-estate/extract-conditions-from-zoning-approval",
+      "run": "validation/01-real-estate__extract-conditions-from-zoning-approval/new",
+      "reward": 0.18297872340425533,
+      "snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+      "transcript": "validation/01-real-estate__extract-conditions-from-zoning-approval/new/transcript.jsonl"
+    },
+    {
+      "task_id": "real-estate/extract-conditions-from-zoning-approval",
+      "run": "validation/01-real-estate__extract-conditions-from-zoning-approval/old",
+      "reward": 0.17872340425531916,
+      "snapshot_id": "harvey-seed-v0001-84e13fea099a",
+      "transcript": "validation/01-real-estate__extract-conditions-from-zoning-approval/old/transcript.jsonl"
+    },
+    {
+      "task_id": "real-estate/extract-lease-terms-from-existing-lease-portfolio",
+      "run": "validation/02-real-estate__extract-lease-terms-from-existing-lease-portfolio/new",
+      "reward": 0.19787234042553192,
+      "snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+      "transcript": "validation/02-real-estate__extract-lease-terms-from-existing-lease-portfolio/new/transcript.jsonl"
+    },
+    {
+      "task_id": "real-estate/extract-lease-terms-from-existing-lease-portfolio",
+      "run": "validation/02-real-estate__extract-lease-terms-from-existing-lease-portfolio/old",
+      "reward": 0.1914893617021277,
+      "snapshot_id": "harvey-seed-v0001-84e13fea099a",
+      "transcript": "validation/02-real-estate__extract-lease-terms-from-existing-lease-portfolio/old/transcript.jsonl"
+    }
+  ],
+  "note": "原始汇总中的绝对路径为历史来源路径；此清单的run/transcript使用当前目录的相对路径。"
+}

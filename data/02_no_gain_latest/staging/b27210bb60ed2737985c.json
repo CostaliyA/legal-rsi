@@ -1,0 +1,39 @@
+{
+  "action": "ADD",
+  "candidate_id": "b27210bb60ed2737985c",
+  "parent_snapshot_id": "harvey-seed30-v0001-07465a80603a",
+  "skill": {
+    "exclusions": [
+      "Review-only real estate diligence with no draft instrument",
+      "Land-use or zoning policy research",
+      "Property marketing materials without operative transaction documents"
+    ],
+    "id": "draft-real-estate-instrument",
+    "instructions": [
+      "Inventory the record and identify the controlling deal documents, property descriptions, title and survey materials, rent or payment schedules, and the required instrument and exhibits; record missing or inconsistent items before drafting.",
+      "Build a source-to-issue log for property description, parties, premises, term, rent, escalations, options, notices, encumbrances, permitted use, assignment, insurance, default, remedies, and recordation; reconcile competing descriptions and flag unresolved conflicts rather than choosing silently.",
+      "Independently recompute all figures and date-dependent obligations, including rent, escalations, prorations, deposits, thresholds, notice periods, and option windows; tie each calculation to source components and check units, bases, and rounding.",
+      "Draft the instrument with defined terms, operative grants, conditions, covenants, representations, remedies, notices, signature blocks, and exhibit references appropriate to the document type; include real estate-specific completeness items such as title and encumbrance treatment, permitted use, maintenance and alterations, assignment and subletting, insurance and indemnity, casualty and condemnation, default and remedies, and recording or memorandum requirements, stating when an item is inapplicable.",
+      "Cross-check every party name, entity identifier, property description, exhibit, section reference, date, and amount for internal consistency; distinguish drafting gaps from business points and label assumptions or open items for counsel.",
+      "Validate the final instrument by parsing or rendering it, scanning for placeholders, broken cross-references, arithmetic errors, omitted exhibits, and mismatches between the summary or memo and the operative text; confirm all source-verified figures and required sections are reflected."
+    ],
+    "legal_domain": "real-estate",
+    "level": "specific",
+    "operation_pattern": "draft",
+    "subtype": "pattern",
+    "summary": "A real estate drafting procedure for leases, ground leases, purchase and sale agreements, assignments, estoppels, and closing deliverables. It combines source inventory, property-description reconciliation, economic and date verification, real estate-specific covenant and exhibit completeness, and final validation. Applicability: real estate transaction drafting from lease, title, survey, rent roll, and deal documents. Exclusions: review-only diligence with no draft deliverable, zoning policy research, and property marketing materials.",
+    "title": "Real estate instrument drafting from a document record",
+    "triggers": [
+      "Drafting a lease, ground lease, purchase and sale agreement, assignment, estoppel, or real estate closing deliverable from source documents",
+      "Real estate transaction drafting requiring reconciliation of property descriptions, title materials, rent schedules, and deal terms",
+      "Preparing a draft real estate instrument and supporting validation memo from a document record"
+    ]
+  },
+  "source_runs": [
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-01",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-02",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-03",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-04"
+  ],
+  "target_skill_ids": []
+}

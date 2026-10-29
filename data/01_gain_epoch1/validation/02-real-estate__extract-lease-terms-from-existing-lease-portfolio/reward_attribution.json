@@ -1,0 +1,14 @@
+{
+  "task_id": "real-estate/extract-lease-terms-from-existing-lease-portfolio",
+  "old_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "new_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/validation/02-real-estate__extract-lease-terms-from-existing-lease-portfolio/old",
+  "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/validation/02-real-estate__extract-lease-terms-from-existing-lease-portfolio/new",
+  "old_reward_task": 0.1914893617021277,
+  "new_reward_task": 0.19787234042553192,
+  "delta_api": 0.006382978723404237,
+  "old_all_pass": false,
+  "new_all_pass": false,
+  "old_turn_count": 64,
+  "new_turn_count": 80
+}

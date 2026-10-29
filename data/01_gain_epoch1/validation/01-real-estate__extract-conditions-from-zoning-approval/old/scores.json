@@ -1,0 +1,13 @@
+{
+  "task_id": "real-estate/extract-conditions-from-zoning-approval",
+  "judge_model": "deepseek-flash",
+  "score": 0.0,
+  "max_score": 1.0,
+  "all_pass": false,
+  "n_passed": 42,
+  "n_criteria": 47,
+  "n_grading_errors": 0,
+  "criterion_fraction": 0.8936170212765957,
+  "beta": 0.2,
+  "reward_task": 0.17872340425531916
+}

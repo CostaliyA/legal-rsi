@@ -1,0 +1,40 @@
+{
+  "action": "REVISE",
+  "parent_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "target_skill_ids": [
+    "dom-real-estate-review"
+  ],
+  "skill": {
+    "id": "dom-real-estate-review",
+    "title": "Real estate document review checks",
+    "summary": "A real estate review procedure for leases, estoppels, rent rolls, title and encumbrance materials, survey materials, and transaction documents, with a controlling-value reconciliation ledger and a final source-to-deliverable reconciliation pass to catch unresolved conflicts, untraced figures, and incomplete outputs.",
+    "instructions": [
+      "Inventory property, lease, title, survey, estoppel, rent roll, and transaction documents; identify the controlling instrument for each issue and confirm that each source has been read completely, including continuation pages, exhibits, schedules, appendices, and signature blocks.",
+      "Before drafting, build a controlling-value reconciliation ledger for each property-level data point, including parties, legal descriptions and premises, acreage or unit figures, measurement bases, term, rent, escalations, options, notice periods, thresholds, prorations, and required consents, releases, subordination, or estoppel documents.",
+      "For each ledger item, record the authoritative source, any conflicting values or qualifications, the resolution basis, and whether the discrepancy remains open; do not silently choose a value where sources conflict.",
+      "Verify legal descriptions, premises, unit or acreage figures, allocations, and measurement bases against source schedules and independent arithmetic, and quantify discrepancies where figures cannot be reconciled.",
+      "Reconcile lease abstracts, rent rolls, estoppels, surveys, title materials, and underlying leases for parties, term, rent, escalations, options, encumbrances, and property-level descriptions.",
+      "Check title and encumbrance items against transaction requirements and identify required consents, releases, subordination, estoppel documents, or closing deliverables.",
+      "Compute date-dependent obligations and prorations independently, and flag ambiguities in commencement, expiration, notice, closing, or delivery timing.",
+      "After drafting, perform an independent source-to-deliverable reconciliation: map every requested deliverable element and every property-level figure, date, conclusion, and cross-reference to the reconciliation ledger or a cited source, and remove or expressly flag any untraced item.",
+      "Validate defined terms, totals, thresholds, date intervals, exhibit references, internal consistency, formatting, and open issues before finalizing, and distinguish factual extraction, arithmetic verification, legal characterization, assumptions, and recommendations."
+    ],
+    "triggers": [
+      "Lease, estoppel, rent roll, title, survey, or purchase agreement review",
+      "Real estate due diligence and closing checklist preparation"
+    ],
+    "exclusions": [
+      "Standalone land-use or zoning policy research",
+      "Property marketing material review without source documents"
+    ],
+    "level": "specific",
+    "subtype": "legal_domain",
+    "operation_pattern": null,
+    "legal_domain": "real-estate"
+  },
+  "candidate_id": "a4274f3bfccfdb83bdae",
+  "source_runs": [
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/train/01-real-estate__extract-encumbrances-from-title-survey",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/train/02-real-estate__identify-issues-in-estoppel-certificate"
+  ]
+}

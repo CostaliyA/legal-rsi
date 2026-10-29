@@ -1,0 +1,15 @@
+{
+  "task_id": "real-estate/draft-mortgage-and-security-agreement",
+  "judge_model": "deepseek-flash",
+  "score": 0.0,
+  "max_score": 1.0,
+  "all_pass": false,
+  "n_passed": 87,
+  "n_criteria": 92,
+  "n_grading_errors": 0,
+  "criterion_fraction": 0.9456521739130435,
+  "beta": 0.2,
+  "reward_task": 0.18913043478260871,
+  "rubric_feedback_file": "rubric_feedback.json",
+  "rubric_feedback_sha256": "ff950872da9f135d194002cdb54a48bb5ba9a53102a23c656e1aa37a96ea2922"
+}

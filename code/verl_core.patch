@@ -1,0 +1,101 @@
+diff --git a/verl/experimental/agent_loop/agent_loop.py b/verl/experimental/agent_loop/agent_loop.py
+index 6a38d1e..3a47a65 100644
+--- a/verl/experimental/agent_loop/agent_loop.py
++++ b/verl/experimental/agent_loop/agent_loop.py
+@@ -706,6 +706,9 @@ class AgentLoopWorker:
+             name="agent_loop",
+             trace=trace,
+         ):
++            extra_info = dict(kwargs.get("extra_info") or {})
++            extra_info["phase"] = "validation" if trajectory["validate"] else "train"
++            kwargs["extra_info"] = extra_info
+             assert agent_name in _agent_loop_registry, (
+                 f"Agent loop {agent_name} not registered, registered agent loops: {_agent_loop_registry.keys()}"
+             )
+diff --git a/verl/trainer/ppo/v1/agent_loop_tq.py b/verl/trainer/ppo/v1/agent_loop_tq.py
+index c078e63..9d7f5f6 100644
+--- a/verl/trainer/ppo/v1/agent_loop_tq.py
++++ b/verl/trainer/ppo/v1/agent_loop_tq.py
+@@ -16,8 +16,10 @@
+ """TransferQueue adapter for AgentLoopManager and AgentLoopWorker"""
+ 
+ import asyncio
++import json
+ import logging
+ import os
++from pathlib import Path
+ from typing import Any
+ 
+ import ray
+@@ -202,6 +204,37 @@ class AgentLoopWorkerTQ(AgentLoopWorker):
+             field.pop("multi_modal_data", None)
+             # TODO: uniform response_mask and loss_mask
+             field["loss_mask"] = field["response_mask"]
++            author_mask = field["extra_fields"].get("skill_author_mask")
++            if author_mask is not None:
++                if len(author_mask) != len(field["response_mask"]):
++                    raise ValueError("skill_author_mask must align with response tokens")
++                policy_mask = torch.as_tensor(author_mask, dtype=field["response_mask"].dtype)
++                if torch.any(policy_mask > field["response_mask"]):
++                    raise ValueError("skill_author_mask includes non-policy tokens")
++                field["policy_loss_mask"] = policy_mask
++            else:
++                field["policy_loss_mask"] = field["response_mask"]
++            if author_mask is not None and output.reward_score is not None and not validate:
++                trace_root = Path(field["extra_fields"]["writer_trace_root"])
++                trace_root.mkdir(parents=True, exist_ok=True)
++                reward_positions = torch.nonzero(field["rm_scores"], as_tuple=False).flatten().tolist()
++                if reward_positions and not all(author_mask[position] for position in reward_positions):
++                    raise ValueError("Writer reward was placed outside the author token mask")
++                trace = {
++                    "uid": uid,
++                    "session_id": session_id,
++                    "candidate_id": field["extra_fields"].get("candidate_id"),
++                    "skill_snapshot_id": field["extra_fields"].get("skill_snapshot_id"),
++                    "response_token_ids": field["responses"].tolist(),
++                    "response_mask": field["response_mask"].tolist(),
++                    "skill_author_mask": author_mask,
++                    "policy_loss_mask": field["policy_loss_mask"].tolist(),
++                    "reward_score": float(output.reward_score),
++                    "reward_token_positions": reward_positions,
++                    "reward_extra_info": field["extra_fields"].get("reward_extra_info", {}),
++                }
++                trace_path = trace_root / f"{uid}_{session_id}_{i}.json"
++                trace_path.write_text(json.dumps(trace, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
+             field["input_ids"] = input_ids
+             field["position_ids"] = position_ids
+             field["multi_modal_inputs"] = multi_modal_inputs
+diff --git a/verl/workers/utils/losses.py b/verl/workers/utils/losses.py
+index aff2765..8b8fda5 100644
+--- a/verl/workers/utils/losses.py
++++ b/verl/workers/utils/losses.py
+@@ -96,13 +96,15 @@ def ppo_loss(config: ActorConfig, model_output, data: TensorDict, dp_group=None)
+ 
+     # select fields and convert to padded tensor
+     fields = ["response_mask", "old_log_probs", "advantages"]
++    if "policy_loss_mask" in data:
++        fields.append("policy_loss_mask")
+     if "rollout_is_weights" in data:
+         fields.append("rollout_is_weights")
+     if "ref_log_prob" in data:
+         fields.append("ref_log_prob")
+     data = data.select(*fields).to_padded_tensor()
+ 
+-    response_mask = data["response_mask"].to(bool)
++    response_mask = data.get("policy_loss_mask", data["response_mask"]).to(bool)
+     # compute policy loss
+     old_log_prob = data["old_log_probs"]
+     advantages = data["advantages"]
+diff --git a/verl/workers/utils/padding.py b/verl/workers/utils/padding.py
+index f45d74a..0b95d02 100644
+--- a/verl/workers/utils/padding.py
++++ b/verl/workers/utils/padding.py
+@@ -68,7 +68,7 @@ def left_right_2_no_padding(data: TensorDict) -> TensorDict:
+ 
+     data["input_ids"] = input_ids_nested
+     data["position_ids"] = position_ids_nested
+-    data["loss_mask"] = data["response_mask"]
++    data["loss_mask"] = data.get("policy_loss_mask", data["response_mask"])
+ 
+     routed_experts = data.get("routed_experts", None)
+     if routed_experts is not None and not routed_experts.is_nested:

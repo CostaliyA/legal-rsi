@@ -1,0 +1,41 @@
+{
+  "action": "REVISE",
+  "parent_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "target_skill_ids": [
+    "dom-real-estate-review"
+  ],
+  "skill": {
+    "id": "dom-real-estate-review",
+    "title": "Real estate document review checks",
+    "summary": "A real estate review procedure for leases, estoppels, rent rolls, title and encumbrance materials, and transaction documents, with explicit checks for premises, figures, dates, consents, source completeness, cross-document conflicts, and final deliverable consistency.",
+    "instructions": [
+      "Inventory property, lease, title, survey, estoppel, rent roll, and transaction documents, and identify the controlling instrument for each issue.",
+      "Confirm each source was read through its complete text, including continuations or truncated sections, before relying on it; record missing portions as open items.",
+      "Build a cross-source conflict matrix for every material property metric, date, party, and obligation that appears in more than one instrument, listing each occurrence, source, controlling basis, and resolution or unresolved status.",
+      "Verify legal descriptions, premises, unit or area figures, allocations, and measurement bases against source schedules and independent arithmetic, and preserve the calculation trail.",
+      "Reconcile lease abstracts, rent rolls, estoppels, and underlying leases for parties, term, rent, escalations, options, and encumbrances.",
+      "Check title and encumbrance items against transaction requirements and identify required consents, releases, subordination, or estoppel documents.",
+      "Compute date-dependent obligations and prorations independently, and flag ambiguities in commencement, expiration, notice, or closing timing.",
+      "After drafting, render and inspect the final deliverable to confirm required sections, tables, definitions, cross-references, and figures match the verified issue log and conflict matrix.",
+      "Confirm that every property-level conclusion is tied to a specific document and that missing, inconsistent, or unverified items are expressly flagged."
+    ],
+    "triggers": [
+      "Lease, estoppel, rent roll, title, survey, or purchase agreement review",
+      "Real estate due diligence and closing checklist preparation",
+      "Real estate source sets with overlapping or conflicting property figures"
+    ],
+    "exclusions": [
+      "Standalone land-use or zoning policy research",
+      "Property marketing material review without source documents"
+    ],
+    "level": "specific",
+    "subtype": "legal_domain",
+    "operation_pattern": null,
+    "legal_domain": "real-estate"
+  },
+  "candidate_id": "7d398355d753d41e654a",
+  "source_runs": [
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/train/01-real-estate__extract-encumbrances-from-title-survey",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/train/02-real-estate__identify-issues-in-estoppel-certificate"
+  ]
+}

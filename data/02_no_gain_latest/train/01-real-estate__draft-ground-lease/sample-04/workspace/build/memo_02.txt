@@ -1,0 +1,162 @@
+@H1 IV. INDEPENDENT RECOMPUTATION OF FIGURES, DATES, AND AREAS
+@P Every figure in the record has been recomputed from its components. The results follow. Items marked "no exception" tie exactly; items marked otherwise are carried into the Issue Register.
+
+@H2 4.1 Base Rent (Term Sheet Section 5)
+@TBL 2.3,1.35,1.35,0.7|Item|Stated|Recomputed|Difference
+@ROW Initial annual Base Rent~$2,850,000~$2,850,000~None
+@ROW Rent per square foot~$20.45~$20.4459 ($2,850,000 ÷ 139,392)~$0.004
+@ROW Monthly Base Rent~$237,500~$237,500 ($2,850,000 ÷ 12)~None
+@ROW Rent Years 6–10 (annual)~$3,224,500~$3,224,513 ($2,850,000 × 1.025^5)~+$13
+@ROW Rent Years 6–10 (monthly)~$268,708~$268,709~+$1
+@ROW Rent Years 11–15 (annual)~$3,648,200~$3,648,241 ($2,850,000 × 1.025^10)~+$41
+@ROW Rent Years 11–15 (monthly)~$304,017~$304,020~+$3
+@P Effect: de minimis. The draft resolves the discrepancy in favor of the formula (Section 4.2) and provides that the formula controls over the table. The larger point is structural, and is addressed at Item 22: the Term Sheet uses "Lease Year" to mean two different things, with a three-Rent-Year consequence for when the escalations and percentage rent begin.
+
+@H2 4.2 Security Deposit (Term Sheet Section 8)
+@TBL 2.1,1.1,1.1,1.3|Item|Stated|Recomputed|Result
+@ROW Initial letter of credit~$5,700,000~24 × $237,500 = $5,700,000~Ties
+@ROW Reduced amount~$2,850,000~12 × $237,500 = $2,850,000~Ties (equals one year of annual Base Rent — coincidence, not a relationship)
+@ROW Reduction trigger~90% occupancy for 24 consecutive months~Undefined: occupancy of what, measured how, verified how~Item 35
+
+@H2 4.3 Remediation Credit and Cost Estimate (Term Sheet Sections 7; Phase II Sections 6)
+@TBL 2.4,1.1,1.1,1.2|Item|Stated|Recomputed|Result
+@ROW Total estimated remediation cost~$2,400,000~$1,850,000 + $550,000 = $2,400,000~Ties
+@ROW Tenant's nominal share~$600,000~$2,400,000 − $1,800,000 = $600,000~Ties (25% of estimate)
+@ROW Area 1 cost components~$1,850,000 total~$680,000 + $520,000 + $85,000 + $290,000 + $175,000 + $100,000 = $1,850,000~Ties in total
+@ROW Area 1 "Contingency (10%)"~$100,000~10% of the $1,750,000 subtotal is $175,000; $100,000 is 5.71%~Item 30
+@ROW Area 2 cost components~$550,000 total~$210,000 + $145,000 + $40,000 + $85,000 + $45,000 + $25,000 = $550,000~Ties in total
+@ROW Area 2 "Contingency (10%)"~$25,000~10% of the $525,000 subtotal is $52,500; $25,000 is 4.76%~Item 30
+@ROW Area 1 impacted volume~933 CY~4,200 SF × 6 ft ÷ 27 = 933 CY~Ties, but contamination is at 2–10 ft bgs (8 ft); at 8 ft the volume is 1,244 CY
+@ROW Area 1 total handling volume~3,100 CY~Not derived; 3.32 × the impacted volume~Item 30
+@ROW Remediation Credit application~Months 1–7 at $0; month 8 credit $137,500, cash $100,000~7 × $237,500 = $1,662,500; + $137,500 = $1,800,000; $237,500 − $137,500 = $100,000~Ties; credit equals 7.58 months of Base Rent
+
+@H2 4.4 Taxes and the Abatement Program (Term Sheet Section 10)
+@TBL 2.7,1.0,1.2,0.6|Item|Stated|Recomputed|Result
+@ROW Current land-only tax~$145,950~$4,200,000 × 0.03475 = $145,950~Ties
+@ROW Full post-development tax~$6,185,500~$178,000,000 × 0.03475 = $6,185,500~Ties
+@ROW Abatement Years 1–5 (25%)~$1,546,375~$178,000,000 × 0.25 × 0.03475 = $1,546,375~Ties
+@ROW Abatement Years 6–10 (50%)~$3,092,750~$178,000,000 × 0.50 × 0.03475 = $3,092,750~Ties
+@ROW Abatement Years 11–15 (75%)~$4,639,125~$178,000,000 × 0.75 × 0.03475 = $4,639,125~Ties
+@ROW Post-development assessed value~$178,000,000~$178,000,000 ÷ 0.70 = $254,285,714 implied value, or 59.8% of the $425,000,000 project cost~Item 25
+@P **Abatement timing.** The following compares the Term Sheet structure (abatement period commencing on the Lease Commencement Date) with the structure in the draft (abatement period commencing on the Rent Commencement Date, with Construction Period taxes based on the actual land assessment). Both run through the first year of full assessment under the draft's structure.
+@TBL 1.1,1.3,1.3,1.3|Period|Term Sheet: basis|Term Sheet: tax|Draft: tax
+@ROW 2025–2027~25% of $178,000,000 vs. land-only~$1,546,375 × 3 = $4,639,125~$145,950 × 3 = $437,850
+@ROW 2028–2029~25% both~$1,546,375 × 2 = $3,092,750~$1,546,375 × 2 = $3,092,750
+@ROW 2030–2032~50% vs. 25%~$3,092,750 × 3 = $9,278,250~$1,546,375 × 3 = $4,639,125
+@ROW 2033–2034~50% both~$3,092,750 × 2 = $6,185,500~$3,092,750 × 2 = $6,185,500
+@ROW 2035–2037~75% vs. 50%~$4,639,125 × 3 = $13,917,375~$3,092,750 × 3 = $9,278,250
+@ROW 2038–2039~75% both~$4,639,125 × 2 = $9,278,250~$4,639,125 × 2 = $9,278,250
+@ROW 2040~100% vs. 75%~$6,185,500~$4,639,125
+@ROW 2041–2042~100% vs. 75%~$12,371,000~$9,278,250
+@ROW 2043~100% both~$6,185,500~$6,185,500
+@ROW **Total 2025–2043**~~**$71,133,250**~**$53,014,600**
+@P **Difference: $18,118,650** in nominal taxes over nineteen years, of which **$4,201,275** arises during the three-year construction period alone (three years of $1,546,375 against a land-only assessment of $145,950). The difference is permanent, because both structures reach 100% assessment and thereafter pay identically.
+
+@H2 4.5 Areas and Legal Descriptions
+@TBL 2.2,1.2,1.4,0.7|Item|Stated|Recomputed|Result
+@ROW Assessor's area~139,392 SF / 3.2 ac~Given~Basis of Base Rent
+@ROW Survey description (courses and distances)~139,392 SF~Traverse closes exactly (0.00'); area = 139,474.95 SF / 3.2019 ac~+82.95 SF (+0.06%)
+@ROW Title Commitment Exhibit A~[Recites] 139,392 SF~Traverse closes within 1.10'; area = 279,535 SF / 6.417 ac~**+140,143 SF (+100.6%)**
+@ROW Title Commitment pit dimensions~Not stated~580.00' × 480.00' ≈ 278,400 SF~Consistent with 279,535 SF, not with 139,392 SF
+@ROW Survey pit dimensions~Not stated~435.22' × 320.47' = 139,474.95 SF~Consistent with 3.2 acres
+@ROW Waterfront bulkhead length~"approximately 480 linear feet"~Survey east boundary = 320.47'~**−159.53' (−33.2%)**
+@ROW Public pedestrian easement area~7,200 SF~(15' × 480') = 7,200 stated; (15' × 320.47') = 4,807 computed~**−2,393 SF** on the surveyed boundary
+@ROW Public utility easement area~Not stated~(20' × 435.22') = 8,704 SF~Consistent with the 435' frontage
+@P The Title Commitment's Exhibit A cannot be used. It describes a different and larger parcel, and its recital of 139,392 square feet is inconsistent with its own courses and distances by a factor of two. The draft adopts the surveyed description, confirms it to a closure error of zero, and states in Section 2.1 that it supersedes the Title Commitment's description. See Items 14–17.
+
+@H2 4.6 Dates
+@TBL 2.3,1.25,1.25,1.0|Event|Source|Date|Months from commencement
+@ROW Target Commencement Date~Term Sheet §3~October 1, 2025~0
+@ROW Milestone 1 — commencement of construction~Term Sheet §9~April 1, 2027~18
+@ROW Rent Commencement (outside date)~Term Sheet §3~October 1, 2028~36
+@ROW Milestone 2 — structural frame~Term Sheet §9~April 1, 2029~42
+@ROW **Construction loan initial maturity**~Loan TS §2~**October 1, 2029**~48
+@ROW Milestone 3 — Phase 1 substantial completion~Term Sheet §9~October 1, 2030~60
+@ROW **Construction loan extended maturity**~Loan TS §2~**October 1, 2030**~60
+@ROW Milestone 4 — Phase 2 substantial completion~Term Sheet §9~October 1, 2032~84
+@ROW End of twenty-year ROFR period~Term Sheet §11~September 30, 2045~240
+@ROW End of Abatement Period (draft structure)~Section 6.2~September 30, 2043~216
+@ROW Lease expiration~Term Sheet §3~September 30, 2124~1,188
+@P **Two calendar constraints that are already running.** The Title Commitment expires on December 1, 2025 (six months from its June 1, 2025 effective date) — two months after the target Commencement Date, which leaves almost no cushion. And Bayside's Loan Term Sheet Section 6(d) requires an ALTA/NSPS survey dated within ninety days of closing; the survey was performed on April 20, 2025, so it goes stale on July 19, 2025, which is before any realistic closing. The survey will have to be re-certified and re-dated, which is also the natural occasion to correct the legal description and the bulkhead measurement.
+
+@H2 4.7 Percentage Rent Sensitivity
+@P Assumes stabilized Gross Revenues of $30,000,000 in Rent Year 6 and 3.0% annual growth; Breakpoint fixed at $28,500,000 (Term Sheet) as against a Breakpoint indexed at the same 3.0%.
+@TBL 1.1,1.2,1.35,1.35|Rent Year|Gross Revenues|Percentage rent — fixed Breakpoint|Percentage rent — indexed Breakpoint
+@ROW 6~$30,000,000~$30,000~$30,000
+@ROW 16~$40,317,491~$236,350~$40,317
+@ROW 26~$54,183,337~$513,667~$54,183
+@ROW 36~$72,817,874~$886,357~$72,818
+@ROW 46~$97,861,134~$1,387,223~$97,861
+@ROW 56~$131,517,181~$2,060,344~$131,517
+@ROW 66~$176,748,093~$2,964,962~$176,748
+@ROW 76~$237,534,657~$4,180,693~$237,535
+@ROW 86~$319,226,717~$5,814,534~$319,227
+@ROW 96~$429,014,013~$8,010,280~$429,014
+@P The differential arises entirely from holding a breakpoint constant for ninety-nine years. The revenue projections themselves are illustrative: the record contains no pro forma, so we cannot verify where $28,500,000 sits relative to stabilized revenue. That is Item 45.
+
+@H2 4.8 Base Rent Under the CPI Reset (Section 4.3 of the Term Sheet)
+@P The reset is the greater of a 2.5% compounding floor and cumulative CPI-U Northeast measured from the Lease Commencement Date, applied to the original $2,850,000 with no cap. The table shows the two legs at a 3.0% CPI.
+@TBL 1.0,1.35,1.35,1.6|Reset (Rent Year)|2.5% floor leg|3.0% CPI leg|Greater of (no cap)
+@ROW 16~$4,127,650~$4,440,207~$4,440,207
+@ROW 26~$5,283,741~$5,967,267~$5,967,267
+@ROW 36~$6,763,635~$8,019,508~$8,019,508
+@ROW 46~$8,658,024~$10,777,548~$10,777,548
+@ROW 56~$11,083,003~$14,484,123~$14,484,123
+@ROW 66~$14,187,181~$19,465,451~$19,465,451
+@ROW 76~$18,160,791~$26,159,938~$26,159,938
+@ROW 86~$23,247,348~$35,156,769~$35,156,769
+@ROW 96~$29,758,571~$47,247,758~$47,247,758
+@P Three defects. First, there is no cap: at a 3.0% CPI the Base Rent in Rent Year 96 is $47.2 million on 3.2 acres, which is not a ground rent that any residual value analysis supports. Second, the "greater of" structure is a ratchet: because each reset applies the greater of the two legs measured from inception, a single period of high inflation is permanently embedded. Third, the provision is internally ambiguous: Section 5 measures the fixed leg from "the initial Base Rent of $2,850,000," but does not say whether "as of the applicable reset date" is measured from the Lease Commencement Date or the Rent Commencement Date — a three-year difference worth roughly 7.7% of rent at each reset. We have added a 3.0% cumulative cap and a floor at the preceding year's rent (Section 4.3), and we have anchored every measurement to the Rent Commencement Date by defining "Rent Year" separately from "Lease Year" (Sections 1.1 and 4.1). See Item 25.
+
+@H2 4.9 Capital Stack
+@TBL 2.6,1.3,1.3,1.0|Item|Stated|Recomputed|Result
+@ROW Total project cost~$425,000,000~$285,000,000 + $95,000,000 + $45,000,000 = $425,000,000~Ties
+@ROW Uses of funds~$425,000,000~$352,000,000 + $38,500,000 + $34,500,000 = $425,000,000~Ties
+@ROW Loan-to-cost~67.1%~$285,000,000 ÷ $425,000,000 = 67.06%~Ties
+@ROW Implied minimum appraised value~Not stated in the term sheets~$285,000,000 ÷ 0.75 = $380,000,000, or 89.4% of project cost~Item 44
+@P The LTV constraint is worth flagging for the merit of the deal, not just the ground lease. Bayside requires an appraisal confirming an LTV of no more than 75% (Section 6(k)). On a $285,000,000 loan that requires an appraised value of at least $380,000,000 — 89.4% of the $425,000,000 cost — for a leasehold estate whose ground rent is fixed and whose improvements are subject to a reverter. If the reverter is not fixed, we would expect the appraiser to apply a discount that makes $380,000,000 unattainable. The five issues in Section III are not independent of each other; the reverter is a valuation input.
+
+@H1 V. CROSS-DOCUMENT CONFLICT REGISTER
+@P The following conflicts appear on the face of the record. Each is resolved in the draft as indicated, or is carried to the Issue Register for negotiation.
+@TBL 0.35,1.75,2.3,2.1|#|Conflict|Documents|Resolution in draft
+@ROW C1~Legal description: recites 139,392 SF but describes 279,535 SF; different bearings and distances from the survey~Title Commitment Exh. A vs. Survey §4~Survey description adopted and made controlling (Lease §2.1, Exh. A) — Item 14
+@ROW C2~Surveyor identity, license number, and drawing number~Title Commitment Exh. A (J. Michael Ferreira, No. 12847, CLS-2025-0321, rev. May 15, 2025) vs. Survey (T.R. Pellegrino, PLS-008741, CLS-2025-0417, Apr. 28, 2025)~Survey in the record is used; Title Commitment to be corrected — Item 16
+@ROW C3~Recording citation for the 2012 condemnation~Title Commitment §4 (Vol. 367, Pg. 44) vs. Survey §4 (Vol. 375, Pg. 44, June 15, 2012)~Carried as an open item — Item 17
+@ROW C4~Court entering the condemnation judgment~Term Sheet §2 and §19 ("Judicial District of Port Calloway") vs. Title Commitment §4 ("Judicial District of New Haven")~Draft uses Judicial District of New Haven (Lease §17.2) — Item 17
+@ROW C5~Mechanics' lien status~Term Sheet §13 (Permitted Exception) vs. Title Commitment Req. 7 (must be discharged before any policy issues) and Ex. 6 ("has not been discharged, released, or bonded-off")~Excluded from Permitted Exceptions; Landlord obligation and condition precedent (Lease §§2.7(c), 15.4, Exh. B) — Item 18
+@ROW C6~Bulkhead: length and condition~All documents ("480 linear feet") vs. Survey east boundary (320.47'); Phase II ("fair to poor") vs. Survey ("spalling and corrosion") vs. Survey (40' of cap removed)~Flagged; measured length to be confirmed on re-survey (Lease §8.9) — Items 15, 33
+@ROW C7~Existing site elevations~Phase II §5 (9.0'–14.0' NAVD88) vs. Survey §1 (10.2'–14.8' NAVD88)~Informational; no lease consequence — Item 31
+@ROW C8~AMI area~Term Sheet §4 ("Port Calloway Metropolitan Statistical Area") vs. Title Commitment Ex. 5 ("New Haven-Milford") vs. Survey §3(d)(iii) ("Bridgeport-Stamford-Norwalk HUD Metro FMR Area")~New Haven-Milford adopted (Lease §3.6(b)) — Item 27
+@ROW C9~Security deposit instrument and issuer~Term Sheet §8 (commercial bank, U.S. or state, A-/A3) vs. Resolution 2025-047 Recital (c) ("federally chartered") vs. Loan TS §4 (cash at Borrower's option)~Commercial bank or cash or affiliate guaranty (Lease §§7.1–7.2) — Item 35
+@ROW C10~Right of first refusal and mortgagee transfers~Term Sheet §11 and Title Commitment Ex. 4 (recorded 2019 declaration with, expressly, "no exception or carve-out for transfers resulting from foreclosure, deed-in-lieu... or assignments by a leasehold mortgagee") vs. Loan TS §5.6 (unconditional foreclosure and assignment without Landlord consent)~Amendment and subordination as a condition precedent; express carve-outs (Lease §§2.7(d), 11.4(e)) — Item 12
+@ROW C11~New Lease trigger and mechanics~Term Sheet §9 (Tenant Event of Default only; cure measured from termination) vs. Loan TS §5.3 (any termination; 60-day request; 30-day execution; 180-day long-stop; subleases recognized)~Bayside's broader right adopted (Lease §10.5) — Item 8
+@ROW C12~Independent Lender cure for milestone defaults~Term Sheet §9 (silent) vs. Loan TS §5.4 ("in addition to, and not concurrent with, any cure periods afforded to Tenant")~180-day Lender cure (Lease §10.3(c)) — Item 9
+@ROW C13~Leasehold mortgage consent~Term Sheet §9 ("subject to the terms and conditions of the Definitive Lease") vs. Loan TS §5.1 (no consent, no fee, no condition)~No consent, no fee (Lease §10.1) — Item 10
+@ROW C14~Completion guaranty scope and deadline~Loan TS §4 (Coventry guarantees lien-free completion of the Project "on or before the Initial Maturity Date") vs. Term Sheet §9 (Phase 1 Oct. 1, 2030; Phase 2 Oct. 1, 2032)~External to the Lease; raised for Coventry and Bayside — Item 13
+@ROW C15~Pledge of membership interests~Loan TS §4 (first-priority pledge of 100% of membership interests) vs. Term Sheet §11 (assignment restrictions; affiliate definition)~Express permitted transfer (Lease §11.1(e)) — Item 43
+@ROW C16~Insurance additional insureds and loss payees~Term Sheet §12 (Authority as additional insured on CGL and all-risk property) vs. Loan TS §6(h) (Lender as additional insured and/or loss payee on all policies)~Both satisfied; mortgagee first loss payee; Authority additional insured on liability only (Lease §12.2) — Item 37
+@ROW C17~Flood insurance amount~Term Sheet §12(d) ("no event less than the maximum coverage available under the National Flood Insurance Program") vs. Loan TS §6(h) (flood insurance "in amounts satisfactory to Lender") and $425,000,000 replacement cost~Full replacement cost, NFIP plus private (Lease §12.1(e)) — Item 37
+@ROW C18~Tax abatement commencement and obligor~Term Sheet §10 (commences on Lease Commencement Date; Authority to use "commercially reasonable efforts") vs. Resolution 2025-047 (separate agreement with the City; Authority merely "supports" the abatement) vs. your instruction (abatement during income-producing years)~Commences on Rent Commencement Date; City agreement a condition precedent; offset remedy (Lease §§2.7(e), 6.2) — Item 3
+@ROW C19~Ground-floor uses~Term Sheet §4(a) (ground-floor residential lobby, fitness center, package room, lounge, leasing office) vs. Term Sheet §4 and Phase II §2.3 (ELUR prohibits residential use on the ground floor)~Non-habitable ground-floor uses only; DEEP letter a condition precedent (Lease §3.9) — Item 28
+@ROW C20~Residential unit count~Term Sheet §4(a) ("to be determined and specified in the Definitive Lease") vs. Resolution Recital and Term Sheet §6 (15% affordable; $28,500,000 breakpoint)~Exhibit E requires a unit count; [●] pending — Item 45
+@ROW C21~Board authorization sequence~Resolution 2025-047 adopted June 5, 2025 authorizing a ground lease "on terms and conditions substantially consistent with the Term Sheet dated June 10, 2025"~Resolution vs. Term Sheet~Raised with the Authority; certified resolution required at closing (Lease §2.7(b)) — Item 38
+@ROW C22~Delegated authority limits~Resolution §4(a)–(d) (base rent not below $2,850,000; term not above 99 years; affordable housing not reduced; material deviations to the Board) vs. the deviations in the draft~Resolution vs. draft Lease~Flagged for Board approval — Item 38 and Appendix B
+@ROW C23~Nature of the Term Sheet~Cover page ("EXECUTED — BINDING TERM SHEET") vs. §19 (binding only as to good-faith negotiation and exclusivity)~Term Sheet internal~No lease consequence; noted for the negotiation record
+@ROW C24~Status of the Bayside term sheet~Unsigned by Borrower; by its terms expired if not executed by June 27, 2025~Loan TS §13~Open item — Item 46
+@ROW C25~Venue~Term Sheet §19 ("Judicial District of Port Calloway") vs. Connecticut's actual judicial districts~Term Sheet~New Haven (Lease §17.2) — Item 44
+@ROW C26~Open space area vs. easement geometry~Term Sheet §4 (8,000 SF of public open space) vs. Survey (7,200 SF pedestrian easement area, and only 4,807 SF on the surveyed east line) vs. Title Ex. 3 (no permanent structures in the easement)~Open space measured outside the easement strip to the extent of the easement (Lease §3.7) — Item 42
+@ROW C27~Below-grade parking vs. engineered barrier and remediation~Term Sheet §4(d) (structured and/or below-grade parking) vs. ELUR (24-inch cap; no ground disturbance below 2 feet without a DEEP-approved Soil Management Plan) vs. Phase II (excavation to 6–10 feet)~Coordination required; remediation scope and design to be reconciled before the RAP is filed — Item 32
+
+@H1 VI. CONNECTICUT LAW: FORFEITURE, PENALTIES, AND REMEDIES
+@NOTE The following is a doctrinal summary prepared for negotiation purposes. It is not a legal opinion. The specific authorities should be confirmed by citator, and by a Connecticut litigation partner, before any of it is used in correspondence, a demand, or a brief. See Section 2.3.
+@H2 6.1 The two doctrines that bear on the reverter
+@P A reverter that transfers $300 million of improvements to the Authority on a missed date is exposed on two independent lines of attack, and a third that is weaker but worth preserving.
+@C1 (a) **Penalty.** A contractual provision that fixes the consequences of a breach is enforceable as liquidated damages only if the harm is incapable or difficult of accurate estimation at the time of contracting and the stipulated amount is a reasonable forecast of that harm rather than a punishment. See Restatement (Second) of Contracts § 356(1). If the stipulated consequence is grossly disproportionate to the actual or anticipated loss, it is a penalty and is unenforceable. Connecticut courts have long applied this framework, and the difference between the amount at stake ($317 million at 90% completion, plus $5.7 million of posted security) and the Authority's actual loss from a delay (approximately $2.85 million per year of base rent) is the kind of disparity that has supported penalty findings.
+@C1 (b) **Forfeiture.** Separately, a court may excuse the non-occurrence of a condition — including a condition subsequent such as a reverter — where its enforcement would cause a disproportionate forfeiture, unless the condition was a material part of the agreed exchange. See Restatement (Second) of Contracts §§ 227(1), 229. The rule of interpretation in § 227(1) counsels in favor of an interpretation that avoids forfeiture where the language is fairly susceptible of it. This doctrine is the more powerful of the two here, because it does not require us to characterize the reverter as a damages clause; it operates on the condition itself.
+@C1 (c) **Unjust enrichment and constitutional limits.** A public body that retains $300 million of privately financed improvements for a delay of months has been enriched without an corresponding legal basis, which is the classic predicate for restitution. Where the enriched party is a public body acting under color of a lease, there is also a colorable argument under Article First, § 11 of the Connecticut Constitution (private property shall not be taken for public use without just compensation) and Article First, § 1 (due process). We regard these as supplementary arguments, not the primary line: they are slower, less certain, and — critically — they are available only after the loss has occurred.
+@H2 6.2 What the client asked us to confirm
+@P You asked us to confirm whether Connecticut law provides relief against a disproportionate forfeiture, and referred to a prior matter "I think it was the Stamford project" involving a principle "disfavoring penalties that are grossly disproportionate to the actual harm suffered." We can confirm the principle: it is the mainstream American rule, Connecticut applies it, and it is reflected in the Restatement sections cited above. We cannot confirm the specific recollection. There is nothing in the record that identifies a Stamford decision, and we are not able to verify a citation to one from the documents in the file. We recommend a focused case-law search — specifically for Connecticut ground lease, reverter, and commercial forfeiture decisions — before the principle is invoked in negotiation with Pryor Whitfield & Koss, because the Authority's counsel will ask for the cite and an incorrect one would cost credibility at the moment we need it most.
+@H2 6.3 The practical conclusion
+@P The legal argument is sound but it should not be the strategy. An unenforceable clause is a remedy you reach after two years of litigation, during which the improvements sit in place, the construction loan is in default, and the equity is frozen. Bayside will not underwrite the reverter on the theory that a court will rescue it; it will underwrite the clause as written, or it will not close. The clause must therefore be fixed in the document, and the legal analysis should be used for two narrower purposes: to give us a credible fallback if the Authority refuses to move (we can say, in substance, that the clause as drafted is unlikely to be enforced and that the Authority should prefer a remedy it can actually obtain), and to support a savings and reformation provision in the Lease itself (Section 9.10), which converts the argument into a drafting mechanism.
+@H2 6.4 Non-waivable rights and the savings clause
+@P Section 9.10 and Section 16.10 of the draft are deliberate. They preserve Tenant's right to seek relief from forfeiture, and they provide that if any provision is held to operate as an unenforceable penalty the Lease shall be reformed to give effect to the parties' intent — that Tenant be paid for the Improvements and that the Authority recover only its actual, documented damages. A savings clause does two things: it improves the odds of reformation rather than invalidation, and it gives the Lender comfort that the remedy will not simply fail (leaving the Lender with a void termination and an unclear estate).

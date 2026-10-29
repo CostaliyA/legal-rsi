@@ -1,0 +1,42 @@
+{
+  "version": "v0001",
+  "skills": [
+    {
+      "id": "hybrid-skill-retrieval",
+      "title": "Hybrid skill retrieval",
+      "summary": "Recall broadly, then filter for applicability before injecting a compact skill set.",
+      "triggers": ["skill retrieval", "retrieve skill", "检索skill", "skill的检索"],
+      "exclusions": [],
+      "instructions": [
+        "Apply hard filters for tools, permissions, versions, preconditions, and explicit exclusions.",
+        "Combine lexical and semantic recall, then rerank candidates for applicability to the current state.",
+        "Inject only a small final set and log candidates, scores, ordering, and rejection reasons."
+      ]
+    },
+    {
+      "id": "immutable-rollout-snapshot",
+      "title": "Immutable rollout snapshot",
+      "summary": "All samples in one RL comparison group must read the same immutable skill snapshot.",
+      "triggers": ["rollout", "GRPO", "RLOO", "snapshot", "防止退化"],
+      "exclusions": [],
+      "instructions": [
+        "Pin one snapshot before the group starts and record its ID in every trajectory.",
+        "Stage candidate writes without exposing them to any rollout in the current group.",
+        "Commit or reject candidates at a single deterministic barrier after group evaluation."
+      ]
+    },
+    {
+      "id": "skill-validation-gate",
+      "title": "Skill validation gate",
+      "summary": "Promote skill changes only when paired protected-task replay shows non-regression.",
+      "triggers": ["skill library", "退化", "validation", "candidate"],
+      "exclusions": [],
+      "instructions": [
+        "Keep task reward separate from reusable-skill utility and size, latency, redundancy, safety, and leakage costs.",
+        "Compare old and candidate snapshots on identical held-out probes, model weights, seeds, and budgets.",
+        "Version accepted changes; quarantine rejected candidates and preserve a deterministic commit journal."
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,11 @@
+{
+  "action": "NO_CHANGE",
+  "parent_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "target_skill_ids": [],
+  "skill": null,
+  "candidate_id": "009eda6f62b13affbc66",
+  "source_runs": [
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/train/01-real-estate__extract-encumbrances-from-title-survey",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/train/02-real-estate__identify-issues-in-estoppel-certificate"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "mode": "frozen_api_only",
+  "candidate_id": "a4274f3bfccfdb83bdae",
+  "action": "REVISE",
+  "validation_tasks": [
+    "real-estate/extract-conditions-from-zoning-approval",
+    "real-estate/extract-lease-terms-from-existing-lease-portfolio"
+  ],
+  "delta_ref": 0.0053191489361702066,
+  "delta_cur": null,
+  "reward_writer": 0.0053191489361702066,
+  "reward_placement": "final Writer action token in native VERL; API has no native policy token IDs",
+  "native_policy_update_performed": false
+}

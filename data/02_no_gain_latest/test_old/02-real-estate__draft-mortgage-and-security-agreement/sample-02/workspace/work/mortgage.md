@@ -1,0 +1,1631 @@
+::: {custom-style="Title"}
+MORTGAGE AND SECURITY AGREEMENT
+:::
+
+::: {custom-style="Body Text"}
+(With Absolute Assignment of Leases and Rents; Fixture Filing)
+:::
+
+::: {custom-style="Body Text"}
+**THIS MORTGAGE AND SECURITY AGREEMENT** (this "**Mortgage**") is made and entered into as of April 15, 2025 (the "**Closing Date**"), by and between **PALMETTO GATEWAY PARTNERS LLC**, a South Carolina limited liability company, having its principal office at 88 Broad Street, Suite 200, Charleston, South Carolina 29401, South Carolina Secretary of State Filing No. 2024-0011287, Federal Employer Identification No. 84-6213750 ("**Mortgagor**"), and **CALVERLEY HERITAGE BANK**, a Georgia state-chartered commercial bank insured by the Federal Deposit Insurance Corporation, having its principal office at 412 Whitaker Street, Savannah, Georgia 31401, Federal Employer Identification No. 58-2947136 ("**Mortgagee**" or "**Lender**").
+:::
+
+## RECITALS
+
+::: {custom-style="Body Text"}
+**A.** Lender has agreed to make a loan to Mortgagor in the original principal amount of **Fourteen Million Seven Hundred Fifty Thousand and No/100 Dollars ($14,750,000.00)** (the "**Loan**"), to finance, in part, the acquisition and renovation of the real property and improvements described in **Exhibit A** attached hereto and made a part hereof (the "**Property**").
+:::
+
+::: {custom-style="Body Text"}
+**B.** The Loan is evidenced by a promissory note of even date herewith made by Mortgagor payable to the order of Lender in the original principal amount of $14,750,000.00 (as amended, restated, extended, supplemented or otherwise modified from time to time, the "**Note**"), and is further evidenced, secured and/or guaranteed by the other Loan Documents (as defined in **Section 1.1**).
+:::
+
+::: {custom-style="Body Text"}
+**C.** The Loan proceeds are to be disbursed in two components: (i) an initial advance of **Twelve Million Five Hundred Thousand and No/100 Dollars ($12,500,000.00)** to be made on the Closing Date (the "**Initial Advance**"), and (ii) a **Renovation Holdback** in the amount of **Two Million Two Hundred Fifty Thousand and No/100 Dollars ($2,250,000.00)**, to be disbursed in periodic draws in accordance with **Article 8** to fund a portion of the Renovation Work described in the Renovation Budget.
+:::
+
+::: {custom-style="Body Text"}
+**D.** The Renovation Holdback constitutes a series of obligatory future advances made by Lender to Mortgagor pursuant to the Loan Documents, and this Mortgage is intended to secure, and to give record notice that it secures, such future advances together with the Initial Advance, all interest thereon and all other Secured Obligations, in an aggregate principal amount not to exceed $14,750,000.00 at any one time outstanding, plus interest, costs, expenses and other Secured Obligations.
+:::
+
+::: {custom-style="Body Text"}
+**E.** Mortgagor is the fee simple owner of the Property, having acquired title thereto by General Warranty Deed from Hampstead Village Holdings LLC, a South Carolina limited liability company, recorded or to be recorded concurrently with this Mortgage in the Office of the Register of Mesne Conveyances for Charleston County, South Carolina (the "**RMC Office**").
+:::
+
+::: {custom-style="Body Text"}
+**F.** Mortgagor has agreed (i) to grant to Lender a first-priority mortgage lien on, and security interest in, the Property and the other Mortgaged Property, (ii) to assign to Lender, absolutely and presently, all Leases, Rents, issues and profits of the Property, and (iii) to grant to Lender a security interest in the personal property and fixtures described herein, in each case as security for the Secured Obligations.
+:::
+
+::: {custom-style="Body Text"}
+**G.** Neil Ashford Graydon, an individual residing at 14 Church Street, Charleston, South Carolina 29401 ("**Guarantor**"), has executed and delivered (or will execute and deliver concurrently herewith) a Guaranty Agreement in favor of Lender, and Guarantor and Mortgagor have executed and delivered (or will execute and deliver concurrently herewith) an Environmental Indemnity Agreement in favor of Lender (the "**Environmental Indemnity**").
+:::
+
+::: {custom-style="Body Text"}
+**H.** The Property is subject to that certain land use restriction recorded in Deed Book 1203 at Page 89, RMC Office for Charleston County, South Carolina, imposed by the South Carolina Department of Health and Environmental Control in connection with SCDHEC Site ID No. SC-29403-0772 (the "**Land Use Restriction**"), and the parties intend that this Mortgage impose on Mortgagor enforceable obligations to comply with the Land Use Restriction, as more particularly set forth in **Article 11**.
+:::
+
+::: {custom-style="Body Text"}
+**NOW, THEREFORE**, in consideration of the Loan, the covenants and agreements set forth herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Mortgagor and Lender agree as follows:
+:::
+
+## ARTICLE 1. DEFINITIONS AND RULES OF CONSTRUCTION
+
+::: {custom-style="Body Text"}
+**1.1 Defined Terms.** Capitalized terms used in this Mortgage have the meanings set forth below or elsewhere in this Mortgage. Any capitalized term used but not defined in this Mortgage and defined in the Note shall have the meaning given to it in the Note.
+:::
+
+::: {custom-style="Body Text"}
+"**Affiliate**" means, with respect to any Person, any other Person that directly or indirectly Controls, is Controlled by, or is under common Control with, such Person. "**Control**" means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract, or otherwise.
+:::
+
+::: {custom-style="Body Text"}
+"**Annual Debt Service**" means, for any period, the aggregate amount of principal and interest that would be payable over the twelve (12) calendar months immediately following the last day of such period on the outstanding principal balance of the Loan, calculated (i) at the greater of the rate of interest then in effect under the Note and the SOFR Floor Rate plus the Applicable Spread, and (ii) assuming level monthly payments of principal and interest based on a twenty-five (25) year amortization schedule, whether or not the Loan is then in the Interest-Only Period, and without giving effect to any Default Rate.
+:::
+
+::: {custom-style="Body Text"}
+"**Applicable Spread**" means two hundred eighty-five basis points (2.85%) per annum.
+:::
+
+::: {custom-style="Body Text"}
+"**Architect**" means the architect of record engaged by Mortgagor with respect to the Renovation Work, which architect shall be licensed in the State of South Carolina and reasonably acceptable to Lender.
+:::
+
+::: {custom-style="Body Text"}
+"**Business Day**" means any day other than a Saturday, a Sunday, or a day on which Lender is authorized or required by law to be closed for the transaction of banking business in the State of Georgia.
+:::
+
+::: {custom-style="Body Text"}
+"**Capital Replacement Reserve**" means the reserve account established and maintained by Lender pursuant to **Section 9.2**.
+:::
+
+::: {custom-style="Body Text"}
+"**Credit Party**" means Mortgagor, Guarantor, and each other Person now or hereafter liable for, or providing security for, all or any part of the Secured Obligations.
+:::
+
+::: {custom-style="Body Text"}
+"**DSCR**" means, for any Measurement Period, the ratio of (i) Net Operating Income for such Measurement Period to (ii) Annual Debt Service for such Measurement Period.
+:::
+
+::: {custom-style="Body Text"}
+"**DSCR Testing Date**" means the last day of the first full calendar quarter ending after the date that is twenty-four (24) months following the Closing Date, and the last day of each calendar quarter thereafter. Based on the anticipated Closing Date, the first DSCR Testing Date is anticipated to be **June 30, 2027**, with the first DSCR test occurring upon delivery of the related quarterly reporting on or about **July 30, 2027**.
+:::
+
+::: {custom-style="Body Text"}
+"**Environmental Laws**" means all federal, state, and local laws, statutes, ordinances, regulations, orders, permits, licenses, judgments, and decrees relating to pollution, the protection of human health or the environment, or the use, generation, storage, treatment, transportation, disposal, release, or threatened release of Hazardous Materials, including the Comprehensive Environmental Response, Compensation, and Liability Act, 42 U.S.C. § 9601 *et seq.*, and the South Carolina Hazardous Waste Management Act, S.C. Code Ann. § 44-56-10 *et seq.*
+:::
+
+::: {custom-style="Body Text"}
+"**Event of Default**" has the meaning set forth in **Article 14**.
+:::
+
+::: {custom-style="Body Text"}
+"**General Contractor**" means Beaufort Builders Group LLC, a South Carolina limited liability company, South Carolina General Contractor License No. SC-GC-47921, having its principal office at 2200 Boundary Street, Suite 150, Beaufort, South Carolina 29902, or any replacement general contractor approved in writing by Lender.
+:::
+
+::: {custom-style="Body Text"}
+"**GC Contract**" means that certain construction contract between Mortgagor, as owner, and the General Contractor, as contractor, providing for a contract sum of Two Million Eight Hundred Fifty Thousand and No/100 Dollars ($2,850,000.00) for hard costs of construction, together with all schedules, exhibits, amendments, change orders and modifications thereto approved by Lender.
+:::
+
+::: {custom-style="Body Text"}
+"**Hazardous Materials**" means any substance, material, or waste that is listed, defined, designated, regulated, or classified as hazardous, toxic, a pollutant, a contaminant, or a controlled, special, or industrial waste under any Environmental Laws, including petroleum and petroleum products, perchloroethylene and other chlorinated solvents, asbestos, polychlorinated biphenyls, lead-based paint, mold, and urea formaldehyde.
+:::
+
+::: {custom-style="Body Text"}
+"**Impositions**" means all real property taxes, personal property taxes, assessments (including special and betterment assessments), water and sewer charges, vault charges, and other governmental or quasi-governmental levies, charges, and impositions of every kind and nature whatsoever that are assessed, levied, or imposed against the Mortgaged Property or any part thereof, or upon the Rents, issues, or profits thereof, or upon this Mortgage or the Secured Obligations.
+:::
+
+::: {custom-style="Body Text"}
+"**Improvements**" means all buildings, structures, fixtures, building systems, improvements, and appurtenances of every kind now or hereafter located on, in, under, or upon the Land, including without limitation the retail and office improvements commonly known as 520–534 King Street, Charleston, South Carolina 29403, and all HVAC equipment, elevators, plumbing, electrical systems, fire protection systems, roof membrane systems, the decorative iron balcony on the King Street elevation, and the vapor barrier system required by the Land Use Restriction.
+:::
+
+::: {custom-style="Body Text"}
+"**Initial Advance**" has the meaning set forth in Recital C.
+:::
+
+::: {custom-style="Body Text"}
+"**Interest-Only Period**" means the period commencing on the Closing Date and ending on April 15, 2027, during which monthly installments of interest only shall be due under the Note.
+:::
+
+::: {custom-style="Body Text"}
+"**Land**" means the real property described in **Exhibit A**, including all three (3) tax parcels identified as Charleston County Tax Map Nos. 460-12-04-007, 460-12-04-008, and 460-12-04-009, and the strip of land formerly constituting a portion of Anson Lane vacated by City of Charleston Ordinance No. 2019-084.
+:::
+
+::: {custom-style="Body Text"}
+"**Leases**" means each and every lease, sublease, license, tenancy, occupancy agreement, concession agreement, and other agreement (whether written or oral, and whether now existing or hereafter entered into) demising, licensing, or otherwise granting a right of use or occupancy of any portion of the Property, together with all amendments, extensions, renewals, guaranties, and other agreements relating thereto, including without limitation the leases identified on **Schedule 4.1(n)**.
+:::
+
+::: {custom-style="Body Text"}
+"**Lender Expenses**" means all reasonable out-of-pocket costs and expenses (including reasonable attorneys' fees and disbursements, court costs, expert witness fees, title search and title insurance charges, survey costs, appraisal costs, environmental consultant costs, construction inspection fees, and receiver's fees) incurred by Lender in connection with (i) the preparation, negotiation, administration, enforcement, or defense of this Mortgage or any other Loan Document, (ii) the preservation, protection, or enforcement of Lender's rights and remedies hereunder or thereunder, (iii) any workout, forbearance, amendment, or restructuring, and (iv) any foreclosure, bankruptcy, insolvency, or other proceeding relating to the Mortgaged Property or any Credit Party.
+:::
+
+::: {custom-style="Body Text"}
+"**Loan Documents**" means, collectively, the Note, this Mortgage, the Guaranty Agreement, the Environmental Indemnity, the UCC-1 financing statements and fixture filing, the GC Contract (solely to the extent of Mortgagor's assignment of its interest therein hereunder), each reserve agreement, cash management agreement, deposit account control agreement, and assignment of contracts and permits entered into in connection with the Loan, and each other document, instrument, certificate, or agreement now or hereafter executed and delivered by any Credit Party to Lender evidencing, securing, guaranteeing, or otherwise relating to the Loan, as each may be amended, restated, extended, supplemented, or otherwise modified from time to time.
+:::
+
+::: {custom-style="Body Text"}
+"**Lockout Period**" means the period commencing on the Closing Date and ending on the day immediately preceding the twenty-fifth (25th) monthly anniversary of the Closing Date, being the period of twenty-four (24) months following the Closing Date.
+:::
+
+::: {custom-style="Body Text"}
+"**Loan**" has the meaning set forth in Recital A and includes all principal, interest, and other sums evidenced by the Note, including the Renovation Holdback.
+:::
+
+::: {custom-style="Body Text"}
+"**Maturity Date**" means April 15, 2030, being the fifth (5th) anniversary of the Closing Date.
+:::
+
+::: {custom-style="Body Text"}
+"**Measurement Period**" means, as of any DSCR Testing Date, the twelve (12) consecutive calendar months ending on such DSCR Testing Date.
+:::
+
+::: {custom-style="Body Text"}
+"**Mortgaged Property**" has the meaning set forth in **Section 2.2**.
+:::
+
+::: {custom-style="Body Text"}
+"**Net Operating Income**" means, for any Measurement Period, the excess of (i) Gross Operating Income for such period over (ii) Operating Expenses for such period, determined in accordance with the following:
+:::
+
+::: {custom-style="Body Text"}
+(a) "**Gross Operating Income**" means all revenues actually received by Mortgagor from the operation of the Property during such period, including Rents, expense reimbursements, escalation and percentage rent, parking and other ancillary income, and lease termination and other non-recurring income (which non-recurring items shall not exceed five percent (5%) of gross revenues for purposes of this definition), determined in accordance with sound accounting practices consistently applied and with rental revenue recognized on a straight-line basis in accordance with generally accepted accounting principles in the United States ("**GAAP**");
+:::
+
+::: {custom-style="Body Text"}
+(b) "**Operating Expenses**" means all ordinary and necessary expenses actually paid or payable by Mortgagor in connection with the ownership, operation, maintenance, repair, management, and leasing of the Property, determined in accordance with GAAP, including real property taxes, casualty and liability insurance premiums, utilities, repairs and maintenance, service contracts, and a management fee not to exceed the greater of four percent (4.0%) of Gross Operating Income and the actual fee payable to a non-affiliated manager at market rates; **provided** that Operating Expenses shall exclude (i) debt service on the Loan or any other indebtedness, (ii) federal, state, and local income taxes, (iii) depreciation, amortization, and other non-cash items, (iv) capital expenditures, (v) tenant improvement costs and leasing commissions (except to the extent amortized over the applicable lease term in accordance with GAAP), (vi) deposits into the Capital Replacement Reserve, the Tax and Insurance Escrow, the TI/LC Reserve, or the DSCR Cure Reserve, (vii) any fee, compensation, or other payment to the Managing Member or any Affiliate of Mortgagor in excess of the amounts permitted by this Mortgage, (viii) any non-recurring expense, and (ix) any expense that is reimbursable by a tenant and actually reimbursed.
+:::
+
+::: {custom-style="Body Text"}
+(c) Net Operating Income shall be determined by Lender in good faith on the basis of the financial statements, rent rolls, and operating statements required to be delivered under **Article 12**, and, if applicable, adjusted to annualize the Rents payable under Leases executed and in full force and effect as of the end of the Measurement Period. Lender's determination of Net Operating Income shall be conclusive absent manifest error.
+:::
+
+::: {custom-style="Body Text"}
+"**Open Prepayment Period**" means the period from and including the first day of the forty-ninth (49th) month following the Closing Date through and including the Maturity Date.
+:::
+
+::: {custom-style="Body Text"}
+"**Permitted Exceptions**" means those matters described in **Exhibit B** attached hereto, together with such other title exceptions as Lender may approve in writing from time to time.
+:::
+
+::: {custom-style="Body Text"}
+"**Person**" means any individual, corporation, partnership, limited liability company, joint venture, association, trust, unincorporated organization, governmental authority, or other entity.
+:::
+
+::: {custom-style="Body Text"}
+"**Prepayment Date**" means the date on which the Loan is prepaid in full in accordance with **Article 13**.
+:::
+
+::: {custom-style="Body Text"}
+"**Renovation Budget**" means the total renovation budget for the Property in the amount of **Three Million One Hundred Fifty Thousand and No/100 Dollars ($3,150,000.00)**, comprised of the line items and funded in the respective amounts set forth in **Exhibit C**.
+:::
+
+::: {custom-style="Body Text"}
+"**Renovation Holdback**" has the meaning set forth in Recital C, and is the amount of **Two Million Two Hundred Fifty Thousand and No/100 Dollars ($2,250,000.00)**.
+:::
+
+::: {custom-style="Body Text"}
+"**Renovation Work**" means the renovation, restoration, modernization, and improvement of the Property described in the Plans and Specifications and the Renovation Budget, including the HVAC replacement, elevator modernization, façade restoration (including repair of the decorative iron balcony on the King Street elevation), and the tenant improvement work contemplated by **Exhibit C**, together with all work necessary to obtain a certificate of occupancy for the renovated portions of the Property.
+:::
+
+::: {custom-style="Body Text"}
+"**Rents**" means all rents, issues, profits, revenues, income, receipts, and other sums of every kind and nature whatsoever now or hereafter arising from or payable under or in connection with the Leases or the use, occupancy, or operation of the Property, including base rent, additional rent, percentage rent, escalation charges, expense and tax reimbursements, common area maintenance charges, parking income, concession income, license and other fees, lease termination and surrender payments, and all proceeds of the foregoing.
+:::
+
+::: {custom-style="Body Text"}
+"**Secured Obligations**" means all present and future obligations, indebtedness, and liabilities of every kind and nature of Mortgagor to Lender under or in connection with the Note, this Mortgage, and the other Loan Documents, whether direct or indirect, absolute or contingent, due or to become due, now existing or hereafter arising, including (i) the principal amount of the Loan (including the Initial Advance and the Renovation Holdback) not to exceed $14,750,000.00 at any one time outstanding, (ii) all accrued and unpaid interest thereon, including interest at the Default Rate, (iii) the Late Charges, (iv) all prepayment premiums and yield maintenance amounts, (v) all Lender Expenses, (vi) all amounts advanced by Lender under **Section 5.4** or otherwise, with interest thereon at the Default Rate, (vii) all obligations under the Environmental Indemnity to the extent such obligations are secured hereby, and (viii) all amounts owing under any interest rate protection agreement entered into with Lender or an Affiliate of Lender.
+:::
+
+::: {custom-style="Body Text"}
+"**Security Deposits**" means all security deposits, advance rentals, and other deposits of money paid by or on behalf of any tenant under any Lease.
+:::
+
+::: {custom-style="Body Text"}
+"**SOFR Floor Rate**" means three percent (3.00%) per annum.
+:::
+
+::: {custom-style="Body Text"}
+"**Substantial Completion**" means the completion of the Renovation Work in accordance with the Plans and Specifications, as certified in writing by the Architect, and the issuance by the City of Charleston of a certificate of occupancy (or equivalent final inspection approval) for the renovated portions of the Property, such that the Property is available for its intended occupancy and use, other than punch-list items that do not materially interfere with occupancy, use, safety, or value.
+:::
+
+::: {custom-style="Body Text"}
+"**Substantial Completion Deadline**" means **June 15, 2026**, being the date that is fourteen (14) months following the anticipated Closing Date.
+:::
+
+::: {custom-style="Body Text"}
+"**Survey**" means the ALTA/NSPS Land Title Survey of the Property prepared by Cartwright Land Surveying LLC, dated January 15, 2025 and recorded in Plat Book 64 at Page 91, RMC Office, as re-certified to a date not more than ninety (90) days prior to the Closing Date, and certified to Lender, Mortgagor, and the Title Insurer, conforming to the 2021 Minimum Standard Detail Requirements for ALTA/NSPS Land Title Surveys.
+:::
+
+::: {custom-style="Body Text"}
+"**Tax and Insurance Escrow**" means the escrow account established and maintained by Lender pursuant to **Section 9.1**.
+:::
+
+::: {custom-style="Body Text"}
+"**TI/LC Reserve**" means the tenant improvement and leasing commission reserve account established and maintained by Lender pursuant to **Section 9.3**.
+:::
+
+::: {custom-style="Body Text"}
+"**Title Insurer**" means Commonwealth National Title Underwriters Inc., through its authorized agent Prestige Title & Settlement Services LLC, or such other title insurer as Lender may approve.
+:::
+
+::: {custom-style="Body Text"}
+"**Treasury Rate**" means the yield to maturity, as of 11:00 a.m. Eastern time on the second (2nd) Business Day preceding the Prepayment Date, of the United States Treasury security having a maturity date closest to, but not later than, the last day of the Yield Maintenance Period, as reported in Federal Reserve Statistical Release H.15 (Selected Interest Rates) or any successor publication of the Board of Governors of the Federal Reserve System. If no published maturity date of a United States Treasury security exactly matches the last day of the Yield Maintenance Period, the Treasury Rate shall be determined by linear interpolation between the yields of the two (2) published maturities nearest to, and on either side of, such date. If such release is not published on or for such date, the Treasury Rate shall be determined by reference to the most recent prior publication thereof.
+:::
+
+::: {custom-style="Body Text"}
+"**Yield Maintenance Period**" means the period commencing on the first day of the twenty-fifth (25th) month following the Closing Date and ending on the last day of the forty-eighth (48th) month following the Closing Date, such that, based on the anticipated Closing Date, the Yield Maintenance Period would run from May 1, 2027 through April 15, 2029.
+:::
+
+::: {custom-style="Body Text"}
+"**Yield Maintenance Premium**" has the meaning set forth in **Section 13.3**.
+:::
+
+::: {custom-style="Body Text"}
+**1.2 Rules of Construction.** In this Mortgage, unless the context otherwise requires: (a) the singular includes the plural and the plural the singular; (b) "including" means "including without limitation"; (c) "or" is not exclusive; (d) references to Articles, Sections, and Exhibits are to articles, sections, and exhibits of this Mortgage; (e) headings are for convenience only and do not affect interpretation; (f) references to any statute, regulation, or agreement include all amendments, successors, and replacements thereof; (g) "hereof," "herein," "hereunder," and similar terms refer to this Mortgage as a whole; (h) references to "days" mean calendar days unless Business Days are specified; (i) a reference to a time of day is to Eastern time; and (j) no presumption shall arise in favor of or against any party by reason of such party having participated in the drafting of this Mortgage.
+:::
+
+::: {custom-style="Body Text"}
+**1.3 Time of the Essence.** Time is of the essence with respect to each and every obligation of Mortgagor under this Mortgage and the other Loan Documents.
+:::
+
+## ARTICLE 2. GRANT OF MORTGAGE LIEN AND SECURITY INTEREST
+
+::: {custom-style="Body Text"}
+**2.1 Mortgage Lien on the Property.** For the purpose of securing the payment and performance of the Secured Obligations, Mortgagor hereby **MORTGAGES, GRANTS, BARGAINS, SELLS, CONVEYS, ASSIGNS, TRANSFERS, AND SETS OVER** to Lender, and grants to Lender a **FIRST-PRIORITY LIEN AND MORTGAGE** upon and security interest in, all of Mortgagor's right, title, and interest in and to the Property, being the fee simple interest in the Land described in **Exhibit A** (including Charleston County Tax Map Nos. 460-12-04-007, 460-12-04-008, and 460-12-04-009, and the strip of land formerly constituting a portion of Anson Lane vacated by City of Charleston Ordinance No. 2019-084 and conveyed to Mortgagor's predecessor in title by quitclaim deed recorded in Deed Book 1128 at Page 443, RMC Office), **TOGETHER WITH** all Improvements now or hereafter erected thereon and all easements, rights, appurtenances, tenements, hereditaments, and rights-of-way now or hereafter belonging to or appertaining to the Land or the Improvements, including the SCE&G utility easement recorded in Deed Book 987 at Page 112, RMC Office, **TO HAVE AND TO HOLD** the same unto Lender, its successors and assigns, for the uses and purposes set forth herein.
+:::
+
+::: {custom-style="Body Text"}
+**2.2 Mortgage Lien on Other Mortgaged Property.** The lien and security interest granted hereby extends to and covers all of the foregoing together with the following (collectively, with the Property, the "**Mortgaged Property**"):
+:::
+
+::: {custom-style="Body Text"}
+(a) all Improvements, building systems, equipment, machinery, apparatus, fittings, fixtures, HVAC equipment, elevators, plumbing, electrical systems, fire protection systems, and other articles now or hereafter affixed to, or used in connection with, the Land or the Improvements, including all goods that become fixtures;
+:::
+
+::: {custom-style="Body Text"}
+(b) all personal property, furniture, furnishings, trade fixtures, equipment, inventory, tools, materials, and supplies owned by Mortgagor and now or hereafter used in connection with the ownership, operation, renovation, maintenance, or leasing of the Property, including all items listed in **Exhibit D**;
+:::
+
+::: {custom-style="Body Text"}
+(c) all accounts, deposit accounts, general intangibles, chattel paper, instruments, letter-of-credit rights, supporting obligations, and payment intangibles arising out of or relating to the ownership, operation, or leasing of the Property, including all Rents and all Security Deposits;
+:::
+
+::: {custom-style="Body Text"}
+(d) all deposits, reserve accounts, escrow accounts, and other accounts established in connection with the Loan or maintained by Lender for the benefit of Mortgagor, including the Tax and Insurance Escrow, the Capital Replacement Reserve, the TI/LC Reserve, and any DSCR Cure Reserve, together with all sums held therein and all interest accruing thereon;
+:::
+
+::: {custom-style="Body Text"}
+(e) all insurance policies and proceeds thereof, all casualty insurance proceeds and unearned premiums, and all condemnation awards, judgments, claims, and settlement payments arising from or relating to any damage, destruction, or taking of the Property or any part thereof;
+:::
+
+::: {custom-style="Body Text"}
+(f) all permits, licenses, agreements, easements, entitlements, approvals, development rights, zoning rights, variances, special exceptions, certificates of occupancy, plans and specifications, and other governmental authorizations and approvals relating to the Property, the Improvements, or the Renovation Work;
+:::
+
+::: {custom-style="Body Text"}
+(g) all contracts, subcontracts, purchase orders, architectural and engineering agreements, warranties, guaranties, indemnities, claims, causes of action, and contract rights relating to the acquisition, construction, renovation, operation, or maintenance of the Property, including Mortgagor's interest in the GC Contract and all warranties and guaranties given by the General Contractor or any subcontractor, supplier, or manufacturer;
+:::
+
+::: {custom-style="Body Text"}
+(h) all Leases and all documents, books, and records relating thereto, all Rents, issues, profits, revenues, and other income derived from the Property, and all Security Deposits and advance rentals;
+:::
+
+::: {custom-style="Body Text"}
+(i) all books, records, computer programs, data, and files relating to the Property (in any form, and including all electronic records and records that are "records" within the meaning of Article 9 of the Uniform Commercial Code), and all rights of Mortgagor to access or use any of the foregoing; and
+:::
+
+::: {custom-style="Body Text"}
+(j) all products and proceeds (including insurance proceeds and supporting obligations) of, and all additions, accessions, replacements, substitutions, renewals, and improvements to, any and all of the foregoing, and all cash and non-cash proceeds thereof in whatever form.
+:::
+
+::: {custom-style="Body Text"}
+**2.3 Security Interest; Fixture Filing.** This Mortgage constitutes a security agreement within the meaning of Article 9 of the Uniform Commercial Code as enacted in the State of South Carolina (the "**UCC**"), and a **fixture filing** within the meaning of Chapter 9, Title 36 of the South Carolina Code of Laws. Mortgagor grants to Lender a security interest in the Mortgaged Property to secure the Secured Obligations. For purposes of the UCC: Mortgagor is the "**debtor**," and Lender is the "**secured party**." Mortgagor is the record owner of the Land. The Land is described in **Exhibit A** and is located in Charleston County, South Carolina. The Collateral is used or will be used in connection with the operation of the Property. Information concerning the security interest granted hereby may be obtained from the secured party at the address set forth in **Section 18.2**. The collateral description set forth in **Exhibit D** is provided for the purpose of perfecting Lender's security interest in the personal property collateral described therein by filing.
+:::
+
+::: {custom-style="Body Text"}
+**2.4 Titled Collateral and Other Perfection Matters.** Mortgagor shall deliver to Lender, concurrently with the execution and delivery of this Mortgage, a UCC-1 financing statement in form reasonably satisfactory to Lender for filing in the name of Mortgagor as debtor and Lender as secured party with the South Carolina Secretary of State, and shall authorize the filing of a UCC-1 financing statement naming Mortgagor as debtor and Lender as secured party in the RMC Office as a fixture filing. Mortgagor shall execute and deliver such additional security agreements, certificates of title, applications for notation of lien, account control agreements (including deposit account control agreements in form reasonably satisfactory to Lender with respect to any deposit account that is not maintained at Lender), and other instruments, and shall take such other action as Lender may reasonably request, to perfect, maintain, and preserve its security interest in the Mortgaged Property.
+:::
+
+::: {custom-style="Body Text"}
+**2.5 Cross-Collateralization and Cross-Default.** The Mortgaged Property secures the Secured Obligations, and a default under any Loan Document constitutes a default under this Mortgage. This Mortgage also secures all amounts now or hereafter owing by Mortgagor to Lender under any interest rate protection agreement or any other document, provided that this Mortgage shall not secure any obligation with respect to which a pledge of, or security interest in, the Mortgaged Property would be unlawful.
+:::
+
+## ARTICLE 3. SECURED OBLIGATIONS; FUTURE ADVANCES
+
+::: {custom-style="Body Text"}
+**3.1 Obligations Secured.** This Mortgage secures the payment and performance of the Secured Obligations, whether now existing or hereafter arising, including the Initial Advance, the Renovation Holdback, all interest and its components, interest at the Default Rate, Late Charges, prepayment premiums and yield maintenance amounts, Lender Expenses, and all other amounts due under the Loan Documents. The total principal amount of the Secured Obligations secured hereby shall not exceed $14,750,000.00 at any one time outstanding, plus interest, costs, expenses, and other Secured Obligations.
+:::
+
+::: {custom-style="Body Text"}
+**3.2 Future Advances.** Mortgagor and Lender expressly acknowledge and agree that the Renovation Holdback and any other advances made by Lender under the Loan Documents constitute obligatory future advances to Mortgagor and are secured by this Mortgage, and that this Mortgage is executed and recorded to give, and does give, such future advances the same priority as the Initial Advance. Mortgagor acknowledges that Lender has no obligation to make any advance of the Renovation Holdback except upon satisfaction of the conditions set forth in **Article 8**.
+:::
+
+::: {custom-style="Body Text"}
+**3.3 No Obligation to Advance.** No provision of this Mortgage, and no act of Lender in permitting a draw to proceed or in accepting a title endorsement, shall be construed as imposing on Lender any obligation to make any advance except as expressly set forth in the Loan Documents, and Lender may condition, withhold, suspend, or decline any advance in accordance with the Loan Documents and applicable South Carolina law.
+:::
+
+## ARTICLE 4. REPRESENTATIONS AND WARRANTIES
+
+::: {custom-style="Body Text"}
+Mortgagor represents and warrants to Lender, as of the Closing Date and as of each date on which an advance of the Renovation Holdback is made, as follows:
+:::
+
+::: {custom-style="Body Text"}
+**4.1 Representations Concerning Mortgagor and the Loan.**
+:::
+
+::: {custom-style="Body Text"}
+(a) **Organization; Good Standing.** Mortgagor is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of South Carolina, has filed its Articles of Organization with the South Carolina Secretary of State under Filing No. 2024-0011287, and is duly qualified to transact business in each jurisdiction in which such qualification is required.
+:::
+
+::: {custom-style="Body Text"}
+(b) **Authority; Enforceability.** Mortgagor has full power and authority to own and mortgage the Property and to execute, deliver, and perform this Mortgage and the other Loan Documents. The execution, delivery, and performance of this Mortgage have been duly authorized by all necessary limited liability company action, including any action required under Mortgagor's operating agreement. Graydon Development Group LLC, a South Carolina limited liability company, is the Managing Member of Mortgagor and is authorized to execute and deliver this Mortgage and the other Loan Documents on behalf of Mortgagor, and Neil Ashford Graydon is the sole member and sole manager of Graydon Development Group LLC and is authorized to act on its behalf. This Mortgage constitutes the legal, valid, and binding obligation of Mortgagor, enforceable against Mortgagor in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, and similar laws affecting creditors' rights generally and to general principles of equity.
+:::
+
+::: {custom-style="Body Text"}
+(c) **No Conflicts.** The execution, delivery, and performance of this Mortgage do not and will not (i) violate Mortgagor's Articles of Organization or operating agreement, (ii) violate any applicable law, ordinance, rule, regulation, order, or judgment, (iii) result in a breach of or default under any agreement to which Mortgagor is a party or by which the Property is bound, or (iv) require any consent or approval that has not been obtained, other than the recording of this Mortgage and the filings contemplated by **Section 2.4**.
+:::
+
+::: {custom-style="Body Text"}
+(d) **No Litigation.** There is no action, suit, proceeding, arbitration, or governmental investigation pending or, to Mortgagor's knowledge, threatened against Mortgagor, Guarantor, or the Property that, if adversely determined, would reasonably be expected to have a material adverse effect on the Property, Mortgagor's ability to perform its obligations under the Loan Documents, or the enforceability of this Mortgage.
+:::
+
+::: {custom-style="Body Text"}
+(e) **No Default.** No Event of Default, and no event that with the giving of notice or the passage of time (or both) would constitute an Event of Default, has occurred and is continuing under this Mortgage or any other Loan Document.
+:::
+
+::: {custom-style="Body Text"}
+(f) **Financial Information.** All financial statements, rent rolls, operating statements, budgets, and other financial information furnished by or on behalf of Mortgagor or Guarantor to Lender in connection with the Loan are true, correct, and complete in all material respects and fairly present the financial condition and results of operations of the Person to which they relate as of the dates and for the periods indicated. There has been no material adverse change in the financial condition, business, assets, or operations of Mortgagor or Guarantor since the date of the most recent financial information so furnished.
+:::
+
+::: {custom-style="Body Text"}
+(g) **Single-Purpose Entity.** Mortgagor is, and since its formation has been, a single-purpose entity that has at all times complied with the SPE Covenants set forth in **Section 6.2**, and Mortgagor's organizational documents, as amended and in effect on the Closing Date, contain the single-purpose, separateness, and bankruptcy-remoteness provisions described in **Section 6.3**.
+:::
+
+::: {custom-style="Body Text"}
+**4.2 Representations Concerning Title to the Mortgaged Property.**
+:::
+
+::: {custom-style="Body Text"}
+(a) **Ownership.** Mortgagor is the sole fee simple owner of the Land and the Improvements, free and clear of all liens, mortgages, deeds of trust, security interests, charges, encumbrances, easements, restrictions, covenants, conditions, rights-of-way, encroachments, and other matters affecting title, except for the Permitted Exceptions.
+:::
+
+::: {custom-style="Body Text"}
+(b) **First Lien.** This Mortgage constitutes a valid, enforceable, first-priority mortgage lien on and security interest in the Mortgaged Property, subject only to the Permitted Exceptions, and will be recorded in the RMC Office concurrently with the recording of the deed conveying the Property to Mortgagor. No consent of any tenant, mortgagee, lienholder, or other Person is required for the grant of this Mortgage other than consents that have been obtained.
+:::
+
+::: {custom-style="Body Text"}
+(c) **Legal Description; Survey.** The description of the Land set forth in **Exhibit A** describes the entirety of the real property owned by Mortgagor at 520–534 King Street, Charleston, South Carolina 29403, including all three (3) tax parcels and the vacated Anson Lane strip, and no portion of the Property has been omitted therefrom. The Survey delivered to Lender is a current, accurate, and complete ALTA/NSPS Land Title Survey of the Property conforming to the requirements of this Mortgage, and Mortgagor has delivered to Lender a copy thereof certified to Lender, Mortgagor, and the Title Insurer.
+:::
+
+::: {custom-style="Body Text"}
+(d) **Anson Lane Strip.** Mortgagor acknowledges that the strip of land formerly constituting a portion of Anson Lane was conveyed to Mortgagor's predecessor in title by quitclaim deed recorded in Deed Book 1128 at Page 443, RMC Office, that such conveyance was made without warranty of title, and that Mortgagor has obtained, as a condition to the closing of the Loan, lender's title insurance affirmatively insuring fee simple title to such strip in accordance with **Section 5.13**.
+:::
+
+::: {custom-style="Body Text"}
+(e) **No Encroachments.** Except for the balcony encroachment described in **Exhibit B** and reflected on the Survey, no building, structure, improvement, or fixture located on the Property encroaches upon any easement, setback line, right-of-way, or adjoining property, and no building, structure, or improvement located on adjoining property encroaches upon the Property.
+:::
+
+::: {custom-style="Body Text"}
+(f) **Zoning.** The Property is located in the GB (General Business) zoning district of the City of Charleston, South Carolina, and the current use of the Property as a mixed-use retail and office building, and the Renovation Work, constitute permitted or lawfully existing conforming uses under applicable zoning and land use requirements. Mortgagor has not received notice of any zoning violation, nonconforming use determination, or proposed rezoning affecting the Property.
+:::
+
+::: {custom-style="Body Text"}
+(g) **Access and Utilities.** The Property has direct, vehicular and pedestrian access to King Street, a public right-of-way, and is served by public water, public sewer, electricity, natural gas, and telecommunications facilities adequate for its current use.
+:::
+
+::: {custom-style="Body Text"}
+(h) **No Mechanics' Liens.** No work of construction, renovation, improvement, or repair has been commenced at the Property, and no materials have been delivered to the Property, in each case such that any mechanics' lien, materialmen's lien, or other lien might attach to the Property and relate back to a date prior to the recording of this Mortgage, except for work performed pursuant to the GC Contract that is bonded, insured, and lien-waivered to Lender's satisfaction. No mechanics' lien, materialmen's lien, or other claim of lien has been filed or asserted against the Property.
+:::
+
+::: {custom-style="Body Text"}
+(i) **Condemnation.** Neither Mortgagor nor, to Mortgagor's knowledge, any governmental authority has commenced or given notice of any actual or proposed condemnation, eminent domain, or other taking of the Property or any portion thereof, or of any change in any road, street, or right-of-way adjacent to or serving the Property.
+:::
+
+::: {custom-style="Body Text"}
+(j) **Casualty.** The Improvements are in good repair and condition, free of material damage or destruction, ordinary wear and tear excepted, and no casualty has occurred at the Property that has not been fully repaired and restored and fully covered by insurance proceeds received by Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+(k) **Separate Tax Parcels.** The Property consists solely of Charleston County Tax Map Nos. 460-12-04-007, 460-12-04-008, and 460-12-04-009, together with the vacated Anson Lane strip, and the Property is operated and assessed as a single economic unit. All Impositions for all years prior to 2025 have been paid in full, and no delinquent Impositions, tax liens, or pending tax sales exist with respect to the Property.
+:::
+
+::: {custom-style="Body Text"}
+(l) **No Fixtures Owned by Third Parties.** Other than trade fixtures owned by tenants under the Leases and personal property leased by Mortgagor in the ordinary course of business under equipment leases that have been disclosed to Lender in writing, there is no personal property or equipment affixed to or located on the Property that is owned by any Person other than Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+(m) **Representation Regarding Insurance.** The Property is insured in accordance with **Article 10**, and all insurance policies required thereunder are in full force and effect, with all premiums due and payable having been paid.
+:::
+
+::: {custom-style="Body Text"}
+(n) **Leases.** **Schedule 4.1(n)** attached hereto is a true, correct, and complete rent roll and schedule of all Leases affecting the Property, including all amendments, extensions, renewals, side letters, and other agreements, and states accurately the tenant name, premises, area, use, current base rent, expiration date, security deposit, renewal options, rights of first refusal, rights of first offer, exclusive use provisions, and termination rights under each Lease. No Lease has been amended, modified, supplemented, or extended except as shown on **Schedule 4.1(n)**. There are no Leases affecting the Property other than those listed on **Schedule 4.1(n)**. Mortgagor has delivered to Lender true, correct, and complete copies of all Leases.
+:::
+
+::: {custom-style="Body Text"}
+(o) **Rents and Security Deposits.** No Rents have been collected in advance of the current month (other than as disclosed on **Schedule 4.1(n)**), and no Security Deposits have been applied, forfeited, or otherwise disposed of other than in accordance with the applicable Lease. The Security Deposits held under the Leases total $69,183.00 as of the Closing Date. Mortgagor has not granted any rent concession, free rent, abatement, or offset that is not set forth in the Leases delivered to Lender.
+:::
+
+::: {custom-style="Body Text"}
+(p) **Tenant Matters.** No tenant under any Lease is in default beyond any applicable notice and cure period, no notice of default has been given by or to any tenant, no tenant has asserted any offset, defense, or claim against Mortgagor, and no tenant has any right or option to purchase all or any portion of the Property or any interest therein. The only rights of first refusal, rights of first offer, or similar preferential leasing rights affecting the Property are those described on **Schedule 4.1(n)**, including the right of first refusal held by Harmon & Wren Design Studio LLC with respect to Bay 2.
+:::
+
+::: {custom-style="Body Text"}
+(q) **No Bankruptcy.** No Credit Party is insolvent, has made an assignment for the benefit of creditors, or is the subject of any pending or, to Mortgagor's knowledge, threatened bankruptcy, receivership, insolvency, or similar proceeding.
+:::
+
+::: {custom-style="Body Text"}
+**4.3 Environmental Representations.**
+:::
+
+::: {custom-style="Body Text"}
+(a) To Mortgagor's knowledge, and based upon the Phase I Environmental Site Assessment (Report No. CLR-2025-0119, dated January 28, 2025) prepared by Clearfield Environmental Consulting LLC, (i) no Hazardous Materials are present at, on, under, or migrating from or to the Property in violation of any Environmental Law or in a condition that would require investigation, remediation, removal, or other response action under any Environmental Law, except as described in **Section 4.3(b)**, and (ii) the Property is not listed on any federal, state, or local registry of hazardous waste sites or subject to any pending or outstanding environmental enforcement action.
+:::
+
+::: {custom-style="Body Text"}
+(b) One (1) Controlled Recognized Environmental Condition has been identified with respect to Lot 7 (Tax Map No. 460-12-04-007) arising from the release of perchloroethylene and petroleum-based solvents at the adjoining property located at 518 King Street, Charleston, South Carolina, SCDHEC Site ID No. SC-29403-0772, which has been remediated under SCDHEC oversight and for which SCDHEC issued a No Further Action letter dated August 12, 2021. The Land Use Restriction recorded in Deed Book 1203 at Page 89, RMC Office, is in full force and effect, has not been modified, amended, terminated, or released, and Mortgagor has not received any notice from SCDHEC alleging any violation of or non-compliance with the Land Use Restriction.
+:::
+
+::: {custom-style="Body Text"}
+(c) The vapor barrier system installed beneath the concrete floor slab of Bay 1 on Lot 7 exists, and Mortgagor has no knowledge of any penetration, removal, damage, or compromise of such vapor barrier system. Mortgagor has delivered to Lender a true, correct, and complete copy of the Phase I Environmental Site Assessment and of all material correspondence with SCDHEC relating to Site ID No. SC-29403-0772 that is in Mortgagor's possession or control.
+:::
+
+::: {custom-style="Body Text"}
+(d) Neither Mortgagor nor any of its agents has received any notice of violation, information request, demand, claim, or citation relating to the Property under any Environmental Law, and no underground or above-ground storage tanks are or have been located at the Property.
+:::
+
+::: {custom-style="Body Text"}
+**4.4 Survival and Reaffirmation.** The representations and warranties set forth in this Article 4 are material inducements to Lender's making of the Loan, shall survive the closing of the Loan and the recording of this Mortgage, and are deemed remade as of the date of each advance of the Renovation Holdback. Mortgagor shall promptly notify Lender in writing if any representation or warranty ceases to be true in any material respect.
+:::
+
+## ARTICLE 5. AFFIRMATIVE COVENANTS
+
+::: {custom-style="Body Text"}
+Until the Secured Obligations have been paid and satisfied in full and the Loan Documents have terminated, Mortgagor shall, at Mortgagor's sole cost and expense:
+:::
+
+::: {custom-style="Body Text"}
+**5.1 Payment of Secured Obligations.** Pay and perform all of the Secured Obligations when due, including all principal, interest, Late Charges, prepayment premiums, and other amounts, without deduction, set-off, abatement, or counterclaim.
+:::
+
+::: {custom-style="Body Text"}
+**5.2 Payment of Impositions.** Pay and discharge, before the same become delinquent, all Impositions. Mortgagor shall deliver to Lender, upon request, receipts or other evidence of payment. If Mortgagor elects to contest any Imposition in good faith and by appropriate proceedings, Mortgagor may do so provided that (a) Mortgagor first deposits with Lender such security as Lender may reasonably require, (b) such contest operates to prevent enforcement of the contested item against the Property, and (c) the Property is not subject to any imminent risk of loss.
+:::
+
+::: {custom-style="Body Text"}
+**5.3 Maintenance, Repair, and Replacement.** Maintain the Property, including all Improvements, fixtures, building systems, common areas, parking areas, roof, façade, and structural elements, in good order, condition, and repair, and in compliance with all applicable laws, and consistent with the standards of comparable mixed-use commercial properties in the Charleston, South Carolina metropolitan area. Mortgagor shall promptly repair, restore, replace, or rebuild any portion of the Property that becomes damaged or falls into disrepair, and shall not commit or permit any waste of the Property.
+:::
+
+::: {custom-style="Body Text"}
+**5.4 Lender's Right to Cure.** If Mortgagor fails to perform any covenant or obligation under this Mortgage (other than the obligation to pay principal and interest, as to which Lender's rights are governed by **Article 14**), Lender may, but shall not be obligated to, perform such covenant or obligation on Mortgagor's behalf, including by paying Impositions, paying insurance premiums, obtaining insurance, performing repairs, removing or contesting liens, or obtaining a title endorsement. All amounts so advanced by Lender shall bear interest at the Default Rate from the date advanced until repaid, shall be secured by this Mortgage, and shall be due and payable on demand. Lender shall give Mortgagor not less than five (5) Business Days' prior written notice before exercising its rights under this Section, except where Lender reasonably determines that an emergency or the risk of immediate loss of the Property, its value, or its priority requires immediate action.
+:::
+
+::: {custom-style="Body Text"}
+**5.5 Compliance with Laws.** Comply in all respects with all applicable federal, state, and local laws, statutes, ordinances, rules, regulations, orders, permits, licenses, judgments, and decrees applicable to the Property or the conduct of Mortgagor's business, including all zoning, building, fire, life safety, health, accessibility (including the Americans with Disabilities Act), historic preservation, and Environmental Laws, and all requirements of any governmental authority having jurisdiction over the Property, and shall obtain and maintain in full force and effect all permits, licenses, and approvals necessary for the ownership, operation, renovation, and leasing of the Property.
+:::
+
+::: {custom-style="Body Text"}
+**5.6 Leasing.** Lease all vacant space at the Property on commercially reasonable terms at market rents, consistent with the terms prevailing for comparable mixed-use commercial properties in the Charleston, South Carolina metropolitan area, and on terms reasonably acceptable to Lender. All new Leases and all amendments, extensions, renewals, terminations, and acceptances of surrender of Leases for spaces in excess of five thousand (5,000) square feet or for lease terms exceeding five (5) years shall require Lender's prior written consent, which consent shall not be unreasonably withheld, conditioned, or delayed. Without Lender's prior written consent, Mortgagor shall not (a) enter into any Lease containing any option or right to purchase all or any portion of the Property, (b) accept prepayment of rent more than one (1) month in advance, (c) forgive, waive, or discount any rent or other sum due under any Lease other than in the ordinary course of business consistent with past practice and market standards, (d) waive, release, or modify any guaranty of a Lease, or (e) consent to any assignment of a Lease or subletting except as permitted by the applicable Lease and on market terms. Mortgagor shall enforce, or cause the applicable tenant to comply with, each material term of each Lease, and shall not do or permit anything to be done that would impair the value of any Lease. Mortgagor shall furnish Lender with a copy of each Lease and each Lease amendment within ten (10) Business Days after execution.
+:::
+
+::: {custom-style="Body Text"}
+**5.7 Security Deposits.** Hold all Security Deposits in trust for the tenants under the applicable Leases, keep them in a separate account (which may be an account maintained with Lender), and apply, refund, or retain them only in accordance with the applicable Lease and applicable South Carolina law. Mortgagor shall not apply any Security Deposit to any obligation of a tenant under its Lease except as expressly permitted by such Lease and applicable law.
+:::
+
+::: {custom-style="Body Text"}
+**5.8 Estoppel Certificates and SNDAs.** Within fifteen (15) Business Days after Lender's written request (or, if earlier, within any shorter period required by an applicable Lease), deliver to Lender or to any proposed assignee or purchaser designated by Lender a certified written statement (an "**Estoppel Certificate**") setting forth, with respect to this Mortgage or any Lease, as applicable: the outstanding principal balance, the rate of interest, the amounts and due dates of the next installments, the absence of defaults and offsets, the date of maturity, and such other matters as Lender may reasonably request. Mortgagor shall use commercially reasonable efforts to cause each tenant under each Lease to execute and deliver to Lender: (a) a tenant estoppel certificate in form reasonably satisfactory to Lender within the period required by such Lease (or, if the Lease contains no such requirement, within fifteen (15) Business Days after Mortgagor's written request), and (b) a subordination, non-disturbance, and attornment agreement in form reasonably satisfactory to Lender and such tenant. Mortgagor acknowledges that the failure to deliver a tenant estoppel certificate or subordination, non-disturbance, and attornment agreement from **Lowcountry Provisions Inc.**, whose Lease contains no estoppel, subordination, non-disturbance, attornment, or assignment-consent provision, is a matter of particular concern to Lender, and Mortgagor shall use diligent, good faith efforts to obtain such instruments and, at the first opportunity to amend or renew such Lease, shall obtain an amendment adding customary estoppel, subordination, attornment, and assignment-consent provisions reasonably acceptable to Lender. Mortgagor shall obtain and deliver to Lender an acknowledgment from each tenant holding a right of first refusal, right of first offer, exclusive use provision, or other preferential right affecting space at the Property confirming that such right (i) does not apply to any transfer of the Property or of Lender's interest therein, (ii) does not apply to any lease entered into by Lender or any receiver, trustee, or purchaser at foreclosure, and (iii) does not encumber or limit Lender's rights under this Mortgage.
+:::
+
+::: {custom-style="Body Text"}
+**5.9 Further Assurances; Additional Instruments.** Execute, acknowledge, deliver, record, file, and re-record such further mortgages, deeds of trust, security agreements, financing statements, continuation statements, assignments, notices, subordination agreements, consents, certificates, affidavits, and other instruments, and take such further action, as Lender may reasonably request to carry out the intent of this Mortgage, to confirm, perfect, preserve, maintain, or continue the lien and security interest granted hereby, to confirm the priority thereof, or to facilitate the exercise of Lender's rights and remedies. Mortgagor irrevocably authorizes Lender at any time to file, without Mortgagor's signature, such UCC financing statements, continuation statements, and amendments as Lender deems appropriate (including any initial financing statement naming Mortgagor as debtor and describing the collateral as "all assets" or otherwise), and Mortgagor shall pay all filing and recording fees and taxes in connection therewith.
+:::
+
+::: {custom-style="Body Text"}
+**5.10 Appraisals and Inspections.** Permit Lender and its agents, representatives, appraisers, engineers, environmental consultants, and inspectors to enter upon and inspect the Property at reasonable times and upon reasonable prior notice (which may be oral), and to conduct appraisals and environmental and physical condition assessments, during the term of the Loan. Mortgagor shall cooperate with all such inspections and appraisals and shall reimburse Lender for the reasonable cost of any appraisal or environmental assessment obtained by Lender that is required by applicable law or regulation, or that is obtained after the occurrence of an Event of Default or in connection with any request by Mortgagor for an amendment, extension, or release.
+:::
+
+::: {custom-style="Body Text"}
+**5.11 Books and Records.** Keep adequate and separate books of account and records in accordance with GAAP and the SPE Covenants, and permit Lender and its representatives to examine, audit, and make copies of such books and records, and to discuss Mortgagor's affairs with its officers, managers, and independent accountants, at reasonable times upon reasonable prior notice.
+:::
+
+::: {custom-style="Body Text"}
+**5.12 Organizational Existence and Formalities.** Maintain its existence as a limited liability company in good standing under the laws of the State of South Carolina and its qualification to do business in each jurisdiction in which such qualification is required; maintain its registered agent at 1201 Main Street, Suite 410, Columbia, South Carolina 29201 (or such other registered agent in the State of South Carolina as Mortgagor may appoint upon written notice to Lender); and observe all limited liability company formalities.
+:::
+
+::: {custom-style="Body Text"}
+**5.13 Title Insurance and Title Endorsements.** Cause the Title Insurer to issue to Lender, at the closing of the Loan and at Mortgagor's sole cost and expense, an ALTA Loan Policy of title insurance (and any South Carolina modifications thereto) in the amount of $14,750,000.00, insuring the first-priority lien of this Mortgage, subject only to the Permitted Exceptions, in form and substance satisfactory to Lender, together with such endorsements as Lender may reasonably require, including zoning (ALTA 3.1 or equivalent), access, survey, comprehensive, contiguity, subdivision, future advance (ALTA 14 series or equivalent), encroachment (ALTA 28.1 or equivalent), and, if available, mechanics' lien (ALTA 32 series or equivalent) coverage. Mortgagor shall, at its sole cost: (a) cause the Title Insurer to issue a date-down endorsement to such policy in connection with each advance of the Renovation Holdback, confirming that no intervening liens or encumbrances have been recorded since the date of this Mortgage or the most recent date-down endorsement, and (b) cause the Title Insurer to issue affirmative coverage with respect to the strip of land formerly constituting a portion of Anson Lane, in form reasonably satisfactory to Lender, so that Lender has no gap in the insured collateral arising from the quitclaim nature of the conveyance of such strip. If any date-down endorsement discloses an intervening lien or encumbrance not constituting a Permitted Exception, Mortgagor shall cause such lien or encumbrance to be released, bonded over, or insured over to Lender's reasonable satisfaction before any further advance is made.
+:::
+
+::: {custom-style="Body Text"}
+**5.14 Mortgage Recording and Taxes.** Pay all recording fees, mortgage registration fees, documentary stamp taxes, intangible taxes, and other taxes, fees, and charges (other than taxes on Lender's net income) payable in connection with the execution, delivery, recording, or filing of this Mortgage or any other Loan Document, and reimburse Lender for any such amounts advanced by Lender.
+:::
+
+::: {custom-style="Body Text"}
+**5.15 Environmental Compliance.** Comply, and cause all tenants and occupants of the Property to comply, with all Environmental Laws and the Land Use Restriction; and comply with **Article 11**.
+:::
+
+::: {custom-style="Body Text"}
+**5.16 Cooperation with Remedial Action.** Cooperate fully with Lender in connection with any environmental investigation, assessment, remediation, or response action relating to the Property, including providing access, and shall take all actions reasonably necessary to maintain the availability to Mortgagor and Lender of the protections afforded by the "all appropriate inquiries" standard and the bona fide prospective purchaser, contiguous property owner, and innocent landowner defenses under CERCLA.
+:::
+
+::: {custom-style="Body Text"}
+**5.17 Management and Service Contracts.** Prior to entering into, materially amending, or renewing any management agreement, leasing agreement, or service contract affecting the Property that is not terminable on not more than thirty (30) days' notice without penalty, obtain Lender's prior written consent. All management, development, construction management, asset management, and leasing fees payable to the Managing Member or any Affiliate of Mortgagor shall be subordinate to the Secured Obligations, shall be payable only from Distributable Cash Flow after payment of all amounts then due under the Loan Documents, and shall not exceed market rates. For purposes of this Section, "**Distributable Cash Flow**" means Net Operating Income less Annual Debt Service, less all required deposits into the Tax and Insurance Escrow, the Capital Replacement Reserve, the TI/LC Reserve, and any other reserve, and less all capital expenditures and leasing costs not funded from reserves.
+:::
+
+::: {custom-style="Body Text"}
+**5.18 Distributions.** Make no distributions, dividends, or other payments to its members or any Affiliate, and make no loans or advances to any member or Affiliate, if, after giving effect thereto, (a) an Event of Default exists, (b) an Event of Default would result therefrom, or (c) Mortgagor would fail to satisfy any financial covenant set forth in **Article 12**. Mortgagor shall not make any distribution or payment to any member or Affiliate at any time during the continuance of an Event of Default.
+:::
+
+::: {custom-style="Body Text"}
+**5.19 Update of Rent Roll.** Deliver to Lender, together with each quarterly rent roll required by **Section 12.3**, a certificate confirming that **Schedule 4.1(n)** remains true, correct, and complete or, if not, setting forth the changes thereto.
+:::
+
+## ARTICLE 6. NEGATIVE COVENANTS; SINGLE-PURPOSE ENTITY; TRANSFER RESTRICTIONS
+
+::: {custom-style="Body Text"}
+Until the Secured Obligations have been paid and satisfied in full, Mortgagor shall not, without Lender's prior written consent:
+:::
+
+::: {custom-style="Body Text"}
+**6.1 No Subordinate or Additional Financing.** Incur, create, assume, or permit to exist any lien, mortgage, deed of trust, security interest, pledge, charge, encumbrance, or other interest in the Property or any portion of the Mortgaged Property that is junior or senior to or on a parity with this Mortgage, or any indebtedness secured thereby, including any mezzanine loan, preferred equity interest, participation, or other financing arrangement that may affect Lender's collateral position. Mortgagor shall not incur, assume, or permit to exist any indebtedness for borrowed money of any kind, whether secured or unsecured, other than the Loan and trade payables incurred in the ordinary course of business.
+:::
+
+::: {custom-style="Body Text"}
+**6.2 Single-Purpose Entity Covenants.** Mortgagor shall at all times maintain its status as a single-purpose entity and shall, without limiting the generality of the foregoing:
+:::
+
+::: {custom-style="Body Text"}
+(a) not engage in any business or activity other than the acquisition, ownership, operation, renovation, leasing, management, and disposition of the Property, and activities incidental thereto, and not acquire or own any asset other than the Property and incidental personal property and cash;
+:::
+
+::: {custom-style="Body Text"}
+(b) maintain its own separate books of account, financial records, and bank accounts, separate and apart from those of any other Person, and not commingle its funds or assets with those of any Affiliate, member, manager, or other Person;
+:::
+
+::: {custom-style="Body Text"}
+(c) hold itself out to the public as a legal entity separate and distinct from any other Person, including its members, managers, and Affiliates, and conduct its business in its own name, using its own stationery, invoices, checks, and business forms;
+:::
+
+::: {custom-style="Body Text"}
+(d) maintain adequate capitalization in light of its contemplated business operations, transactions, and liabilities, and not permit its capitalization to become inadequate;
+:::
+
+::: {custom-style="Body Text"}
+(e) not guarantee or become obligated for the debts of any Affiliate, member, manager, or other Person, and not hold out its credit as available to satisfy the obligations of any other Person;
+:::
+
+::: {custom-style="Body Text"}
+(f) pay its own liabilities and obligations from its own assets and not use the assets of any Affiliate, member, or manager to pay its obligations;
+:::
+
+::: {custom-style="Body Text"}
+(g) maintain arm's-length relationships with all Affiliates, members, and managers, and enter into no transaction with any Affiliate except in the ordinary course of business and on terms no less favorable to Mortgagor than would be obtained in a comparable arm's-length transaction with an unaffiliated Person;
+:::
+
+::: {custom-style="Body Text"}
+(h) not pledge its assets for the benefit of any other Person, and not make any loan or advance to any Person other than in the ordinary course of business;
+:::
+
+::: {custom-style="Body Text"}
+(i) maintain its organizational existence, observe all limited liability company formalities, and maintain complete and correct minutes and records of all meetings and other actions of its members and managers;
+:::
+
+::: {custom-style="Body Text"}
+(j) not amend, modify, or restate its Articles of Organization or operating agreement in any manner that adversely affects its status as a single-purpose entity, its separateness covenants, or the bankruptcy-remoteness provisions described in **Section 6.3**, without Lender's prior written consent in each instance;
+:::
+
+::: {custom-style="Body Text"}
+(k) not merge, consolidate, divide, or convert into or with any other Person, and not dissolve, liquidate, wind up, or transfer all or substantially all of its assets, in each case without Lender's prior written consent; and
+:::
+
+::: {custom-style="Body Text"}
+(l) not take any action, and not omit to take any action, that would cause Mortgagor to be substantively consolidated with any other Person in any bankruptcy or insolvency proceeding.
+:::
+
+::: {custom-style="Body Text"}
+**6.3 Bankruptcy Remoteness; Independent Manager.** Mortgagor shall maintain in its organizational documents, at all times during the term of the Loan, provisions that:
+:::
+
+::: {custom-style="Body Text"}
+(a) require the unanimous affirmative vote, consent, or approval of all of Mortgagor's managers (including at least one (1) natural person who is not, and has not been within five (5) years preceding such vote been, a member, manager, officer, employee, creditor, supplier, or Affiliate of Mortgagor, of any member, or of any Affiliate of any member, and who is not a spouse, parent, sibling, or child of any such individual) (an "**Independent Manager**") before Mortgagor may (i) file a voluntary petition under the United States Bankruptcy Code or any state insolvency, receivership, or similar law, (ii) consent to the entry of an order for relief in an involuntary case under any such law, (iii) consent to the appointment of a receiver, trustee, custodian, or liquidator for Mortgagor or all or a substantial part of its assets, (iv) make a general assignment for the benefit of creditors, (v) admit in writing Mortgagor's inability to pay its debts generally as they become due, (vi) dissolve, wind up, liquidate, merge, consolidate, divide, or convert, or (vii) petition for or consent to any similar action or proceeding;
+:::
+
+::: {custom-style="Body Text"}
+(b) provide that, prior to any such action, Mortgagor shall have at least one (1) Independent Manager whose vote is required for such action, and that the Independent Manager shall not be removed or replaced except upon ten (10) Business Days' prior written notice to Lender and the appointment of a successor Independent Manager meeting the qualifications described in clause (a); and
+:::
+
+::: {custom-style="Body Text"}
+(c) are binding upon all members and managers of Mortgagor and may not be amended, modified, waived, or repealed without Lender's prior written consent and the affirmative vote of the Independent Manager.
+:::
+
+::: {custom-style="Body Text"}
+Mortgagor represents and warrants that its operating agreement, as amended on or before the Closing Date, contains the provisions described in this Section, and that all three (3) of its members — Graydon Development Group LLC, Tidewater Opportunity Fund II LP, and Harborline Capital Advisors LLC — have executed a written consent or amendment acknowledging and agreeing to be bound by such provisions. Mortgagor shall deliver to Lender, promptly upon Lender's request, a certificate of its Managing Member and such supporting documentation as Lender may reasonably require confirming continued compliance with this Section.
+:::
+
+::: {custom-style="Body Text"}
+**6.4 Transfer Restrictions.** Mortgagor shall not, and shall not permit, without Lender's prior written consent:
+:::
+
+::: {custom-style="Body Text"}
+(a) any sale, conveyance, transfer, assignment, pledge, hypothecation, encumbrance, or other disposition of all or any portion of the Property or any interest therein, whether voluntary, involuntary, or by operation of law;
+:::
+
+::: {custom-style="Body Text"}
+(b) any direct or indirect sale, assignment, transfer, pledge, hypothecation, or other disposition of any direct or indirect ownership interest in Mortgagor exceeding, individually or in the aggregate with all related transfers, ten percent (10%) of the membership interests in Mortgagor; or
+:::
+
+::: {custom-style="Body Text"}
+(c) any transfer that results, individually or in the aggregate with all related transfers, in a **Change of Control**. For purposes of this Section, a "**Change of Control**" means any transaction or series of transactions as a result of which (i) Neil Ashford Graydon ceases to be the direct or indirect record and beneficial owner of, and to Control, Graydon Development Group LLC, (ii) Graydon Development Group LLC ceases to be the Managing Member of Mortgagor or ceases to own at least fifty and one-tenth percent (50.1%) of the membership interests in Mortgagor, (iii) any "person" or "group" (within the meaning of Sections 13(d) and 14(d) of the Securities Exchange Act of 1934) other than Neil Ashford Graydon acquires direct or indirect Control of Mortgagor, (iv) any transfer of an ownership interest in Tidewater Opportunity Fund II LP, or of an interest in Tidewater GP Holdings LLC or any successor general partner thereof, or (v) any transfer of an ownership interest in Harborline Capital Advisors LLC, in each case that results in a change in the ultimate beneficial ownership or Control of the holder of a membership interest in Mortgagor;
+:::
+
+::: {custom-style="Body Text"}
+(d) any transfer, assignment, or relocation of any Lease, or any transfer of a controlling interest in any tenant under a Lease, except as expressly permitted by such Lease; or
+:::
+
+::: {custom-style="Body Text"}
+(e) any conversion, division, or reorganization of Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+Notwithstanding the foregoing, the following shall not require Lender's consent: (i) a transfer of a membership interest among the existing members of Mortgagor as of the Closing Date, provided that Lender receives not less than thirty (30) days' prior written notice and such transfer does not result in a Change of Control; and (ii) a transfer by Graydon Development Group LLC to a trust established by Neil Ashford Graydon for estate planning purposes in which Neil Ashford Graydon retains voting and management control, provided that Lender receives not less than thirty (30) days' prior written notice and the transferee executes a written assumption and joinder reasonably satisfactory to Lender. Mortgagor acknowledges that the transfer restrictions set forth in its operating agreement are in certain respects less restrictive than, and permit transfers that would not be permitted under, this Section, and Mortgagor agrees that this Section shall control notwithstanding anything to the contrary in its operating agreement. Any transfer in violation of this Section shall be void **ab initio** at Lender's election and shall constitute an immediate Event of Default.
+:::
+
+::: {custom-style="Body Text"}
+**6.5 No Amendment of Leases or Organizational Documents.** Amend, modify, restate, terminate, or waive any provision of any Lease, its Articles of Organization, or its operating agreement in any manner that would (a) reduce the Rents or shorten the term of any Lease, (b) add or expand any right of first refusal, right of first offer, exclusive use, co-tenancy, termination, or offset right, (c) alter the transfer restrictions, single-purpose, separateness, or bankruptcy-remoteness provisions of its organizational documents, or (d) adversely affect Lender's rights under the Loan Documents, in each case without Lender's prior written consent.
+:::
+
+::: {custom-style="Body Text"}
+**6.6 Change of Use; Alterations.** Alter, reconstruct, or improve the Property (other than the Renovation Work and ordinary repairs and maintenance) without Lender's prior written consent; change the use of the Property from mixed-use retail and office use; or permit the Property or any portion thereof to be used for any purpose that would violate any applicable law, any Permitted Exception, or the Land Use Restriction. Mortgagor shall not convert, or permit any tenant to convert, the ground floor of Lot 7 (Bay 1, 520 King Street, Tax Map No. 460-12-04-007) to residential use, or permit any use of such space that is inconsistent with the Land Use Restriction.
+:::
+
+::: {custom-style="Body Text"}
+**6.7 No Dissolution; No Bankruptcy Filings.** Dissolve, liquidate, wind up, or take any action to dissolve, liquidate, or wind up Mortgagor, or file, or consent to the filing of, any petition in bankruptcy or insolvency, without, in each case, the prior written consent of Lender and compliance with **Section 6.3**.
+:::
+
+::: {custom-style="Body Text"}
+**6.8 Hazardous Materials.** Cause or permit any Hazardous Materials to be brought upon, kept, used, generated, stored, treated, transported, released, or disposed of at, on, under, or from the Property, except for cleaning supplies and office products customarily used in the operation of a mixed-use commercial building and stored, used, and disposed of in compliance with all Environmental Laws and the Leases.
+:::
+
+## ARTICLE 7. ABSOLUTE ASSIGNMENT OF LEASES AND RENTS
+
+::: {custom-style="Body Text"}
+**7.1 Absolute and Present Assignment.** For value received and as security for the Secured Obligations, Mortgagor hereby **unconditionally, absolutely, presently, and irrevocably** grants, bargains, sells, conveys, transfers, and assigns to Lender all of Mortgagor's right, title, and interest in, to, and under (a) all Leases now existing or hereafter entered into affecting the Property, (b) all Rents now or hereafter payable under or in connection with the Leases or the use or occupancy of the Property, and (c) all Security Deposits and advance rentals held under the Leases, **TOGETHER WITH** all rights, powers, privileges, and remedies of Mortgagor under the Leases, including the right to enforce the Leases, to collect the Rents, to receive and give receipts for the Rents, and to do all things necessary or appropriate to enforce the Leases and collect the Rents. This assignment is an **absolute and present assignment** and not merely a collateral assignment, and it is intended to be, and shall be deemed to be, effective immediately upon execution and recording of this Mortgage, without any further act of Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+**7.2 Parties Intended.** The parties intend that this Article 7 constitute an assignment of rents within the meaning of the South Carolina Uniform Assignment of Rents Act (S.C. Code Ann. § 29-3-610 *et seq.*) (the "**Assignment of Rents Act**"), and this Article 7 shall be construed to give effect to the intent of the parties to create an absolute assignment of rents that is perfected upon recording of this Mortgage in the RMC Office and enforceable in accordance with the Assignment of Rents Act.
+:::
+
+::: {custom-style="Body Text"}
+**7.3 License to Mortgagor; Revocation.** Notwithstanding the absolute nature of the assignment set forth in **Section 7.1**, Lender grants to Mortgagor a revocable license to collect, and to retain and use, the Rents as they become due and payable, until the occurrence of an Event of Default. Such license shall be automatically revoked, without further notice or action by Lender, upon the occurrence of an Event of Default. Upon such revocation, Lender may, at its option and without in any way waiving its rights under this Mortgage, (a) notify any or all tenants under the Leases, in writing, to pay the Rents directly to Lender or to a depository designated by Lender, (b) collect the Rents directly, (c) demand, sue for, and receive the Rents, (d) enforce the Leases in Lender's own name, and (e) take any other action permitted under the Assignment of Rents Act or applicable law. Mortgagor irrevocably authorizes and directs each tenant under each Lease, upon receipt of written notice from Lender, to pay the Rents directly to Lender, and Mortgagor agrees that any such tenant may rely on such notice and shall be fully protected in making payment to Lender, notwithstanding any contrary direction or claim of Mortgagor. Mortgagor appoints Lender as Mortgagor's attorney-in-fact, coupled with an interest, for the limited purpose of executing and delivering any notice to a tenant contemplated by this Section, and for no other purpose.
+:::
+
+::: {custom-style="Body Text"}
+**7.4 No Obligation of Lender.** The assignment set forth in this Article 7 shall not obligate Lender to perform any obligation of Mortgagor under any Lease, including any obligation to provide services, maintenance, repairs, or tenant improvements, or to return any Security Deposit, except to the extent Lender actually receives and retains the applicable Rents and Security Deposits after revocation of the license described in **Section 7.3** and then only to the extent required by applicable law or by a subordination, non-disturbance, and attornment agreement executed by Lender. Lender shall have no liability for any act or omission of Mortgagor as landlord under any Lease.
+:::
+
+::: {custom-style="Body Text"}
+**7.5 Enforcement; No Notice Requirement.** Upon an Event of Default, Lender may enforce this assignment without the necessity of (a) obtaining a court order, (b) appointing a receiver, (c) entering into possession of the Property, or (d) any notice to or consent from Mortgagor other than the notice required by **Section 7.3** to be given to tenants, subject in all events to the requirements of the Assignment of Rents Act and applicable South Carolina law. Lender's rights under this Article 7 are in addition to, and not in limitation of, its right to seek the appointment of a receiver or to foreclose this Mortgage.
+:::
+
+::: {custom-style="Body Text"}
+**7.6 Application of Rents.** All Rents collected by Lender after revocation of the license described in **Section 7.3** shall be applied, in Lender's reasonable discretion, to (a) Lender Expenses, (b) the costs of maintaining, operating, and repairing the Property, (c) accrued interest and principal due under the Note, and (d) other Secured Obligations. Any surplus shall be held by Lender and applied in accordance with the Loan Documents or applicable law.
+:::
+
+::: {custom-style="Body Text"}
+**7.7 Tenant Consents; Subordination.** Mortgagor represents and warrants that it has the full right, power, and authority to assign the Leases and Rents as provided in this Article 7, and that no consent of any tenant is required for such assignment under any Lease or applicable law. Mortgagor acknowledges that the Lease with Lowcountry Provisions Inc. contains no assignment, subletting, estoppel, subordination, or attornment provision, and Mortgagor shall, at the first opportunity to amend or renew such Lease, obtain an amendment adding customary provisions reasonably acceptable to Lender. Mortgagor shall use commercially reasonable efforts to cause each tenant under each Lease to subordinate such Lease to this Mortgage and to attorn to Lender or any purchaser at foreclosure, on terms reasonably acceptable to Lender.
+:::
+
+::: {custom-style="Body Text"}
+**7.8 Security Deposits.** Mortgagor shall hold all Security Deposits in trust for the tenants entitled thereto, shall not apply any Security Deposit except as permitted by the applicable Lease and applicable law, and shall, upon Lender's request following an Event of Default, deliver to Lender all Security Deposits then held by Mortgagor, together with a rent roll and ledger identifying the amount held for each tenant. Lender shall have no obligation with respect to any Security Deposit not actually delivered to Lender, except as required by applicable law or by a subordination, non-disturbance, and attornment agreement executed by Lender.
+:::
+
+## ARTICLE 8. RENOVATION AND DISBURSEMENT OF THE RENOVATION HOLDBACK
+
+::: {custom-style="Body Text"}
+**8.1 Covenant to Complete.** Mortgagor shall (a) commence the Renovation Work promptly following the Closing Date, (b) prosecute the Renovation Work diligently and continuously to Substantial Completion, (c) cause Substantial Completion to occur on or before the Substantial Completion Deadline, and (d) complete the Renovation Work in a good and workmanlike manner, in accordance with the GC Contract, the Plans and Specifications, all applicable laws and permits (including all approvals of the City of Charleston Board of Architectural Review), the Renovation Budget, and all applicable insurance requirements, and free and clear of all mechanics' and materialmen's liens except as bonded or insured over to Lender's reasonable satisfaction. Mortgagor shall be solely responsible for all costs of the Renovation Work in excess of the Renovation Holdback, and shall fund such excess from Mortgagor's own funds (including members' equity contributions).
+:::
+
+::: {custom-style="Body Text"}
+**8.2 Conditions Precedent to Each Advance.** Lender shall have no obligation to make any advance of the Renovation Holdback unless and until each of the following conditions has been satisfied (or waived in writing by Lender) with respect to such advance:
+:::
+
+::: {custom-style="Body Text"}
+(a) Mortgagor shall have delivered to Lender a written draw request not less than ten (10) Business Days prior to the requested advance date, in form reasonably acceptable to Lender, specifying the amount requested by budget line item, the work for which payment is requested, the percentage of completion of each applicable line item, and the amount of Mortgagor's equity funds expended or concurrently expended with respect to the applicable line items;
+:::
+
+::: {custom-style="Body Text"}
+(b) Mortgagor shall have delivered to Lender an AIA G702/G703 Application and Certificate for Payment, certified by the Architect, detailing the work completed, amounts previously paid, retainage withheld, and the amount then requested;
+:::
+
+::: {custom-style="Body Text"}
+(c) Mortgagor shall have delivered to Lender (i) a certification of the Architect that the work for which payment is requested has been completed in accordance with the Plans and Specifications, and (ii) if requested by Lender, a certificate of the General Contractor as to the percentage of completion and the amount of the GC Contract then earned;
+:::
+
+::: {custom-style="Body Text"}
+(d) Mortgagor shall have delivered to Lender conditional lien waivers and releases from the General Contractor and each subcontractor, materialman, and supplier performing work or supplying materials for which payment is requested, and unconditional lien waivers and releases for all work and materials covered by prior advances, in each case in form reasonably satisfactory to Lender and, where applicable, in statutory form under South Carolina law, provided that this clause (d) shall apply to subcontractors and suppliers only with respect to those performing work or supplying materials in an amount exceeding Twenty-Five Thousand Dollars ($25,000);
+:::
+
+::: {custom-style="Body Text"}
+(e) Mortgagor shall have caused the Title Insurer to deliver to Lender a date-down endorsement to the title policy confirming that no intervening liens, mechanics' liens, materialmen's liens, judgments, or other encumbrances have been recorded against the Property since the date of this Mortgage or the most recent prior date-down endorsement, other than Permitted Exceptions, together with such affirmative coverage over mechanics' liens and future advances as Lender may reasonably require;
+:::
+
+::: {custom-style="Body Text"}
+(f) Lender shall have received evidence reasonably satisfactory to it of Lender's inspection of the work in progress, which inspection may be conducted by a third-party inspector retained by Lender at Mortgagor's expense;
+:::
+
+::: {custom-style="Body Text"}
+(g) Mortgagor shall have delivered to Lender evidence reasonably satisfactory to it that Mortgagor's equity contribution allocable to the Renovation Budget has been or is being funded on a pro rata, pari passu basis with Lender's advances in accordance with **Exhibit C**, such that the ratio of aggregate Lender advances to aggregate Mortgagor equity contributions with respect to completed work is not greater than the ratio of the Renovation Holdback to Mortgagor's equity contribution for the Renovation Work as set forth in **Exhibit C**;
+:::
+
+::: {custom-style="Body Text"}
+(h) no Event of Default, and no event that with the giving of notice or the passage of time (or both) would constitute an Event of Default, shall have occurred and be continuing, and the representations and warranties set forth in **Article 4** shall be true and correct in all material respects as of the date of such advance;
+:::
+
+::: {custom-style="Body Text"}
+(i) the aggregate amount of all advances of the Renovation Holdback, together with the requested advance, shall not exceed $2,250,000.00, and the amount of each individual advance shall not be less than $50,000.00 (other than the final advance);
+:::
+
+::: {custom-style="Body Text"}
+(j) Mortgagor shall have delivered to Lender (i) copies of all permits, approvals, and inspections required in connection with the work for which payment is requested, and (ii) evidence that all applicable insurance required under **Article 10** (including builder's risk insurance) remains in full force and effect;
+:::
+
+::: {custom-style="Body Text"}
+(k) with respect to any advance that funds work within or affecting the footprint of Bay 1 on Lot 7, Mortgagor shall have delivered to Lender evidence that SCDHEC has been notified in writing in advance of such work (to the extent required by the Land Use Restriction) and, if required, that SCDHEC has approved such work, together with a certificate of a licensed environmental professional that the vapor barrier system beneath the Bay 1 slab shall be maintained, protected, or restored in accordance with the Land Use Restriction; and
+:::
+
+::: {custom-style="Body Text"}
+(l) Mortgagor shall have satisfied such other conditions as Lender may reasonably require consistent with the Loan Documents.
+:::
+
+::: {custom-style="Body Text"}
+**8.3 Frequency of Advances; Retainage.** Advances of the Renovation Holdback shall be made no more frequently than once per calendar month. Lender shall retain ten percent (10%) of each advance (the "**Retainage**") until Substantial Completion has been achieved in accordance with **Section 8.6**. Lender shall release the Retainage within thirty (30) days after Lender's receipt of (a) evidence of Substantial Completion satisfactory to Lender, including the Architect's certificate and the certificate of occupancy, (b) final unconditional lien waivers and releases from the General Contractor and all subcontractors, materialmen, and suppliers, (c) a final title date-down endorsement, and (d) evidence that all punch-list and warranty items have been completed or adequately secured. Nothing in this Section shall limit Lender's right to withhold any advance upon the occurrence of an Event of Default.
+:::
+
+::: {custom-style="Body Text"}
+**8.4 Change Orders; Budget Reallocations.** Mortgagor shall not approve or permit (a) any change order to the GC Contract involving an increase or decrease in the contract sum exceeding Fifty Thousand Dollars ($50,000) individually or One Hundred Thousand Dollars ($100,000) in the aggregate, (b) any change in the scope of the Renovation Work that is inconsistent with the Plans and Specifications or would affect the structural integrity, building envelope, life-safety systems, or the vapor barrier on Lot 7, or (c) any reallocation of amounts among line items of the Renovation Budget exceeding ten percent (10%) of the applicable line item, in each case without Lender's prior written consent. Mortgagor may apply the contingency line item of the Renovation Budget to cost overruns in other line items only with Lender's prior written consent and only to the extent such application does not reduce the contingency below the amount reasonably required by Lender to complete the Renovation Work.
+:::
+
+::: {custom-style="Body Text"}
+**8.5 Cost Overruns.** If at any time Lender reasonably determines that the then-unadvanced portion of the Renovation Holdback, together with Mortgagor's then-unfunded equity contribution, is insufficient to complete the Renovation Work in accordance with the Renovation Budget, Lender shall so notify Mortgagor, and Mortgagor shall, within ten (10) Business Days after such notice, deposit with Lender (or provide evidence of the availability to Mortgagor of) such additional funds as are necessary to complete the Renovation Work. Failure to do so shall constitute an immediate Event of Default. Mortgagor shall in any event be responsible for, and shall pay when due, all costs of the Renovation Work in excess of the Renovation Holdback.
+:::
+
+::: {custom-style="Body Text"}
+**8.6 Substantial Completion.** Mortgagor shall give Lender not less than fifteen (15) days' prior written notice of the anticipated date of Substantial Completion and shall, promptly upon achievement thereof, deliver to Lender (a) a certificate of the Architect certifying Substantial Completion, (b) a copy of the certificate of occupancy (or equivalent) issued by the City of Charleston for the renovated portions of the Property, (c) final lien waivers as described in **Section 8.3**, (d) a final title date-down endorsement, and (e) a certification by Mortgagor that the Renovation Work has been completed within the Renovation Budget (identifying any overruns and the source of funding therefor) and that no mechanics' or materialmen's liens remain of record. If the Renovation Work is not Substantially Complete on or before the Substantial Completion Deadline, such failure shall constitute an Event of Default in accordance with **Section 14.1(h)**.
+:::
+
+::: {custom-style="Body Text"}
+**8.7 Lender's Right to Complete.** If Mortgagor fails to complete the Renovation Work by the Substantial Completion Deadline, or if Lender determines that Mortgagor has abandoned the Renovation Work or is not diligently pursuing it, Lender may (but shall not be obligated to), upon notice to Mortgagor, (a) take possession of the Property for the purpose of completing the Renovation Work, (b) engage contractors, architects, and other professionals, (c) pay, contest, or settle claims of contractors, subcontractors, and materialmen, and (d) advance such funds as Lender deems necessary to complete the Renovation Work. All amounts so advanced shall constitute part of the Secured Obligations, shall bear interest at the Default Rate, and shall be repaid by Mortgagor on demand. Mortgagor irrevocably appoints Lender as its attorney-in-fact, coupled with an interest, to take any of the foregoing actions and to execute such instruments as may be necessary to complete the Renovation Work in Mortgagor's name. Lender's exercise of its rights under this Section shall not constitute an assumption by Lender of any obligation of Mortgagor under the GC Contract or any other contract, and shall not relieve Guarantor of any obligation under the Guaranty Agreement, including any completion guaranty.
+:::
+
+::: {custom-style="Body Text"}
+**8.8 Advances Not Approval.** No advance of the Renovation Holdback, and no inspection, approval, or acceptance by Lender of any work, shall constitute (a) a waiver of any Event of Default or of any breach of any representation, warranty, or covenant, (b) an approval of the Plans and Specifications, the GC Contract, or any change order, (c) an acknowledgment that the work is in accordance with the Plans and Specifications or free from defects, or (d) an assumption by Lender of any responsibility for the quality, adequacy, or completion of the Renovation Work.
+:::
+
+::: {custom-style="Body Text"}
+**8.9 Concentration of Risk; Coordination with Environmental Requirements.** Mortgagor acknowledges that the Renovation Work includes the replacement of HVAC equipment and ductwork, elevator modernization, and façade restoration (including repair of the decorative iron balcony over the King Street right-of-way), and that certain elements of the Renovation Work may require penetration of or work in proximity to the floor slab of Bay 1 on Lot 7. Mortgagor shall (a) cause the General Contractor and all subcontractors to be informed in writing of the existence and location of the vapor barrier beneath the Bay 1 slab and of the requirements of the Land Use Restriction, (b) notify SCDHEC in writing in advance of any work affecting the Bay 1 slab as required by the Land Use Restriction, and (c) obtain all permits, approvals, and licenses required by the City of Charleston for any work within or over the King Street right-of-way, including any encroachment permit or license relating to the decorative iron balcony.
+:::
+
+## ARTICLE 9. RESERVES, ESCROWS, AND CASH MANAGEMENT
+
+::: {custom-style="Body Text"}
+**9.1 Tax and Insurance Escrow.** Mortgagor shall deposit with Lender, on the Closing Date and on the first day of each calendar month thereafter, an amount equal to one-twelfth (1/12) of the estimated annual real property taxes and casualty and liability insurance premiums for the Property (covering all three (3) tax parcels), as determined by Lender from time to time. Lender shall hold such deposits in the Tax and Insurance Escrow and shall apply them toward the payment of Impositions and insurance premiums as they become due. Lender may adjust the monthly deposit amount periodically based on actual or anticipated tax assessments and insurance premiums. If the amount on deposit is insufficient, Mortgagor shall deposit the deficiency within ten (10) days after Lender's written demand. Lender may, at its option, apply amounts in the Tax and Insurance Escrow to the Secured Obligations upon an Event of Default. Mortgagor shall furnish Lender with copies of all tax bills and insurance premium invoices promptly upon receipt.
+:::
+
+::: {custom-style="Body Text"}
+**9.2 Capital Replacement Reserve.** Mortgagor shall deposit with Lender, on the Closing Date and on the first day of each calendar month thereafter, the sum of **Six Hundred Forty-Five Dollars and Eighty-Three Cents ($645.83)**, being one-twelfth (1/12) of Seven Thousand Seven Hundred Fifty Dollars ($7,750.00), which amount is calculated at the rate of $0.25 per square foot per year multiplied by 31,000 square feet of gross building area (the "**Capital Replacement Reserve**"). Amounts in the Capital Replacement Reserve shall be disbursed to Mortgagor, upon Lender's approval of qualifying capital expenditures for the Property, in accordance with Lender's reasonable disbursement procedures. Lender may require that each disbursement request be accompanied by invoices, lien waivers, and evidence of completion.
+:::
+
+::: {custom-style="Body Text"}
+**9.3 Tenant Improvement and Leasing Commission Reserve.** Mortgagor shall deposit with Lender, on the Closing Date, the sum of **One Hundred Fifty Thousand and No/100 Dollars ($150,000.00)** in a tenant improvement and leasing commission reserve account (the "**TI/LC Reserve**"). Upon any disbursement from the TI/LC Reserve, Mortgagor shall, within thirty (30) days after Lender's written demand, restore the TI/LC Reserve to the full amount of $150,000.00 from Mortgagor's own funds. Disbursements from the TI/LC Reserve shall be subject to Lender's prior written approval and shall be used exclusively for tenant improvement costs and leasing commissions incurred in connection with the leasing of vacant space at the Property, in each case in accordance with leases and brokerage agreements approved by Lender to the extent such approval is required under **Section 5.6**. Mortgagor acknowledges that the TI/LC Reserve may be insufficient to fund the tenant improvements and leasing commissions required to lease the currently vacant space at the Property and that Mortgagor is solely responsible for funding any such deficiency.
+:::
+
+::: {custom-style="Body Text"}
+**9.4 DSCR Cure Reserve.** If Mortgagor elects to cure a failure to satisfy the DSCR covenant in accordance with **Section 12.2**, Mortgagor shall deposit into a reserve account maintained with Lender (the "**DSCR Cure Reserve**") the amount determined in accordance with **Section 12.2**, and such amount shall be held and applied in accordance with this **Section 9.4**. Amounts in the DSCR Cure Reserve shall be applied by Lender to the payment of the next-scheduled monthly installments of interest (and, after the Interest-Only Period, principal and interest) under the Note, in inverse order of maturity, until exhausted. Amounts so applied shall not be deemed a prepayment of the Loan and shall not be subject to any prepayment premium, lockout, or yield maintenance provision of **Article 13**. Amounts remaining in the DSCR Cure Reserve upon payment in full of the Secured Obligations shall be returned to Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+**9.5 Security Interest in Reserves; Application.** Mortgagor hereby grants to Lender a first-priority security interest in the Tax and Insurance Escrow, the Capital Replacement Reserve, the TI/LC Reserve, the DSCR Cure Reserve, and each other reserve, escrow, or deposit account maintained by Lender for the benefit of Mortgagor, together with all sums held therein and all interest accruing thereon, as additional security for the Secured Obligations. Upon an Event of Default, Lender may, at its option and without notice to Mortgagor, apply all or any portion of the amounts held in any such account to the Secured Obligations in such order as Lender may determine. Mortgagor shall have no right to require Lender to apply any such amounts in any particular order or manner.
+:::
+
+::: {custom-style="Body Text"}
+**9.6 Nature of Reserve Accounts.** The reserve and escrow accounts maintained by Lender under this Article 9 are maintained as a convenience to Mortgagor and do not constitute trust funds, except to the extent required by applicable law, and Mortgagor shall have no right, title, or interest in such accounts other than as expressly provided in this Mortgage. Lender may commingle the amounts in such accounts with other funds of Lender and shall not be required to pay interest thereon except as Lender may agree in writing or as required by applicable law. Lender shall not be liable for any loss of principal or income with respect to such accounts, absent its gross negligence or willful misconduct.
+:::
+
+::: {custom-style="Body Text"}
+**9.7 Cash Management; Deposit Account Control Agreements.** If Lender so requests at any time, and in any event upon the occurrence of an Event of Default or any failure to satisfy the DSCR covenant, Mortgagor shall (a) establish and maintain a cash management system reasonably satisfactory to Lender, pursuant to which all Rents and other revenues from the Property are deposited directly into one or more deposit accounts subject to a deposit account control agreement in favor of Lender, (b) cause each bank or other depository at which Mortgagor maintains a deposit account (other than accounts maintained at Lender) to execute and deliver to Lender a deposit account control agreement in form reasonably satisfactory to Lender, and (c) take all other action reasonably requested by Lender so that Lender has, at all times, control of each such deposit account for purposes of perfection under Section 9-104 of the UCC and Article 9 of the South Carolina UCC. This Section shall not be construed to require Mortgagor to establish a cash management system unless Lender so requests in writing.
+:::
+
+## ARTICLE 10. INSURANCE; CASUALTY; CONDEMNATION
+
+::: {custom-style="Body Text"}
+**10.1 Required Insurance.** Throughout the term of the Loan, Mortgagor shall maintain, at its sole cost and expense, the following insurance coverages, with insurers licensed to do business in the State of South Carolina and having an A.M. Best rating of not less than "A-:VII":
+:::
+
+::: {custom-style="Body Text"}
+(a) **Property Insurance.** Comprehensive all-risk (special form) property insurance covering the Property and all Improvements, on a full replacement cost basis, with an agreed-amount endorsement (waiver of coinsurance), and with a deductible not exceeding $50,000.00 without Lender's prior written consent. Coverage shall include fire, windstorm, hail, explosion, vandalism, malicious mischief, sprinkler leakage, water damage, and such other perils as Lender may reasonably require. The policy shall name Lender as mortgagee and loss payee pursuant to a standard mortgagee clause (or its equivalent), shall not be cancellable without not less than thirty (30) days' prior written notice to Lender (ten (10) days in the case of non-payment of premium), and shall contain an endorsement providing that Lender's interest shall not be invalidated by any act or neglect of Mortgagor or any tenant.
+:::
+
+::: {custom-style="Body Text"}
+(b) **Commercial General Liability.** Commercial general liability insurance with limits of not less than Two Million Dollars ($2,000,000) per occurrence and Five Million Dollars ($5,000,000) in the aggregate, naming Lender as an additional insured, and including coverage for premises liability, operations liability (including products and completed operations), personal and advertising injury, and contractual liability (including the insured contract endorsement covering Mortgagor's indemnity obligations under this Mortgage).
+:::
+
+::: {custom-style="Body Text"}
+(c) **Flood Insurance.** Flood insurance on the Property in an amount not less than Five Million Dollars ($5,000,000), naming Lender as mortgagee and loss payee. Mortgagor acknowledges that Lender requires flood insurance as a condition of the Loan notwithstanding that the Property is located in FEMA Flood Zone X and that federal law may not require flood insurance for property in that zone. Mortgagor shall, promptly upon Lender's request, provide evidence of the current FEMA Flood Insurance Rate Map panel designation applicable to the Property. If at any time any portion of the Property is determined to be located in a Special Flood Hazard Area, Mortgagor shall comply with all applicable flood insurance requirements of federal law and regulation, including any requirement to escrow flood insurance premiums, and shall maintain flood insurance in the maximum amount available under the National Flood Insurance Program.
+:::
+
+::: {custom-style="Body Text"}
+(d) **Builder's Risk Insurance.** During the period from the Closing Date through Substantial Completion, builder's risk insurance in an amount not less than the full Renovation Budget of $3,150,000.00 (valued on a completed-value basis), covering the Property and the Renovation Work against all risks of physical loss or damage, including collapse, testing, and transit, with Lender named as mortgagee and loss payee. Mortgagor shall ensure that the builder's risk coverage, together with the property insurance required under clause (a), provides coverage for the entire Property (including the existing Improvements and all work in place) throughout the renovation period without any gap in coverage or any exclusion for construction, renovation, or remodeling activities.
+:::
+
+::: {custom-style="Body Text"}
+(e) **Workers' Compensation and Employer's Liability.** Workers' compensation insurance in the amounts required by the laws of the State of South Carolina, and employer's liability insurance with limits not less than $1,000,000, covering all employees of Mortgagor and, to the extent not covered under the General Contractor's or any subcontractor's policies, all persons engaged in the Renovation Work. Mortgagor shall obtain and maintain evidence of the General Contractor's and each subcontractor's workers' compensation coverage.
+:::
+
+::: {custom-style="Body Text"}
+(f) **Umbrella/Excess Liability.** Umbrella or excess liability insurance in an amount not less than Five Million Dollars ($5,000,000), providing excess coverage over the commercial general liability, automobile liability, and employer's liability policies, and naming Lender as an additional insured.
+:::
+
+::: {custom-style="Body Text"}
+(g) **Other Insurance.** Such other insurance coverages as Lender may reasonably require from time to time, including (i) rental loss or business income insurance in an amount sufficient to cover twelve (12) months of Rents and operating expenses, (ii) equipment breakdown coverage, (iii) boiler and machinery coverage if applicable, (iv) ordinance or law coverage, and (v) any insurance required by any Lease.
+:::
+
+::: {custom-style="Body Text"}
+**10.2 Evidence of Insurance; Notice of Cancellation.** Mortgagor shall deliver to Lender, on the Closing Date and thereafter not less than ten (10) days prior to the expiration of each policy, certificates of insurance and, upon request, certified copies of the policies, evidencing the coverages required under this Article 10. All policies shall require not less than thirty (30) days' prior written notice to Lender of cancellation, non-renewal, or material modification (and not less than ten (10) days' prior written notice in the case of cancellation for non-payment of premium). Mortgagor shall promptly notify Lender of any casualty, claim, or occurrence that could reasonably be expected to result in a claim exceeding $100,000.00.
+:::
+
+::: {custom-style="Body Text"}
+**10.3 Adjustment of Claims.** Mortgagor shall promptly notify Lender of any casualty or other damage to the Property. Mortgagor may settle or adjust any claim for casualty loss or damage in an amount not exceeding $100,000.00 without Lender's consent, provided that the proceeds are applied in accordance with **Section 10.4** or to the repair and restoration of the Property. Mortgagor shall not settle or adjust any claim in excess of $100,000.00, or execute any release or satisfaction of any such claim, without Lender's prior written consent. Lender may, at its option, participate in the adjustment of any claim. Mortgagor irrevocably authorizes and empowers Lender, as Mortgagor's attorney-in-fact, coupled with an interest, to make proof of loss, demand and receive payment of insurance proceeds, and endorse any draft or check payable to Mortgagor on account of any such proceeds, and to apply the same as provided in **Section 10.4**.
+:::
+
+::: {custom-style="Body Text"}
+**10.4 Application of Casualty Proceeds.** Lender shall make any casualty insurance proceeds received by it available to Mortgagor for the restoration of the Property only if, in Lender's reasonable determination, each of the following conditions is satisfied: (a) no Event of Default has occurred and is continuing; (b) the casualty loss does not exceed twenty-five percent (25%) of the then-current appraised value of the Property; (c) the Property can be restored to substantially the same condition and value as existed immediately prior to the casualty, with the same or better rental income potential, within twelve (12) months after the casualty and in compliance with applicable law (including any applicable zoning and building code requirements and the Land Use Restriction); (d) the insurance proceeds, together with any additional funds committed by Mortgagor, are sufficient to complete the restoration; (e) the Leases (including any right of any tenant to terminate) will not be materially and adversely affected; and (f) Mortgagor has delivered to Lender a restoration plan, budget, and schedule reasonably satisfactory to Lender and, if required by Lender, supplemental collateral or assurances. If any of the foregoing conditions is not satisfied, or if Lender so elects upon an Event of Default, Lender may apply the proceeds to the Secured Obligations in such order as Lender may determine. Any proceeds applied to the Secured Obligations during the Lockout Period, the Yield Maintenance Period, or the Open Prepayment Period shall be applied **at par**, without any prepayment premium, yield maintenance amount, or penalty.
+:::
+
+::: {custom-style="Body Text"}
+**10.5 Condemnation.** If all or any part of the Property is taken, or threatened to be taken, by eminent domain, condemnation, or any conveyance in lieu thereof, Mortgagor shall promptly give Lender written notice thereof. Lender shall be entitled to receive all awards, compensation, damages, and settlement payments on account of such taking (the "**Condemnation Awards**"), and Mortgagor irrevocably assigns to Lender all of its right, title, and interest in and to the Condemnation Awards. Mortgagor irrevocably appoints Lender as its attorney-in-fact, coupled with an interest, to collect and receipt for the Condemnation Awards. Lender may, in its reasonable discretion, make all or any portion of the Condemnation Awards available to Mortgagor for restoration of the remaining Property on terms and conditions analogous to those set forth in **Section 10.4**, or may apply the Condemnation Awards to the Secured Obligations, in either case without any prepayment premium, yield maintenance amount, or penalty. Mortgagor shall not settle or compromise any condemnation claim in excess of $100,000.00 without Lender's prior written consent.
+:::
+
+## ARTICLE 11. ENVIRONMENTAL MATTERS AND THE LAND USE RESTRICTION
+
+::: {custom-style="Body Text"}
+**11.1 Compliance with Environmental Laws and the Land Use Restriction.** Mortgagor shall, at its sole cost and expense, comply, and cause all tenants, occupants, agents, and contractors at the Property to comply, in all respects with (a) all Environmental Laws, and (b) the Land Use Restriction. Without limiting the generality of the foregoing, Mortgagor shall:
+:::
+
+::: {custom-style="Body Text"}
+(a) **Prohibition on Residential Use.** Not use, permit the use of, or permit any tenant or occupant to use, the ground floor of Lot 7 (Bay 1, 520 King Street, Tax Map No. 460-12-04-007) for residential purposes, or for any purpose inconsistent with the Land Use Restriction, and not seek or consent to any change of use, zoning, or occupancy of such space that would be inconsistent with the Land Use Restriction;
+:::
+
+::: {custom-style="Body Text"}
+(b) **Vapor Barrier Maintenance.** Maintain, preserve, and keep in good condition and working order the vapor barrier system installed beneath the concrete floor slab of Bay 1 on Lot 7, and not penetrate, remove, damage, or otherwise compromise such vapor barrier system without the prior written approval of SCDHEC (to the extent required by the Land Use Restriction) and the prior written consent of Lender;
+:::
+
+::: {custom-style="Body Text"}
+(c) **Periodic Inspection.** Cause the vapor barrier system to be inspected not less frequently than once in each calendar year (and, in addition, prior to and promptly after any work affecting the Bay 1 floor slab) by a licensed environmental professional reasonably acceptable to Lender, and deliver to Lender a written report of each such inspection within thirty (30) days after its completion, together with evidence of any maintenance, repair, or replacement recommended or required;
+:::
+
+::: {custom-style="Body Text"}
+(d) **Prior Notice to SCDHEC.** Notify SCDHEC in writing in advance of, and obtain any approval required by the Land Use Restriction with respect to, any renovation, construction, demolition, or alteration activity affecting the floor slab of Bay 1, and promptly deliver to Lender copies of all such notices, applications, approvals, and responses;
+:::
+
+::: {custom-style="Body Text"}
+(e) **Annual Compliance Certificate.** Deliver to Lender, concurrently with the annual financial statements required under **Section 12.3**, an officer's certificate certifying that Mortgagor is in compliance with the Land Use Restriction and describing in reasonable detail all actions taken during the preceding year to maintain and inspect the vapor barrier system; and
+:::
+
+::: {custom-style="Body Text"}
+(f) **Additional Assurances.** Take all such further actions, execute and record all such further instruments, and provide all such further assurances as may be necessary to maintain the effectiveness of the Land Use Restriction and the No Further Action determination for SCDHEC Site ID No. SC-29403-0772.
+:::
+
+::: {custom-style="Body Text"}
+**11.2 No Modification of Land Use Restriction.** Mortgagor shall not amend, modify, terminate, release, or seek the modification, termination, or release of the Land Use Restriction, or consent to any such action, without Lender's prior written consent, and shall not take any action that would cause or permit the Land Use Restriction to be violated, voided, or rendered unenforceable.
+:::
+
+::: {custom-style="Body Text"}
+**11.3 Notice of Environmental Events.** Mortgagor shall notify Lender in writing within three (3) Business Days after Mortgagor becomes aware of any of the following: (a) any release, threatened release, spill, discharge, or disposal of Hazardous Materials at, on, under, or from the Property; (b) any notice of violation, inspection, information request, demand, claim, citation, order, or other communication from SCDHEC, the United States Environmental Protection Agency, or any other governmental authority relating to the Property or SCDHEC Site ID No. SC-29403-0772; (c) any actual or proposed reopening of the SCDHEC site file, or any request or requirement for additional investigation, remediation, or monitoring; (d) any claim by any Person relating to Hazardous Materials at the Property; or (e) any change in the conditions that formed the basis of the No Further Action determination. Mortgagor shall deliver to Lender copies of all such communications and shall keep Lender reasonably informed of the status thereof.
+:::
+
+::: {custom-style="Body Text"}
+**11.4 Remedial Action.** If any investigation, remediation, removal, response action, or other work is required under any Environmental Law or the Land Use Restriction, Mortgagor shall promptly commence and diligently complete such work at its sole cost and expense, in accordance with all applicable requirements and in a manner that minimizes any impairment of the value of the Property. Mortgagor shall obtain Lender's prior written approval of the scope of work, the consultant, and the budget for any such work exceeding $50,000.00. Mortgagor shall not settle, compromise, or consent to any order, judgment, or consent decree relating to the Property under any Environmental Law without Lender's prior written consent.
+:::
+
+::: {custom-style="Body Text"}
+**11.5 Indemnification.** Mortgagor shall indemnify, defend (with counsel reasonably acceptable to Lender), and hold harmless Lender and its officers, directors, employees, agents, successors, and assigns (collectively, the "**Indemnified Parties**") from and against all claims, demands, actions, causes of action, liabilities, damages, losses, penalties, fines, judgments, costs, and expenses (including reasonable attorneys' fees, consultant fees, and remediation costs) arising out of or relating to (a) the presence, release, threatened release, or disposal of Hazardous Materials at, on, under, from, or migrating to or from the Property, (b) any violation of or non-compliance with any Environmental Law or the Land Use Restriction, (c) any breach of any representation, warranty, or covenant set forth in this Article 11 or **Section 4.3**, or (d) any claim by any tenant or other Person relating to any of the foregoing. This indemnity shall survive the foreclosure of this Mortgage, the delivery of a deed in lieu of foreclosure, the repayment of the Loan, and the termination of the Loan Documents, and shall not be limited by any limitation on recourse set forth in **Article 17** or in any other Loan Document. The obligations of Mortgagor under this Section are in addition to, and not in limitation of, the obligations of Mortgagor and Guarantor under the Environmental Indemnity.
+:::
+
+::: {custom-style="Body Text"}
+**11.6 Secured Creditor Status.** Lender's rights under this Mortgage and the other Loan Documents are limited to those of a secured creditor. Nothing in this Mortgage, and no action taken by Lender (including any inspection, approval, or exercise of remedies), shall be construed as constituting Lender an "owner or operator" of the Property, a "participant in the management" of Mortgagor, or otherwise liable for the environmental condition of the Property, and Mortgagor shall not, without Lender's prior written consent, take any action that would cause Lender to be so characterized. If Lender is nonetheless named as a party in any environmental proceeding, Mortgagor shall defend Lender and shall not settle or compromise any such proceeding in a manner that affects Lender without its consent. Mortgagor shall not permit any lien arising under any Environmental Law to attach to the Property, and if any such lien attaches, Mortgagor shall discharge it (or bond over or insure over it to Lender's reasonable satisfaction) within thirty (30) days after notice.
+:::
+
+::: {custom-style="Body Text"}
+**11.7 Environmental Indemnity Agreement.** The obligations of Mortgagor and Guarantor under the Environmental Indemnity are independent of, and in addition to, the obligations set forth in this Article 11. Nothing in this Article shall limit, modify, or discharge any obligation under the Environmental Indemnity, and the remedies of Lender under this Mortgage shall be cumulative with its remedies under the Environmental Indemnity.
+:::
+
+## ARTICLE 12. FINANCIAL COVENANTS AND REPORTING
+
+::: {custom-style="Body Text"}
+**12.1 Financial Covenants.** Mortgagor shall maintain, at all times during the term of the Loan, (a) a net worth of not less than **One Million and No/100 Dollars ($1,000,000.00)**, determined in accordance with GAAP, and (b) liquid assets (defined as cash, cash equivalents, marketable securities, and unencumbered deposits held at federally insured depository institutions) of not less than **Five Hundred Thousand and No/100 Dollars ($500,000.00)**. Compliance with the covenants set forth in this Section shall be tested annually, concurrently with the delivery of the financial statements and certifications required under **Section 12.3**.
+:::
+
+::: {custom-style="Body Text"}
+**12.2 Debt Service Coverage Ratio.** Mortgagor shall maintain, as of each DSCR Testing Date, a DSCR of not less than **1.25x**. If, as of any DSCR Testing Date, the DSCR is less than 1.25x, Mortgagor shall be in default of this Section and Lender shall give written notice thereof to Mortgagor. Mortgagor may cure such default, in the manner set forth in this Section, within thirty (30) days after Lender's written notice. If Mortgagor does not so cure such default, and the DSCR is less than 1.25x as of the immediately following DSCR Testing Date (whether or not cured), such failure shall constitute an Event of Default under **Section 14.1(i)**. The cure available under this Section is as follows: Mortgagor may deposit into the DSCR Cure Reserve an amount (the "**Cure Amount**") equal to the excess, if any, of (a) Annual Debt Service for the applicable Measurement Period, over (b) the quotient obtained by dividing Net Operating Income for such Measurement Period by 1.25; such that, after treating the Cure Amount as a reduction of Annual Debt Service for such Measurement Period, the DSCR for such Measurement Period equals not less than 1.25x. The Cure Amount shall be calculated by Lender and set forth in Lender's notice, shall be conclusive absent manifest error, and shall be applied in accordance with **Section 9.4**. Mortgagor's cure right under this Section may be exercised not more than two (2) times during the term of the Loan.
+:::
+
+::: {custom-style="Body Text"}
+**12.3 Financial Reporting.** Mortgagor and Guarantor shall deliver to Lender:
+:::
+
+::: {custom-style="Body Text"}
+(a) **Annual Audited Financial Statements of Mortgagor.** Not later than one hundred twenty (120) days after the end of each fiscal year of Mortgagor, audited financial statements of Mortgagor prepared in accordance with GAAP by an independent certified public accounting firm reasonably acceptable to Lender, together with an unqualified opinion and, if requested by Lender, a schedule of all related-party transactions;
+:::
+
+::: {custom-style="Body Text"}
+(b) **Annual Personal Financial Statement of Guarantor.** Not later than one hundred twenty (120) days after the end of each calendar year, an annual personal financial statement of Guarantor, in form and detail reasonably satisfactory to Lender, together with such supporting documentation (including tax returns) as Lender may reasonably request;
+:::
+
+::: {custom-style="Body Text"}
+(c) **Quarterly Rent Rolls.** Not later than thirty (30) days after the end of each calendar quarter, a rent roll for the Property certified by Mortgagor as true, correct, and complete, showing for each Lease the tenant name, premises, area, base rent, additional rent, escalations, expiration date, options, security deposit, and delinquency status;
+:::
+
+::: {custom-style="Body Text"}
+(d) **Annual Operating Statements.** Not later than one hundred twenty (120) days after the end of each fiscal year of Mortgagor, annual property operating statements for the Property, including a detailed income and expense report and a comparison to budget;
+:::
+
+::: {custom-style="Body Text"}
+(e) **Quarterly Operating Statements.** Not later than forty-five (45) days after the end of each calendar quarter, unaudited quarterly operating statements for the Property and a statement of cash flows;
+:::
+
+::: {custom-style="Body Text"}
+(f) **Copies of Leases.** Copies of all Leases and Lease modifications executed by Mortgagor with respect to the Property, within ten (10) Business Days after execution;
+:::
+
+::: {custom-style="Body Text"}
+(g) **Annual Budget.** Not later than thirty (30) days prior to the end of each fiscal year, an annual operating budget and capital expenditure budget for the Property for the following fiscal year;
+:::
+
+::: {custom-style="Body Text"}
+(h) **Certificates.** Together with each delivery under clauses (a) through (e), a certificate of the Managing Member of Mortgagor certifying that (i) the financial statements fairly present the financial condition of Mortgagor as of the dates indicated, (ii) no Event of Default exists or, if one exists, specifying its nature and the action being taken to cure it, (iii) Mortgagor is in compliance with the financial covenants set forth in **Section 12.1** and **Section 12.2**, and (iv) Mortgagor is in compliance with the Land Use Restriction and **Article 11**;
+:::
+
+::: {custom-style="Body Text"}
+(i) **Environmental Reports.** The vapor barrier inspection reports required by **Section 11.1(c)** and any other environmental report, notice, or communication required to be delivered under **Article 11**; and
+:::
+
+::: {custom-style="Body Text"}
+(j) **Other Information.** Promptly upon Lender's request, such other information concerning Mortgagor, Guarantor, the Property, the Leases, and the Renovation Work as Lender may reasonably request.
+:::
+
+::: {custom-style="Body Text"}
+**12.4 Accounting Terms.** All financial statements and computations required under this Article shall be prepared in accordance with GAAP consistently applied, except that any financial statement that is expressly designated as unaudited or as prepared on a different basis shall be prepared on the basis so designated. If Mortgagor's operating agreement or any applicable law requires a different reporting standard, Mortgagor shall nevertheless deliver the reports required by this Article, and the obligation to deliver audited financial statements shall not be deemed satisfied by the delivery of reviewed or unaudited statements.
+:::
+
+## ARTICLE 13. PREPAYMENT; LOCKOUT; YIELD MAINTENANCE
+
+::: {custom-style="Body Text"}
+**13.1 Lockout Period — Absolute Prohibition.** The Loan may **not** be prepaid, in whole or in part, at any time during the Lockout Period (the twenty-four (24) months following the Closing Date). Mortgagor shall have no right to prepay all or any portion of the Loan during the Lockout Period, and Lender shall have no obligation to accept any tender of prepayment during such period. Any purported prepayment during the Lockout Period shall be void and of no effect unless Lender, in its sole and absolute discretion, elects in writing to accept such prepayment, in which case Mortgagor shall pay, in addition to the amount prepaid, a prepayment premium equal to the greater of (a) one percent (1.00%) of the principal amount prepaid and (b) the Yield Maintenance Premium calculated under **Section 13.3** as though such prepayment had occurred during the Yield Maintenance Period.
+:::
+
+::: {custom-style="Body Text"}
+**13.2 Yield Maintenance Period.** During the Yield Maintenance Period (months 25 through 48 following the Closing Date), Mortgagor may prepay the Loan **in whole, but not in part**, upon not less than thirty (30) days' prior written notice to Lender, and upon payment, concurrently with such prepayment, of (a) the entire outstanding principal balance of the Loan, (b) all accrued and unpaid interest thereon through the date of prepayment, (c) all other Secured Obligations then due, and (d) the Yield Maintenance Premium. Partial prepayments shall not be permitted during the Yield Maintenance Period. Any notice of prepayment delivered under this Section shall be irrevocable.
+:::
+
+::: {custom-style="Body Text"}
+**13.3 Yield Maintenance Premium.** The "**Yield Maintenance Premium**" shall be an amount equal to the **greater of** (a) one percent (1.00%) of the outstanding principal balance of the Loan being prepaid as of the Prepayment Date, and (b) the amount, if any, by which (i) the present value, as of the Prepayment Date, of all remaining scheduled monthly payments of principal and interest that would have been payable under the Note from the Prepayment Date through and including the last day of the Yield Maintenance Period, determined without giving effect to the prepayment (such payments being calculated at the rate of interest then in effect under the Note, and without giving effect to the Default Rate), exceeds (ii) the outstanding principal amount of the Loan being prepaid, with such present value calculated by discounting each such remaining scheduled payment to the Prepayment Date at a discount rate equal to the Treasury Rate, applied on a monthly basis (using a per annum rate equal to the Treasury Rate divided by twelve (12)), and with the final payment adjusted to eliminate any unamortized principal balance. In no event shall the Yield Maintenance Premium be less than zero (0). For the avoidance of doubt, if the amount determined under clause (b) is zero or negative, the Yield Maintenance Premium shall equal the amount determined under clause (a).
+:::
+
+::: {custom-style="Body Text"}
+**13.4 Open Prepayment Period.** During the Open Prepayment Period (months 49 through 60 following the Closing Date), Mortgagor may prepay the Loan in whole or in part, at any time and from time to time, without payment of any prepayment premium, penalty, or yield maintenance amount, upon not less than fifteen (15) days' prior written notice to Lender, together with payment of the principal amount prepaid, all accrued and unpaid interest thereon, and all other Secured Obligations then due.
+:::
+
+::: {custom-style="Body Text"}
+**13.5 Application of Payments; No Reborrowing.** All prepayments shall be applied to the outstanding principal balance of the Loan in the inverse order of maturity. No amount prepaid may be reborrowed. Any partial prepayment made during the Open Prepayment Period shall not relieve Mortgagor of the obligation to make all scheduled installments thereafter due, unless otherwise agreed by Lender in writing.
+:::
+
+::: {custom-style="Body Text"}
+**13.6 Involuntary Payments.** Any payment received by Lender from sources other than voluntary prepayment by Mortgagor, including proceeds of casualty insurance, condemnation awards, or the exercise of Lender's remedies, shall be applied to the Secured Obligations without any prepayment premium, yield maintenance amount, or penalty, and without regard to the Lockout Period.
+:::
+
+::: {custom-style="Body Text"}
+**13.7 Characterization.** Mortgagor and Lender acknowledge and agree that the Lockout Period, the Yield Maintenance Premium, and the other amounts payable under this Article 13 are a material inducement to Lender's making of the Loan at the rate and on the terms set forth in the Note, are intended to compensate Lender for the loss of its anticipated yield and for the administrative and other costs associated with an early repayment of the Loan, are a reasonable estimate of Lender's damages, and do not constitute a penalty. Mortgagor acknowledges that it has had the opportunity to consult with counsel of its choosing with respect to the provisions of this Article 13, that the formula set forth in **Section 13.3** is mathematically determinate and objectively calculable as of the Prepayment Date, and that Mortgagor shall not assert that any amount payable under this Article 13 constitutes an unenforceable penalty. Upon Lender's written request, Lender shall provide Mortgagor with a written calculation of any Yield Maintenance Premium, which calculation shall be conclusive absent manifest error.
+:::
+
+## ARTICLE 14. EVENTS OF DEFAULT
+
+::: {custom-style="Body Text"}
+**14.1 Events of Default.** Each of the following shall constitute an "**Event of Default**" under this Mortgage:
+:::
+
+::: {custom-style="Body Text"}
+(a) **Payment Default.** Failure by Mortgagor to make any payment of principal, interest, or any other amount due under the Note, this Mortgage, or any other Loan Document when due, whether at stated maturity, upon acceleration, or otherwise, subject to the cure period set forth in **Section 14.2(a)**;
+:::
+
+::: {custom-style="Body Text"}
+(b) **Covenant Default.** Breach by Mortgagor of any covenant, agreement, or obligation contained in this Mortgage or any other Loan Document (other than a breach described in another clause of this Section), continuing beyond the applicable cure period set forth in **Section 14.2**;
+:::
+
+::: {custom-style="Body Text"}
+(c) **Representation Default.** Any representation or warranty made by Mortgagor or Guarantor in this Mortgage, in any other Loan Document, or in any certificate, report, or other document furnished in connection with the Loan proving to be false, misleading, or inaccurate in any material respect when made or deemed made;
+:::
+
+::: {custom-style="Body Text"}
+(d) **Insolvency; Bankruptcy.** The filing by Mortgagor or Guarantor of a voluntary petition in bankruptcy or seeking reorganization, arrangement, or any other relief under any state or federal bankruptcy or insolvency law; the filing of an involuntary petition against Mortgagor or Guarantor that is not dismissed within sixty (60) days; the appointment of a receiver, trustee, custodian, or liquidator for Mortgagor, Guarantor, or a substantial part of their respective property or assets; any assignment for the benefit of creditors by Mortgagor or Guarantor; Mortgagor's admission in writing of its inability to pay its debts generally as they become due; or the occurrence of any similar insolvency event or proceeding;
+:::
+
+::: {custom-style="Body Text"}
+(e) **Cross-Default.** A default by Mortgagor or Guarantor under any other indebtedness for borrowed money in an amount exceeding Two Hundred Fifty Thousand and No/100 Dollars ($250,000.00), individually or in the aggregate, which default is not cured within any applicable cure or grace period, or the acceleration of any such indebtedness;
+:::
+
+::: {custom-style="Body Text"}
+(f) **Insurance Default.** Failure by Mortgagor to maintain any insurance required under **Article 10** or to deliver the evidence of insurance required thereunder, which failure continues for five (5) Business Days after written notice from Lender;
+:::
+
+::: {custom-style="Body Text"}
+(g) **Transfer Default.** Any violation of the transfer restrictions set forth in **Section 6.4**, any Change of Control, or any transfer, encumbrance, or other disposition of the Property or any interest therein in violation of this Mortgage;
+:::
+
+::: {custom-style="Body Text"}
+(h) **Failure to Achieve Substantial Completion.** Failure by Mortgagor to achieve Substantial Completion of the Renovation Work on or before the Substantial Completion Deadline, subject only to a extension of not more than thirty (30) days resulting directly from an Unavoidable Delay as defined in **Section 14.3**;
+:::
+
+::: {custom-style="Body Text"}
+(i) **DSCR Default.** The DSCR falling below 1.25x as of two (2) consecutive DSCR Testing Dates, without cure in accordance with **Section 12.2**;
+:::
+
+::: {custom-style="Body Text"}
+(j) **SPE Default.** Breach of any of the single-purpose entity covenants set forth in **Section 6.2**, or of any of the bankruptcy-remoteness provisions described in **Section 6.3**, or any amendment, modification, or waiver of any such provision without Lender's prior written consent;
+:::
+
+::: {custom-style="Body Text"}
+(k) **Environmental / Land Use Restriction Default.** Failure by Mortgagor to comply with any provision of **Article 11** or with the Land Use Restriction, including the obligation to maintain and inspect the vapor barrier system beneath the Bay 1 slab, or any modification, termination, release, or violation of the Land Use Restriction, or any reopening by SCDHEC of SCDHEC Site ID No. SC-29403-0772 for additional investigation or remediation;
+:::
+
+::: {custom-style="Body Text"}
+(l) **Financial Covenant or Reporting Default.** Failure by Mortgagor to satisfy any financial covenant set forth in **Section 12.1**, or failure by Mortgagor or Guarantor to deliver any financial statement, rent roll, operating statement, certificate, or other report required under **Article 12** within the applicable period, which failure continues for ten (10) Business Days after written notice from Lender;
+:::
+
+::: {custom-style="Body Text"}
+(m) **Mechanics' Lien or Judgment.** The filing of any mechanics' or materialmen's lien or any judgment lien against the Property that is not discharged, bonded over, or insured over to Lender's reasonable satisfaction within thirty (30) days after the earlier of filing or notice thereof, or any levy, attachment, or execution against the Property;
+:::
+
+::: {custom-style="Body Text"}
+(n) **Condemnation or Casualty.** Any condemnation or casualty that is not addressed in accordance with **Article 10** and that materially and adversely affects the value of the Property or the ability of Mortgagor to perform its obligations under the Loan Documents;
+:::
+
+::: {custom-style="Body Text"}
+(o) **Material Adverse Change.** A material adverse change in the financial condition, business, assets, or operations of Mortgagor or Guarantor that, in Lender's reasonable judgment, materially impairs the ability of Mortgagor to perform its obligations under the Loan Documents or of Guarantor to perform its obligations under the Guaranty Agreement;
+:::
+
+::: {custom-style="Body Text"}
+(p) **Default Under Guaranty or Environmental Indemnity.** Any default by Guarantor under the Guaranty Agreement or by Mortgagor or Guarantor under the Environmental Indemnity, or any revocation, repudiation, or attempted termination of either such agreement;
+:::
+
+::: {custom-style="Body Text"}
+(q) **Loss of Priority.** Any loss, impairment, or subordination of the lien of this Mortgage (other than as expressly permitted under the Loan Documents) or of the priority of any advance of the Renovation Holdback, or any failure to maintain the title insurance required under **Section 5.13** in full force and effect; or
+:::
+
+::: {custom-style="Body Text"}
+(r) **Other Default.** The occurrence of any other event or condition that constitutes an Event of Default under any other Loan Document.
+:::
+
+::: {custom-style="Body Text"}
+**14.2 Cure Periods.** The following cure periods shall apply to the Events of Default described in **Section 14.1**:
+:::
+
+::: {custom-style="Body Text"}
+(a) **Payment Defaults.** Five (5) Business Days after the date on which payment was due, provided that Lender shall not be required to give notice of a payment default and no more than two (2) such cure periods shall be available in any twelve (12) month period;
+:::
+
+::: {custom-style="Body Text"}
+(b) **Non-Monetary Defaults (other than SPE, Transfer, Environmental, and Insurance Defaults).** Thirty (30) calendar days after written notice from Lender to Mortgagor of such default; **provided** that if the default is of a nature that it cannot reasonably be cured within thirty (30) calendar days and Mortgagor has commenced and is diligently and continuously pursuing the cure thereof, such cure period shall be extended for an additional period not to exceed sixty (60) calendar days (for a total cure period not to exceed ninety (90) calendar days); and **provided further** that no such extension shall apply to any default described in **Section 14.1(h)** (failure to achieve Substantial Completion), for which the only extension available is that set forth in **Section 14.1(h)** and **Section 14.3**;
+:::
+
+::: {custom-style="Body Text"}
+(c) **SPE, Transfer, Environmental, Land Use Restriction, and Financial Covenant Defaults.** No cure period. Any breach of **Section 6.2**, **Section 6.3**, or **Section 6.4**; any breach of **Article 11** or the Land Use Restriction; or any failure to satisfy the financial covenants set forth in **Section 12.1** or the DSCR covenant set forth in **Section 12.2** (other than a failure that is cured in accordance with **Section 12.2**) shall constitute an immediate Event of Default without notice or opportunity to cure, except that Mortgagor shall have the DSCR cure right set forth in **Section 12.2**.
+:::
+
+::: {custom-style="Body Text"}
+**14.3 Unavoidable Delay.** For purposes of **Section 14.1(h)** only, "**Unavoidable Delay**" means a delay resulting directly from acts of God, fire, flood, hurricane, windstorm, earthquake, epidemic, civil disturbance, strike, lockout, war, terrorism, governmental order, or the failure of a governmental authority to issue a permit or approval not caused by any act or omission of Mortgagor or its contractors, **provided** that (a) Mortgagor gives Lender written notice of the delay within ten (10) days after it commences, describing the cause and the expected duration, (b) Mortgagor uses diligent efforts to mitigate the delay and to proceed with the Renovation Work, (c) the delay is not caused by a lack of funds or by any act or omission of Mortgagor, the General Contractor, or any Affiliate of Mortgagor, and (d) the aggregate extension shall not exceed thirty (30) days.
+:::
+
+::: {custom-style="Body Text"}
+**14.4 Acceleration.** Upon the occurrence and during the continuance of any Event of Default, Lender may, at its option and in addition to all other rights and remedies available to it, declare the entire unpaid principal balance of the Loan, all accrued and unpaid interest thereon, and all other Secured Obligations to be immediately due and payable, without presentment, demand, protest, notice of protest, notice of dishonor, notice of intention to accelerate, notice of acceleration, or any other notice of any kind, all of which Mortgagor hereby expressly waives to the fullest extent permitted by applicable law.
+:::
+
+::: {custom-style="Body Text"}
+**14.5 Default Rate; Late Charges.** Upon the occurrence and during the continuance of an Event of Default, the outstanding principal balance of the Loan shall bear interest at the Default Rate, being the otherwise applicable rate of interest under the Note plus five percent (5.00%) per annum, from the date of such Event of Default until such Event of Default is cured or the Loan is repaid in full, whichever first occurs. In addition, a late charge equal to five percent (5.0%) of any monthly installment of principal and/or interest not received by Lender within ten (10) calendar days after the applicable due date shall be assessed and shall be immediately due and payable. Mortgagor acknowledges that the Default Rate and the late charge are intended to compensate Lender for the additional risk and administrative expense associated with a default and are not penalties.
+:::
+
+## ARTICLE 15. REMEDIES
+
+::: {custom-style="Body Text"}
+**15.1 Remedies Generally.** Upon the occurrence and during the continuance of an Event of Default, Lender may, at its option, exercise any one or more of the following remedies, in any order and without regard to the availability of any other remedy, all of which are cumulative and not exclusive:
+:::
+
+::: {custom-style="Body Text"}
+(a) declare the Secured Obligations immediately due and payable in accordance with **Section 14.4**;
+:::
+
+::: {custom-style="Body Text"}
+(b) institute an action to foreclose this Mortgage in the Court of Common Pleas for Charleston County, South Carolina (or in such other court of competent jurisdiction as Lender may elect), and obtain a judgment of foreclosure and sale of the Mortgaged Property in accordance with the procedures applicable to the foreclosure of mortgages under the laws of the State of South Carolina;
+:::
+
+::: {custom-style="Body Text"}
+(c) institute an action for specific performance of any covenant or agreement contained in this Mortgage, or for injunctive relief, or for the appointment of a receiver, or for a declaratory judgment;
+:::
+
+::: {custom-style="Body Text"}
+(d) enter into and take possession of the Property and operate, manage, and maintain the Property, and collect the Rents, in accordance with **Article 7** and applicable law;
+:::
+
+::: {custom-style="Body Text"}
+(e) exercise all remedies available to a secured party under the UCC with respect to the personal property and fixture collateral, including the right to take possession, to require Mortgagor to assemble the collateral and make it available at a place designated by Lender, and to sell, lease, license, or otherwise dispose of the collateral at public or private sale in a commercially reasonable manner, with not less than ten (10) days' prior written notice of the time and place of any public sale or of the time after which any private sale will be made (which notice Mortgagor agrees is commercially reasonable);
+:::
+
+::: {custom-style="Body Text"}
+(f) apply to a court of competent jurisdiction for the appointment of a receiver for the Property, without notice and without regard to the adequacy of the security or the solvency of Mortgagor, and Mortgagor hereby consents to such appointment and waives any objection thereto;
+:::
+
+::: {custom-style="Body Text"}
+(g) exercise its rights under **Article 11** with respect to environmental matters and the Land Use Restriction;
+:::
+
+::: {custom-style="Body Text"}
+(h) pursue its rights and remedies under the Guaranty Agreement, the Environmental Indemnity, and the other Loan Documents; and
+:::
+
+::: {custom-style="Body Text"}
+(i) exercise any other right or remedy available to Lender at law or in equity.
+:::
+
+::: {custom-style="Body Text"}
+**15.2 No Power of Sale.** Lender's remedies under this Mortgage shall be exercised only in accordance with applicable law. Nothing in this Mortgage shall be construed to grant Lender a power of sale or any right to sell the Mortgaged Property without judicial proceedings, it being the intention of the parties that this Mortgage be enforced by judicial foreclosure in accordance with the laws of the State of South Carolina.
+:::
+
+::: {custom-style="Body Text"}
+**15.3 Expenses of Enforcement.** Mortgagor shall pay all Lender Expenses incurred in connection with the enforcement of this Mortgage or the exercise of any remedy, including reasonable attorneys' fees and disbursements, court costs, title charges, appraisal fees, receivership expenses, and the costs of any sale, whether or not any foreclosure action is commenced and whether or not any sale is consummated. All such amounts shall be secured by this Mortgage, shall bear interest at the Default Rate, and shall be due and payable on demand. All such amounts shall be recoverable by Lender in any foreclosure action as part of the judgment and shall be included in the Secured Obligations.
+:::
+
+::: {custom-style="Body Text"}
+**15.4 Application of Proceeds.** The proceeds of any sale or other disposition of the Mortgaged Property, and all Rents and other amounts received by Lender in the exercise of its remedies, shall be applied in the following order: (a) to the payment of all costs, expenses, and fees of the sale or enforcement, including Lender Expenses, and all amounts advanced by Lender to protect or preserve the Mortgaged Property; (b) to the payment of any taxes, liens, and other charges having priority over this Mortgage; (c) to the payment of accrued and unpaid interest (including interest at the Default Rate), Late Charges, and prepayment premiums; (d) to the payment of the outstanding principal balance of the Loan; and (e) any surplus to Mortgagor or to such other Person as may be legally entitled thereto. Lender may apply proceeds in any other order to the extent permitted by applicable law, and Mortgagor waives any right to require a different application.
+:::
+
+::: {custom-style="Body Text"}
+**15.5 Waivers by Mortgagor.** To the fullest extent permitted by applicable law, Mortgagor waives (a) all rights of marshalling of assets or of the Mortgaged Property; (b) all rights of appraisal or valuation of the Mortgaged Property except as may be expressly required by statute; (c) any right to require Lender to pursue any other remedy or resort to any other security before exercising its remedies under this Mortgage; (d) any defense based on the adequacy of the security or the solvency of any Credit Party; (e) any stay, extension, or moratorium now or hereafter in force; (f) any notice of acceptance of this Mortgage, presentment, demand, protest, notice of dishonor, or notice of nonpayment; and (g) any right to a jury trial in any action arising out of or relating to this Mortgage or the Loan Documents. **Mortgagor does not waive, and nothing in this Mortgage shall be construed to waive, the equity of redemption or any right of redemption in respect of the Property that Mortgagor may have under applicable South Carolina law prior to the consummation of a foreclosure sale.**
+:::
+
+::: {custom-style="Body Text"}
+**15.6 Deficiency Judgment.** If the proceeds of any foreclosure sale are insufficient to satisfy the Secured Obligations, Lender may, to the extent permitted by applicable law and subject to **Article 17**, seek a deficiency judgment against Mortgagor and may pursue Guarantor under the Guaranty Agreement, in each case in accordance with the Loan Documents.
+:::
+
+::: {custom-style="Body Text"}
+**15.7 Cumulative Remedies; No Waiver.** No right or remedy conferred upon Lender in this Mortgage or any other Loan Document is intended to be exclusive of any other right or remedy, and each right and remedy shall be cumulative and in addition to every other right or remedy given under the Loan Documents, now or hereafter existing at law or in equity. No failure or delay by Lender in exercising any right or remedy shall operate as a waiver thereof, and no single or partial exercise of any right or remedy shall preclude any other or further exercise thereof or the exercise of any other right or remedy. No waiver by Lender of any Event of Default shall be effective unless in writing and signed by Lender, and no such waiver shall extend to any subsequent or other Event of Default or impair any consequence thereof.
+:::
+
+## ARTICLE 16. INDEMNITIES
+
+::: {custom-style="Body Text"}
+**16.1 General Indemnity.** Mortgagor shall indemnify, defend, and hold harmless the Indemnified Parties from and against all claims, demands, actions, causes of action, liabilities, damages, losses, penalties, fines, judgments, costs, and expenses (including reasonable attorneys' fees and disbursements) arising out of or relating to (a) the ownership, operation, renovation, leasing, or condition of the Property, (b) any breach or default by Mortgagor under this Mortgage, the GC Contract, any Lease, or any other Loan Document, (c) any claim by any tenant, contractor, subcontractor, supplier, or other Person relating to the Property or the Renovation Work, (d) any mechanics' or materialmen's lien asserted against the Property, (e) any claim arising out of the presence of the decorative iron balcony within the King Street right-of-way, and (f) any claim of patent or trademark infringement arising out of Lender's acquisition of the personal property collateral. This indemnity shall survive foreclosure, delivery of a deed in lieu of foreclosure, and repayment of the Loan, and shall not be limited by **Article 17**.
+:::
+
+::: {custom-style="Body Text"}
+**16.2 Environmental Indemnity.** Mortgagor's obligations under **Section 11.5** and under the Environmental Indemnity are independent obligations and are not limited by **Article 17**.
+:::
+
+::: {custom-style="Body Text"}
+**16.3 Waiver of Subrogation.** Mortgagor waives all rights of subrogation against Lender and its Affiliates arising out of any claim, damage, or loss insured under any insurance policy required by **Article 10**, and shall cause each of its insurers to waive all such rights of subrogation.
+:::
+
+::: {custom-style="Body Text"}
+**16.4 Defense of Claims.** Lender may, at its option, participate in the defense of any claim against it that is subject to indemnification under this Article, and Mortgagor shall not settle or compromise any such claim in a manner that adversely affects Lender without Lender's prior written consent. Mortgagor shall select counsel reasonably acceptable to Lender for the defense of any such claim.
+:::
+
+## ARTICLE 17. NON-RECOURSE; EXCULPATION
+
+::: {custom-style="Body Text"}
+**17.1 Limitation of Recourse.** Except as expressly provided in **Section 17.2**, Lender's recourse against Mortgagor for the payment of the Secured Obligations shall be limited to the Mortgaged Property and the other collateral for the Loan, and Lender shall not seek or enforce any judgment for the payment of a deficiency against Mortgagor personally. Lender may, however, enforce this Mortgage against the Mortgaged Property, exercise its rights under **Article 7**, and pursue its rights under **Section 17.2**.
+:::
+
+::: {custom-style="Body Text"}
+**17.2 Recourse Events.** The limitation on recourse set forth in **Section 17.1** shall not apply, and Mortgagor shall be personally liable for the entire outstanding amount of the Secured Obligations (including a deficiency judgment), if any of the following occurs (each, a "**Recourse Event**"): (a) fraud or intentional misrepresentation by Mortgagor or Guarantor, or by any Affiliate of either, in connection with the Loan; (b) misapplication, misappropriation, or conversion of any Rents, Security Deposits, insurance proceeds, condemnation awards, or other sums held by or payable to Mortgagor in connection with the Property; (c) the filing by or on behalf of Mortgagor of a voluntary petition in bankruptcy or insolvency, or Mortgagor's consent to the appointment of a receiver or trustee for the Property or its assets, or Mortgagor's voluntary dissolution, in each case without Lender's prior written consent and without compliance with **Section 6.3**; (d) any liability arising under any Environmental Law or the Land Use Restriction from the acts or omissions of Mortgagor, Guarantor, or their agents; (e) any violation of **Section 6.4**; (f) Mortgagor's failure to maintain the insurance required under **Article 10**, to the extent of any loss that would have been covered by the required insurance; (g) waste of the Property committed by Mortgagor; (h) Mortgagor's failure to turn over to Lender any Rents or Security Deposits actually collected by Mortgagor after the revocation of the license described in **Section 7.3**; (i) Mortgagor's material breach of any representation, warranty, or covenant set forth in **Section 6.2**, **Section 6.3**, **Article 11**, or this **Article 17**, in each case only to the extent of the loss, damage, cost, or liability actually incurred by Lender as a result thereof; and (j) the entry of any judgment against Mortgagor that remains unsatisfied and that constitutes a lien on the Property, to the extent of the amount of such judgment.
+:::
+
+::: {custom-style="Body Text"}
+**17.3 Guarantor.** Nothing in this Article 17 shall limit, impair, or discharge any obligation of Guarantor under the Guaranty Agreement or the Environmental Indemnity, and Mortgagor acknowledges that Lender's rights against Guarantor under the Guaranty Agreement (including the non-recourse carve-out guaranty, the completion guaranty, and the payment guaranty for interest shortfalls) are separate and independent of Lender's rights against Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+**17.4 No Impairment of Security.** Nothing in this Article 17 shall (a) limit, impair, or otherwise affect Lender's rights and remedies against the Mortgaged Property or the Security Deposits, Rents, or other collateral, (b) constitute a release or discharge of any obligation of Mortgagor under **Article 11**, **Article 16**, **Section 18.9**, or the Environmental Indemnity, or (c) entitle Mortgagor to any reduction in the Secured Obligations by reason of any loss of the Property.
+:::
+
+## ARTICLE 18. MISCELLANEOUS
+
+::: {custom-style="Body Text"}
+**18.1 Governing Law.** This Mortgage shall be governed by and construed in accordance with the laws of the State of South Carolina, without regard to principles of conflict of laws that would require the application of the laws of another jurisdiction. The parties acknowledge that the Property is located in Charleston County, South Carolina and that this Mortgage is intended to be, and shall be construed as, a South Carolina mortgage.
+:::
+
+::: {custom-style="Body Text"}
+**18.2 Notices.** All notices, demands, consents, approvals, and other communications under this Mortgage shall be in writing and shall be deemed duly given (a) when delivered by hand, (b) one (1) Business Day after deposit with a nationally recognized overnight courier, (c) three (3) Business Days after deposit in the United States mail, certified or registered, return receipt requested, postage prepaid, or (d) when sent by electronic mail, if sent during the recipient's normal business hours and not returned as undeliverable, and otherwise on the next Business Day, in each case addressed to the applicable party at the address set forth in **Exhibit E** or at such other address as such party may designate by written notice given in accordance with this Section. Notices to Lender shall be effective only if given to the address and, if applicable, with a copy to Lender's counsel, as set forth in **Exhibit E**. Notices of default, acceleration, or the exercise of remedies shall not be given by electronic mail.
+:::
+
+::: {custom-style="Body Text"}
+**18.3 Successors and Assigns.** This Mortgage shall be binding upon and inure to the benefit of Mortgagor and Lender and their respective successors, permitted assigns, heirs, executors, administrators, and legal representatives. Mortgagor may not assign this Mortgage or any of its rights or obligations hereunder without Lender's prior written consent. Lender may sell, assign, participate, or otherwise transfer all or any portion of its interest in the Loan and this Mortgage without Mortgagor's consent, and in connection therewith may disclose to any actual or prospective purchaser, assignee, participant, rating agency, or investor such information regarding Mortgagor, Guarantor, the Property, and the Loan as Lender deems appropriate, subject to customary confidentiality arrangements. Upon any such assignment, the assignee shall succeed to all of Lender's rights hereunder.
+:::
+
+::: {custom-style="Body Text"}
+**18.4 Severability.** If any provision of this Mortgage is held to be invalid, illegal, or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision of this Mortgage, and this Mortgage shall be construed as if such invalid, illegal, or unenforceable provision had never been contained herein; **provided** that if the invalidity or unenforceability of any provision would deprive Lender of the practical realization of the principal benefits of this Mortgage (including the benefits of **Article 13**), the parties shall negotiate in good faith to amend such provision to achieve, to the greatest extent permitted by law, the original intent of the parties.
+:::
+
+::: {custom-style="Body Text"}
+**18.5 Venue; Consent to Jurisdiction; Waiver of Jury Trial.** Mortgagor irrevocably submits to the jurisdiction of the courts of the State of South Carolina and the United States District Court for the District of South Carolina, in each case sitting in Charleston County, South Carolina, for the purpose of any action or proceeding arising out of or relating to this Mortgage, and irrevocably waives, to the fullest extent permitted by law, any objection to the laying of venue in such courts and any claim that any such action or proceeding has been brought in an inconvenient forum. **MORTGAGOR AND LENDER EACH HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING, OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS MORTGAGE, THE NOTE, ANY OTHER LOAN DOCUMENT, OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY.** Mortgagor acknowledges that this waiver is a material inducement to Lender's making of the Loan and that Mortgagor has had the opportunity to consult with counsel regarding this waiver.
+:::
+
+::: {custom-style="Body Text"}
+**18.6 Entire Agreement; Conflicts Among Loan Documents.** This Mortgage, together with the Note and the other Loan Documents, constitutes the entire agreement among the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, negotiations, and discussions, whether written or oral, relating thereto, including the Term Sheet dated April 1, 2025 between Mortgagor and Lender (the "**Term Sheet**"), except to the extent the Term Sheet is expressly incorporated herein. In the event of any conflict between the terms of this Mortgage and the terms of the Note, the terms of the Note shall control with respect to the payment of principal, interest, prepayment premiums, and other amounts due, and the terms of this Mortgage shall control with respect to the creation, perfection, priority, and enforcement of the lien and security interest granted hereby and the covenants relating to the Property. In the event of any conflict between the terms of this Mortgage and the terms of any other Loan Document, the Loan Document imposing the higher or more stringent obligation on Mortgagor shall control. In the event of any conflict between the terms of this Mortgage and the Term Sheet, the terms of this Mortgage shall control.
+:::
+
+::: {custom-style="Body Text"}
+**18.7 Amendments and Waivers.** No amendment, modification, supplement, termination, or waiver of any provision of this Mortgage, and no consent to any departure by Mortgagor therefrom, shall be effective unless in writing and signed by Lender, and then only in the specific instance and for the specific purpose for which given. Mortgagor acknowledges that Lender's acceptance of a late or partial payment, or Lender's failure to exercise any right or remedy, shall not constitute a waiver of any default or of any right or remedy, and that Lender's acceptance of any payment after acceleration shall not constitute a reinstatement of the Loan.
+:::
+
+::: {custom-style="Body Text"}
+**18.8 Usury Savings Clause.** Notwithstanding anything to the contrary in this Mortgage or any other Loan Document, in no event shall the aggregate of all interest and other charges constituting interest under applicable law exceed the maximum rate permitted by applicable South Carolina law. If any amount in excess of such maximum rate is charged, collected, or received, such amount shall be applied to reduce the principal balance of the Loan (or, if the principal balance has been paid in full, refunded to Mortgagor), and the effective rate of interest shall be automatically reduced to the maximum lawful rate. To the extent permitted by applicable law, all amounts that constitute interest shall be amortized, prorated, allocated, and spread over the full stated term of the Loan so that the interest rate does not exceed the maximum lawful rate.
+:::
+
+::: {custom-style="Body Text"}
+**18.9 Attorneys' Fees and Costs.** Mortgagor shall pay, on demand, all Lender Expenses, including reasonable attorneys' fees and disbursements, court costs, and expert fees, incurred by Lender in connection with the enforcement or defense of this Mortgage or any other Loan Document, whether or not suit is commenced. In any action to enforce or interpret this Mortgage, the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs from the non-prevailing party. The obligations of Mortgagor under this Section shall survive the repayment of the Loan and the termination of the other Loan Documents.
+:::
+
+::: {custom-style="Body Text"}
+**18.10 No Third-Party Beneficiaries.** Except for the Indemnified Parties with respect to **Article 11** and **Article 16**, nothing in this Mortgage, express or implied, is intended to confer upon any Person other than the parties hereto and their respective successors and permitted assigns any rights, remedies, obligations, or liabilities under or by reason of this Mortgage, including any tenant under any Lease, any contractor or subcontractor, or any member or Affiliate of Mortgagor.
+:::
+
+::: {custom-style="Body Text"}
+**18.11 Survival.** All representations, warranties, covenants, agreements, indemnities, and obligations of Mortgagor contained in this Mortgage shall survive the closing of the Loan, the recording of this Mortgage, the making of each advance, the foreclosure of this Mortgage (and any sale of the Property pursuant thereto), the delivery of a deed in lieu of foreclosure, the repayment of the Loan, and the termination of the other Loan Documents, in each case to the extent necessary to give full effect to the intent of the parties, and specifically including **Article 11**, **Article 16**, and **Section 18.9**.
+:::
+
+::: {custom-style="Body Text"}
+**18.12 Counterparts; Electronic Signatures.** This Mortgage may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. Delivery of an executed counterpart by facsimile, electronic mail (including in portable document format), or through a recognized electronic signature platform shall have the same force and effect as delivery of an originally executed counterpart. Mortgagor acknowledges that this Mortgage will be recorded in the RMC Office in original or certified form and shall execute and deliver such additional originals as Lender or the Title Insurer may require for recording purposes.
+:::
+
+::: {custom-style="Body Text"}
+**18.13 No Merger.** It is the intention of the parties that the lien and security interest of this Mortgage shall not merge with, but shall remain in full force and effect separate and apart from, (a) any judgment obtained by Lender with respect to the Secured Obligations, (b) any other lien or security interest now or hereafter held by Lender with respect to the Property, and (c) any deed or other instrument delivered to Lender in lieu of foreclosure. No merger shall occur by reason of Lender's acquisition of the Property at a foreclosure sale or otherwise.
+:::
+
+::: {custom-style="Body Text"}
+**18.14 Relationship of Parties; No Joint Venture.** The relationship between Mortgagor and Lender is that of debtor and creditor, and nothing in this Mortgage shall be construed to create a partnership, joint venture, agency, trust, or fiduciary relationship between Mortgagor and Lender. Lender shall not be deemed to be a partner, joint venturer, agent, or co-owner of Mortgagor or of the Property by reason of this Mortgage, the exercise of any right or remedy hereunder, or the receipt of any Rents.
+:::
+
+::: {custom-style="Body Text"}
+**18.15 Replacement of Note.** Upon the loss, theft, destruction, or mutilation of the Note, Mortgagor shall, upon Lender's written request and delivery of a customary lost instrument indemnity (and, in the case of mutilation, surrender of the mutilated Note), execute and deliver a replacement promissory note on the same terms, and Mortgagor shall not be entitled to any offset, reduction, or other adjustment in the Secured Obligations by reason of the replacement.
+:::
+
+::: {custom-style="Body Text"}
+**18.16 Recording; Additional Recordings.** This Mortgage shall be recorded in the RMC Office concurrently with the recording of the deed conveying the Property to Mortgagor, and Mortgagor shall pay all recording fees, mortgage registration fees, and documentary or intangible taxes payable in connection therewith. Mortgagor authorizes Lender to record this Mortgage, any amendment or supplement hereto, any instrument confirming or increasing the amount of the Secured Obligations to the extent permitted by the Loan Documents, and any other instrument Lender deems necessary or appropriate to confirm or perfect its lien. Mortgagor shall execute, acknowledge, and deliver any such instrument upon Lender's request.
+:::
+
+::: {custom-style="Body Text"}
+**18.17 Waiver of Homestead and Exemption Rights.** To the fullest extent permitted by applicable law, Mortgagor waives and renounces any homestead, exemption, or moratorium rights, and any right to assert any statutory exemption, that Mortgagor may have with respect to the Property in connection with the enforcement of this Mortgage. Mortgagor acknowledges that no provision of this Section is intended to, and nothing herein shall, waive Mortgagor's equity of redemption in the Property prior to a foreclosure sale.
+:::
+
+::: {custom-style="Body Text"}
+**18.18 Interpretation; Cumulative Provisions.** This Mortgage is the product of negotiation between sophisticated parties represented by counsel, and no provision hereof shall be construed against any party by reason of such party having drafted it. The provisions of this Mortgage are cumulative with the provisions of the other Loan Documents, and the inclusion of any covenant, representation, or remedy in this Mortgage shall not be construed as a limitation on any other covenant, representation, or remedy contained in any other Loan Document.
+:::
+
+::: {custom-style="Body Text"}
+**IN WITNESS WHEREOF**, Mortgagor has executed this Mortgage under seal as of the Closing Date.
+:::
+
+::: {custom-style="Body Text"}
+**MORTGAGOR:**
+:::
+
+::: {custom-style="Body Text"}
+**PALMETTO GATEWAY PARTNERS LLC**, a South Carolina limited liability company
+:::
+
+::: {custom-style="Body Text"}
+By: **GRAYDON DEVELOPMENT GROUP LLC**, a South Carolina limited liability company, its Managing Member
+:::
+
+::: {custom-style="Body Text"}
+By: _______________________________________
+:::
+
+::: {custom-style="Body Text"}
+Name: Neil Ashford Graydon
+:::
+
+::: {custom-style="Body Text"}
+Title: Sole Member and Manager of Graydon Development Group LLC
+:::
+
+::: {custom-style="Body Text"}
+Date: April 15, 2025
+:::
+
+::: {custom-style="Body Text"}
+Witness: _______________________________  [Print name: ______________________]
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+::: {custom-style="Body Text"}
+**[ACKNOWLEDGMENT]**
+:::
+
+::: {custom-style="Body Text"}
+**STATE OF SOUTH CAROLINA**
+:::
+
+::: {custom-style="Body Text"}
+**COUNTY OF CHARLESTON**
+:::
+
+::: {custom-style="Body Text"}
+I, the undersigned notary public, do hereby certify that Neil Ashford Graydon, as sole member and manager of Graydon Development Group LLC, the Managing Member of Palmetto Gateway Partners LLC, personally appeared before me this day and acknowledged the due execution of the foregoing instrument on behalf of said limited liability companies.
+:::
+
+::: {custom-style="Body Text"}
+WITNESS my hand and notarial seal on this ____ day of April, 2025.
+:::
+
+::: {custom-style="Body Text"}
+_______________________________________
+:::
+
+::: {custom-style="Body Text"}
+Notary Public for South Carolina
+:::
+
+::: {custom-style="Body Text"}
+My Commission Expires: __________________
+:::
+
+::: {custom-style="Body Text"}
+**[LENDER'S ACCEPTANCE]**
+:::
+
+::: {custom-style="Body Text"}
+**CALVERLEY HERITAGE BANK**, a Georgia state-chartered commercial bank
+:::
+
+::: {custom-style="Body Text"}
+By: _______________________________________
+:::
+
+::: {custom-style="Body Text"}
+Name: Marcus Prideaux
+:::
+
+::: {custom-style="Body Text"}
+Title: Senior Vice President — Commercial Real Estate Lending
+:::
+
+::: {custom-style="Body Text"}
+Date: April 15, 2025
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+::: {custom-style="Body Text"}
+**EXHIBIT A**
+:::
+
+::: {custom-style="Body Text"}
+**LEGAL DESCRIPTION OF THE LAND**
+:::
+
+::: {custom-style="Body Text"}
+The land referred to in this Mortgage, situated in the City of Charleston, County of Charleston, State of South Carolina, is described as follows:
+:::
+
+::: {custom-style="Body Text"}
+**PARCEL ONE (Lots 7, 8, and 9 of the Hampstead Village Plat)**
+:::
+
+::: {custom-style="Body Text"}
+ALL that certain piece, parcel, or lot of land, together with the improvements thereon, situate, lying, and being in the City of Charleston, County of Charleston, State of South Carolina, being shown and designated as **Lots 7, 8, and 9** of the **Hampstead Village Plat**, as recorded in Plat Book 41 at Page 218, in the Office of the Register of Mesne Conveyances for Charleston County, South Carolina, and having such shapes, metes, bounds, and measurements as shown on said plat, reference to which is hereby made for a more complete and accurate description thereof. Being commonly known as 520–534 King Street, Charleston, South Carolina 29403. Tax Map Nos. 460-12-04-007 (Lot 7), 460-12-04-008 (Lot 8), and 460-12-04-009 (Lot 9).
+:::
+
+::: {custom-style="Body Text"}
+**PARCEL TWO (Vacated Anson Lane Strip)**
+:::
+
+::: {custom-style="Body Text"}
+TOGETHER WITH that certain strip or parcel of land formerly constituting a portion of Anson Lane, a public street, which was vacated and closed by the City of Charleston pursuant to **City of Charleston Ordinance No. 2019-084**, and conveyed to the predecessor in title by that certain Quitclaim Deed recorded in **Deed Book 1128 at Page 443**, in the Office of the Register of Mesne Conveyances for Charleston County, South Carolina, said strip being adjacent to and contiguous with Lot 7 of the Hampstead Village Plat, as more particularly described and shown on the plat prepared by **Cartwright Land Surveying LLC**, dated January 15, 2025, and recorded in **Plat Book 64 at Page 91**, in the Office of the Register of Mesne Conveyances for Charleston County, South Carolina.
+:::
+
+::: {custom-style="Body Text"}
+**BEING** the same property conveyed to Mortgagor by General Warranty Deed from Hampstead Village Holdings LLC, a South Carolina limited liability company, dated as of the Closing Date and recorded concurrently with this Mortgage in the Office of the Register of Mesne Conveyances for Charleston County, South Carolina, and being all of the real property owned by Mortgagor.
+:::
+
+::: {custom-style="Drafting Note"}
+*Drafting note (delete before execution): taken from Title Commitment No. PT-2025-04-1178; recordable as drafted as a plat-referenced description. Conform before execution to the surveyor's metes-and-bounds description and to the deed recording data. See Drafting Issues Memorandum, item B-1.*
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+::: {custom-style="Body Text"}
+**EXHIBIT B**
+:::
+
+::: {custom-style="Body Text"}
+**PERMITTED EXCEPTIONS**
+:::
+
+::: {custom-style="Body Text"}
+The lien of this Mortgage is subject only to the following matters, which are approved by Lender as Permitted Exceptions for all purposes of the Loan Documents:
+:::
+
+::: {custom-style="Body Text"}
+1. **Real Property Taxes for 2025 and Subsequent Years.** Real property taxes for the year 2025 and all subsequent years on Charleston County Tax Map Nos. 460-12-04-007, 460-12-04-008, and 460-12-04-009, a lien not yet due and payable.
+:::
+
+::: {custom-style="Body Text"}
+2. **SCE&G Utility Easement.** Easement in favor of South Carolina Electric & Gas for the installation, maintenance, repair, and replacement of underground utility lines, granted in that certain instrument recorded in Deed Book 987 at Page 112, RMC Office, affecting the westerly boundary of Lot 9.
+:::
+
+::: {custom-style="Body Text"}
+3. **SCDHEC Land Use Restriction (Lot 7).** Land use restriction and institutional control recorded in Deed Book 1203 at Page 89, RMC Office, imposed by the South Carolina Department of Health and Environmental Control (Site ID No. SC-29403-0772), which (a) prohibits the use of the ground floor of Lot 7 (Tax Map No. 460-12-04-007) for residential purposes and (b) requires the maintenance and periodic inspection of a vapor barrier beneath the slab of the ground-floor commercial space on Lot 7, together with all terms and conditions of such restriction. This exception is a Permitted Exception subject to Mortgagor's full compliance with **Article 11**.
+:::
+
+::: {custom-style="Body Text"}
+4. **Balcony Encroachment Over King Street Right-of-Way.** Encroachment of a decorative iron balcony extending approximately two and one-half (2.5) feet beyond the front façade of the building over and across the King Street public right-of-way, as depicted on the Survey. Mortgagor's obligations with respect to such encroachment are set forth in **Sections 5.5** and **8.9**.
+:::
+
+::: {custom-style="Body Text"}
+5. **Rights of Tenants in Possession.** Rights of tenants under the Leases described on **Schedule 4.1(n)**, as tenants only, without any option or right of first refusal to purchase the Property or any portion thereof, and subject to **Article 7**.
+:::
+
+::: {custom-style="Body Text"}
+6. **Matters of Record Shown on the Hampstead Village Plat.** Any and all matters shown on the plat recorded in Plat Book 41 at Page 218, RMC Office, including setback lines, rights-of-way, drainage easements, and notations thereon.
+:::
+
+::: {custom-style="Body Text"}
+7. **Matters Reflected on the Survey.** Such matters as are shown on the Survey and are approved in writing by Lender prior to the Closing Date.
+:::
+
+::: {custom-style="Body Text"}
+No other exception to or defect in title shall be a Permitted Exception. Lender's approval of the foregoing Permitted Exceptions shall be evidenced in writing prior to the Closing Date and shall be attached to the lender's title policy as issued.
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+::: {custom-style="Body Text"}
+**EXHIBIT C**
+:::
+
+::: {custom-style="Body Text"}
+**RENOVATION BUDGET AND FUNDING ALLOCATION**
+:::
+
+::: {custom-style="Body Text"}
+The Renovation Budget totals **$3,150,000.00**, allocated between the Renovation Holdback (Lender advances) and Mortgagor's equity contribution as follows:
+:::
+
+| Line Item | Total Budget | Renovation Holdback | Mortgagor Equity | Contractor / Vendor |
+|:--------------------------------------|------------:|------------:|------------:|:------------------------|
+| 1. HVAC Replacement | $1,200,000 | $850,000 | $350,000 | Beaufort Builders Group LLC (GC License No. SC-GC-47921) |
+| 2. Elevator Modernization | $475,000 | $375,000 | $100,000 | Beaufort Builders Group LLC |
+| 3. Façade Restoration (including decorative iron balcony) | $625,000 | $425,000 | $200,000 | Beaufort Builders Group LLC |
+| 4. Tenant Improvement Allowances | $550,000 | $450,000 | $100,000 | Various, per approved leases |
+| 5. Soft Costs and Contingency (outside the GC Contract) | $300,000 | $150,000 | $150,000 | Various consultants |
+| **TOTAL** | **$3,150,000** | **$2,250,000** | **$900,000** |  |
+
+::: {custom-style="Body Text"}
+**Supplementary budget information:**
+:::
+
+::: {custom-style="Body Text"}
+(a) The GC Contract with Beaufort Builders Group LLC provides for a contract sum of **$2,850,000.00**, comprising Line Items 1 through 4 (hard costs of construction). The Renovation Holdback represents 78.9% of the GC Contract sum; Mortgagor shall fund the balance of **$750,000.00** of the GC Contract sum from Mortgagor's equity. The balance of the Renovation Budget ($300,000.00, comprising $200,000.00 of soft costs and $100,000.00 of contingency) is outside the scope of the GC Contract and is funded $150,000.00 by the Renovation Holdback and $150,000.00 by Mortgagor's equity.
+:::
+
+::: {custom-style="Body Text"}
+(b) Mortgagor's total equity contribution for the renovation is **$900,000.00**, which is in addition to, and not a part of, the $6,200,000.00 of member equity committed to the acquisition of the Property. Mortgagor's total equity requirement for the acquisition and renovation therefore aggregates **$6,200,000.00**, allocated $5,300,000.00 to the acquisition of the Property and $900,000.00 to the Renovation Work.
+:::
+
+::: {custom-style="Body Text"}
+(c) Mortgagor's equity contribution for the Renovation Work shall be funded on a pro rata, pari passu basis with advances of the Renovation Holdback, such that after each advance the ratio of aggregate Renovation Holdback advances to aggregate Mortgagor equity contributions with respect to completed work shall not exceed the ratio of $2,250,000.00 to $900,000.00 (i.e., 2.5 to 1.0), unless otherwise agreed in writing by Lender. Mortgagor shall deliver, with each draw request, a reconciliation of Renovation Holdback advances and Mortgagor equity contributions by budget line item, certified by Mortgagor's Managing Member and, if requested by Lender, by the Architect.
+:::
+
+::: {custom-style="Body Text"}
+(d) Mortgagor shall be solely responsible for all costs of the Renovation Work in excess of the Renovation Budget and for any cost overrun within any line item, and shall fund such amounts from Mortgagor's own funds within ten (10) Business Days after Lender's written demand in accordance with **Section 8.5**.
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+::: {custom-style="Body Text"}
+**EXHIBIT D**
+:::
+
+::: {custom-style="Body Text"}
+**ARTICLE 9 COLLATERAL DESCRIPTION**
+:::
+
+::: {custom-style="Body Text"}
+This Exhibit D is provided for the purpose of perfecting Lender's security interest in the personal property collateral described below by the filing of financing statements and a fixture filing. Capitalized terms used but not defined in this Exhibit D have the meanings given to them in the body of this Mortgage.
+:::
+
+::: {custom-style="Body Text"}
+Mortgagor, as debtor, grants to Calverley Heritage Bank, as secured party, a security interest in all of Mortgagor's right, title, and interest in and to the following property, whether now owned or hereafter acquired and wherever located: all goods (including inventory, equipment, and fixtures), including all building systems, HVAC equipment, elevators, plumbing, electrical systems, fire protection systems, furniture, furnishings, and trade fixtures; all accounts, chattel paper, deposit accounts, documents, instruments, investment property, letter-of-credit rights, and general intangibles (including all payment intangibles, software, permits, licenses, warranties, contract rights, and rights under the GC Contract); all commercial tort claims; all supporting obligations; all money and cash; all books, records, and data; and all products and proceeds of, accessions to, and replacements of, any of the foregoing.
+:::
+
+::: {custom-style="Body Text"}
+The real property to which the fixtures relate is described as "**Parcel One**" and "**Parcel Two**" in **Exhibit A** to this Mortgage, located in Charleston County, South Carolina. Mortgagor is the record owner of such real property.
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+::: {custom-style="Body Text"}
+**EXHIBIT E**
+:::
+
+::: {custom-style="Body Text"}
+**NOTICE ADDRESSES**
+:::
+
+| Party | Notice Address |
+|:------------------|:----------------------------------------|
+| Mortgagor | Palmetto Gateway Partners LLC, 88 Broad Street, Suite 200, Charleston, South Carolina 29401, Attn: Neil Ashford Graydon, Managing Member of Graydon Development Group LLC. Telephone: (843) 555-0142. |
+| Lender | Calverley Heritage Bank, 412 Whitaker Street, Savannah, Georgia 31401, Attn: Marcus Prideaux, Senior Vice President — Commercial Real Estate Lending. Telephone: (912) 447-3218. |
+| Lender's Counsel | Fielding, Ashworth & Cole LLP, Charleston, South Carolina, Attn: Catherine Ashworth, Partner (with a copy to Jordan Vickers, Associate). |
+| Guarantor (for notices under the Loan Documents) | Neil Ashford Graydon, 14 Church Street, Charleston, South Carolina 29401. |
+| Registered Agent of Mortgagor | 1201 Main Street, Suite 410, Columbia, South Carolina 29201. |
+
+::: {custom-style="Drafting Note"}
+*Drafting note (delete before execution): Mortgagor's registered agent is named inconsistently in the source documents (see Drafting Issues Memorandum, item D-3). Insert the name reflected in current South Carolina Secretary of State records and conform Section 5.12.*
+:::
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+::: {custom-style="Body Text"}
+**SCHEDULE 4.1(n)**
+:::
+
+::: {custom-style="Body Text"}
+**RENT ROLL AND SCHEDULE OF LEASES**
+:::
+
+| Unit | Tenant | SF | Lease Type | Rent $/SF | Annual Rent | Expires | Deposit |
+|:-----------|:---------------------------|------:|:---------------|--------:|----------:|:--------|--------:|
+| Bay 1 | Lowcountry Provisions Inc. | 3,800 | NNN | $28.50 | $108,300 | 12/31/2027 | $18,050 |
+| Bay 2 | — vacant — | 3,800 | — | — | — | — | — |
+| Bay 3 | Harmon & Wren Design Studio LLC | 3,800 | Modified Gross | $24.00 | $91,200 | 06/30/2026 | $15,200 |
+| 2nd Fl. Suite A | Tidemark Consulting Group LLC | 9,800 | NNN | $22.00 | $215,600 | 03/31/2029 | $35,933 |
+| 2nd Fl. Suite B | — vacant — | 9,800 | — | — | — | — | — |
+| **TOTAL** | | 31,000 | | | **$415,100** | | **$69,183** |
+
+::: {custom-style="Body Text"}
+The Property contains 31,000 square feet of leasable area, of which 17,400 square feet is occupied under the three (3) Leases listed above (Bay 1, Bay 3, and 2nd Floor Suite A) and 13,600 square feet is vacant (Bay 2 and 2nd Floor Suite B), representing an occupancy rate of 56.13% by area as of the Closing Date. Total annual base rent in place is $415,100.00, and total monthly base rent is $34,591.67.
+:::
+
+::: {custom-style="Body Text"}
+**Notes to Schedule 4.1(n):**
+:::
+
+::: {custom-style="Body Text"}
+(1) **Bay 1 — Lowcountry Provisions Inc.** Use: retail sale of specialty grocery, gourmet foods, and related provisions; no food preparation or cooking on premises (warming and reheating permitted). Exclusive use as specialty grocery within the Property. One (1) five-year renewal option requiring nine (9) months' notice (deadline March 31, 2027), with renewal rent at fair market value subject to a floor equal to the then-current rent. The Lease contains **no provision** relating to assignment, subletting, estoppel certificates, subordination, non-disturbance, or attornment.
+:::
+
+::: {custom-style="Body Text"}
+(2) **Bay 2 — Vacant.** Subject to a right of first refusal held by Harmon & Wren Design Studio LLC under the Bay 3 Lease (First Amendment dated September 1, 2023). If Mortgagor receives a bona fide third-party offer to lease Bay 2, Mortgagor must offer Bay 2 to Harmon & Wren on the same material terms, and Harmon & Wren has fifteen (15) business days to accept or decline. The right of first refusal survives renewal of the Bay 3 Lease.
+:::
+
+::: {custom-style="Body Text"}
+(3) **Bay 3 — Harmon & Wren Design Studio LLC.** Use: interior design studio, showroom, and related professional services. One (1) three-year renewal option requiring six (6) months' notice (deadline December 31, 2025), with renewal rent at 95% of fair market value. Assignment requires Landlord's prior written consent, not to be unreasonably withheld; subletting of up to 50% of the premises is permitted on 30 days' notice. The Lease is subordinate to any mortgage now or hereafter placed on the Property, provided that the mortgagee delivers a commercially reasonable non-disturbance agreement. The Lease contains a tenant early-termination right effective June 30, 2025 on payment of three (3) months' rent and six (6) months' notice; the notice deadline of December 31, 2024 has passed without exercise.
+:::
+
+::: {custom-style="Body Text"}
+(4) **2nd Floor Suite A — Tidemark Consulting Group LLC.** Use: professional office and management consulting services. Two (2) three-year renewal options requiring twelve (12) months' notice (first deadline March 31, 2028), with renewal rent at fair market value. Assignment requires Landlord's prior written consent, which may be withheld in Landlord's sole discretion; subletting requires Landlord's prior written consent, not to be unreasonably withheld. The Lease is subordinate to any mortgage now or hereafter placed on the Property, and the tenant agrees to execute a subordination, non-disturbance, and attornment agreement upon Landlord's request.
+:::
+
+::: {custom-style="Body Text"}
+(5) **2nd Floor Suite B — Vacant.** No tenant; no preferential rights; available for leasing subject to **Section 5.6**.
+:::
+
+**Scheduled rent escalations (as reflected in the leases delivered to Lender):** Bay 1 — 3.0% annual increase effective each January 1, beginning January 1, 2025; Bay 3 — 2.5% annual increase effective each July 1, beginning July 1, 2023; Suite A — 2.5% annual increase effective each April 1, beginning April 1, 2026. Mortgagor's representation in **Section 4.1(n)** is made as to the Leases as executed, and the rent amounts shown above are the contract rates stated in the lease abstracts delivered to Lender; the amounts actually payable as of any date shall be determined in accordance with the escalation provisions of each Lease. Mortgagor represents that the rent amounts stated above will be conformed to the executed Leases, together with any escalations in effect as of the Closing Date, prior to execution of this Mortgage.

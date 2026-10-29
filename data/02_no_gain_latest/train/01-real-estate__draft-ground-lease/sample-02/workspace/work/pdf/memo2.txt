@@ -1,0 +1,1986 @@
+                                     Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+HARGROVE & LINDEN LLP
+1100 Constitution Avenue, Hartford, Connecticut 06103
+PRIVILEGED AND CONFIDENTIAL • ATTORNEY–CLIENT COMMUNICATION • ATTORNEY WORK
+PRODUCT • PREPARED IN ANTICIPATION OF LITIGATION
+
+
+TO:           Marcus Ellison, Managing Member — Meridian Gateway Holdings LLC
+CC:           Ansel Coventry III, Managing Partner — Coventry Capital Partners LP
+FROM:         Rebecca Tsang, Lead Partner • Jordan Abernathy, Associate Counsel
+DATE:         June 20, 2025
+RE:           Drafting Issues Memorandum — Long-Term Ground Lease, 10–30 Pier Street,
+              Port Calloway, CT (APN 127-003-0045); Issues, Conflicts and Gaps Across the
+              Term Sheet, Title Commitment, Phase II Environmental Site Assessment,
+              Construction Loan Term Sheet and Survey
+
+
+We have prepared the attached first draft of the Ground Lease Agreement (the "Draft
+Lease") for delivery to Howard Koss at Pryor Whitfield & Koss LLP. This memorandum
+accompanies that draft. It records every issue, conflict and gap we identified across
+the source documents, sets out our independent recomputation of every figure used in
+the Draft Lease, identifies the provisions of the Draft Lease that respond to each issue,
+and lists the open items that require your decision, a third party's action, or further
+legal research before we can deliver or finalize the draft.
+
+1. PURPOSE, SCOPE AND SOURCES REVIEWED
+1.1 Purpose. You asked for two things: a first draft of the ground lease, and a
+memorandum identifying "any issues, conflicts, or gaps" across the term sheet, the title
+commitment, the Phase II ESA and the Bayside loan term sheet. This memorandum is
+the second of those; the Draft Lease is the first. We have also responded to the specific
+instructions in your June 15 email (reverter and improvement forfeiture; percentage
+rent; tax abatement timing; remediation credit mechanics; security deposit step-down;
+affordable housing; milestones and force majeure; assignment/ROFR). Where your
+instructions required a change to the negotiated Term Sheet, the change is flagged in
+the Draft Lease and catalogued in Part 9 below, because each such change requires
+Landlord Board action under Resolution No. 2025-047, § 4(d).
+1.2 Sources reviewed. We reviewed each of the following in full. Appendix 1 is a
+source-to-issue log recording where each material proposition, figure, date and
+obligation appears.
+#    Document                              Date / Reference         Used for
+1    Client instructions email (M.         June 15, 2025, 09:47     Client priorities, business parameters,
+     Ellison to R. Tsang)                                           negotiation instructions
+2    Executed binding term sheet           June 10, 2025            Deal terms; the baseline against which the
+     (Term Sheet)                                                   Draft Lease is measured
+3    Construction loan term sheet          May 28, 2025             Required ground lease provisions (§ 5.1–
+     (Bayside)                                                      5.7); closing conditions (§ 6)
+4    Title commitment TC-2025-07821        Effective June 1, 2025   Title, Schedule B-I requirements, Schedule
+     (Ridgepoint)                                                   B-II exceptions, recorded instruments
+5    Phase II ESA executive summary        May 2, 2025              Environmental conditions, ELUR
+     (Halcyon HEC-2025-0412)                                        interpretation, remediation scope and cost
+6    ALTA/NSPS survey narrative and    Field April 20, 2025; plat   Premises description, easements,
+     legal description (CLS-2025-0417) April 28, 2025               topography, legal description
+7    Board Resolution No. 2025-047         Adopted June 5, 2025     Landlord's authority; limits on delegated
+
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025         |   Page 1 of 33
+                                        Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+#   Document                                  Date / Reference              Used for
+                                                                            authority
+
+
+1.3 What we did not have. We did not have, and the Draft Lease assumes the
+existence of, the following. Their absence is itself a finding, and they are itemized in
+Part D: the Phase I ESA (only referenced); the full Phase II report and appendices (A–J,
+including boring logs, laboratory data and the ELUR text); the ELUR instrument itself;
+the 2019 Declaration of Right of First Refusal; the 2019 Declaration of Restrictive
+Covenants; the survey plat (Sheets 1 and 2) and the survey referenced in the title
+commitment (CLS-2025-0321); the Bayside loan documents and commitment letter; the
+Coventry preferred equity documentation; any zoning or site-plan determination; and
+any DEEP correspondence regarding the ELUR or the pending LUST file.
+1.4 Method and conventions. We extracted every figure, date, period, threshold and
+cross-reference from the record and recomputed each one independently (Part 2 and
+Appendix 3). We recomputed the two competing legal descriptions by traverse and
+shoelace computation (Part 3.1). We read the Draft Lease against the Bayside
+requirements line by line (Part 4.2). We have separated: (a) facts extracted from the
+record; (b) our computations; (c) legal characterizations; (d) open questions; and (e)
+recommendations. Where we characterize law, we say so and we identify whether it
+has been verified. Nothing in this memorandum is a substitute for the
+independent legal research identified in Part 7, which we have not completed.
+
+2. EXECUTIVE SUMMARY AND TOP-RISK REGISTER
+2.1 Bottom line. The transaction is financeable in its current structure only if five
+things are fixed before the Draft Lease is negotiated: (i) the reverter/forfeiture
+provision; (ii) the lender protection package, which as drafted in the Term Sheet does
+not satisfy Bayside's § 5 conditions; (iii) the legal description, which as stated in the
+title commitment describes a parcel approximately twice the size of the Premises; (iv)
+the mechanics' lien, which the title company will not insure over and which the Term
+Sheet wrongly treats as a Permitted Exception; and (v) the recorded right of first
+refusal, which by its recorded terms contains no carve-out for leasehold mortgagee
+enforcement. Items (iii), (iv) and (v) are gating: without them, no leasehold title policy
+issues and the Bayside loan cannot close, whatever the business terms say.
+2.2 Top-risk register. The table below is risk-prioritized. Severity reflects the risk to
+Meridian (economic exposure, closing risk, or financing risk), not the difficulty of the
+fix.
+#    Risk                                Why it matters                                    Sev.           Draft Lease §
+1    Reverter/forfeiture: on a           Exposure of $205.7M–$305.7M. Bayside will         Critical       §§ 10.5, 10.6, 10.7,
+     missed milestone the                not lend against it. Likely unenforceable as a                   10.9; Art. 9
+     Authority takes $200–300M of        penalty, but that is not a financing strategy
+     improvements and keeps the
+     $5.7M deposit, with no
+     compensation
+2    Term Sheet lender protections Five of seven requirements are not addressed;           Critical       Art. 9 (§§ 9.1–9.11);
+     do not meet Bayside § 5.1–5.7 none is fully satisfied. Each is a condition                           Ex. F
+                                   precedent to loan closing
+3    Legal description error in title    Stated courses enclose ~279,535 SF (6.42 ac)      Critical       § 2.3(b); § 16.2; Ex. A;
+     commitment                          against a recited 3.2 ac; traverse miscloses                     Ex. G
+                                         1.10 ft. Title cannot issue; $/SF rent basis is
+                                         unsupported
+4    Mechanics' lien ($187,500,          Title Requirement 7 bars any policy until         High           § 2.3(h); § 2.9(a); §
+     Calloway Marine Demolition)         discharged; Term Sheet § 13 wrongly lists it as                  16.2; Ex. B, Part 6
+                                         a Permitted Exception; Bayside § 6(c) bars
+                                         unapproved exceptions
+
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                     |     Page 2 of 33
+                                      Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+#    Risk                              Why it matters                                    Sev.       Draft Lease §
+5    Recorded ROFR (Vol. 405, Pg.      A recorded instrument cannot be overridden        High       § 11.5 and drafting
+     55) has no mortgagee carve-       by a lease term; blocks foreclosure, deed-in-                flag; Ex. B, Part 4
+     out                               lieu and New Lease transfers during the first
+                                       20 years
+6    Percentage rent: Breakpoint       Erodes from 8.84x Base Rent in Year 6 to 0.96x High          § 5.3 and drafting
+     fixed at $28.5M for 99 years      by Year 96 — becomes a gross-receipts tax,                   flag; Ex. D
+                                       exactly the outcome you flagged
+7    Tax abatement: delivered by       3 construction years consumed before rent         High       §§ 6.6–6.9; § 2.3(f)
+     the City, not the Authority;      commences; no enforceable backstop;
+     period starts on Lease            statutory authority unverified
+     Commencement Date
+8    ELUR prohibits ground-floor   DEEP enforcement risk and a permitting risk           High       § 7.8; § 14.5; § 15.2
+     residential use; project      that could delay Milestone 1; unresolved in the
+     program includes ground-floor record
+     lobby, amenity and leasing
+     space
+9    Remediation overrun risk          Tenant bears all costs above $2.4M; below-   High            § 7.4; § 7.5
+     uncapped and estimate likely      grade parking could generate 7,000–27,000 CY
+     understated                       of additional excavation against a 1,533 CY
+                                       contaminated-soil estimate
+10   Bulkhead in "fair to poor"        Structural and cost risk sits with Tenant under   High       § 2.9(b); § 14.3
+     condition, cost unquantified      a triple-net lease and again at surrender;
+     and unallocated                   survey notes 40 LF of cap already removed
+11   Survey is stale and title         Bayside § 6(d) requires a survey dated within     Med.       § 2.3(b), (c)
+     commitment expires before         90 days of closing (survey date + 90 days =
+     closing                           July 19, 2025); commitment expires Dec. 1,
+                                       2025
+12   Security deposit step-down        "90% occupancy" is not defined for a mixed-       Med.       §§ 8.3–8.4
+     undefined; LOC issuer conflict    use project; the Board recital requires a
+     between Term Sheet and            federally chartered bank
+     Board Resolution
+13   Material deviations from the      Resolution No. 2025-047, § 4(d) requires Board High          Part 9 (deviation
+     Term Sheet require Board          review of any deviation deemed material;                     schedule)
+     action                            several of our changes are
+14   Financing term mismatch           Loan matures at 48 months (60 with                Med.       Part 6.13
+                                       extensions) but Milestone 3 is at 60 months
+                                       and Milestone 4 at 84; Coventry's completion
+                                       guaranty runs to the initial maturity
+15   Assignment/recapitalization       ROFR plus consent regime could impede             Med.       §§ 11.1–11.7
+     constraints                       Coventry's liquidity path and the 100%
+                                       membership-interest pledge Bayside requires
+
+
+2.3 What is not a problem. Several items you flagged as concerns are, on our
+recomputation, internally consistent and should not consume negotiating capital: the
+initial Base Rent and per-square-foot rate (Part 2.1, item 1); the security deposit and
+step-down amounts (items 7–8); the remediation credit waterfall (item 9); the tax
+abatement percentages and dollar amounts (item 11); and the milestone dates (item
+15). The dollar amounts in the Term Sheet are, with two immaterial exceptions,
+arithmetically correct.
+2.4 A note on tone. Because this is a first draft to opposing counsel, the Draft Lease
+is drafted from Tenant's side but is intended to be negotiable rather than maximal: it
+retains the Authority's reverter concept (with compensation), retains the ROFR
+(narrowed), retains the affordable housing covenant and the public open space
+obligation, and does not seek to reduce Base Rent or the Percentage Rent rate. The
+provisions most likely to be characterized by Mr. Koss as "not substantially consistent
+with the Term Sheet" are catalogued in Part 9 with a suggested framing for each.
+
+
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025               |     Page 3 of 33
+                                   Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+PART 2 — FIGURES, DATES AND THRESHOLDS INDEPENDENTLY
+RECOMPUTED
+We recomputed every number that appears in the Term Sheet, the Phase II ESA and
+the Board Resolution rather than adopting the documents' own arithmetic. The full
+computation schedule is Appendix 3. Findings follow.
+
+2.1 Base Rent, escalation and the per-square-foot rate
+#     Item                     Record states             Our recomputation                  Result
+1     Rent per square foot     $20.45/SF ($2,850,000 ÷   $20.4466                           Correct as rounded
+                               139,392 SF)
+2     Monthly Base Rent        $237,500 ($2,850,000 ÷    $237,500.00                        Correct
+                               12)
+3     Years 6–10 annual Base   $3,224,500                $3,224,513.41 ($2,850,000 ×        Understated by $13.41
+      Rent                                               1.025^5)
+4     Years 11–15 annual Base $3,648,200                 $3,648,240.95 ($2,850,000 ×        Understated by $40.95
+      Rent                                               1.025^10)
+5     Years 6–10 monthly       ≈ $268,708                $268,709.45                        Correct as rounded
+6     Years 11–15 monthly      ≈ $304,017                $304,020.08                        Correct as rounded
+
+
+Items 3 and 4 arise because the Term Sheet compounded the rounded Year 6 figure
+($3,224,500 × 1.025^5 = $3,648,225.78) rather than the initial Base Rent. The
+aggregate difference is about $54 per annum — economically immaterial, but it would
+produce two different rent schedules depending on which sentence of the lease a
+reader applied. Section 4.3 of the Draft Lease states the schedule as controlling and
+reconciles the difference expressly, so that neither side can later argue that a
+scrivener's rounding was a negotiated term. If Mr. Koss prefers the Term Sheet
+figures, we should accept them and conform the schedule — the point is the internal
+consistency, not the $54.
+
+2.2 Security deposit and remediation credit
+#     Item                     Record states                   Our recomputation                      Result
+7     Security deposit         $5,700,000 = 24 × $237,500      $5,700,000.00                          Correct
+8     Step-down amount         $2,850,000 = 12 × $237,500      $2,850,000.00                          Correct
+9     Remediation credit       Months 1–7 at $0; month 8       7 × $237,500 = $1,662,500;             Correct and
+      waterfall                credit $137,500, Tenant pays    $1,800,000 − $1,662,500 = $137,500;    internally
+                               $100,000                        $237,500 − $137,500 = $100,000         consistent
+10    Tenant remediation       $600,000                        $2,400,000 − $1,800,000 = $600,000     Correct
+      share
+
+
+
+
+2.3 Taxes and the tax abatement
+#     Item                     Record states       Our recomputation                               Result
+11a   Current taxes (land      $145,950            $4,200,000 × 0.03475 = $145,950.00              Correct
+      only)
+11b Full-build taxes           $6,185,500          $178,000,000 × 0.03475 = $6,185,500.00          Correct
+11c   Years 1–5 (25%)          $1,546,375          $178,000,000 × 0.25 × 0.03475 =                 Correct
+                                                   $1,546,375.00
+11d Years 6–10 (50%)           $3,092,750          $178,000,000 × 0.50 × 0.03475 =                 Correct
+                                                   $3,092,750.00
+11e   Years 11–15 (75%)        $4,639,125          $178,000,000 × 0.75 × 0.03475 =                 Correct
+                                                   $4,639,125.00
+11f   Aggregate value of the   not stated          $46,391,250 over 15 years (5 × $4,639,125 + 5   New figure —
+      abatement                                    × $3,092,750 + 5 × $1,546,375)                  useful for Board
+                                                                                                   presentation
+
+
+      Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025          |   Page 4 of 33
+                                       Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+
+The percentages and amounts are correct, but note the structural point in Part 6.2
+below: the abatement is calculated as a percentage of the post-development assessed
+value that will not exist during construction. Because the Term Sheet starts the 15-
+year clock on the Lease Commencement Date, approximately three of the fifteen years
+(October 2025 – September 2028) fall before Rent Commencement, when the
+improvements are not yet on the grand list. The aggregate value of the abatement
+stated above is therefore only achievable if the clock is re-anchored.
+
+2.4 Capital stack and uses
+Sources ($285,000,000 loan + $95,000,000 Coventry preferred equity + $45,000,000
+Meridian co-invest = $425,000,000) and uses ($352,000,000 hard + $38,500,000 soft
++ $34,500,000 contingency = $425,000,000) both reconcile. Loan-to-cost is 67.06%
+(the Term Sheet states 67.1%). Equity is 32.94%. Bayside's 1.00% origination fee on
+$285,000,000 is $2,850,000, correct.
+Two items appear to be unbudgeted. First, the environmental remediation: the
+Phase II estimate is $2,400,000, of which Tenant's net share is $600,000, but neither
+figure appears in the uses of funds. Second, the bulkhead: the Phase II expressly
+excludes bulkhead repair or replacement from its $2.4M estimate and recommends a
+separate structural assessment. We do not know the magnitude, but a 480-foot steel
+sheet pile and concrete cap rehabilitation on a coastal site is a seven-figure item, not a
+rounding error. Both should be added to the uses (or confirmed as within the hard-cost
+contingency) before the loan budget is finalized with Bayside, because Bayside's
+condition (g) requires an approved construction budget.
+
+2.5 Milestones and other date intervals
+#    Item                            Record states        Our recomputation                          Result
+15   Milestone 1 (18 months)         April 1, 2027        October 1, 2025 + 18 months = April 1,     Correct
+                                                          2027
+16   Milestone 2 (42 months)         April 1, 2029        October 1, 2025 + 42 months = April 1,     Correct
+                                                          2029
+17   Milestone 3 (60 months)         October 1, 2030      October 1, 2025 + 60 months = October      Correct
+                                                          1, 2030
+18   Milestone 4 (84 months)         October 1, 2032      October 1, 2025 + 84 months = October      Correct
+                                                          1, 2032
+19   Rent Commencement (36           October 1, 2028      October 1, 2025 + 36 months = October      Correct
+     months)                                              1, 2028
+20   Expiration                      September 30, 2124   99 years from October 1, 2025 =            Correct
+                                                          September 30, 2124
+21   ROFR period (20 years)          through September    October 1, 2025 + 20 years =               Correct
+                                     30, 2045             September 30, 2045
+22   Alteration restriction (final   from October 1,      October 1, 2124 − 10 years = October       Correct
+     10 years)                       2114                 1, 2114
+23   Force majeure cap               12 months FM + 6     12 + 6 = 18                                Correct
+                                     months permitting;
+                                     aggregate 18
+24   Title commitment                December 1, 2025     June 1, 2025 + 6 months = December 1,      Correct — but see
+     expiration                                           2025                                       Part 6.14
+25   Bayside term sheet              June 27, 2025        May 28, 2025 + 30 days = June 27,          Correct — confirm
+     expiration                                           2025                                       execution
+
+
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                |   Page 5 of 33
+                                    Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+2.6 The Phase II cost estimate contains two arithmetic errors
+This is a small point with a real consequence, because the $2,400,000 total is the
+number the credit is built on. In each of Halcyon's two cost tables the line labelled
+"Contingency (10%)" is not 10%:
+Area                       Cost components      Stated                Stated "10%"      Stated total    Total if 10%
+                           (sum)                contingency           would be                          applied
+Area 1 — Northwest                 $1,750,000    $100,000 (5.71%)            $175,000      $1,850,000      $1,925,000
+Corner
+Area 2 — Former Dry                  $525,000     $25,000 (4.76%)             $52,500       $550,000         $577,500
+Dock
+Combined                           $2,275,000    $125,000 (5.49%)            $227,500      $2,400,000      $2,502,500
+
+
+The stated totals are arithmetically consistent with the stated contingency line items
+($1,750,000 + $100,000 = $1,850,000; $525,000 + $25,000 = $550,000). The error is
+in the label, not the addition: the effective contingency is 5.5%, not 10%. The
+consequence is that if 10% is in fact the intended contingency, the total is $2,502,500,
+and Tenant's residual share (total less the $1,800,000 credit) is $702,500, not
+$600,000 — a $102,500 gap in a figure that has already been described to the
+Authority, to Coventry and in the Board resolution. Our recommendation is not to
+litigate the label but to use it: we should confirm with Halcyon and with you which
+contingency is intended, and, if it is 10%, correct the figures now. An understated
+remediation estimate is the last thing we want in a lease where Tenant bears every
+dollar of overrun.
+
+   Related quantity issue. Halcyon states that 933 cubic yards of contaminated soil require
+   excavation in Area 1 but prices a "material handling volume" of approximately 3,100 cubic
+   yards, and does not state the disposal quantity. At $520,000, the off-site transportation
+   and disposal line implies either $557 per cubic yard on 933 CY (implausibly high) or $168
+   per cubic yard on 3,100 CY (plausible, but then all 3,100 CY is being treated as disposal
+   rather than the clean backfill that a separate $290,000 line is procuring). The estimate
+   cannot be verified without Appendix I (Remediation Cost Estimate Backup and Supporting
+   Calculations), which is not in the record. Request it.
+
+
+PART 3 — THE PREMISES: A MATERIAL LEGAL DESCRIPTION
+ERROR
+This is the finding in the record that we regard as most urgent after the reverter,
+because it is silent, it is gating, and it will not be discovered by anyone who does not
+run the traverse.
+
+3.1 The title commitment's Exhibit A describes a parcel of approximately 6.42
+acres
+The Title Commitment (Schedule A, Section 5 and Exhibit A) attaches a metes-and-
+bounds description and states that it is "derived from" an ALTA/NSPS survey. We ran
+that description:
+Course                                       Bearing                                         Distance
+North line (Pier Street)                     North 72° 15′ 30″ East                                         580.00 ft
+Bulkhead (east), course 1                    South 18° 22′ 45″ East                                         240.40 ft
+Bulkhead (east), course 2                    South 17° 48′ 10″ East                                         239.60 ft
+South line (APN 127-003-0044)                South 72° 08′ 15″ West                                         582.50 ft
+West line (Harbor Avenue)                    North 17° 44′ 30″ West                                         480.20 ft
+
+
+
+
+       Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025           |   Page 6 of 33
+                                        Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+Computed on those courses: the traverse miscloses by approximately 1.10 feet, and
+the enclosed area is approximately 279,535 square feet, or 6.417 acres. The same
+instrument recites "Containing 3.2 acres (139,392 square feet), more or less." The
+discrepancy is not a rounding error: the computed area is 2.01 times the recited area.
+The same description also recites a 480.00-foot bulkhead frontage (240.40 + 239.60),
+which is where the recurring "approximately 480 linear feet of bulkhead" figure comes
+from.
+By contrast, the description in the delivered survey (Survey Job No. CLS-2025-0417)
+closes exactly (0.000 feet of misclosure) and encloses 139,475 square feet (3.202
+acres), a variance of +83 square feet (+0.06%) from the recited 139,392 — which is
+simply the assessor's 3.2 acres × 43,560. The two descriptions also differ
+systematically:
+Element                     Title Commitment Exhibit A           Delivered Survey (Section 4)         Difference
+North line bearing          N 72° 15′ 30″ E                      S 78° 15′ 30″ E                      Exactly 6° 00′ 00″
+West line bearing           N 17° 44′ 30″ W                      N 11° 44′ 30″ E                      Exactly 6° 00′ 00″
+North / south line length   580.00 ft / 582.50 ft                435.22 ft / 435.22 ft                ≈ 145 ft
+East / west line length     240.40 + 239.60 = 480.00 ft /        320.47 ft / 320.47 ft                ≈ 160 ft
+                            480.20 ft
+Closure                     1.10 ft misclosure                   0.000 ft                             —
+Enclosed area               ≈ 279,535 SF (6.417 ac)              139,475 SF (3.202 ac)                2.01×
+
+
+Conclusion. The title commitment's Exhibit A cannot be used as the legal description
+of the Premises, and, taken literally, it would describe a parcel that encroaches on
+Assessor's Parcel No. 127-003-0044 (retained by the Authority for park development)
+and beyond. It should not be signed by either party in its current form. We have
+drafted Exhibit A to the Draft Lease from the survey description and have inserted
+Section 16.2 and a drafting note requiring Landlord, at its cost, to correct the
+description and cause the title company to reissue before Lease Commencement.
+Section 2.3(b) makes a conformed title commitment a condition precedent.
+Two further consequences deserve your attention. First, the Base Rent is expressed
+as approximately $20.45 per square foot on 139,392 square feet. On the title
+commitment's (erroneous) 279,535 square feet, the same dollars would be $10.20 per
+square foot. If the parties ever litigate rent, the description and the area recital must
+be consistent, so this is a rent risk as well as a title risk. Second, the survey's own
+narrative repeats "approximately 480 linear feet of bulkhead" while its traverse gives a
+320.47-foot eastern boundary and the pedestrian easement computation (15 ft × 480 ft
+= 7,200 SF) is built on 480 feet. On 320.47 feet the easement area is 4,807 square
+feet. We have therefore treated the 480-foot figure as unverified in Sections 2.9(b) and
+14.3 and flagged it for confirmation from the survey plat, because the bulkhead length
+drives both the repair cost allocation and the geometry of the 8,000 square foot public
+open space.
+
+3.2 The survey referenced by the title commitment is not the survey in the
+record
+Data point                  Title Commitment (Exhibit A / Schedule A)          Delivered survey
+Job / drawing number        CLS-2025-0321                                      CLS-2025-0417
+Surveyor                    J. Michael Ferreira, P.L.S.                        Thomas R. Pellegrino, P.L.S.
+Connecticut license         No. 12847                                          No. PLS-008741
+Date                        April 20, 2025, "last revised May 15, 2025"        Field April 20, 2025; plat April 28, 2025
+
+
+
+
+       Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025               |    Page 7 of 33
+                                        Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+Either there are two surveys by the same firm (in which case we need CLS-2025-0321
+and an explanation of why it differs), or the title company transcribed the description
+and the survey references from a different file. Either way, the survey referenced in
+the title commitment is not in the record, is not certified to Bayside, and cannot satisfy
+Bayside's condition (d), which requires a survey prepared by a licensed surveyor and
+certified to the Lender and the title company, dated within ninety days of closing.
+Ridgepoint and Calloway Land Surveyors must reconcile this before the description is
+used for the lease or the memorandum of lease.
+
+3.3 Two further record conflicts in the condemnation history
+The parties recite the Authority's 2012 taking inconsistently. The Term Sheet (§ 2)
+places the final judgment in the "Connecticut Superior Court, Judicial District of Port
+Calloway"; the Title Commitment (Schedule A, § 4 and Exception No. 10) places it in
+the "Judicial District of New Haven"; and the survey references the Final Order of
+Condemnation at Volume 375, Page 44, while the Title Commitment twice cites
+Volume 367, Page 44. We have drafted the Landlord representation in Section
+18.1(g) to cover the substance (that no reverter, reversionary interest or former-owner
+claim survives) rather than reciting a volume and page that may be wrong, and we
+have flagged the discrepancy for correction in the title policy and in the recitals. Small
+in themselves; together with item 3.1 they suggest that the title work has not yet been
+reviewed by anyone at the level this transaction requires.
+
+PART 4 — CROSS-DOCUMENT CONFLICT REGISTER AND THE
+BAYSIDE GAP ANALYSIS
+
+4.1 Conflict register
+The following conflicts appear across the five transaction documents. "Conflict" here
+means that two records cannot both be right, or that one record attributes to another a
+term it does not contain.
+#    Subject               One record says                   Another record says               Analysis                           Sev.
+C1   Parcel area and       TC Ex. A: courses enclosing       Survey: 139,475 SF on a           Title description is wrong; use    Crit.
+     legal description     ~279,535 SF, recited "3.2         description that closes exactly   survey description; conform
+                           acres (139,392 SF)"; TS § 2                                         area recital (Part 3.1)
+                           adopts 139,392 SF and
+                           $20.45/SF
+C2   Identity of the       TC: "CLS-2025-0321,"              Survey: "CLS-2025-0417,"          Different job, surveyor, license   High
+     governing survey      Ferreira, PLS 12847, rev. May     Pellegrino, PLS-008741, April     and date; the referenced survey
+                           15, 2025                          28, 2025                          is not in the record
+C3   Bulkhead frontage     TS § 2, TC Ex. A and Survey       Survey traverse: eastern          480 ft appears to trace to the     High
+                           narrative: "approximately 480     boundary line 320.47 ft;          erroneous title description;
+                           linear feet"                      easement area 15 × 320.47 =       confirm from plat. Drives
+                                                             4,807 SF, not 7,200 SF            bulkhead cost and open-space
+                                                                                               geometry
+C4   Condemnation          TC: Vol. 367, Pg. 44; Judicial    Survey: Vol. 375, Pg. 44. TS §    Discrepancy in volume/page and     Low
+     record                District of New Haven             2: Judicial District of Port      in court; recited consistently
+                                                             Calloway                          nowhere
+C5   AMI geography for     TS § 4: "Port Calloway            TC Ex. 5: "New Haven-             Three geographies. The             Med.
+     the affordable        Metropolitan Statistical Area"    Milford, CT MSA". Survey §        recorded 2019 covenant (New
+     covenant                                                3(d): "Bridgeport-Stamford-       Haven-Milford) controls.
+                                                             Norwalk HUD Metro FMR             Premises are in New Haven
+                                                             Area"                             County
+C6   Commencement of       TS § 6: "Lease Year 6" (and TS    Board Res. recital (b): "Year 6   A three-year difference (Oct       High
+     Percentage Rent       § 5 makes Lease Year 1 =          of the Ground Lease term"         2031 vs Oct 2033) in when
+                           Rent Commencement Date)                                             Percentage Rent begins
+C7   Commencement of       TS § 10: period "shall            Client instruction; Board Res.    Three construction years           High
+     the tax abatement     commence on the Lease             recital (income years);           consumed before rent
+                           Commencement Date"                Coventry underwriting             commences; abatement value
+                                                                                               lost (Part 6.2)
+C8   LOC issuer criteria   TS § 8: rating of A- (S&P) / A3   Board Res. recital (c): "issued   Different tests; a federally       Med.
+                           (Moody's)                         by a federally chartered          chartered bank need not be
+                                                             banking institution"              A-/A3 rated, and vice versa
+
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                              |    Page 8 of 33
+                                        Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+#     Subject              One record says                   Another record says                 Analysis                            Sev.
+C9    Form of security     TS § 8 and § 15(d): irrevocable   Bayside § 4: LOC "or, at            Tenant-favourable option exists     Low
+      deposit              standby LOC only                  Borrower's option, a cash           under the loan but is unavailable
+                                                             security deposit"                   under the Term Sheet
+C10   Setoff               TS § 5: Base Rent payable         TS § 16 (Tenant remedies):          Internal conflict in the same       Med.
+                           "without demand, setoff, or       Tenant may "offset amounts          instrument; must be reconciled
+                           deduction except as expressly     due against Base Rent"              expressly (Draft § 4.6)
+                           provided"
+C11   Whether reverter     TS § 9: Lease "shall              Bayside § 5.4: "No termination      Direct conflict. A self-executing   Crit.
+      termination is       automatically terminate upon      ... shall be effective unless and   termination would defeat the
+      automatic            the expiration of such period"    until Lender has received such      lender cure rights that are a
+                                                             notice and the applicable           condition of the loan
+                                                             Lender cure periods ... have
+                                                             expired without cure"
+C12   Scope of the         TS § 9: reverter only for         TS § 16 (Landlord remedies):        Would extend forfeiture to          Crit.
+      reverter             Milestone 1 and Milestone 3       "exercise the reverter rights       bankruptcy, monetary defaults
+                                                             described in Section 9" upon        and everything else
+                                                             any uncured Event of Default
+C13   Treatment of the     TS § 13: listed as Permitted      TC Req. 7: "The Company will        The lien cannot be a Permitted      High
+      mechanics' lien      Exception No. 6                   not issue either policy ... until   Exception if the policy will not
+                                                             this requirement has been           issue over it. It must be
+                                                             satisfied". Bayside § 6(c): no      discharged
+                                                             exceptions other than those
+                                                             approved by Lender
+C14   ROFR carve-outs      TS § 11 and Draft § 11.5: no      Recorded Declaration (Sept.         A recorded instrument binds         High
+                           ROFR for mortgagee                8, 2019, Vol. 405, Pg. 55), per     regardless of the lease. Must be
+                           transfers, affiliates or change   TC Ex. 4: "does not by its          amended of record before
+                           of control                        terms contain any exception         closing
+                                                             or carve-out for transfers
+                                                             resulting from foreclosure,
+                                                             deed-in-lieu ... or assignments
+                                                             by a leasehold mortgagee"
+C15   Ground-floor         TS § 4: Project includes          ELUR and Phase II § 2.3(a):         Live enforcement and permitting High
+      residential use      "ground-floor residential lobby   prohibition on residential use      risk; unresolved in the record
+                           and amenity spaces (fitness       on the ground floor; Phase II
+                           center, package room,             expressly flags that the ELUR
+                           resident lounge, and leasing      "does not define or specifically
+                           office)" and permits              address" lobby/amenity space
+                           "residential apartments"
+C16   Affordable housing   TS § 4(a): tower contains "a      15% covenant applies to "all        The 15% obligation cannot be        Med.
+      unit count           number of residential dwelling    residential dwelling units" (TS     quantified, scheduled or
+                           units to be determined and        § 4; recorded 2019 covenant)        monitored until the unit count is
+                           specified in the Definitive                                           fixed
+                           Lease"
+C17   Affordable           TS § 4 and Board Res. § 2(b)      TC Ex. 5 notes the recorded         Six gaps; the lease must fill       Med.
+      covenant             assume a complete covenant        covenant omits (i) a                them (Draft § 14.5)
+      enforcement gaps                                       recalculation method, (ii)
+                                                             income verification, (iii) a
+                                                             monitoring entity, (iv)
+                                                             enforcement remedies, (v)
+                                                             distribution requirements, (vi)
+                                                             floor/location rules
+C18   Flood insurance      TS § 12(d): "in no event less     Bayside § 6(h): flood insurance NFIP maximum (residential               Med.
+      standard             than the maximum coverage         "in amounts satisfactory to     $250,000 building / $100,000
+                           available under the National      Lender"                         contents; commercial $500,000 /
+                           Flood Insurance Program"                                          $500,000) is a fraction of
+                                                                                             replacement cost. The two
+                                                                                             standards are incompatible
+C19   Freeboard            TS § 2; TC Ex. 9; Survey: FFE     Phase II §§ 5, 7.5:                 For a 99-year coastal term, 3 ft    Med.
+                           15 ft NAVD88 (3 ft freeboard)     recommends 4–5 ft freeboard         is likely inadequate; design,
+                                                             (FFE 16–17 ft), citing PA 23-       insurance and code-change
+                                                             167, CIRCA projections and          exposure
+                                                             municipal practice
+C20   Distortion in        Bayside term sheet dated May      Bayside § 5 refers to the           A May document cites a June         Low
+      document dating      28, 2025                          Ground Lease "the term sheet        document. Suggests Bayside
+                                                             for which is dated June 10,         updated its requirements form
+                                                             2025"                               after circulation; confirm the
+                                                                                                 operative version
+C21   Loan term against    Bayside § 2: 48 months, plus      TS § 9: Milestone 3 at 60           Phase 1 completion coincides        High
+      development          two 6-month extensions            months; Milestone 4 at 84           with maximum loan maturity;
+      program              (maximum 60 months).              months                              Phase 2 has no construction
+                           Coventry completion                                                   financing at all; Coventry's
+                           guaranty: lien-free completion                                        guaranty matures a year before
+                           "on or before the Initial                                             the Phase 1 milestone
+                           Maturity Date"
+C22   Renewal/extension    TS § 3: "No renewal options       Bayside § 5.3: New Lease for        No extension periods exist.         Low
+                           are contemplated"                 "the remainder of the original      Immaterial as drafted, but
+                                                             term (including any extension       relevant to any extension option
+                                                             periods)"                           we negotiate
+
+
+
+      Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                                |   Page 9 of 33
+                                            Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+#       Subject                One record says                  Another record says               Analysis                            Sev.
+C23     Status of the 2019     TS § 13 lists the ROFR and       Both are pre-existing recorded The lease cannot create or             Med.
+        recorded               affordable covenant as           instruments (Vol. 405, Pg. 55; amend them; they must be
+        declarations           Permitted Exceptions "as         Vol. 408, Pg. 230, both 2019)  incorporated, conformed or
+                               described in Section 11" /                                      amended of record
+                               "Section 4" as though created
+                               by the Term Sheet
+C24     Diligence windows      Survey field date April 20,      Bayside § 6(d): survey dated      For any closing after July 19,      Med.
+        against the closing    2025 / plat April 28, 2025; TC   within 90 days of closing; §      2025 the survey is stale. The
+        schedule               effective June 1, 2025,          6(a)–(c): current commitment      commitment expires before a
+                               expiring December 1, 2025        and policies                      December closing
+
+
+
+Three of these conflicts (C11, C12, C13) would each by itself prevent the loan from
+closing. Two more (C1, C14) sit in the title chain and will surface at the title company's
+desk regardless of what the lease says. We have resolved each in the Draft Lease as
+described in the last column of the table and in Part 6; where the resolution requires a
+recorded amendment or a third party's action, the Draft Lease makes it a condition
+precedent rather than a covenant to be performed later.
+
+4.2 Bayside § 5 gap analysis: the Term Sheet does not satisfy the loan
+conditions
+Bayside's § 5 lists seven required ground lease provisions and states that "every one of
+which shall constitute a condition precedent to the closing of the Loan." We compared
+each against Term Sheet § 9 and the rest of the record. None is satisfied in full. Four
+are not addressed at all; three are addressed only in part.
+Bayside requirement                   What the Term Sheet says           Gap                                   Status       Draft Lease §
+§ 5.1 Leasehold mortgage without      TS § 9: Tenant "shall have the     No express no-consent / no-fee /      Not met      § 9.1
+consent, approval, joinder or fee     right to encumber ... subject to   no-condition language; "subject
+                                      the terms and conditions of the    to" invites a later consent right
+                                      Definitive Lease"
+§ 5.2 SNDA containing items (a)–      TS § 9: SNDA "on customary         "Customary" is not a standard a       Partial      § 9.9; Ex. F
+(d), delivered before first advance   terms," form attached as exhibit   lender's counsel will accept;
+                                                                         items (a)–(d) not specified;
+                                                                         recording not required
+§ 5.3 New Lease: request within       TS § 9: mortgagee may obtain a     No request window; no                 Not met      § 9.6
+60 days of notice of termination;     New Lease on "substantially the    statement that the term is the
+remainder of original term;           same terms"; cure monetary         remainder of the original term;
+Landlord to execute within 30         within 60 days and non-monetary    no 30-day execution obligation;
+days; effective as of termination;    within 90 days "following the      no effective-date, priority or
+priority equal to terminated lease;   date of termination"               sublease-recognition provision;
+subleases recognized; non-                                               no 180-day non-monetary cure
+monetary cure up to 180 days                                             tail
+§ 5.4 Notices simultaneous; lender    TS § 9 (Default Notices): copies   Simultaneous notice only. No          Not met      §§ 9.3, 9.5
+cure 60 days (monetary) / 90 days     delivered simultaneously with      lender cure periods at all, and
+(non-monetary); "in addition to,      Tenant                             no non-concurrency clause — the
+and not concurrent with" Tenant's                                        essential protection
+cure periods; Landlord to accept
+lender cure
+§ 5.5 No voluntary surrender and TS § 9: "No Voluntary Surrender" Amendment/modification/                      Partial      § 9.4
+no material amendment without bullet only                         supplement restriction and the
+lender consent; void as against                                   voidness remedy are absent
+Lender
+§ 5.6 Foreclose and assign without    TS § 9: foreclosure and            Qualification criteria left open (a   Partial      § 9.7
+consent; qualified transferee;        assignment permitted "provided     lender wants objective tests); no
+Landlord to execute documents         that any such transferee meets     duty to execute documents; no
+reasonably requested                  reasonable financial and           recognition deadline
+                                      experience qualifications to be
+                                      established in the Definitive
+                                      Lease"
+§ 5.7 Bankruptcy protections:         Term Sheet: silent. § 16(d)        Absent entirely. As drafted, a        Not met      § 9.8
+request to assume/reject under 11     treats a bankruptcy filing as an   Tenant bankruptcy is a default
+U.S.C. § 365; lender right to cure    Event of Default                   with no lender protection
+and provide adequate assurance;
+New Lease survives rejection
+
+
+
+Implication. Bayside will not close on the Term Sheet's language. Sandra Milliken's
+team will redline the Draft Lease to its checklist in any event; the point of getting it
+right now is that the redline will not then arrive at the same time as the title objection
+
+      Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                                |      Page 10 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+and the Board approval cycle. The Draft Lease's Article 9 is deliberately drafted to
+meet or exceed each of § 5.1–5.7, and to be equally acceptable to a future refinancing
+lender (no fee, no consent, unlimited mortgagees, no cap on refinancings, protections
+running to "each Leasehold Mortgagee"), which is what Ansel needs for institutional-
+quality status.
+Your specific asks in this area were four: reverter subordination to the leasehold
+mortgage; 180 days' independent lender cure for milestone defaults; New Lease
+surviving reverter termination; and no reverter before the lender's cure period is
+exhausted. All four are in the Draft Lease (§§ 9.5(c), 9.6, 10.5(g), 10.6(e)). Note that
+neither the Term Sheet nor Bayside's own § 5.4 provides a lender cure period
+calibrated to milestone defaults — Bayside's 90-day non-monetary period assumes a
+curable default, and a missed completion milestone is not curable by writing a check.
+The 180-day period in Draft § 9.5(c), running from the expiry of Tenant's own 180-day
+cure period (i.e., a theoretical 360 days from the Authority's notice), is a provision we
+are adding for both parties' benefit: without it, a lender facing a milestone default
+could only foreclose into a forfeiture, which no lender will do.
+
+PART 5 — THE REVERTER AND IMPROVEMENT FORFEITURE: "THE
+HILL"
+
+5.1 What the record actually provides
+Term Sheet § 9 provides that if Tenant fails to achieve Milestone 1 or Milestone 3 (as
+extended), the Authority may deliver a notice specifying the failure; Tenant then has
+180 days to cure; and "the Lease shall automatically terminate upon the expiration of
+such period," whereupon (a) Tenant forfeits the $5,700,000 letter of credit, which the
+Authority "shall be entitled to draw in full," and (b) "[a]ll improvements, structures,
+and fixtures constructed, installed, or placed on the Premises by Tenant ... shall
+immediately revert to and become the sole property of the Landlord, free and clear of
+any claims by Tenant, without any payment, compensation, or reimbursement to
+Tenant."
+Four features of that drafting deserve to be named, because each is a separate
+problem:
+    •   It is automatic. Termination occurs by operation of the expiry of the cure
+        period, without any election, notice or grace. That is the feature that collides
+        head-on with Bayside § 5.4 (conflict C11).
+    •   It is not limited to milestones. Term Sheet § 16 lists "exercise the reverter
+        rights" as a general remedy for any uncured Event of Default, which would
+        extend forfeiture to a monetary default, a bankruptcy filing or an insurance
+        lapse (conflict C12).
+    •   It double-counts. The Authority takes both the deposit and the
+        improvements. The deposit is already 24 months of Base Rent; the
+        improvements may be worth fifty times that.
+    •   It purports to extinguish the mortgage. "Free and clear of any claims by
+        Tenant" cannot, as a matter of recorded priority, extinguish a leasehold
+        mortgagee's interest, and Bayside will not treat it as doing so. But it is exactly
+        the language that makes the leasehold mortgage unmarketable, because the
+        lender's only remedy — foreclosure into the leasehold — leads to the forfeiture
+        it was lending against.
+The Board has been told that the lease will contain "reverter rights in favor of the
+Authority in the event of Tenant's failure to achieve such milestones" (Resolution No.
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 11 of 33
+                                      Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+2025-047, § 2(a)). The Draft Lease preserves a reverter. What it removes is the
+uncompensated forfeiture. That distinction is the single most important framing point
+in the negotiation, and it is accurate: the Authority still gets the land back, still gets
+the improvements, and still gets a defined remedy.
+
+5.2 Exposure, quantified
+Component                                 Amount                      Timing                  Source
+Security deposit forfeited                $5,700,000                  On reverter             TS § 9(b); TS § 8
+                                                                      termination
+Improvements forfeited                    $200,000,000 –              By Milestone 3          Your June 15 email;
+                                          $300,000,000                (October 1, 2030)       consistent with
+                                                                                              $352,000,000 total hard
+                                                                                              costs and Phase 1 being
+                                                                                              the residential tower
+                                                                                              plus retail
+Total forfeiture                          $205,700,000 –              Single milestone miss   Computed
+                                          $305,700,000
+Authority's actual damages on a 24-       ≈ $5,700,000 – $7,300,000   24 months of Base       Computed from TS § 5
+month slip of Milestone 3                                             Rent at the then-       schedule
+                                                                      current rate
+Ratio of forfeiture to damages            ≈ 28× to 54×                —                       Computed
+
+
+The final row is the heart of the matter. On a two-year slip in achieving Substantial
+Completion of Phase 1 — a slip that a DEEP approval, a coastal permitting appeal or a
+supply-chain failure could produce — the Authority's genuinely compensable loss is on
+the order of two years of ground rent, because Base Rent is the only thing it was going
+to receive in that period (and Percentage Rent does not begin until Lease Year 6). The
+provision delivers it between $206 million and $306 million. That is not a remedy
+proportioned to the harm; it is a transfer of the entire project.
+
+5.3 Is it enforceable? Our assessment, and its limits
+You asked us to research whether Connecticut law provides relief against a
+disproportionate forfeiture, and you recalled a "Stamford project" case. We have not
+verified a Connecticut case on point, and we should not cite one until we have.
+What follows is our assessment of the governing principles and of the risks on both
+sides; Part 7 identifies the research that must be completed before any of this is put in
+front of Mr. Koss or the Board.
+The argument for Tenant
+The provision has two doctrinal vulnerabilities. First, penalty. A contractual term that
+fixes damages in an amount grossly disproportionate to the loss that the parties could
+reasonably have anticipated is an unenforceable penalty rather than a valid liquidated
+damages provision. The Restatement (Second) of Contracts states the rule at § 356(1),
+and Connecticut follows the general rule. On the numbers in Part 5.2 above, the
+disproportion is on the order of 28× to 54×, which is well outside any range a court is
+likely to accept as a forecast of harm.
+Second, forfeiture. Equity relieves against forfeiture where the forfeiture would be
+disproportionate to the breach and the injured party can be adequately compensated
+(Restatement (Second) of Contracts §§ 208, 229; the Restatement (Third) of Property
+(Landlord and Tenant) treats forfeiture as a disfavoured remedy). A 99-year ground
+lease under which a tenant invests $425 million on land it does not own is the
+paradigm case for the application of that principle, and the Authority's own internal
+documents describe the public benefits it expects to receive from the completed
+project.
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025             |   Page 12 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+Third, and practically most important: the leasehold mortgagee's interest is a
+separate property interest. A provision that purports to wipe it out "free and clear of
+any claims" will be tested against a lender with $285 million at stake and its own
+counsel. Whatever the outcome, the Authority would be litigating against a secured
+creditor with priority, not merely against Meridian.
+The argument against Tenant — and why we must not rely on the defense
+There are two credible counter-arguments, and you should hear them clearly. (i)
+Forfeiture of a leasehold is different. Courts have traditionally enforced conditional
+limitations and forfeiture clauses in leases more readily than they strike liquidated
+damages clauses in ordinary commercial contracts, on the theory that the landlord's
+reversion is a property right and the tenant takes subject to the condition. (ii)
+Sophisticated parties, public landlord. The Authority will argue that Meridian is a
+sophisticated developer that negotiated a public-benefit-laden ground lease with
+counsel, that the milestones are public obligations, and that a court should not rewrite
+the bargain that a public body obtained for public land.
+So the provision might well be enforced. That is precisely why an unenforceability
+argument is not a strategy: Bayside will not lend $285 million against a litigable
+defense, and by the time the question is answered, the project will have failed. The
+provision must be fixed in the document. If the Authority's counsel argues that the
+provision is enforceable and therefore need not change, the answer is that the
+Authority is welcome to that view but that no institutional lender will accept it, and the
+transaction will not close.
+
+   Research status — do not cite yet. The legal propositions in this section are stated at
+   the level of restated general principle, not as verified Connecticut authority. The
+   "Stamford project" case you recalled could not be identified from the record and we have
+   not located it. Before any of this is used in a letter, at the Board table, or in a brief, we
+   must (i) locate and Shepardize Connecticut appellate authority on penalties and on relief
+   from forfeiture in leases, (ii) confirm whether a Connecticut court would treat the reverter
+   as a conditional limitation enforceable according to its terms, and (iii) confirm the effect of
+   the leasehold mortgagee's intervening interest. Item 7.1 of Part 7.
+
+
+5.4 What the Draft Lease does
+The reverter is a defined, sequenced, compensated remedy. Mechanically, the Draft
+Lease:
+    •   Retains the reverter for Milestone 1 and Milestone 3 only, and expressly
+        confines it there: failure of Milestone 2 or Milestone 4 gives no remedy beyond
+        notice and consultation (§ 3.5), and the Milestone remedy is Landlord's "sole
+        and exclusive remedy" for a milestone default (§ 10.3).
+    •   Removes automatic termination (§ 10.5(f)), substituting a valid notice, a
+        180-day Tenant cure period, a 180-day lender cure period, and a 30-day
+        election window — after which the Authority is deemed to have waived that
+        milestone default (§ 10.5(e)). Waiver matters: it prevents an Authority from
+        sitting on a stale default for years and then terminating.
+    •   Requires the Improvement Payment (§ 10.6(a)): the greater of the
+        appraised fair market value of the Improvements or Tenant's unreimbursed
+        hard costs, less insurance and condemnation recoveries not applied to
+        restoration, less Landlord's Documented Damages. That is your option (a) and
+        your option (b) from the June 15 email, in the alternative rather than the
+        conjunctive, with the higher of the two governing.
+    •   Caps the Authority's damages (§ 10.7) at accrued rent, 24 months of Base
+        Rent at the then-current rate, re-letting costs and enforcement costs, and
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 13 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+        excludes lost Percentage Rent, lost tax revenue, the                            value   of     the
+        Improvements, and consequential and speculative amounts.
+    •   Follows the compensation with real teeth (§ 10.6(c)): the Improvement
+        Payment is due within 60 days, may be secured by a first lien on the
+        Improvements at Tenant's election, and the Authority may not take possession
+        or lease the Improvements to a third party until it has paid or secured.
+    •   Makes the reverter subordinate to the leasehold mortgage and conditional
+        on the lender's rights being exhausted (§ 10.5(g)), which is the Term Sheet
+        change Sandra Milliken requires.
+    •   Keeps the Authority whole on the public side (§ 10.6(f)): on any reverter
+        the Authority takes subject to the ELUR, the affordable housing covenant, all
+        subleases and the open-space obligation — which is what the Authority
+        actually wants, since it will be the owner of an operating building.
+    •   Adds a paid escape valve (§ 3.4(d), bracketed): Tenant may buy 6-month
+        extensions of Milestone 1 or 3 rather than face forfeiture. For a landlord, an
+        extension fee is a certain receipt; for a tenant, it is a way to survive a
+        permitting overrun. It is often the provision that lets both sides sign.
+Two further protections are worth flagging for your call: the appraisal mechanic (§
+10.8) uses two MAI appraisers and a third if they differ by more than 5%, with the
+valuation made disregarding the remaining term and the reversion — which prevents
+the Authority from arguing that a 99-year leasehold is worth little. And § 10.5(h) bars
+termination for a Milestone 3 miss if Substantial Completion has actually been
+achieved.
+
+5.5 How to sell it to the Authority
+The Authority's counsel will treat the reverter as a deal point it cannot give up,
+because the Board resolution recites it. The argument that has the best chance of
+moving them is not proportionality rhetoric; it is the following, in this order:
+    •   An unenforceable remedy is worth nothing. If a court strikes the forfeiture
+        as a penalty, or relieves against the forfeiture, the Authority is left with a lease
+        still in force, a tenant it wants to remove, and no remedy at all. A compensated
+        reverter is a remedy a court will enforce.
+    •   The lender is the reason. The Authority's own recital records that the
+        ground lease must contain provisions satisfactory to the construction lender
+        (Resolution recital). Bayside has said in terms that the reverter as written
+        would jeopardize the leasehold mortgage. The Authority cannot have both an
+        uncompensated reverter and a $285 million construction loan.
+    •   The Authority still gets the building. On a reverter at 95% complete the
+        Authority acquires a nearly finished residential tower and retail podium,
+        subject to a defined payment that is largely funded by the value of the asset it
+        is receiving. It is not paying $300 million; it is paying the appraised value out
+        of the asset it keeps.
+    •   The Authority's real leverage is elsewhere, and we will give it that
+        leverage. If the Authority wants enforcement teeth, we will trade: extension
+        fees and delay charges payable to the Authority; a step-up in Base Rent during
+        any period of milestone delay; Board reporting on construction progress; a
+        right to approve a replacement developer; and the 180-day cure running from
+        the Authority's notice rather than from any later event. Those are teeth that
+        bite without destroying the collateral.
+Walk-away position. If the Authority will not move on compensation, the minimum
+acceptable outcome is: (i) no forfeiture of the Improvements where Phase 1 is more
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 14 of 33
+                                Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+than 50% complete; (ii) no forfeiture for delay caused by permitting, DEEP or coastal
+approvals, or by the Authority's own acts; (iii) no forfeiture while a lender is curing;
+(iv) the deposit applied to actual damages with the excess returned; and (v) the
+Improvement Payment limited to hard cost reimbursement net of recoveries and
+damages. If none of that is available, the transaction should not proceed, because the
+loan will not close.
+
+PART 6 — OTHER SUBSTANTIVE ISSUES, ANALYZED
+
+6.1 Percentage rent: the Breakpoint is a fixed number in a 99-year lease
+Term Sheet § 6 fixes the Breakpoint at $28,500,000 and states that it "is a fixed dollar
+amount and shall remain unchanged for the duration of the Lease Term." Base Rent,
+meanwhile, escalates at 2.5% compounded for 15 years and then resets on a CPI floor
+at each tenth anniversary. The consequence is arithmetic, not argument:
+Model: Base Rent escalated at the 2.5% floor; Breakpoint held at $28,500,000; deflated at
+the same 2.5%.
+Lease Year    Base Rent (2.5% floor)   Fixed Breakpoint       Breakpoint ÷ Base     Breakpoint in Year-1
+                                                              Rent                  dollars
+6                         $3,224,513            $28,500,000                 8.84×               $25,189,847
+16                        $4,127,650            $28,500,000                 6.90×               $19,678,268
+26                        $5,283,741            $28,500,000                 5.39×               $15,372,632
+36                        $6,763,635            $28,500,000                 4.21×               $12,009,075
+46                        $8,658,024            $28,500,000                 3.29×                $9,381,471
+56                       $11,083,003            $28,500,000                 2.57×                $7,328,790
+66                       $14,187,181            $28,500,000                 2.01×                $5,725,239
+76                       $18,160,791            $28,500,000                 1.57×                $4,472,547
+86                       $23,247,348            $28,500,000                 1.23×                $3,493,947
+96                       $29,758,571            $28,500,000                 0.96×                $2,729,466
+
+
+Read the last two columns together. By Lease Year 96 the fixed Breakpoint is
+smaller than Base Rent — so Percentage Rent is payable on essentially every dollar
+of gross revenue above the rent roll's own fixed charge, i.e. it becomes a 2% tax on
+gross receipts. And in real terms the Breakpoint has decayed to $2.73 million, which
+is below today's Base Rent of $2.85 million. In other words, the mechanism the parties
+agreed to as a share of upside becomes, within one lifetime, a charge larger in real
+terms than the ground rent that existed when the deal was struck. That is your worry,
+and it is well founded.
+There is a second, separate problem. Because both limbs of the reset formula are
+computed from the initial Base Rent rather than from the then-current rent, Base Rent
+is flat within each ten-year band and then jumps by the whole cumulative index in one
+step. At 2.5% inflation, each reset after Year 16 is a 28.0% single-year increase; at
+3.5% inflation the Year 16 step is +30.9%, and at 4.5% it is +51.2% (Appendix 2). Step
+increases of that size do not merely look arbitrary; they will trip debt service coverage
+tests at each refinancing, which is an institutional-quality problem for Ansel as well as
+for us.
+What the Draft Lease does. Section 5.3 resets the Breakpoint at each Rent Reset
+Date so as to preserve the Lease Year 6 ratio of Breakpoint to Base Rent (8.84×). That
+is the single change that keeps the mechanism doing what both sides intended in Year
+60 as in Year 6, and it is easy to explain: the percentage rent shares revenue growth
+above the rent growth the landlord is already capturing. We have also flagged, in a
+bracketed note in Section 4.4, an alternative rent mechanic — annual CPI adjustment
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025    |   Page 15 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+with a 0% floor and a 4% ceiling — which removes the reset cliffs without changing the
+long-run economics. Both are Tenant positions; expect the Authority to resist the
+Breakpoint indexation first and the collar second. Our fallbacks are set out in the note
+to Section 5.3 (CPI-only indexation; a declining rate; or a cap on Percentage Rent at
+25% of Base Rent).
+Gross Revenues. Your instruction was to define this tightly, and the Draft Lease does.
+Section 5.2 is drafted as an exhaustive inclusion list plus fifteen exclusions, and it
+omits the Term Sheet's open-ended "all rents, fees, charges, and other income of every
+kind" formulation. The exclusions cover everything you listed — security deposits,
+utility reimbursements, insurance proceeds, condemnation awards, CAM and other
+pass-throughs, interest on reserves, loan proceeds, capital contributions, free rent and
+concessions, amounts billed but not collected, sales taxes collected and remitted, the
+value of the tax abatement, and at-cost service charges. We also changed three
+mechanics that would otherwise create disputes: cash basis rather than "GAAP
+consistently applied" (GAAP straight-lining would manufacture revenue that has not
+been collected), project-level only (so consolidated affiliate income is out of scope),
+and a 24-month audit look-back with a 12-month audit window, a confidentiality
+undertaking, and no contingency-fee auditors.
+
+6.2 Tax abatement: three separate problems, one of which is not curable by
+the lease
+You asked us to make sure the abatement applies during the income-producing years.
+There are three distinct issues, in ascending order of seriousness.
+(a) Measurement base. The percentages (25% / 50% / 75%) are applied to "the full
+post-development assessed value," and the Term Sheet then illustrates the result using
+$178,000,000. We have drafted the clause to apply to the assessed value the Assessor
+actually determines (Section 6.6), with the $178,000,000 figures expressly illustrative.
+You do not want to be locked to a $178,000,000 base if the Assessor comes in at
+$200,000,000, nor does the Authority want to be locked to it if the Assessor comes in
+lower; the percentage mechanic is the deal, not the dollar projection.
+(b) Starting date — this is the timing point you raised. Term Sheet § 10 provides
+that the 15-year period "shall commence on the Lease Commencement Date," i.e.
+October 1, 2025. But the improvements will not be on the grand list until they are
+substantially complete, around October 2030. On that structure, five of the fifteen
+years are consumed before the asset exists, and the 25% band — the most valuable
+band — covers a period in which the property is assessed as vacant land. On our
+computation the nominal value of the abatement is $46,391,250 over fifteen years; on
+the Term Sheet's structure a significant part of that is simply unattainable. Section 6.7
+re-anchors the period to the later of the Rent Commencement Date and the first fiscal
+year in which the completed Improvements are reflected in the assessment. Expect
+this to be the hardest of the three to obtain, because the City may have its own fiscal-
+year constraints; it is nevertheless the single highest-value, lowest-visibility change in
+the document, and Coventry's model depends on it.
+(c) The obligor is not a party to the lease. The abatement is granted and
+administered by the City of Port Calloway, not by the Authority; the Board resolution
+itself contemplates "a separate tax abatement agreement between Meridian and the
+City of Port Calloway." The Authority therefore cannot grant the abatement, and a
+covenant by the Authority to provide it is worth only what the Authority's influence
+with the City is worth. Section 6.9 obliges the Authority to use diligent efforts and to
+join in all applications and hearings, and Section 2.3(f) makes execution of the Tax
+Abatement Agreement a condition precedent to Lease Commencement. But the
+protection you actually need is a financial backstop, so Section 6.8 provides one: if the
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 16 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+abatement is not implemented, is reduced or is repealed for any reason not
+attributable to Tenant, Tenant receives a dollar-for-dollar credit against Base Rent for
+the excess taxes. That converts a political risk into a rent adjustment, which is a risk
+the Authority controls and can therefore price.
+
+   Not curable in the lease. We have not verified the City's statutory authority to grant a
+   fifteen-year, three-tier abatement. Connecticut's tax-abatement statutes impose term
+   limits and procedural requirements (public hearing, legislative-body approval), and
+   different provisions apply in different contexts, including urban renewal and
+   redevelopment areas. If the fifteen-year structure is outside the City's authority, or if the
+   required hearing is not held, the pro forma does not work and no amount of lease drafting
+   fixes it. This should be confirmed with Connecticut municipal finance counsel
+   before the Board votes, not after. Item 7.2 of Part 7.
+
+
+6.3 ELUR: the ground-floor residential prohibition against a ground-floor
+residential program
+The ELUR prohibits residential use on the ground floor of any structure on the
+Premises because near-surface soils exceed the Residential Direct Exposure Criteria.
+The Term Sheet describes the Project as including "ground-floor residential lobby and
+amenity spaces (fitness center, package room, resident lounge, and leasing office)" and
+permits "residential apartments" without a floor restriction. Halcyon addressed the
+tension directly and did not resolve it: the ELUR defines residential use as "habitable
+space at or below finished grade elevation intended for residential dwelling, sleeping,
+cooking, or eating purposes" and "does not define or specifically address non-habitable
+spaces such as building lobbies, mail rooms, fitness centers, package rooms, leasing
+offices, or common amenity areas." Halcyon's recommendation is a formal DEEP
+interpretation or variance before the design is finalized.
+This matters in three ways that are easy to miss. First, permitting. DEEP approval is
+on the critical path to Milestone 1, and an ELUR enforcement question can stop a
+building permit. Second, the milestone clock. If DEEP's interpretation requires a
+redesign of the ground floor, the delay will count against Milestone 1 (18 months)
+unless it is expressly treated as a force majeure event or a permitting delay — which is
+why Section 7.8(b) and Section 3.4 say so. Third, cost allocation. An ELUR
+modification application is expensive, and it is expensive because of a pre-existing
+condition the Authority created and disclosed in 2018, not because of anything Tenant
+did. Section 7.8(a) puts that cost on the Authority.
+There is a helpful physical fact in the record that the parties should not lose: the
+project's ground floor will be at finished floor elevation 15 feet NAVD88, while
+existing site grades run from approximately 10.2 to 14.8 feet NAVD88 and the BFE is
+12 feet. On the ELUR's own definition (space "at or below finished grade elevation"), a
+slab at 15.0 feet is above grade across essentially the whole site. That is a strong
+argument that the ground floor is not within the restricted zone at all — but it is an
+argument, not a determination, and DEEP has not been asked. Section 7.8(c) records
+the point for use in the application.
+Two related ELUR obligations that appear nowhere in the Term Sheet and are now in
+the Draft Lease: the ELUR's prohibition on potable water supply wells (Section 7.7(e)),
+and the annual ELUR compliance certification to DEEP (Section 7.7(f)). The latter
+raises an allocation question the Term Sheet does not answer: the certification is
+required of the "owner, operator, or designee," and the fee owner is the Authority.
+Section 7.7 obliges the Authority to join in any filing requiring the fee owner's
+signature within ten business days. Finally, note the interaction between the 24-inch
+engineered barrier and the 8,000 square feet of public open space: landscaping and
+tree planting over a capped area is constrained by both the barrier specification and
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 17 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+the prohibition on ground disturbance below two feet without a DEEP-approved Soil
+Management Plan (Section 14.4, final sentence).
+
+6.4 Remediation: the $2.4 million estimate is not a cap, and Tenant bears
+every dollar above it
+Term Sheet § 7 provides a fixed $1,800,000 credit and makes Tenant responsible for
+the $600,000 balance and for "any actual remediation costs in excess of the
+$2,400,000 estimate." Because the credit is fixed, Tenant keeps the benefit if costs
+come in lower and absorbs the whole of any overrun. Three observations.
+First, the estimate has arithmetic problems (Part 2.6): the contingency lines
+labelled "10%" are 5.71% and 4.76%. If 10% is intended, the total is $2,502,500 and
+Tenant's residual is $702,500 rather than $600,000.
+Second, and much more seriously, the estimate almost certainly does not cover
+the excavation the project actually requires. Halcyon's estimate assumes
+excavation of the two delineated areas: 933 cubic yards in Area 1 and approximately
+600 in Area 2 — about 1,533 cubic yards of contaminated soil, priced on a material
+handling volume of about 3,700 cubic yards. But the Term Sheet's project description
+includes "structured and/or below-grade parking," and a below-grade parking
+structure across any meaningful part of a 139,392 square foot site generates a
+different order of magnitude:
+Excavation footprint       Depth            Soil volume               Multiple of the 1,533 CY of
+                                                                      delineated contamination
+20,000 SF                           12 ft                  8,889 CY                                      5.8×
+40,000 SF                           12 ft                 17,778 CY                                  11.6×
+60,000 SF                           12 ft                 26,667 CY                                  17.4×
+
+
+Every cubic yard excavated below the cap must be handled under a DEEP-approved
+Soil Management Plan, and much of it will require characterization, stockpiling,
+testing and — where it is or may be impacted — licensed disposal. The estimate does
+not address this, and the ELUR separately prohibits excavation below the engineered
+barrier without DEEP's written approval, which is itself a schedule item for Milestone
+1. On the record before us, the probability that Tenant's remediation cost exceeds $2.4
+million is high, and the excess is 100% Tenant's under the Term Sheet.
+Third, the contamination is the Authority's legacy. The Premises were a ship
+repair and dry dock facility from 1942 to 1987; the Authority acquired the land by
+condemnation in 2012, performed a partial remediation in 2016–2017, and recorded
+the ELUR in 2018. Tenant did none of it. Section 7.4(c) therefore draws the line where
+it belongs: Tenant bears the cost of remediating the two areas the Phase II delineated,
+and Landlord bears the cost of a Pre-Existing Environmental Condition that was not
+identified, delineated or quantified — undiscovered contamination, contamination
+beyond the delineated depths, off-site migration, groundwater and sediment impacts,
+and any DEEP-imposed requirement not contemplated by the Phase II. Section 7.5
+adds a full Landlord indemnity for Pre-Existing Environmental Conditions, running to
+Tenant, its members, its agents and each Leasehold Mortgagee. Section 7.6 caps
+Tenant's reciprocal indemnity. Together these are the most important economic
+protections in Article 7 after the credit itself, and they are the provisions most likely to
+be resisted; expect the Authority to offer a smaller version of § 7.4(c), such as a shared
+overrun above a threshold. A 50/50 sharing above $2.4 million would be an acceptable
+landing zone.
+One further point on the credit mechanics, which you asked us to make unambiguous.
+Section 7.2 states the waterfall as a table (months 1–7 at zero, month 8 credit
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025     |   Page 18 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+$137,500 with $100,000 payable, month 9 onward full rent), confirms that the credit is
+not reduced by any other credit or abatement, allows unabsorbed credit to be applied
+against other Rent or paid in cash, and — the provision that was missing — requires
+Landlord to pay any unapplied balance in cash if the lease ends before the
+credit is exhausted. Without that last sentence, an early termination (say in month 3)
+would forfeit roughly $962,500 of credit that Tenant had effectively paid for through
+its remediation work.
+
+6.5 Bulkhead: an unquantified structural liability inside a triple-net lease
+Halcyon inspected approximately 480 linear feet of bulkhead and found it in "fair to
+poor condition," with lateral displacement, longitudinal and transverse cracking,
+deteriorated and missing timber lagging, and erosion of backfill. The survey adds
+spalling of the concrete cap, corrosion of the sheet piling, and "evidence of partial
+demolition activity ... consistent with work reportedly performed by Calloway Marine
+Demolition Inc.," including removal of approximately 40 linear feet of concrete cap.
+Halcyon recommends an independent structural engineering assessment and expressly
+excludes bulkhead repair or replacement from its $2.4 million cost estimate. The Term
+Sheet says nothing about the bulkhead at all.
+Under a triple-net ground lease, and again under the surrender obligation in Term
+Sheet § 18 ("good condition, reasonable wear and tear excepted"), that liability lands
+on Tenant — for an asset that was already deteriorated when the Authority delivered it
+and that the Authority's own contractor partially demolished in 2025. Section 2.9(b)
+requires the Authority to commission and pay for the structural assessment before
+Lease Commencement, and Section 14.3 offers the alternative allocation (Authority
+repairs, or Tenant repairs with a dollar-for-dollar rent credit), with an express carve-
+out from Tenant's maintenance obligation for any pre-existing structural deficiency
+documented in the assessment. We recommend obtaining the assessment now, before
+the lease is negotiated, because the size of the number will determine which allocation
+is realistic. Note also that bulkhead work will require coastal permits (Structures,
+Dredging and Fill; tidal wetlands) and City cooperation, and that the bulkhead sits at
+or near the pedestrian access easement, whose terms prohibit permanent structures —
+Section 14.3(d) addresses both.
+
+6.6 The mechanics' lien: the Term Sheet cannot make it a Permitted
+Exception
+A $187,500 mechanics' lien was filed on April 3, 2025 by Calloway Marine Demolition
+Inc. against the Authority's fee interest (Vol. 418, Pg. 302) for bulkhead demolition
+work. Term Sheet § 13 lists it as Permitted Exception No. 6 — that is, the lease would
+insure subject to it. The title commitment says the opposite in terms: "The Company
+will not issue either policy described in Schedule A until this requirement has been
+satisfied," and until then "Exception No. 6 shall remain as an exception to coverage."
+Requirement No. 7 offers three routes — discharge, a bond under Conn. Gen. Stat. §
+49-37, or an indemnity from the fee owner. Bayside § 6(c) separately requires that all
+exceptions be reviewed and approved by the Lender.
+The lien arises from work performed for the Authority, on the Authority's fee, before
+Tenant had any interest. Tenant should not pay it, insure over it, or accept it. Section
+2.9(a) puts the obligation on Landlord at its sole cost, and Section 2.3(h) makes
+discharge or bonding a condition precedent. There is also an unresolved question
+worth asking: the demolition work that generated the lien is the same work that
+removed 40 feet of bulkhead cap. The Authority should be asked whether it has a claim
+against the contractor, and whether the lien is being defended rather than simply paid
+— because if the contractor's work is the cause of the bulkhead damage described in
+Part 6.5, that is a cost the Authority should bear twice over.
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 19 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+6.7 The recorded right of first refusal will bind regardless of what the lease
+says
+Term Sheet § 11 creates a ROFR for the first twenty years, with no carve-out for
+Leasehold Mortgagee enforcement. But there is also a recorded Declaration of Right
+of First Refusal dated September 8, 2019 (Vol. 405, Pg. 55), and the title commitment
+tells us exactly what it does not contain: it "does not by its terms contain any exception
+or carve-out for transfers resulting from foreclosure, deed-in-lieu of foreclosure, the
+exercise of remedies by a leasehold mortgagee, or assignments by a leasehold
+mortgagee or its designee following a foreclosure or acceptance of a deed-in-lieu," and
+it "is binding upon the Tenant and all successors and assigns."
+That is a direct collision with Bayside § 5.6 (unconditional right to foreclose and assign
+without Landlord's consent) and with the 100% membership-interest pledge Bayside
+requires under § 4. A lease provision cannot cure it; only a recorded amendment can.
+Section 11.5 of the Draft Lease narrows the ROFR in four ways (direct assignments for
+value only; no ROFR for Permitted Transfers, mortgagee transfers, recapitalizations or
+New Leases; acquisition subject to the leasehold mortgage and requiring the
+mortgagee's consent or payoff; lapse if the Authority elects but fails to close) and the
+drafting note records that the recorded Declaration "must be amended of record"
+before Lease Commencement. Exhibit B, Part 4 describes the permitted exception as
+the Declaration as so amended.
+There is a secondary point in your instruction that the ROFR should not "interfere with
+the financing or any future recapitalization." Term Sheet § 11's Affiliate definition is
+reasonably broad, but it captures control, not economic interest, so a Coventry-led
+recapitalization in which Coventry's fund brings in a new institutional partner and
+Meridian's sponsorship interest is diluted could be argued to be a non-Affiliate
+transfer. Section 11.3 addresses this with a ten-item Permitted Transfers list including
+transfers of direct or indirect ownership interests, pledges and foreclosures of
+membership interests, buy-sell and drag-along exercises, transfers to Coventry
+vehicles, and a 20% look-through test. Section 11.7 then states expressly that no
+change of control is an assignment. We recommend confirming that list with Ansel,
+because it is his exit path that is being protected.
+
+6.8 Security deposit: two ambiguity traps and a conflict
+The amounts are right (24 × $237,500 = $5,700,000; 12 × $237,500 = $2,850,000),
+and the step-down concept is standard. Three problems remain. (a) "Overall
+occupancy rate of 90%" is undefined in a three-product-type project — 90% of
+units, of rentable square feet, of each component, or blended? A project that is 95%
+leased residentially and 70% leased in the office building is not 90% occupied by any
+measure the parties will agree on after the fact. Section 8.4(a) defines an Occupancy
+Rate as rentable square footage leased over rentable square footage completed, tested
+only against completed buildings, with residential measured on unit net rentable area.
+(b) Documentation and timing were missing; Section 8.4(b)–(c) requires a certified
+rent roll and officer's certificate, gives the Authority 30 days to object (deemed
+approved), and requires the amendment or replacement letter of credit within 10
+business days. (c) The "twelve months of the initial Base Rent" characterisation
+is already stale — if 90% occupancy is first achieved in, say, Lease Year 8, Base Rent
+is $268,709 a month and $2,850,000 is less than eleven months' rent. We have drafted
+the reduction as a fixed $2,850,000 with no reinstatement (Section 8.4(d)), which is the
+Tenant-favourable reading; the Authority may ask for twelve months of then-current
+rent, which we would resist.
+The conflict is the issuer test: Term Sheet § 8 requires an A-/A3 bank; the Board
+resolution recital describes a "federally chartered banking institution." Section 8.3
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 20 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+accepts either, and Section 8.2 preserves Bayside's own option (§ 4) of a cash deposit.
+Two further Tenant protections are worth noting: draws are limited to amounts finally
+determined to be due (Section 8.5), and a failure to renew the letter of credit is not a
+default until ten business days after notice (Section 8.8). The Term Sheet made non-
+renewal an immediate Event of Default.
+
+6.9 Insurance: the NFIP "maximum" standard cannot work on this site
+Term Sheet § 12(d) requires flood insurance "in no event less than the maximum
+coverage available under the National Flood Insurance Program or equivalent private
+market policy." The NFIP maximum for a commercial building is $500,000 ($250,000
+for a residential building) plus contents — against a project with a $425 million cost
+basis sitting entirely within Zone AE. Bayside § 6(h) requires flood insurance "in
+amounts satisfactory to Lender," which will mean full replacement cost. Section 12.1(f)
+reconciles the two by requiring NFIP maximum plus excess flood or difference-in-
+conditions coverage to full replacement cost. That is more coverage and more premium
+than the Term Sheet contemplated; it is also the only version that survives a lender's
+insurance review, so we recommend raising it with Mr. Koss as a correction rather
+than a concession.
+Two smaller points. Term Sheet § 12 names the Authority as an additional insured on
+the all-risk property policy; an additional-insured endorsement is the wrong
+instrument for a fee owner's interest (a mortgagee/loss-payee endorsement or a waiver
+of subrogation is the right one), and Section 12.2 confines the Authority to additional
+insured on the liability policy. And Phase II recommends a pollution legal liability
+policy with a term reflecting the length of the ground lease; Section 12.1(e) requires,
+to the extent available on commercially reasonable terms, multi-year coverage for Pre-
+Existing Environmental Conditions, with Section 7.9 directing proceeds to the
+remediation cost.
+
+6.10 Assignment, subletting and the interaction with the loan documents
+Three documents impose three regimes: Term Sheet § 11 (consent plus ROFR for non-
+Affiliate assignments, free subletting), Bayside § 5.6 (foreclosure and assignment
+without consent) and Bayside § 4 (first-priority pledge of 100% of the membership
+interests in Meridian). The pledgor's problem is that a foreclosure of the pledged
+membership interests is a change of control, which a naively drafted assignment clause
+could read as a prohibited transfer. Section 11.3 resolves it expressly, and Section 11.7
+states that no change in ownership or control is an assignment. Section 11.2 preserves
+subletting freedom, which matters more than it looks: with a 28-story residential
+tower, a leasing office that cannot sign residential leases without consent is not a
+leasing office.
+
+6.11 Affordable housing: the covenant is agreed, but it is not yet a workable
+instrument
+You are right that this should not be contentious. But the title commitment's own note
+identifies six things the recorded 2019 Declaration of Restrictive Covenants does not
+specify: how the 15% is recalculated if the unit count changes, income verification
+procedures, a monitoring or enforcement entity, the consequences of non-compliance,
+whether units must be distributed through the project, and any floor or location rules.
+Section 14.5 fills all six — with the important overlay that the ELUR's ground-floor
+restriction means affordable units must be on upper floors (Halcyon says so expressly),
+which also means the covenant and the ELUR should be read together. Two drafting
+choices are yours to confirm: the AMI geography (we adopted New Haven-Milford, the
+geography in the recorded covenant, because the Premises are in New Haven County;
+the Term Sheet says "Port Calloway MSA" and the survey says "Bridgeport-Stamford-
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 21 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+Norwalk," and at least one of those is wrong), and the remedy (we have limited the
+Authority to specific performance and injunctive relief, with no default, no reverter and
+no draw on the deposit — a breach of a 15% covenant should never forfeit a $425
+million project).
+
+6.12 Flood resilience: three feet of freeboard for a 99-year coastal lease
+All three of the term sheet, title commitment and survey settle on a finished floor
+elevation of 15 feet NAVD88 — three feet above the BFE of 12 feet. Halcyon
+recommends 16 to 17 feet (four to five feet of freeboard), citing Connecticut Public Act
+23-167 (2023), CIRCA's projections (20 inches by 2050 and up to 80 inches by 2100
+under high-emission scenarios), the emergence of four-to-five-foot municipal standards
+in coastal Connecticut, the fact that roughly 60% of the parcel lies at or below the BFE,
+and a November 2024 nor'easter that put water at approximately 10.5 feet NAVD88 at
+this bulkhead. The FIRM panel is dated January 15, 2020 and will be revised during
+the Term.
+Section 15.3 holds 15 feet as the contractual minimum (as negotiated) but permits
+Tenant to build higher, and Section 15.4 allocates code change over the Term to
+Tenant with the benefit of any phased-compliance or hardship relief, no rent increase,
+and a force-majeure/permitting extension for the time needed to obtain relief. Our
+commercial recommendation is that you evaluate now, not in 2040, whether to build to
+16–17 feet: the incremental structural cost on a 28-story tower is small relative to the
+cost of a later retrofit or of uninsurable ground-floor retail, and it will be far easier to
+persuade the Authority and Bayside to accept a higher elevation at design stage than
+to explain a flood claim later.
+
+6.13 The financing does not cover the development program
+Two mismatches in the loan documents should be raised with Sandra Milliken before
+the loan documents are negotiated. First, the construction loan has a 48-month term
+with two 6-month extensions — a maximum of 60 months — while Milestone 3 (Phase 1
+substantial completion) is set at 60 months and Milestone 4 (the office building) at 84
+months. Phase 2 is therefore unfinanced, and Phase 1 completion coincides with final
+maturity rather than preceding it. Second, Coventry's completion guaranty under
+Bayside § 4 guarantees lien-free completion "on or before the Initial Maturity Date,"
+i.e. 48 months from closing; but the ground lease allows 60 months for Phase 1.
+Coventry could be in default of its guaranty a full year before the ground lease
+milestone is missed. These are loan-document issues rather than lease issues, but they
+will surface in the same negotiation and they affect how much enforcement pressure
+the Authority can apply through us.
+
+6.14 Closing mechanics: three dates that will not line up
+    •   The survey goes stale on July 19, 2025 for purposes of Bayside § 6(d),
+        which requires a survey "dated within ninety (90) days of the closing date."
+        The field survey is April 20, 2025. Any closing after July 19 requires a re-
+        certification or update. Section 2.3(c) requires a survey dated within 90 days of
+        Lease Commencement.
+    •   The title commitment expires on December 1, 2025 — six months after its
+        effective date. That is tight but workable for an October 1 commencement, and
+        not workable at all if the lease slips into December. An extension should be
+        requested now rather than in November.
+    •   Bayside's term sheet expired on June 27, 2025 if not executed and
+        returned by then (Bayside § 12). We do not have an executed copy in the
+        record. Please confirm the status, because the sixty-day exclusivity and the § 5
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 22 of 33
+                                    Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+        ground lease conditions both run from execution, and there is a further oddity:
+        a term sheet dated May 28 refers to a ground lease term sheet "dated June 10,
+        2025," so the version in the record may post-date its own cover date.
+
+6.15 End of term: 99 years, then nothing
+Term Sheet § 18 provides that at expiration all improvements become the Authority's
+property "without any payment, compensation, or reimbursement," and § 3 confirms
+there are no renewal options. That is market for a ground lease and we have not
+disturbed it in Section 17.2. But it should be seen clearly for what it is: Meridian
+invests $425 million in buildings on land it will never own, and, absent an extension or
+purchase right, receives nothing at the end. We have bracketed three alternatives in
+Section 17.2 — a 25-year extension option, a purchase option at appraised value in the
+final ten years, or a right of removal or purchase for trade fixtures — and note that an
+extension option conflicts with Resolution No. 2025-047, § 4(b), which caps the lease
+term at ninety-nine years. Any of the three requires Board action. Our view is that the
+extension option is worth pursuing now, while the Authority needs the transaction,
+rather than in year 90.
+
+PART 7 — LEGAL RESEARCH AND VERIFICATION ITEMS (NOT YET
+COMPLETED)
+These are the questions on which we have stated a principle but not verified the
+authority. Each must be closed before the position is relied on externally. We have
+graded them by consequence.
+       #      Question                                         Why it matters                                 Status
+       7.1    Connecticut authority on penalties and on        Underpins the entire reverter                  Open —
+              relief from forfeiture in a lease, including     negotiation and any litigation position        high
+              whether a reverter in a ground lease is          (Part 5.3)
+              treated as an enforceable conditional
+              limitation rather than a penalty, and the
+              treatment of a leasehold mortgagee's
+              intervening interest
+       7.2    Whether the City of Port Calloway has            If the structure is outside the city's         Open —
+              statutory authority for a fifteen-year, three-   authority the pro forma fails and the          critical
+              tier abatement at 25% / 50% / 75% of             lease cannot fix it (Part 6.2)
+              assessed value, and what hearing and
+              approval steps are required
+       7.3    Whether a Connecticut redevelopment              A defect in the Authority's authority          Open —
+              authority under Conn. Gen. Stat. § 8-125 et      would taint the lease, the title policy        high
+              seq. may lease for 99 years, and whether any     and the loan (Part 8)
+              appraisal, notice, hearing, RFP or best-value
+              requirements apply to the disposition of the
+              leasehold
+       7.4    Whether a mechanics' lien validly attaches to    Determines whether the lien must               Open —
+              property held by a redevelopment authority       simply be paid or can be defeated (Part        medium
+              for a public purpose, whether Conn. Gen.         6.6)
+              Stat. § 49-37 bonding is the correct route,
+              and whether Tenant could be treated as an
+              "owner" for lien purposes once the lease and
+              memorandum are recorded
+       7.5    Whether the Authority can be compelled by        The New Lease right is the single most         Open —
+              specific performance to execute a New            important lender protection after the          high
+              Lease, and whether a future Board can be         cure periods; if it is not specifically
+              bound by this Board's covenant; whether the      enforceable it is worth much less
+              Authority may agree to binding arbitration;      (Sections 9.6, 20.2, 20.16)
+              whether a jury trial waiver by a public body
+              is effective; the scope of any governmental
+              immunity
+       7.6    Whether the New Lease right survives             Bayside § 5.7(d) requires it (Section 9.8)     Open —
+              rejection of the ground lease in bankruptcy                                                     medium
+              as a property interest under 11 U.S.C. §
+              365(h)/(i), and how to document it to
+              maximize that outcome
+       7.7    Whether the ELUR's ground-floor restriction,     Design, permitting and Milestone 1 risk        Open —
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                         |   Page 23 of 33
+                                      Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+       #       Question                                           Why it matters                                Status
+               as drafted and as approved by DEEP, reaches (Part 6.3)                                           high
+               non-habitable lobby, amenity and leasing
+               space, and what a modification application
+               requires
+       7.8     The coastal permit requirements for                Schedule and cost risk for an                 Open —
+               bulkhead rehabilitation (Structures,               unquantified item (Part 6.5)                  medium
+               Dredging and Fill; tidal wetlands) and
+               whether the pedestrian easement prohibits
+               the work
+       7.9     Whether the Authority's 2019 recorded              The ROFR amendment is a closing               Open —
+               declarations can be amended unilaterally or        condition (Part 6.7)                          medium
+               require the consent of any third party, and
+               what Board action is required
+       7.10    Connecticut and federal fair housing /             Affects the distribution provisions in        Open —
+               affirmatively furthering fair housing              Section 14.5                                  low
+               requirements as they affect unit distribution
+               and the 15% covenant, and any HUD or state
+               monitoring obligations
+
+
+
+
+PART 8 — MISSING DOCUMENTS AND DILIGENCE REQUESTS
+Items marked ★ should be requested this week; each one has the potential to change a
+number in the draft.
+       #      Document                                          From                   Why we need it
+       1★     ALTA/NSPS survey, plat Sheets 1 and 2             Calloway Land          To resolve the 480 ft / 320.47 ft
+              (CLS-2025-0417), certified to Bayside             Surveyors /            bulkhead question, the
+                                                                Ridgepoint             139,392 / 139,475 SF area
+                                                                                       question, and the 8,000 SF
+                                                                                       open-space geometry
+       2★     Survey CLS-2025-0321 by J. Michael                Ridgepoint             The title commitment's Exhibit
+              Ferreira, P.L.S. (the survey cited in the title                          A cannot be reconciled without
+              commitment), or confirmation that no such                                it
+              survey exists
+       3★     Phase II ESA full report and Appendices A–J, Halcyon / Meridian          The $2.4M estimate, the
+              especially Appendix I (cost estimate backup)                             disposal quantity, and the ELUR
+              and Appendix F (ELUR)                                                    text are all unverifiable without
+                                                                                       it
+       4★     The ELUR instrument (Vol. 412, Pg. 88) and        Land records /         Defines "residential use," the
+              the DEEP-approved Environmental                   Authority              cap specification, and the
+              Management Plan                                                          compliance obligations
+       5★     Declaration of Right of First Refusal (Sept.      Land records           The amendment we must draft
+              8, 2019, Vol. 405, Pg. 55)                                               (Part 6.7)
+       6★     Declaration of Restrictive Covenants (Nov.        Land records           The six gaps in the affordable
+              15, 2019, Vol. 408, Pg. 230)                                             covenant (Part 6.11)
+       7★     Independent structural engineering                Authority (per our     Quantifies the largest
+              assessment of the bulkhead                        request)               unallocated cost in the deal
+                                                                                       (Part 6.5)
+       8★     Executed Bayside term sheet (or                   Meridian / Bayside     Confirms the operative § 5
+              confirmation of status), loan commitment                                 requirements and whether the
+              letter and the lender's ground lease and                                 June 27, 2025 expiration has
+              SNDA checklists                                                          passed
+       9      Bayside's written consent to disclose its         Bayside                Bayside § 12 restricts disclosure
+              confidential term sheet terms to the                                     to third parties; the Authority is
+              Authority and its counsel                                                a third party; yet the lease must
+                                                                                       implement § 5
+       10     Coventry preferred equity documentation    Coventry                      Ensures the lease's transfer and
+              (11% preferred return, 70/30 promote above                               ROFR provisions do not impede
+              a 15% IRR hurdle)                                                        the equity structure
+       11     Site plan / zoning analysis for a 28-story        Meridian / architect   Confirms the program is
+              tower in WRD-3 (FAR, height, setback,                                    buildable as of right; not in the
+              parking)                                                                 record
+       12     UST closure records and the DEEP LUST             Authority / DEEP       The northwest corner
+              file status ("closure pending/incomplete")                               contamination is attributed to
+                                                                                       two USTs removed c. 1988
+                                                                                       without documented closure
+
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                           |   Page 24 of 33
+                                    Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+        #      Document                                        From                      Why we need it
+        13     Authority's 2019/2022 waterfront                Authority                 Recited in Resolution No. 2025-
+               revitalization plan (as amended and                                       047; relevant to the public
+               readopted)                                                                purpose analysis
+        14     Certified copy of Resolution No. 2025-047       Authority                 Title Requirement No. 2 and
+               and the roll-call vote                                                    Section 2.3(a)
+        15     Any DEEP correspondence regarding the           Authority                 Landlord's disclosure
+               ELUR, the 2016–2017 remediation or the                                    representation in Section 18.1(f)
+               site's residual contamination
+
+
+
+
+PART 9 — SCHEDULE OF PROPOSED DEVIATIONS FROM THE
+TERM SHEET
+Resolution No. 2025-047 authorizes the Executive Director to execute a lease "on
+terms and conditions substantially consistent with the Term Sheet" (§ 1) and to
+approve changes he and Authority counsel consider immaterial, provided that any
+deviation either of them "determines to be material shall be brought before the Board
+for further review and approval prior to execution" (§ 4(d)). The following table is the
+list we recommend including in the transmittal to the Authority, both because it is
+required and because volunteering it builds credibility for the items that matter. Items
+marked M should be treated as material; I as immaterial.
+   #    Provision              Term Sheet position                    Draft Lease position                                 Class
+   1    Reverter —             Improvements revert "without any       Improvement Payment = greater of appraised           M
+        compensation           payment, compensation, or              value or unreimbursed hard costs, net of
+                               reimbursement"                         recoveries and Documented Damages (§ 10.6)
+   2    Reverter —             "Shall automatically terminate" at     Landlord election required within 30 days after      M
+        mechanism              expiry of 180-day cure                 all cure periods; deemed waiver; no automatic
+                                                                      termination (§ 10.5)
+   3    Deposit on reverter    Landlord "entitled to draw in full"    Draw limited to Documented Damages; excess           M
+                                                                      returned (§ 10.9)
+   4    Lender cure for        None in the Term Sheet; 90 days        180 days from expiry of Tenant's cure period (§      M
+        milestone defaults     non-monetary in Bayside § 5.4          9.5(c))
+   5    New Lease              "Substantially the same terms";        Remainder of term; 60-day request window; 30-        M
+                               cure within 60/90 days of              day execution; priority and sublease recognition;
+                               termination                            180-day non-monetary tail (§ 9.6)
+   6    Amendment restriction Not addressed                           No material amendment without each Leasehold         M
+                                                                      Mortgagee's consent; void as against the
+                                                                      mortgagee (§ 9.4)
+   7    Bankruptcy             Not addressed (filing is an Event of   Section 365 protections; no ipso facto               M
+                               Default)                               termination; New Lease survives rejection (§ 9.8)
+   8    Percentage rent        Breakpoint fixed at $28,500,000 for    Breakpoint indexed at each Rent Reset to             M
+                               the Term                               preserve the Year 6 ratio (§ 5.3)
+   9    Tax abatement          Period commences on the Lease          Period commences on the later of Rent                M
+                               Commencement Date                      Commencement and the first assessment
+                                                                      reflecting the completed Improvements; rent
+                                                                      credit backstop (§§ 6.7–6.8)
+   10   Remediation overruns   Tenant bears all costs above           Landlord bears overruns attributable to              M
+                               $2,400,000                             undisclosed or undelineated Pre-Existing
+                                                                      Environmental Conditions; Landlord indemnity (§§
+                                                                      7.4(c), 7.5)
+   11   Bulkhead               Not addressed                          Landlord funds the structural assessment;            M
+                                                                      alternative repair allocation with rent credit (§§
+                                                                      2.9(b), 14.3)
+   12   Tenant extension       "No renewal options are                One 25-year extension at Tenant's option (§ 2.7,     M
+        option                 contemplated"                          bracketed); note this exceeds the 99-year cap in
+                                                                      Resolution § 4(b)
+   13   Milestone extensions   12 mo. FM + 6 mo. permitting;          Adds uncapped Landlord Delay and optional paid       M
+                               nothing for Landlord delay             extensions (§ 3.4)
+   14   ROFR                   Applies to any non-Affiliate           Direct assignments for value only; broad             M
+                               assignment in first 20 years           Permitted Transfers; mortgagee carve-outs; lapse
+                                                                      on failed closing; recorded Declaration to be
+                                                                      amended (§§ 11.3, 11.5)
+   15   Rent amounts           $3,224,500 / $3,648,200                $3,224,513 / $3,648,241 (recomputed from 2.5%        I
+                                                                      compounding)
+   16   CPI base month         From the Lease Commencement            From the Rent Commencement Date (§ 4.4(b))           I
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                           |   Page 25 of 33
+                                     Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+   #    Provision             Term Sheet position                    Draft Lease position                                   Class
+                              Date
+   17   Rent reset mechanic   Ten-year resets off the original       Unchanged, but a bracketed annual CPI                  M
+                              Base Rent                              alternative with a 0–4% collar is proposed (§ 4.4,
+                                                                     note)
+   18   Setoff                "Without setoff" (§ 5) but Tenant      Express limited setoff rights with notice to           I
+                              may offset (§ 16)                      mortgagees (§ 4.6)
+   19   Flood insurance       NFIP maximum                           NFIP maximum plus excess/DIC to full                   I
+                                                                     replacement cost (§ 12.1(f))
+   20   LOC issuer            A-/A3 bank (or, per Board recital,     Either test (§ 8.3); cash deposit at Tenant's option   I
+                              federally chartered bank)              (§ 8.2)
+   21   Occupancy             "Overall occupancy rate of 90%"        Defined RSF-based test with certification and          I
+        measurement                                                  deemed-approval mechanics (§ 8.4)
+   22   Condominium           Rent only; "no condominiums or         Conversion permitted if it does not alter              M
+        conversion            cooperative units"                     Landlord's rights or reversion (§ 15.2)
+   23   Remediation credit    Silent                                 Unapplied credit paid in cash on early                 I
+        survival                                                     termination (§ 7.2)
+   24   Venue                 "Judicial District of Port Calloway"   Judicial District of New Haven; mediation first (§     I
+                                                                     20.2)
+   25   Title and survey      Mechanics' lien listed as a            Lien discharged at Landlord's cost; legal              I—
+        corrections           Permitted Exception                    description conformed to the survey; both              but
+                                                                     conditions precedent (§§ 2.3, 2.9(a), 16.2)            gating
+
+
+
+Our recommendation is to transmit this schedule with the draft, with a cover note from
+us explaining that items 1–5, 8–11 and 14 are responsive to the requirements of the
+construction lender and that items 1–3 are also responsive to the Authority's interest in
+an enforceable remedy. See Part 10.
+
+PART 10 — NEGOTIATION STRATEGY
+
+10.1 Must-haves (walk-away if refused)
+    •   Compensation for improvements on any reverter (§ 10.6) — your stated
+        non-negotiable, and the condition to the loan.
+    •   Lender cure periods and New Lease (§§ 9.5, 9.6) — without these the loan
+        does not close, whatever the rest of the document says.
+    •   A conformed legal description and a discharge of the mechanics' lien
+        (§§ 2.3, 16.2) — title cannot issue otherwise.
+    •   An amendment of the recorded ROFR to carve out mortgagee enforcement
+        (§ 11.5) — a recorded instrument cannot be overridden by contract.
+    •   A tax abatement backstop (§ 6.8) — the Authority is not the taxing authority,
+        so a covenant alone is not enough.
+
+10.2 Strong preferences (trade only against something real)
+    •   Breakpoint indexation (§ 5.3) — trade against a higher Percentage Rent rate if
+        pressed, or accept CPI-only indexation as a fallback.
+    •   Abatement commencement re-anchoring (§ 6.7) — this is the highest-value
+        item that the Authority will frame as impossible; it may need City cooperation
+        and therefore time.
+    •   Environmental overrun allocation and indemnity (§§ 7.4(c), 7.5) — a 50/50
+        sharing above $2.4 million is an acceptable landing zone.
+    •   Bulkhead allocation (§§ 2.9(b), 14.3) — get the assessment first; the number
+        will do the arguing.
+    •   Extension option (§ 2.7) — valuable but not worth the transaction; drop it if the
+        Board resists.
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                          |   Page 26 of 33
+                                    Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+10.3 Tradeables (give these if needed)
+The recomputed rent amounts (Part 2.1 items 3–4 — a $54 per annum point); the CPI
+base-month correction (item 16); the setoff mechanics; the flood insurance
+enhancement (we would not concede this, since it protects Bayside, but we can let it
+be framed as a lender requirement rather than a Tenant ask); the condominium
+conversion right; and the paid-extension mechanic, which is a concession to Tenant
+that costs the Authority nothing if Tenant never uses it and pays the Authority if it
+does.
+
+10.4 Sequencing
+Send the draft and this schedule to Mr. Koss with the loan-driven items identified as
+lender requirements, not Tenant preferences. That framing is accurate — Bayside § 5
+requires most of them — and it moves the argument from "the tenant wants more" to
+"the deal does not fund without this." Then schedule a joint call with Authority counsel
+and Bayside's counsel in the same week, so that the Authority hears the lender's
+requirements from the lender. We should not negotiate the reverter with Authority
+counsel alone and then have to re-open it when Bayside's redline arrives.
+
+PART 11 — TIMELINE TO OCTOBER 1, 2025
+Date                Milestone                                                                Owner
+June 20, 2025       Draft Lease and this memorandum delivered to you                         Hargrove & Linden
+June 23–27, 2025    Your review and instructions on the bracketed items (Part 11 note        Meridian
+                    below)
+June 27, 2025       Confirm Bayside term sheet execution status (Bayside § 12 expiration)    Meridian
+June 29, 2025       Target delivery of the Draft Lease to Howard Koss with the deviation     Hargrove & Linden
+                    schedule
+Week of June 30     Joint call with Authority counsel and Bayside counsel on Article 9 and   All
+                    the reverter
+July 7–18, 2025     Request survey re-certification / update (90-day window expires July     Meridian / Halcyon
+                    19); request DEEP pre-application meeting on the ELUR ground-floor
+                    question
+July 2025           First redline from Pryor Whitfield & Koss; Bayside checklist redline     Authority / Bayside
+August 2025         Negotiate Articles 6, 7 and 10 (tax abatement, environmental,            All
+                    reverter); confirm City authority for the abatement with municipal
+                    finance counsel
+August 2025         Obtain the bulkhead structural assessment and price the repair           Authority
+Early September     Circulate the execution version to the Authority Board package;          Authority / Hargrove &
+                    request a special meeting date                                           Linden
+Mid-September       Board resolution approving the definitive lease (Term Sheet § 15(g))     Authority Board
+                    and the recorded ROFR amendment
+Late September      Title: conformed commitment, lien discharged, policies marked to         Ridgepoint / all
+                    issue; SNDA executed and recorded
+October 1, 2025     Lease Commencement Date; Memorandum of Lease recorded; Letter of All
+                    Credit delivered
+
+
+
+   The critical path is not the drafting. It is the Authority Board calendar and the City's
+   tax abatement approval. Resolution No. 2025-047 is an authorization to negotiate and
+   execute a lease substantially consistent with the Term Sheet; Term Sheet § 15(g)
+   separately requires approval of the definitive lease by the Board at a properly noticed
+   public meeting, and Resolution § 4(d) requires Board review of material deviations. You
+   should assume two Board actions are required — one for the lease and one for the
+   recorded ROFR amendment — and that the City must act separately on the abatement
+   agreement. On a municipal calendar that is four to six weeks before October 1. Our
+
+
+
+       Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025           |    Page 27 of 33
+                               Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+   recommendation is that we ask Mr. Koss this week to reserve a special meeting date in
+   the second week of September.
+
+Five dollar amounts are left blank in the Draft Lease, each marked "$[●]" and
+each requiring your instruction or a negotiated number: (i) the fee for Tenant's
+optional 6-month milestone extensions (§ 3.4(d)); (ii) the cap on Tenant's environmental
+indemnity (§ 7.6); (iii) the minimum capital and surplus of a federally chartered letter-
+of-credit issuer, if that alternative is used (§ 8.3); (iv) the net-worth qualification for a
+foreclosure transferee (§ 9.7); and (v) the threshold above which alterations in the final
+ten years of the Term require consent (§ 14.6). We have not inserted numbers because
+each is a business judgment, and because the Authority will want to negotiate each of
+them.
+Items requiring your decision before we send the draft. (i) Do you want us to
+keep the bracketed 25-year extension option in Section 2.7, given that it exceeds the
+99-year cap in Resolution § 4(b) and will itself require Board action? (ii) Do you accept
+the recomputed rent figures ($3,224,513 and $3,648,241) or should we adopt the Term
+Sheet's rounded amounts? (iii) Do you want us to press for a 16–17 foot finished floor
+elevation now rather than 15 feet? (iv) Are you comfortable with the 24-month Base
+Rent cap on Documented Damages, or should we propose a lower number (e.g., 12
+months) to make the proportionality argument even stronger at the cost of some
+negotiating room? (v) Do you want us to include the cash-security-deposit alternative
+(Bayside permits it; the Term Sheet does not)?
+
+
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025   |   Page 28 of 33
+                                             Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+                                                          APPENDIX 1
+                                                 SOURCE-TO-ISSUE LOG
+Each material proposition, figure, date and obligation relied on in this memorandum and in the Draft
+Lease, with the document and location from which it was taken. "TS" = Term Sheet (June 10, 2025);
+"BL" = Bayside construction loan term sheet (May 28, 2025); "TC" = Title Commitment TC-2025-
+07821; "P2" = Phase II ESA executive summary (May 2, 2025); "SV" = survey narrative CLS-2025-
+0417; "BR" = Board Resolution No. 2025-047; "CI" = client instructions (June 15, 2025).
+Proposition / figure                                                                      Source
+Parties, addresses, EIN, formation date                                                   TS § 1; BL § 1; TC Sched. A § 4
+Authority's enabling statute (CGS § 8-125)                                                TS § 1; BR preamble; TC Sched. A § 4
+Premises: 10–30 Pier Street; APN 127-003-0045; ~3.2 ac / 139,392 SF                       TS § 2; P2 § 2.1; SV § 1; BR recitals
+Waterfront location; 480 LF of bulkhead                                                   TS § 2; P2 § 2.1; SV §§ 1, 3(b)
+FEMA Zone AE; BFE 12 ft NAVD88; FFE 15 ft NAVD88                                          TS § 2; P2 § 5; TC Ex. 9; SV § 2; BL § 6(l)
+Lease term 99 years; expiration Sept. 30, 2124                                            TS § 3; TC Sched. A § 3; BR § 1
+Rent Commencement = earlier of 36 months or first CO                                      TS § 3
+No renewal options                                                                        TS § 3
+Project program: 28-story tower, 6-story office, retail, parking                          TS § 4; P2 § 2.3 (Client note); BL § 1
+Ground-floor residential lobby and amenity spaces                                         TS § 4(a)
+8,000 SF public open space                                                                TS § 4; BR § 2(e); BL § 1
+15% affordable at 80% AMI for the term                                                    TS § 4; BR § 2(b); TC Ex. 5; BL § 1, § 7(f)
+ELUR recorded Mar. 22, 2018, Vol. 412, Pg. 88                                             TS § 4, § 7; TC Ex. 1; P2 § 2.3; SV § 3(c); BL §
+                                                                                          6(e)
+Initial Base Rent $2,850,000; $237,500/month; $20.45/SF                                   TS § 5
+2.5% escalation; $3,224,500 / $3,648,200                                                  TS § 5
+CPI resets at Lease Years 16–96; greater of formula                                       TS § 5
+Percentage Rent 2.0%; Breakpoint $28,500,000; from Lease Year 6                           TS § 6; BR recital (b)
+Gross Revenues definition and exclusion placeholder                                       TS § 6
+Audit right; 5% threshold; 3-year retention                                               TS § 6
+Phase II: Area 1 4,200 SF, max TPH 3,800 mg/kg; Area 2 1,600 SF, max 1,200 mg/kg;         TS § 7; P2 §§ 4.1–4.2, 7
+RDEC 500 mg/kg
+Remediation estimate $2,400,000 ($1,850,000 / $550,000)                                   TS § 7; P2 § 6
+Remediation credit $1,800,000; Tenant bears $600,000 and all overruns                     TS § 7; P2 § 6 (Allocation Note)
+Contingency lines stated as 10% ($100,000 / $25,000)                                      P2 § 6 (cost tables)
+ELUR ambiguity re non-habitable ground-floor space; recommend DEEP clarification          P2 § 2.3 (Important Note), § 7 rec. 2
+ELUR: no potable wells; annual compliance certification; 30-day breach notice; 90-day     P2 § 2.3(b)–(d); TC Ex. 1
+repair
+Bulkhead fair-to-poor; 40 LF of cap removed; repair excluded from estimate                P2 § 5; SV § 3(d)(iii)
+Freeboard recommendation 4–5 ft; PA 23-167; CIRCA projections; Nov. 2024 flooding at      P2 § 5, § 7 rec. 5; SV § 2 (surveyor's note)
+10.5 ft
+Security deposit $5,700,000; step-down to $2,850,000 at 90% occupancy for 24 months       TS § 8; BR recital (c); BL § 4
+Milestones 1–4 and dates                                                                  TS § 9; BR § 2(a)
+Force majeure 12 months; permitting 6 months; aggregate 18 months                         TS § 9
+Reverter: automatic termination; deposit forfeiture; improvements without compensation    TS § 9
+Term Sheet lender protections (mortgage, SNDA, New Lease, notices, no surrender,          TS § 9; BL § 5.1–5.7
+foreclosure)
+Bayside cure periods 60/90 days; non-concurrent; simultaneous notices                     BL § 5.4
+Bayside bankruptcy protections                                                            BL § 5.7
+Triple net; current assessment $4,200,000; mill rate 34.75; $145,950                      TS § 10; TC Ex. 7
+Projected assessment $178,000,000; $6,185,500 at full                                     TS § 10; BR recital
+Abatement 25/50/75% for 15 years, commencing Lease Commencement Date                      TS § 10; BR recital
+Abatement implemented by separate agreement with the City                                 BR § 3(d)
+Assignment consent; subletting; ROFR first 20 years; Affiliate definition                 TS § 11; TC Ex. 4
+Recorded ROFR Declaration Sept. 8, 2019, Vol. 405, Pg. 55, without mortgagee carve-outs   TC Ex. 4
+Recorded affordable covenant Nov. 15, 2019, Vol. 408, Pg. 230, with six gaps              TC Ex. 5
+Insurance: CGL $10M/$20M; all-risk; builder's risk; NFIP flood; environmental $5M/$10M;   TS § 12; BL § 6(h)
+WC
+
+
+
+
+      Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                            |    Page 29 of 33
+                                            Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+Proposition / figure                                                                             Source
+Permitted Exceptions list (10 items)                                                             TS § 13; TC Sched. B-II
+Mechanics' lien $187,500, Apr. 3, 2025, Vol. 418, Pg. 302                                        TS § 13; TC Ex. 6 and Req. 7; SV § 3(d)(iii)
+Loan $285M; SOFR + 275; 48 months + two 6-month extensions                                       TS § 14; BL § 2
+Equity: Coventry $95M; Meridian $45M; total $425M                                                TS § 14; BL § 3
+Cost allocation: hard $352M; soft $38.5M; contingency $34.5M                                     TS § 14; BL § 3
+Coventry completion guaranty to Initial Maturity Date                                            BL § 4
+Conditions precedent to lease commencement                                                       TS § 15
+Default and remedies summary; reverter available on any Event of Default                         TS § 16
+Casualty/condemnation summary; award allocation                                                  TS § 17
+End of term: improvements to Landlord without compensation; last-10-year alteration              TS § 18
+restriction
+Governing law; mediation; Judicial District of Port Calloway; FOIA; exclusivity to Dec. 31,      TS § 19
+2025
+Resolution authority; rent floor; 99-year cap; affordable floor; material deviation rule         BR §§ 1, 2, 4
+Title commitment expiration Dec. 1, 2025; requirements 1–8                                       TC Conditions, Sched. B-I
+Survey: CLS-2025-0417; Pellegrino PLS-008741; Table A items; certification to four parties       SV cover, § 5
+Survey referenced in title: CLS-2025-0321; Ferreira PLS 12847; rev. May 15, 2025                 TC Sched. A § 5; Ex. A
+Condemnation: 2012; Vol. 367 Pg. 44 (TC) / Vol. 375 Pg. 44 (SV); New Haven (TC) / Port           TS § 2; TC Sched. A § 4, Ex. 10; SV § 4
+Calloway (TS)
+Client priorities: reverter, financeability, abatement, percentage rent, remediation, deposit,   CI §§ 1–5
+affordable, milestones, assignment
+Total project cost $425M; client's improvement value estimate $200–300M at Milestone 3           CI § 1, § 2
+
+
+
+
+      Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                                 |   Page 30 of 33
+                                      Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+                                                   APPENDIX 2
+                      PERCENTAGE RENT AND RENT RESET MODELS
+A2.1 Breakpoint erosion. Base Rent escalated at the 2.5% floor; Breakpoint fixed at
+$28,500,000; "Year-1 dollars" deflate nominal amounts at the same 2.5% for comparability.
+Lease Yr        Base Rent (2.5%       Breakpoint        Breakpoint ÷         Breakpoint (Yr-1          Base Rent (Yr-1 $)
+                floor)                                  Base Rent            $)
+6                        3,224,513         28,500,000                8.84×              25,189,847                  2,850,000
+16                       4,127,650         28,500,000                6.90×              19,678,268                  2,850,000
+26                       5,283,741         28,500,000                5.39×              15,372,632                  2,850,000
+36                       6,763,635         28,500,000                4.21×              12,009,075                  2,850,000
+46                       8,658,024         28,500,000                3.29×               9,381,471                  2,850,000
+56                      11,083,003         28,500,000                2.57×               7,328,790                  2,850,000
+66                      14,187,181         28,500,000                2.01×               5,725,239                  2,850,000
+76                      18,160,791         28,500,000                1.57×               4,472,547                  2,850,000
+86                      23,247,348         28,500,000                1.23×               3,493,947                  2,850,000
+96                      29,758,571         28,500,000                0.96×               2,729,466                  2,850,000
+
+
+Observation: the real value of the Breakpoint falls below the Year-1 Base Rent in nominal terms
+by Lease Year 86 and in real terms far earlier. A fixed breakpoint in a 99-year lease is a transfer
+of value, not a sharing of upside.
+A2.2 Reset step sensitivity. Base Rent under Section 4.4 is flat within each ten-year band and
+steps to the full cumulative index at each Rent Reset Date. The step at Lease Year 16, for a
+range of long-run CPI assumptions:
+              Long-run CPI        Lease Yr 15 Base Rent        Lease Yr 16 Base Rent           Step
+              2.0%                                 3,648,241                       3,835,725                +5.1%
+              2.5%                                 3,648,241                       4,127,650           +13.1%
+              3.0%                                 3,648,241                       4,440,128           +21.7%
+              3.5%                                 3,648,241                       4,774,744           +30.9%
+              4.5%                                 3,648,241                       5,515,555           +51.2%
+
+
+After Lease Year 16, each subsequent reset produces a further step equal to ten years of index
+growth (28.0% at 2.5% CPI), because the formula recomputes from the original Base Rent
+rather than compounding the then-current rent.
+A2.3 Percentage Rent illustrations (Breakpoint $28,500,000; rate 2.0%)
+Lease Yr         Gross Revenues       Breakpoint            Excess                 Percentage Rent          % of Base Rent
+6                        30,000,000            28,500,000             1,500,000                 30,000                  0.9%
+6                        40,000,000            28,500,000            11,500,000                230,000                  7.1%
+6                        60,000,000            28,500,000            31,500,000                630,000                 19.5%
+6                        90,000,000            28,500,000            61,500,000            1,230,000                   38.1%
+96 (fixed BP)            60,000,000            28,500,000            31,500,000                630,000                  2.1%
+96 (indexed              60,000,000           262,986,000                    nil                      nil                 nil
+BP)
+
+
+
+
+     Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025                |    Page 31 of 33
+                                      Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+                                                APPENDIX 3
+                                  RECOMPUTATION SCHEDULES
+A3.1 Base Rent and monthly installments
+    Lease Years         Formula                             Annual                        Monthly
+    1–5                 $2,850,000                                        $2,850,000.00               $237,500.00
+    6–10                $2,850,000 × 1.025^5                              $3,224,513.41               $268,709.45
+    11–15               $2,850,000 × 1.025^10                             $3,648,240.95               $304,020.08
+
+
+A3.2 Tax schedule (mill rate 34.75; projected assessed value $178,000,000)
+   Phase            Percentage of             Assessed value subject Annual tax                   Annual saving vs
+                    assessed value            to tax                                              full
+   Years 1–5        25%                                    $44,500,000           $1,546,375             $4,639,125
+   Years 6–10       50%                                    $89,000,000           $3,092,750             $3,092,750
+   Years 11–15      75%                                  $133,500,000            $4,639,125             $1,546,375
+   Year 16+         100%                                 $178,000,000            $6,185,500                      nil
+   15-year total    —                                                 —     $46,391,250 in                       —
+                                                                                   savings
+
+
+A3.3 Remediation cost — stated vs. recomputed
+    Item                                        Area 1                Area 2              Combined
+    Excavation and soil management                        $680,000             $210,000                  $890,000
+    Transportation and disposal                           $520,000             $145,000                  $665,000
+    Confirmation sampling and laboratory                   $85,000              $40,000                  $125,000
+    Clean backfill procurement and                        $290,000              $85,000                  $375,000
+    placement
+    Environmental oversight and reporting                 $175,000              $45,000                  $220,000
+    Subtotal                                             $1,750,000            $525,000                $2,275,000
+    Stated contingency (labelled "10%")                   $100,000              $25,000                  $125,000
+    Stated total                                         $1,850,000            $550,000                $2,400,000
+    Effective contingency rate                               5.71%                4.76%                      5.49%
+    Total if 10% is applied                              $1,925,000            $577,500                $2,502,500
+    Tenant residual at stated total                              —                    —                  $600,000
+    Tenant residual if 10% applied                               —                    —                  $702,500
+
+
+A3.4 Capital stack and uses
+ Sources                             Amount               Uses                                    Amount
+ Construction loan (Bayside)               $285,000,000 Hard costs                                      $352,000,000
+ Preferred equity (Coventry)                $95,000,000 Soft costs                                         $38,500,000
+ Co-invest (Meridian)                       $45,000,000 Contingency                                        $34,500,000
+ Total sources                            $425,000,000 Total uses                                      $425,000,000
+ Loan-to-cost                                    67.06% Origination fee (1.00%)                             $2,850,000
+                                                          Remediation (not budgeted)                        $2,400,000
+
+                                                          Bulkhead (not budgeted,                                 TBD
+                                                          unquantified)
+
+
+
+
+    Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025              |    Page 32 of 33
+                                     Hargrove & Linden LLP • Privileged & Confidential • Attorney Work Product
+
+
+                                                  APPENDIX 4
+                                        OPEN ITEMS CHECKLIST
+
+ #     Item                                                      Type          Owner                   Target
+ 1     Confirm bracketed policy items in Part 11 (extension      Instruction   M. Ellison              June 24
+       option; rent figures; freeboard; damages cap; cash
+       deposit)
+ 2     Confirm Bayside term sheet executed; obtain lender's      Diligence     M. Ellison / S. Milliken June 27
+       ground lease and SNDA checklists
+ 3     Request survey plat and re-certification; obtain          Diligence     J. Abernathy            June 27
+       CLS-2025-0321 if it exists
+ 4     Request Phase II full report, Appendices A–J, ELUR        Diligence     J. Abernathy            June 27
+       instrument and EMP
+ 5     Request recorded 2019 declarations (ROFR and              Diligence     J. Abernathy            June 27
+       affordable covenant)
+ 6     Commission the bulkhead structural assessment             Action        Authority / Meridian    June 30
+ 7     Obtain Bayside consent to disclose its term sheet terms   Action        R. Tsang                July 3
+       to the Authority and its counsel
+ 8     DEEP pre-application meeting on the ELUR ground-          Action        Halcyon / Meridian      July 15
+       floor interpretation
+ 9     Verify City's statutory authority for the 15-year         Legal         R. Tsang                July 18
+       abatement; confirm hearing requirements                   research
+ 10    Complete Connecticut research on penalty/forfeiture,      Legal         R. Tsang / J.           July 25
+       New Lease enforceability, municipal arbitration, and      research      Abernathy
+       mechanics' liens on public property
+ 11    Draft the amendment to the recorded ROFR for              Drafting      R. Tsang                July 25
+       Authority counsel
+ 12    Obtain zoning/site-plan analysis confirming the 28-story Diligence      Meridian / architect    July 31
+       program is buildable as of right
+ 13    Confirm remediation contingency (5.5% or 10%) with        Instruction   Meridian                July 11
+       Halcyon and correct the figures if needed
+ 14    Confirm AMI geography with HUD and conform the            Diligence     J. Abernathy            July 11
+       Term Sheet, title exception and survey
+ 15    Request special Authority Board meeting date for the      Action        R. Tsang to H. Koss     June 27
+       second week of September
+ 16    Confirm that a separate ROFR-amendment resolution is Action             Authority counsel       July 18
+       required and calendared
+ 17    Obtain City counsel's confirmation on the tax             Action        Authority / City        August 8
+       abatement agreement timeline and fiscal-year
+       constraints
+ 18    Reconcile the 480 ft / 320.47 ft bulkhead length and      Drafting      J. Abernathy            After survey
+       conform Sections 2.9 and 14.3                                                                   plat
+
+
+Legend. Instruction — requires a decision from the client. Diligence — requires a third party's document.
+Action — requires a third party's cooperation or performance. Legal research — requires completion before
+the position is used externally. Drafting — within our control.
+
+
+
+This memorandum is a privileged and confidential attorney–client communication prepared in anticipation
+of litigation and for the purpose of rendering legal advice. It is based solely on the documents identified in
+Part 1 and Appendix 1, which we have assumed to be genuine, complete and accurate. We have not
+independently investigated the Premises, the title, the environmental conditions, the financial projections
+or the parties' authority except as expressly stated. Nothing in this memorandum constitutes an opinion of
+Connecticut law on the questions identified in Part 7, which remain subject to confirmation.
+
+
+
+
+      Drafting Issues Memorandum — Ground Lease, 10–30 Pier Street — June 20, 2025             |   Page 33 of 33
+

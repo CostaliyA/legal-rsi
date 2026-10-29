@@ -1,0 +1,9 @@
+{
+  "parent_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "published_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "candidate_id": "a4274f3bfccfdb83bdae",
+  "confirmation_summary": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/validation_summary.json",
+  "mean_delta": 0.0053191489361702066,
+  "min_delta": 0.004255319148936176,
+  "output_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/published_snapshot.json"
+}

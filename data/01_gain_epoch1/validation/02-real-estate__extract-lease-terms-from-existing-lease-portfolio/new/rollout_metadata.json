@@ -1,0 +1,32 @@
+{
+  "task_id": "real-estate/extract-lease-terms-from-existing-lease-portfolio",
+  "operation_pattern": "extract",
+  "legal_domain": "real-estate",
+  "skill_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "retrieved_skill_ids": [
+    "gen-source-grounded-review",
+    "dom-real-estate-review",
+    "pat-extract-structured-record"
+  ],
+  "retrieved_skill_hashes": [
+    "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+    "cec5efdba6d0bcf843154ccafa13ae2d4b3472d4c0b5e2c203698de27e5538c8",
+    "88c790ec94d82724d8dea80edaf6576c357a919f3aa30fc549b2010d0a9c25d7"
+  ],
+  "retrieval_scores": [
+    0.051094890510948905,
+    0.045454545454545456,
+    0.044444444444444446
+  ],
+  "max_tool_response_chars": 65536,
+  "finished": true,
+  "model": "deepseek-flash",
+  "api_test_only": true,
+  "native_policy_token_ids_available": false,
+  "turn_count": 80,
+  "finish_reason": "finish_tool",
+  "usage": {
+    "input_tokens": 17458942,
+    "output_tokens": 173872
+  }
+}

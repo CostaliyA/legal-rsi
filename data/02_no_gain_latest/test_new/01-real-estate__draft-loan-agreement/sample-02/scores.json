@@ -1,0 +1,15 @@
+{
+  "task_id": "real-estate/draft-loan-agreement",
+  "judge_model": "deepseek-flash",
+  "score": 0.0,
+  "max_score": 1.0,
+  "all_pass": false,
+  "n_passed": 78,
+  "n_criteria": 84,
+  "n_grading_errors": 0,
+  "criterion_fraction": 0.9285714285714286,
+  "beta": 0.2,
+  "reward_task": 0.18571428571428572,
+  "rubric_feedback_file": "rubric_feedback.json",
+  "rubric_feedback_sha256": "990f8eda8e824db429fd9dcad576b7ee93377ce2414daf3398f650b287d7e688"
+}

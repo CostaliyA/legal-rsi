@@ -1,0 +1,32 @@
+{
+  "task_id": "real-estate/extract-conditions-from-zoning-approval",
+  "operation_pattern": "extract",
+  "legal_domain": "real-estate",
+  "skill_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "retrieved_skill_ids": [
+    "gen-source-grounded-review",
+    "pat-extract-structured-record",
+    "dom-real-estate-review"
+  ],
+  "retrieved_skill_hashes": [
+    "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+    "88c790ec94d82724d8dea80edaf6576c357a919f3aa30fc549b2010d0a9c25d7",
+    "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+  ],
+  "retrieval_scores": [
+    0.07407407407407407,
+    0.05970149253731343,
+    0.05737704918032787
+  ],
+  "max_tool_response_chars": 65536,
+  "finished": true,
+  "model": "deepseek-flash",
+  "api_test_only": true,
+  "native_policy_token_ids_available": false,
+  "turn_count": 57,
+  "finish_reason": "finish_tool",
+  "usage": {
+    "input_tokens": 8451431,
+    "output_tokens": 111507
+  }
+}

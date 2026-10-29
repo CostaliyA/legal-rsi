@@ -1,0 +1,558 @@
+{
+  "task_id": "real-estate/draft-mortgage-and-security-agreement",
+  "judge_model": "deepseek-flash",
+  "criteria_results": [
+    {
+      "id": "C-001",
+      "title": "ISSUE_001: Memo identifies LTV exceeds 80% FFIEC supervisory limit",
+      "verdict": "fail",
+      "reasoning": "The memo notes in A-7 that the as-is LTV of 81.04% 'exceeds customary supervisory LTV guidance for acquisition, development and construction lending,' but it does not identify the 80% supervisory LTV limit under FFIEC / 12 CFR Part 365 (or equivalent federal interagency guidelines). The criterion requires an explicit identification of the 80% regulatory threshold, which is absent."
+    },
+    {
+      "id": "C-002",
+      "title": "ISSUE_001: Memo recommends board exception approval for LTV exceedance",
+      "verdict": "pass",
+      "reasoning": "The memo addresses the LTV exceedance in Section A-7, noting the as-is LTV of 81.04% exceeds customary supervisory LTV guidance for ADC lending. It expressly references the need to confirm whether the loan committee or board approved exceptions to standard underwriting guidelines, and recommends obtaining the credit approval, including any documented exception and its mitigants, before closing. This satisfies the criterion."
+    },
+    {
+      "id": "C-003",
+      "title": "ISSUE_002: Mortgage includes specific CREC covenant for vapor barrier",
+      "verdict": "pass",
+      "reasoning": "The mortgage contains an explicit, specific covenant addressing vapor barrier maintenance. Section 11.1(b) requires Mortgagor to 'Maintain, preserve, and keep in good condition and working order the vapor barrier system installed beneath the concrete floor slab of Bay 1 on Lot 7,' and not to penetrate or compromise it without SCDHEC/Lender approval. Section 11.1(c) adds an annual inspection obligation, 11.1(a) prohibits residential use of the Bay 1 ground floor, and Article 11 expressly ties these obligations to the Land Use Restriction recorded in Deed Book 1203 at Page 89, RMC Office (SCDHEC Site ID No. SC-29403-0772). The obligation is reinforced in Sections 6.6, 8.2(k), 8.9, and 11.2 (no modification of the Land Use Restriction), with a corresponding Event of Default at Section 14.1(k). This far exceeds the generic 'comply with environmental laws' standard the criterion identifies as insufficient."
+    },
+    {
+      "id": "C-004",
+      "title": "ISSUE_002: Mortgage prohibits residential conversion of ground floor Lot 7/Bay 1",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly prohibits residential use or conversion of the ground floor of Lot 7 / Bay 1. Section 6.6 states Mortgagor shall not convert the ground floor of Lot 7 (Bay 1) to residential use or permit any inconsistent use, and Section 11.1(a) separately prohibits residential use or any use inconsistent with the SCDHEC Land Use Restriction."
+    },
+    {
+      "id": "C-005",
+      "title": "ISSUE_002: Breach of CREC/environmental restriction is an event of default",
+      "verdict": "pass",
+      "reasoning": "Section 14.1(k) of the mortgage expressly makes failure to comply with Article 11 or the SCDHEC Land Use Restriction an Event of Default, specifically referencing the vapor barrier maintenance obligation beneath the Bay 1 slab and any violation or modification of the restriction. Article 11 itself imposes both the vapor barrier maintenance covenant (§11.1(b)) and the prohibition on residential use of the ground floor of Lot 7 (§11.1(a)), and §14.2(c) confirms such breaches trigger an immediate Event of Default without a cure period. The restriction is therefore directly tied to a default provision."
+    },
+    {
+      "id": "C-006",
+      "title": "ISSUE_002: Memo identifies CREC compliance obligation as a drafting issue",
+      "verdict": "pass",
+      "reasoning": "The memorandum extensively discusses the CREC on Lot 7 (off-site petroleum contamination at 518 King Street), the SCDHEC No Further Action letter and Land Use Restriction, and the vapor barrier as an institutional control (see Section I, items I-1 through I-4, and Top-Risk Register item I-3). Critically, it expressly identifies these as requiring specific environmental covenants in the Mortgage beyond a standard environmental compliance clause: it implements Title Commitment closer's notes ¶1 and Requirement 6 via a dedicated Article 11 with LUR-specific covenants (no residential use of Bay 1 ground floor, vapor barrier maintenance and annual inspection, SCDHEC notice/approval, no modification of the LUR), plus a no-cure Event of Default for LUR violations (§§14.1(k), 14.2(c)) and a conditioned Permitted Exception in Exhibit B. It also flags the ESA recommendation for a pre-acquisition vapor barrier inspection and a draw condition for Bay 1 slab work. This squarely satisfies the criterion."
+    },
+    {
+      "id": "C-007",
+      "title": "ISSUE_003: Memo identifies renovation holdback gap ($900K shortfall)",
+      "verdict": "pass",
+      "reasoning": "The memorandum identifies the renovation holdback gap in Section F-4: it states that the $2,250,000 holdback against the $3,150,000 renovation budget leaves $750,000 of hard costs plus $150,000 of soft/contingency, totaling $900,000 to be funded by Borrower equity. This satisfies the criterion."
+    },
+    {
+      "id": "C-008",
+      "title": "ISSUE_003: Mortgage requires borrower equity contribution before holdback draws",
+      "verdict": "pass",
+      "reasoning": "The mortgage's renovation disbursement provisions expressly address borrower equity sequencing. Section 8.2(g) conditions each holdback advance on evidence that Mortgagor's equity contribution allocable to the Renovation Budget 'has been or is being funded on a pro rata, pari passu basis' with Lender's advances, such that the ratio of aggregate Lender advances to aggregate Mortgagor equity contributions (measured against completed work) does not exceed the ratio of the Renovation Holdback to Mortgagor's equity contribution set forth in Exhibit C. Section 8.2(a) further requires each draw request to specify 'the amount of Mortgagor's equity funds expended or concurrently expended' for the applicable line items. Exhibit C, paragraph (c) reinforces this, requiring pro rata, pari passu funding at a maximum 2.5:1.0 lender-to-equity ratio, with a certified reconciliation delivered with each draw request, and Exhibit C (d)/Section 8.5 require the borrower to fund any overruns from its own funds. While the structure is pro rata rather than strict 'equity-first,' the criterion expressly permits provisions that 'otherwise address[] the sequencing of borrower equity vs. lender holdback draws to protect the lender,' and these provisions do so by ensuring borrower equity is contributed alongside each advance and before the lender's exposure exceeds the agreed ratio."
+    },
+    {
+      "id": "C-009",
+      "title": "ISSUE_003: Memo flags draw schedule shows interspersed (not equity-first) funding",
+      "verdict": "pass",
+      "reasoning": "The memo addresses the sequencing issue in F-4 ('The Holdback covers only 78.9% of hard costs; no pari passu or equity-first requirement is in the Term Sheet... Nothing prevents the Borrower from front-loading its equity and exhausting it before the Bank's holdback is drawn — the draw schedule actually does the reverse — or from being unable to fund its share at the point of maximum spend'), noting the absence of any equity-first/pari passu requirement and that the schedule does not front-load equity. F-2 further breaks out lender draws and borrower draws per category across the fourteen monthly draws, confirming that equity is drawn alongside (interspersed with) lender advances. F-1 and the executive summary expressly quantify the resulting squeeze: at month 11 'Only $130,000 of lender holdback remains with $180,000 of budgeted costs remaining,' with borrower equity ending at −$5,000 — i.e., the holdback is nearly exhausted before completion. The criterion's two elements (interspersed rather than equity-first funding, and holdback-exhaustion risk before completion) are both present."
+    },
+    {
+      "id": "C-010",
+      "title": "ISSUE_004: Memo identifies Harmon & Wren ROFR on Bay 2 conflict with leasing covenants",
+      "verdict": "pass",
+      "reasoning": "Section C-3 of the memorandum expressly identifies that Harmon & Wren Design Studio LLC holds a right of first refusal on Bay 2 (which the memo treats as vacant throughout, e.g., the 56.13% occupancy analysis and Bay 2 lease-up TI/commission projections). It explains the ROFR's mechanics (15 business days to match a bona fide third-party offer, surviving renewal under the First Amendment) and that 'the appraisal adjusts its lease-up timeline by 60–90 days for it, and the rent roll workbook flags that marketing is constrained' — i.e., that the ROFR constrains the Borrower's ability to lease the vacancy. It draws two drafting consequences: disclosure as a representation (§4.1(p), Schedule 4.1(n) note (2)) and a tenant acknowledgment/waiver (§5.8) so the ROFR does not burden Lender's remedies, and C-6 cross-references the leasing covenant (§5.6) that governs renewals. This satisfies the criterion: the ROFR on the vacant Bay 2 and its constraining effect on lease-up/marketing (and hence the leasing covenant) are discussed."
+    },
+    {
+      "id": "C-011",
+      "title": "ISSUE_004: Mortgage addresses ROFR in leasing covenant provisions",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly acknowledges the Harmon & Wren ROFR on Bay 2 as an existing tenant right in Section 4.1(p) and Schedule 4.1(n), and Section 5.8 further addresses required tenant acknowledgments regarding that ROFR. Therefore it does not contain a standard leasing covenant with no reference to or accommodation of the existing ROFR."
+    },
+    {
+      "id": "C-012",
+      "title": "ISSUE_005: Memo identifies missing assignment consent clause in Lowcountry Provisions lease",
+      "verdict": "pass",
+      "reasoning": "Section C-1 of the memorandum is expressly devoted to this issue: it identifies that the Lowcountry Provisions Inc. lease for Bay 1 'has no assignment, estoppel, SNDA or attornment provision,' citing the Lease Abstracts ('Assignment/Subletting: No provision. Lease is silent'), the Rent Roll Summary note, the appraisal, and the Term Sheet conditions precedent. It then analyzes the implications for the lender's assignment of rents in detail — enforceability against the tenant under the South Carolina Uniform Assignment of Rents Act (with a correction to the statutory citation to S.C. Code Ann. § 29-3-610 et seq.), the tenant's lack of any contractual cooperation/consent obligation at enforcement, and the absence of subordination/attornment (risk that the lease survives foreclosure). It also specifies the drafting responses adopted (representations as to authority to assign rents, tenant direction authority, post-closing covenant to obtain an amendment). The criterion is fully satisfied."
+    },
+    {
+      "id": "C-013",
+      "title": "ISSUE_005: Mortgage/memo recommends estoppel certificate from Lowcountry Provisions",
+      "verdict": "pass",
+      "reasoning": "The Mortgage expressly requires tenant estoppel certificates as an ongoing covenant in Section 5.8 (and Section 7.7/5.8 address the Lowcountry Provisions lease specifically, requiring Mortgagor to use diligent efforts to obtain estoppel/SNDA and an amendment at first renewal), and the Issues Memorandum separately recommends obtaining estoppels from all three tenants, singling out Lowcountry Provisions in item C-1 (High) and in the diligence request list (C-1/C-2/C-3). Estoppel certificates tied to the rent assignment/tenant acknowledgment are thus present in both documents, satisfying the criterion."
+    },
+    {
+      "id": "C-014",
+      "title": "ISSUE_005: Mortgage includes borrower representation re right to assign rents",
+      "verdict": "pass",
+      "reasoning": "Section 7.7 of the mortgage expressly contains a borrower representation and warranty: \"Mortgagor represents and warrants that it has the full right, power, and authority to assign the Leases and Rents as provided in this Article 7, and that no consent of any tenant is required for such assignment under any Lease or applicable law.\" This directly addresses the borrower's authority to make the assignment of rents, satisfying the criterion."
+    },
+    {
+      "id": "C-015",
+      "title": "ISSUE_006: Memo identifies gap between SPE requirements and operating agreement",
+      "verdict": "pass",
+      "reasoning": "Section D-1 of the memorandum expressly identifies that the borrower's operating agreement lacks the required SPE and bankruptcy-remoteness provisions — no independent manager whose vote is required before a voluntary bankruptcy filing, no separateness covenants, no single-purpose restriction on the broad purpose clause, and no bankruptcy-remoteness/consent language — citing the Operating Agreement Summary §§1.4, 3.1, 3.2 and Term Sheet §10.1(g). It is ranked Critical in the Top-Risk Register and the memo recommends and specifies a form of Operating Agreement Amendment (adding the Independent Manager requirement, separateness covenants, single-purpose restriction, and unanimous-consent requirement for bankruptcy/dissolution/merger), to be executed by all three members and made a condition precedent to closing. The gap and needed amendments are thoroughly discussed."
+    },
+    {
+      "id": "C-016",
+      "title": "ISSUE_006: Mortgage includes SPE covenants with independent director requirement",
+      "verdict": "pass",
+      "reasoning": "The mortgage includes explicit single-purpose entity covenants in Article 6, including Section 6.3, which requires an Independent Manager meeting independence criteria and requires that manager's vote/consent before bankruptcy, insolvency, dissolution, or similar actions. This satisfies the criterion for an independent director/manager requirement for bankruptcy remoteness."
+    },
+    {
+      "id": "C-017",
+      "title": "ISSUE_006: Memo flags need for passive member consent to SPE restrictions",
+      "verdict": "pass",
+      "reasoning": "Section D-1 expressly states that the Operating Agreement Amendment adding the Independent Manager, separateness, single-purpose and bankruptcy-remoteness provisions must be executed by all three members — GDG, Tidewater Opportunity Fund II LP and Harborline Capital Advisors LLC — and made a condition precedent to closing; it further analyzes the OA §9.1 amendment mechanics (75% threshold, GDG 72% + Harborline 10% would suffice procedurally, but recommends all three signatures because the covenants must bind each member, and notes the proviso requiring consent of any member whose economic rights are altered). Section 7(g) reiterates that the amendment is the likely flashpoint because it requires all three members and alters governance rights the passive members bargained for. The need for passive-member consent/joinder is therefore clearly discussed."
+    },
+    {
+      "id": "C-018",
+      "title": "ISSUE_007: Mortgage includes flood insurance covenant for $5M in Zone X",
+      "verdict": "pass",
+      "reasoning": "The mortgage includes Article 10, Section 10.1(c) 'Flood Insurance,' requiring flood insurance on the Property in an amount not less than Five Million Dollars ($5,000,000), naming Lender as mortgagee and loss payee. It also expressly references that the Property is located in FEMA Flood Zone X and that Lender requires the coverage as a condition of the Loan. This matches the criterion exactly (flood insurance covenant for $5M in Zone X)."
+    },
+    {
+      "id": "C-019",
+      "title": "ISSUE_007: Memo or mortgage distinguishes contractual vs. regulatory flood insurance",
+      "verdict": "pass",
+      "reasoning": "Both documents make the distinction. The issues memorandum, item H-2, expressly states that flood coverage in Zone X is 'a credit requirement, not a regulatory one,' notes the $5,000,000 requirement is permissible but that the compliance file should record 'it is a credit decision and that no federally mandated flood insurance or escrow requirement is engaged,' with a cross-reference to B-9. The mortgage itself, Section 10.1(c), states that 'Lender requires flood insurance as a condition of the Loan notwithstanding that the Property is located in FEMA Flood Zone X and that federal law may not require flood insurance for property in that zone,' and separately mandates compliance with federal flood requirements only if a later determination places any portion in a Special Flood Hazard Area. No presentation of the requirement as federally mandated."
+    },
+    {
+      "id": "C-020",
+      "title": "ISSUE_008: Memo identifies balcony encroachment over King Street ROW",
+      "verdict": "pass",
+      "reasoning": "Section B-5 of the memorandum is expressly titled 'Balcony encroachment over the King Street right-of-way' and states that Title Commitment Schedule B-II Exception 5 discloses a ~2.5-foot encroachment over the King Street ROW, recommends ALTA 28.1 coverage, notes that no City encroachment permit or license is in the record, and recommends obtaining the encroachment permit/license (or written confirmation that none is required) and an ALTA 28.1 endorsement quote. It further addresses the renovation scope work over the right-of-way requiring City/BAR approval and includes related Mortgage provisions (§§5.5, 8.9, 16.1(e)). This satisfies the criterion."
+    },
+    {
+      "id": "C-021",
+      "title": "ISSUE_008: Mortgage includes covenant to maintain encroachment permit/license",
+      "verdict": "fail",
+      "reasoning": "The mortgage addresses the King Street balcony encroachment only partially. Section 8.9(c) requires Mortgagor to 'obtain all permits, approvals, and licenses required by the City of Charleston for any work within or over the King Street right-of-way, including any encroachment permit or license relating to the decorative iron balcony,' but this is a one-time covenant tied to the Renovation Work, not an ongoing covenant to maintain any required encroachment permit/license in force throughout the loan term. Moreover, the document contains no covenant expressly prohibiting Mortgagor from exacerbating, enlarging, or extending the encroachment (the only related items are a general compliance-with-laws covenant in Section 5.5, a Lender-consent requirement for alterations in Section 6.6, a permitted-exception description in Exhibit B, and a balcony-related indemnity in Section 16.1(e)). Because the criterion requires both a covenant to maintain the encroachment permit/license and a covenant not to exacerbate the encroachment, the output does not satisfy it."
+    },
+    {
+      "id": "C-022",
+      "title": "ISSUE_009: Yield maintenance formula specifies which U.S. Treasury rate is used",
+      "verdict": "pass",
+      "reasoning": "The mortgage defines the 'Treasury Rate' in Section 1.1 with specificity: it is the yield to maturity of the U.S. Treasury security having a maturity closest to (but not later than) the last day of the Yield Maintenance Period, as reported in Federal Reserve Statistical Release H.15, with linear interpolation between the two nearest published maturities if no exact match exists, and reference to the most recent prior publication if H.15 is unavailable. Section 13.3 uses this defined Treasury Rate as the discount rate for computing the Yield Maintenance Premium. This is a specific reference identifying which Treasury rate/maturity is used, satisfying the criterion."
+    },
+    {
+      "id": "C-023",
+      "title": "ISSUE_009: Yield maintenance formula includes the 50 basis point spread",
+      "verdict": "fail",
+      "reasoning": "The yield maintenance formula in Section 13.3 calculates the present value using the Treasury Rate as the discount rate and does not reference or add a 50 basis point spread. No 50 bps spread is included in the formula."
+    },
+    {
+      "id": "C-024",
+      "title": "ISSUE_009: Yield maintenance formula provides a calculable methodology",
+      "verdict": "pass",
+      "reasoning": "Section 13.3 provides a detailed yield maintenance formula: the premium is the greater of 1% of the prepaid principal or the excess of the present value of remaining scheduled principal and interest payments through the end of the Yield Maintenance Period over the outstanding principal. It identifies the discount rate as the Treasury Rate, defines how the Treasury Rate is determined (including interpolation), and specifies monthly discounting and final-payment adjustment. This is sufficiently calculable from the formula alone."
+    },
+    {
+      "id": "C-025",
+      "title": "ISSUE_009: Memo identifies yield maintenance ambiguity in term sheet",
+      "verdict": "pass",
+      "reasoning": "The memorandum expressly identifies yield maintenance ambiguity in the Term Sheet, including the ambiguous placement of the 50 bp spread (E-2) and the undefined Treasury rate tenor (E-5), and explains that the formula must be made specific and deterministic in the Mortgage to avoid an indefiniteness or unenforceable-penalty challenge, including under South Carolina law (E-7)."
+    },
+    {
+      "id": "C-026",
+      "title": "ISSUE_010: Mortgage transfer restrictions cover indirect/fund-level changes",
+      "verdict": "pass",
+      "reasoning": "Section 6.4 includes 'Change of Control' language expressly capturing indirect/upstream changes, including transfers of interests in Tidewater Opportunity Fund II LP or its general partner (Tidewater GP Holdings LLC or successor), and transfers of ownership interests in Harborline Capital Advisors LLC, along with direct and indirect changes in Mortgagor's members/managers. This satisfies the criterion requiring indirect/fund-level transfer restrictions."
+    },
+    {
+      "id": "C-027",
+      "title": "ISSUE_010: Memo identifies transfer restriction gap re fund-level changes",
+      "verdict": "pass",
+      "reasoning": "The memo's Section D-2 expressly identifies the gap. It quotes Term Sheet §10.3's 10% individual / 25% aggregate restriction with the existing-member exception, then explains that the OA confirms the restriction is entity-level only and does not reach upstream changes in member entities. It specifically cites OA §4.2(c) allowing Tidewater GP to transfer to 'any successor fund' and gives illustrations including Tidewater GP Holdings being acquired and Harborline's internal ownership changing entirely, concluding the 72% controlling interest could pass without consent. It then adopts a Change of Control definition covering GDG, Tidewater GP Holdings/successor GP and Harborline levels, and D-6 adds diligence on Tidewater/Harborline entities. This satisfies the criterion directly."
+    },
+    {
+      "id": "C-028",
+      "title": "ISSUE_010: 'Existing members' exception is narrowly defined",
+      "verdict": "pass",
+      "reasoning": "The transfer restriction’s 'existing members' exception is not left vague: Section 6.3 expressly identifies the three existing members as Graydon Development Group LLC, Tidewater Opportunity Fund II LP, and Harborline Capital Advisors LLC, and Section 6.4 limits the exception to transfers among members existing as of the Closing Date, subject to notice and no Change of Control. This closed-class and Change-of-Control limitation adequately prevents unintended loopholes."
+    },
+    {
+      "id": "C-029",
+      "title": "ISSUE_011: Memo identifies tight timeline between completion and DSCR testing",
+      "verdict": "pass",
+      "reasoning": "The memorandum expressly identifies the timing gap: it states the DSCR testing begins at month 24 while the interest-shortfall guaranty and substantial completion occur at month 14, leaving months 15–24 (approximately 10 months) unsupported; J-1 quantifies the ~$457,000 gap. It also shows current in-place income is far short of the 1.25x DSCR (0.285x amortizing / 0.371x IO) and that even best-case stabilized NOI yields only 0.554x, so the lease-up window and insufficiency of in-place income are discussed."
+    },
+    {
+      "id": "C-030",
+      "title": "ISSUE_011: Mortgage includes DSCR cure mechanism or cash sweep provision",
+      "verdict": "pass",
+      "reasoning": "The mortgage includes an express DSCR cure/protective mechanism. Section 12.2 establishes a 1.25x DSCR covenant tested at DSCR Testing Dates but grants Mortgagor a 30-day cure right: upon Lender's notice, Mortgagor may deposit a calculated 'Cure Amount' into a DSCR Cure Reserve (equal to the excess of Annual Debt Service over NOI divided by 1.25), which is treated as reducing Annual Debt Service for the Measurement Period and restores compliance; the cure right is available twice during the Loan term. Section 9.4 (DSCR Cure Reserve) implements the mechanics, applying reserved funds to upcoming installments (including interest-only installments) in inverse order of maturity without triggering prepayment premiums. Additionally, Section 9.7 provides a cash-management/deposit-account-control trigger upon any failure to satisfy the DSCR covenant, and Section 14.1(i)/14.2(c) make clear that only an uncured failure constitutes an Event of Default. Thus the DSCR covenant is not a bare hard default; it has both a reserve/equity-cure mechanism and a cash-management protective provision. The criterion is satisfied."
+    },
+    {
+      "id": "C-031",
+      "title": "ISSUE_012: Memo identifies chain of title concern for vacated Anson Lane strip",
+      "verdict": "pass",
+      "reasoning": "The memorandum's Section B-1 (Critical) expressly identifies that the Anson Lane strip was conveyed by the City of Charleston by quitclaim deed recorded in Deed Book 1128, Page 443, with 'no warranties of title,' notes the chain-of-title disclaimer and inconsistent descriptions, and recommends obtaining written confirmation from Prestige Title/Commonwealth National that the strip will be insured as part of the legal estate, plus quotes for affirmative coverage/endorsements. The quitclaim/chain-of-title concern and the title insurance coverage recommendation are both fully addressed, satisfying the criterion."
+    },
+    {
+      "id": "C-032",
+      "title": "ISSUE_012: Mortgage legal description includes Anson Lane strip",
+      "verdict": "pass",
+      "reasoning": "The mortgage's legal description in Exhibit A expressly includes Parcel Two, the vacated Anson Lane strip, identifying City of Charleston Ordinance No. 2019-084 and the quitclaim deed recorded in Deed Book 1128 at Page 443. The strip is also referenced in the granting clause and defined terms."
+    },
+    {
+      "id": "C-033",
+      "title": "Mortgage identifies lender name as Calverley Heritage Bank",
+      "verdict": "pass",
+      "reasoning": "The mortgage's preamble explicitly names the lender as 'CALVERLEY HERITAGE BANK, a Georgia state-chartered commercial bank insured by the Federal Deposit Insurance Corporation,' and the lender's acceptance signature block also identifies 'CALVERLEY HERITAGE BANK.' The lender name is therefore correctly identified."
+    },
+    {
+      "id": "C-034",
+      "title": "Mortgage identifies lender entity type and address",
+      "verdict": "pass",
+      "reasoning": "The mortgage's preamble identifies the lender as 'CALVERLEY HERITAGE BANK, a Georgia state-chartered commercial bank insured by the Federal Deposit Insurance Corporation, having its principal office at 412 Whitaker Street, Savannah, Georgia 31401' — matching the required entity type and address exactly."
+    },
+    {
+      "id": "C-035",
+      "title": "Mortgage identifies borrower name as Palmetto Gateway Partners LLC",
+      "verdict": "pass",
+      "reasoning": "The mortgage identifies the borrower/Mortgagor as 'PALMETTO GATEWAY PARTNERS LLC, a South Carolina limited liability company' in the preamble and signature block."
+    },
+    {
+      "id": "C-036",
+      "title": "Mortgage identifies borrower entity type and address",
+      "verdict": "pass",
+      "reasoning": "The mortgage preamble identifies the borrower as 'PALMETTO GATEWAY PARTNERS LLC, a South Carolina limited liability company, having its principal office at 88 Broad Street, Suite 200, Charleston, South Carolina 29401.' Both the entity type (South Carolina LLC) and the principal office address match the criterion exactly."
+    },
+    {
+      "id": "C-037",
+      "title": "Mortgage states correct loan amount of $14,750,000",
+      "verdict": "pass",
+      "reasoning": "The mortgage consistently states the loan amount as $14,750,000.00. Recital A states the original principal amount of the Loan is 'Fourteen Million Seven Hundred Fifty Thousand and No/100 Dollars ($14,750,000.00).' Recital B similarly states the Note is in that amount, Section 3.1 caps the secured principal at $14,750,000.00, and the title policy requirement in Section 5.13 is also $14,750,000.00. This matches the criterion exactly."
+    },
+    {
+      "id": "C-038",
+      "title": "Mortgage states correct maturity date of April 15, 2030",
+      "verdict": "pass",
+      "reasoning": "The Mortgage defines the \"Maturity Date\" in Section 1.1 as \"April 15, 2030, being the fifth (5th) anniversary of the Closing Date,\" and the Closing Date is stated as April 15, 2025. This matches the required maturity date of April 15, 2030 (5 years from closing)."
+    },
+    {
+      "id": "C-039",
+      "title": "Mortgage states interest rate as Daily SOFR + 285 bps",
+      "verdict": "fail",
+      "reasoning": "The mortgage defines the Applicable Spread as 285 bps (2.85%) but does not state the interest rate as Daily SOFR plus 285 basis points. The benchmark is only referenced indirectly via 'SOFR Floor Rate' and the rate in effect under the Note; 'Daily SOFR' is missing. Therefore the benchmark is not correctly stated as required."
+    },
+    {
+      "id": "C-040",
+      "title": "Mortgage states SOFR floor of 3.00%",
+      "verdict": "pass",
+      "reasoning": "In Article 1.1, the defined term \"SOFR Floor Rate\" is expressly stated as \"three percent (3.00%) per annum,\" and the 3.00% floor is also referenced in the \"Annual Debt Service\" definition. The criterion is satisfied."
+    },
+    {
+      "id": "C-041",
+      "title": "Mortgage states correct default rate: applicable rate + 5.00%",
+      "verdict": "pass",
+      "reasoning": "Section 14.5 expressly defines the Default Rate as the otherwise applicable rate of interest under the Note plus five percent (5.00%) per annum, which matches the criterion."
+    },
+    {
+      "id": "C-042",
+      "title": "Mortgage includes 24-month interest-only period from closing",
+      "verdict": "pass",
+      "reasoning": "The Mortgage expressly defines an Interest-Only Period commencing on the Closing Date (April 15, 2025) and ending on April 15, 2027, which is exactly 24 months. It also states that monthly installments of interest only are due during that period."
+    },
+    {
+      "id": "C-043",
+      "title": "Mortgage includes 25-year amortization schedule after IO period",
+      "verdict": "pass",
+      "reasoning": "The mortgage defines the Interest-Only Period and expressly references a 25-year amortization schedule in the Annual Debt Service definition, calculating level monthly principal and interest payments on that schedule. The schedule is included and is consistent with the post-interest-only structure; no incorrect amortization term is stated."
+    },
+    {
+      "id": "C-044",
+      "title": "Mortgage includes 24-month lockout period with no prepayment",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly defines a 24-month Lockout Period from the Closing Date and Article 13.1 prohibits prepayment in whole or in part during that period, stating Mortgagor has no right to prepay and any purported prepayment is void unless Lender elects otherwise. This satisfies the 24-month no-prepayment lockout requirement."
+    },
+    {
+      "id": "C-045",
+      "title": "Mortgage includes yield maintenance premium prepayment from month 25 through month 48",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly provides a yield maintenance prepayment phase from month 25 through month 48. Section 13.2 is titled 'Yield Maintenance Period' and permits prepayment during the Yield Maintenance Period (defined as months 25 through 48 following the Closing Date) subject to payment of the Yield Maintenance Premium. The definitions section confirms this: 'Yield Maintenance Period' means the period commencing on the first day of the twenty-fifth (25th) month following the Closing Date and ending on the last day of the forty-eighth (48th) month following the Closing Date. Section 13.3 sets forth the Yield Maintenance Premium formula (greater of 1.00% of principal prepaid or present value of remaining payments discounted at the Treasury Rate). The timing matches the criterion exactly."
+    },
+    {
+      "id": "C-046",
+      "title": "Mortgage includes open prepayment with no premium during final 12 months",
+      "verdict": "pass",
+      "reasoning": "The mortgage defines an Open Prepayment Period from the first day of the 49th month through the Maturity Date, i.e., months 49–60/final 12 months, and Section 13.4 permits prepayment in whole or in part without any prepayment premium, penalty, or yield maintenance amount."
+    },
+    {
+      "id": "C-047",
+      "title": "Mortgage includes late charge of 5% with 10-day grace period",
+      "verdict": "pass",
+      "reasoning": "Section 14.5 expressly provides for a late charge equal to 5.0% of any monthly installment of principal and/or interest not received within ten (10) calendar days after the due date, satisfying the stated criterion."
+    },
+    {
+      "id": "C-048",
+      "title": "Mortgage includes DSCR covenant of at least 1.25x tested quarterly",
+      "verdict": "pass",
+      "reasoning": "The mortgage includes Section 12.2 requiring a DSCR of not less than 1.25x, and defines DSCR Testing Dates as the last day of each calendar quarter beginning after the specified initial period, so the covenant is tested quarterly. This satisfies the criterion."
+    },
+    {
+      "id": "C-049",
+      "title": "Mortgage DSCR testing commences 24 months after closing",
+      "verdict": "pass",
+      "reasoning": "The mortgage defines the DSCR Testing Date as the last day of the first full calendar quarter ending after the date 24 months following the Closing Date, and specifically identifies the first DSCR Testing Date as June 30, 2027, with testing upon quarterly reporting around July 30, 2027. Since the Closing Date is April 15, 2025, 24 months later is April 15, 2027, and June 30, 2027 is the quarter-end following month 24. This satisfies the criterion."
+    },
+    {
+      "id": "C-050",
+      "title": "Mortgage includes tax and insurance escrow provision",
+      "verdict": "pass",
+      "reasoning": "Section 9.1 (Tax and Insurance Escrow) expressly requires Mortgagor to deposit with Lender on the Closing Date and on the first day of each calendar month thereafter 'an amount equal to one-twelfth (1/12) of the estimated annual real property taxes and casualty and liability insurance premiums for the Property,' with provisions for holding, applying, adjusting, and curing deficiencies. This fully satisfies the criterion, and the defined term 'Tax and Insurance Escrow' is used consistently throughout (e.g., Sections 2.2(d), 9.5, and the Net Operating Income definition excludes escrow deposits from Operating Expenses)."
+    },
+    {
+      "id": "C-051",
+      "title": "Mortgage includes capital replacement reserve of $0.25/SF/year",
+      "verdict": "pass",
+      "reasoning": "Section 9.2 expressly establishes a Capital Replacement Reserve requiring monthly deposits of $645.83, described as one-twelfth of $7,750.00, calculated at $0.25 per square foot per year multiplied by 31,000 square feet. This matches the criterion exactly, including the equivalent annual and monthly amounts."
+    },
+    {
+      "id": "C-052",
+      "title": "Mortgage includes TI/LC reserve with $150,000 initial deposit",
+      "verdict": "pass",
+      "reasoning": "Section 9.3 establishes a Tenant Improvement and Leasing Commission Reserve requiring a $150,000 initial deposit on the Closing Date and replenishment to the full $150,000 from Mortgagor's own funds after any disbursement. This matches the criterion."
+    },
+    {
+      "id": "C-053",
+      "title": "Mortgage includes renovation reserve/holdback of $2,250,000",
+      "verdict": "pass",
+      "reasoning": "The output explicitly provides for a $2,250,000 Renovation Holdback in Recital C (with the $12,500,000 Initial Advance summing to the $14,750,000 Loan), and Article 8 governs disbursement on a draw basis. Section 8.2 specifies the required conditions, including a certified AIA G702/G703 application and Architect certification of completed work, conditional and unconditional lien waivers from the GC and subcontractors/suppliers, and a title date-down endorsement confirming no intervening liens (plus future-advance coverage). Frequency, 10% retainage, change-order limits, cost-overrun funding, and Substantial Completion requirements are also addressed. The holdback amount is correct and the draw conditions match the criterion."
+    },
+    {
+      "id": "C-054",
+      "title": "Mortgage includes initial advance of $12,500,000 at closing",
+      "verdict": "pass",
+      "reasoning": "Recital C explicitly states an initial advance of Twelve Million Five Hundred Thousand and No/100 Dollars ($12,500,000.00) to be made on the Closing Date, and Section 3.1/2.1 confirm the Initial Advance is part of the secured obligations. The figure matches the criterion exactly."
+    },
+    {
+      "id": "C-055",
+      "title": "Mortgage legal description includes Lots 7, 8, and 9 of Hampstead Village Plat",
+      "verdict": "pass",
+      "reasoning": "Exhibit A expressly describes Parcel One as Lots 7, 8, and 9 of the Hampstead Village Plat, recorded in Plat Book 41 at Page 218, and also identifies the corresponding tax map numbers. The legal description therefore satisfies the criterion."
+    },
+    {
+      "id": "C-056",
+      "title": "Mortgage legal description includes all three tax parcel numbers",
+      "verdict": "pass",
+      "reasoning": "The mortgage's legal description in Exhibit A expressly references all three required tax parcel numbers: Charleston County Tax Map Nos. 460-12-04-007, 460-12-04-008, and 460-12-04-009."
+    },
+    {
+      "id": "C-057",
+      "title": "Mortgage includes absolute assignment of rents (not collateral assignment)",
+      "verdict": "pass",
+      "reasoning": "Article 7 is expressly titled 'ABSOLUTE ASSIGNMENT OF LEASES AND RENTS,' and Section 7.1 states that Mortgagor 'unconditionally, absolutely, presently, and irrevocably' assigns all Leases, Rents, and Security Deposits, explicitly providing that the assignment 'is an absolute and present assignment and not merely a collateral assignment' and is effective upon execution and recording without further act. Section 7.2 invokes the South Carolina Uniform Assignment of Rents Act (S.C. Code Ann. § 29-3-610 et seq.), and the perfection-upon-recording intent is stated. The revocable license back to Mortgagor in Section 7.3 (revoked automatically upon an Event of Default) is the customary mechanism accompanying an absolute assignment and does not convert it into a collateral assignment or render the characterization ambiguous. The criterion is satisfied."
+    },
+    {
+      "id": "C-058",
+      "title": "Mortgage grants security interest in personal property and UCC collateral",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly grants a security interest in personal property, equipment, fixtures, accounts, general intangibles, and other UCC collateral in Sections 2.2–2.3 and Exhibit D, and Section 2.4 references filing a UCC-1 financing statement with the South Carolina Secretary of State (plus a fixture filing in the RMC Office)."
+    },
+    {
+      "id": "C-059",
+      "title": "Mortgage includes security interest in insurance and condemnation proceeds",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly includes in the collateral all insurance policies and proceeds, casualty insurance proceeds and unearned premiums, and all condemnation awards, judgments, claims, and settlement payments arising from damage, destruction, or taking of the Property. Article 10 further provides for application of casualty proceeds and assignment of condemnation awards to Lender."
+    },
+    {
+      "id": "C-060",
+      "title": "Mortgage includes security interest in permits, licenses, and development rights",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly includes permits, licenses, entitlements, approvals, development rights, zoning rights, variances, special exceptions, certificates of occupancy, plans and specifications, and other governmental authorizations relating to the Property as part of the Mortgaged Property in Section 2.2(f), and Exhibit D also includes permits, licenses, and related general intangibles within the collateral description."
+    },
+    {
+      "id": "C-061",
+      "title": "Mortgage includes security interest in contracts and project documents",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly includes as collateral all contracts, subcontracts, purchase orders, architectural and engineering agreements, warranties, guaranties, and contract rights relating to the acquisition, construction, renovation, operation, or maintenance of the Property, including Mortgagor's interest in the GC Contract with Beaufort Builders Group LLC and warranties/guaranties from the contractor and subcontractors. Exhibit D also includes contract rights, warranties, and rights under the GC Contract in the UCC collateral description."
+    },
+    {
+      "id": "C-062",
+      "title": "Mortgage includes covenant against subordinate financing without consent",
+      "verdict": "pass",
+      "reasoning": "Section 6.1 (\"No Subordinate or Additional Financing\") expressly prohibits Mortgagor, without Lender's prior written consent, from incurring, creating, assuming, or permitting any lien, mortgage, deed of trust, security interest, pledge, encumbrance, or other interest in the Property that is junior, senior, or on parity with the Mortgage, or any indebtedness secured thereby, including mezzanine loans, preferred equity, participations, or other financing arrangements. Article 6 opens with the general restriction that Mortgagor shall not, without Lender's prior written consent, take these actions, and Section 6.2 further limits other indebtedness. The criterion is satisfied."
+    },
+    {
+      "id": "C-063",
+      "title": "Mortgage includes transfer restriction with 10% individual / 25% aggregate thresholds",
+      "verdict": "fail",
+      "reasoning": "The transfer restriction in Section 6.4(b) only includes a 10% threshold measured individually or in the aggregate with related transfers. It does not include the required separate 25% aggregate threshold."
+    },
+    {
+      "id": "C-064",
+      "title": "SPE covenant: borrower restricted to owning/operating the Property only",
+      "verdict": "pass",
+      "reasoning": "Section 6.2 (Single-Purpose Entity Covenants) expressly restricts the borrower: under 6.2(a), Mortgagor shall not \"engage in any business or activity other than the acquisition, ownership, operation, renovation, leasing, management, and disposition of the Property, and activities incidental thereto, and not acquire or own any asset other than the Property and incidental personal property and cash.\" Additional separateness covenants (separate books/accounts, no commingling, no guaranteeing affiliate debt, arm's-length dealings, no mergers/dissolution) reinforce the SPE restriction. The confirmation in Section 4.1(g) and the SPE default in Section 14.1(j) further evidence the covenant. The criterion is satisfied."
+    },
+    {
+      "id": "C-065",
+      "title": "SPE covenant: no voluntary bankruptcy without independent director consent",
+      "verdict": "pass",
+      "reasoning": "The mortgage includes a detailed SPE covenant in Section 6.3 ('Bankruptcy Remoteness; Independent Manager') requiring the unanimous affirmative vote of all managers, including at least one qualifying Independent Manager, before Mortgagor may file a voluntary bankruptcy petition, consent to an order for relief, consent to a receiver, make a general assignment for creditors, or take similar insolvency actions. Section 6.3(a) expressly lists 'file a voluntary petition under the United States Bankruptcy Code' as an action requiring Independent Manager approval, and the provision is reinforced by Sections 6.2(l), 6.7, and the SPE Event of Default in Section 14.1(j). This fully satisfies the criterion."
+    },
+    {
+      "id": "C-066",
+      "title": "SPE covenant: separate books and no commingling",
+      "verdict": "pass",
+      "reasoning": "Section 6.2(b) of the mortgage expressly requires Mortgagor to \"maintain its own separate books of account, financial records, and bank accounts, separate and apart from those of any other Person, and not commingle its funds or assets with those of any Affiliate, member, manager, or other Person.\" Both required SPE elements—separate books/records and a prohibition on commingling with affiliates—are present. Additional reinforcing provisions appear in Sections 5.11 (books and records), 6.2(a)/(c)/(f) (separateness and paying own liabilities from own assets), and 14.1(j) (SPE breach as an Event of Default)."
+    },
+    {
+      "id": "C-067",
+      "title": "Mortgage includes property insurance covenant (all-risk, replacement cost)",
+      "verdict": "pass",
+      "reasoning": "Section 10.1(a) of the Mortgage expressly requires Mortgagor to maintain 'Comprehensive all-risk (special form) property insurance covering the Property and all Improvements, on a full replacement cost basis, with an agreed-amount endorsement (waiver of coinsurance),' naming Lender as mortgagee and loss payee. This satisfies the criterion requiring an all-risk, replacement-cost property insurance covenant."
+    },
+    {
+      "id": "C-068",
+      "title": "Mortgage includes CGL insurance requirement ($2M occ. / $5M agg.)",
+      "verdict": "pass",
+      "reasoning": "Section 10.1(b) expressly requires Commercial General Liability insurance with limits of not less than $2,000,000 per occurrence and $5,000,000 in the aggregate, naming Lender as an additional insured."
+    },
+    {
+      "id": "C-069",
+      "title": "Mortgage requires annual audited financial statements within 120 days of FYE",
+      "verdict": "pass",
+      "reasoning": "Section 12.3(a) of the mortgage expressly requires Mortgagor to deliver \"audited financial statements of Mortgagor prepared in accordance with GAAP by an independent certified public accounting firm reasonably acceptable to Lender, together with an unqualified opinion\" not later than one hundred twenty (120) days after the end of each fiscal year. Section 12.4 further reinforces the audit standard by providing that the obligation to deliver audited financial statements is not satisfied by reviewed or unaudited statements. The 120-day delivery period and audit requirement match the criterion."
+    },
+    {
+      "id": "C-070",
+      "title": "Mortgage requires quarterly rent rolls within 30 days of quarter-end",
+      "verdict": "pass",
+      "reasoning": "Section 12.3(c) expressly requires Mortgagor to deliver a certified rent roll 'Not later than thirty (30) days after the end of each calendar quarter,' satisfying the criterion. Section 5.19 also references the quarterly rent roll obligation under Section 12.3."
+    },
+    {
+      "id": "C-071",
+      "title": "Mortgage includes borrower net worth covenant of $1,000,000",
+      "verdict": "pass",
+      "reasoning": "Section 12.1 expressly requires Mortgagor to maintain, at all times during the term of the Loan, a net worth of not less than $1,000,000.00 determined in accordance with GAAP. This satisfies the criterion."
+    },
+    {
+      "id": "C-072",
+      "title": "Mortgage includes borrower liquidity covenant of $500,000",
+      "verdict": "pass",
+      "reasoning": "Section 12.1 expressly requires Mortgagor to maintain, at all times during the term of the Loan, liquid assets of not less than Five Hundred Thousand Dollars ($500,000.00), satisfying the liquidity covenant requirement."
+    },
+    {
+      "id": "C-073",
+      "title": "Mortgage includes events of default section covering payment default, covenant default, and bankruptcy/insolvency",
+      "verdict": "pass",
+      "reasoning": "Article 14 expressly sets forth Events of Default, including Section 14.1(a) Payment Default (failure to pay principal, interest, or other amounts when due), Section 14.1(b) Covenant Default (breach of any covenant, agreement, or obligation under the Mortgage or other Loan Document), and Section 14.1(d) Insolvency; Bankruptcy (voluntary/involuntary bankruptcy petitions, receivership, assignment for benefit of creditors, etc.). All three required categories are covered, plus additional events (cross-default, transfer, SPE, environmental, DSCR). The criterion is satisfied."
+    },
+    {
+      "id": "C-074",
+      "title": "Mortgage includes remedies section (acceleration, foreclosure, receiver)",
+      "verdict": "pass",
+      "reasoning": "The mortgage includes a comprehensive remedies section. Article 15 provides for acceleration (Section 15.1(a), cross-referencing Section 14.4), judicial foreclosure under South Carolina law (Section 15.1(b)), and appointment of a receiver (Sections 15.1(c) and (f)). Therefore, the criterion is satisfied."
+    },
+    {
+      "id": "C-075",
+      "title": "Mortgage references the guaranty by Neil Ashford Graydon",
+      "verdict": "pass",
+      "reasoning": "Recital G expressly identifies Neil Ashford Graydon as 'Guarantor' and states he has executed or will execute a Guaranty Agreement in favor of Lender. 'Guarantor' is defined by reference to that recital, and the Mortgage repeatedly references the Guaranty Agreement (e.g., Sections 5.6, 11.5, 17.3, 18.6, Events of Default at 14.1(d), (e), (p)). This fully satisfies the criterion."
+    },
+    {
+      "id": "C-076",
+      "title": "Mortgage includes granting clause with mortgage lien language",
+      "verdict": "pass",
+      "reasoning": "Section 2.1 of the Mortgage contains an express granting clause: \"Mortgagor hereby MORTGAGES, GRANTS, BARGAINS, SELLS, CONVEYS, ASSIGNS, TRANSFERS, AND SETS OVER to Lender, and grants to Lender a FIRST-PRIORITY LIEN AND MORTGAGE upon and security interest in...\" the Property, expressly to secure the Secured Obligations. This uses multiple operative words (mortgage, grant, convey) to create a lien in favor of the Lender."
+    },
+    {
+      "id": "C-077",
+      "title": "Mortgage property address is 520-534 King Street, Charleston, SC 29403",
+      "verdict": "pass",
+      "reasoning": "The mortgage repeatedly identifies the property as 520–534 King Street, Charleston, South Carolina 29403, including in the Recitals, representations, and Exhibit A."
+    },
+    {
+      "id": "C-078",
+      "title": "Mortgage includes tax payment/escrow covenant",
+      "verdict": "pass",
+      "reasoning": "The mortgage contains an express tax payment covenant in Section 5.2 ('Payment of Impositions'), requiring Mortgagor to pay and discharge all Impositions (including real property taxes and assessments) before they become delinquent and to provide evidence of payment. Additionally, Section 9.1 establishes a 'Tax and Insurance Escrow,' requiring monthly deposits equal to one-twelfth of estimated annual real property taxes and insurance premiums, with Lender applying escrowed funds to Impositions when due, and a deficiency funding obligation. Definitions of 'Impositions' and 'Tax and Insurance Escrow' further confirm coverage. The criterion is satisfied."
+    },
+    {
+      "id": "C-079",
+      "title": "Mortgage includes compliance with laws covenant",
+      "verdict": "pass",
+      "reasoning": "Section 5.5 ('Compliance with Laws') expressly requires Mortgagor to 'Comply in all respects with all applicable federal, state, and local laws, statutes, ordinances, rules, regulations, orders, permits, licenses, judgments, and decrees applicable to the Property or the conduct of Mortgagor's business,' including zoning, building, fire, life safety, health, accessibility (ADA), historic preservation, and Environmental Laws. The covenant is also reinforced by Section 5.15 (Environmental Compliance) and Article 11. This fully satisfies the criterion."
+    },
+    {
+      "id": "C-080",
+      "title": "Mortgage includes maintenance/repair covenant for the Property",
+      "verdict": "pass",
+      "reasoning": "Section 5.3 (\"Maintenance, Repair, and Replacement\") expressly requires Mortgagor to maintain the Property, including all Improvements, fixtures, building systems, common areas, parking, roof, façade, and structural elements, in good order, condition, and repair, in compliance with applicable laws, to promptly repair/restore/replace damaged portions, and prohibits waste. Additional related covenants (e.g., Section 5.5 compliance with laws, Article 10 insurance and restoration) further reinforce the obligation. The criterion is satisfied."
+    },
+    {
+      "id": "C-081",
+      "title": "Mortgage references South Carolina as governing law",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly specifies South Carolina governing law in Section 18.1, stating the agreement is governed by and construed in accordance with South Carolina law and is a South Carolina mortgage. This satisfies the criterion."
+    },
+    {
+      "id": "C-082",
+      "title": "Issues memo is produced as a separate deliverable",
+      "verdict": "pass",
+      "reasoning": "The agent produced a distinct, standalone issues memorandum (drafting-issues-memorandum.docx) addressed to the supervising partner, separate from the Mortgage and Security Agreement itself. It comprehensively identifies legal, commercial, and drafting issues (e.g., appraisal inconsistencies, occupancy miscalculation, DSCR unachievability, SPE defects, title/survey issues, yield maintenance conflicts, retainage/draw schedule discrepancies, environmental concerns, guaranty gaps), includes a risk register with severity ratings, figure reconciliation, drafting resolutions, and open action items. This fully satisfies the criterion."
+    },
+    {
+      "id": "C-083",
+      "title": "Mortgage document is produced as a deliverable",
+      "verdict": "pass",
+      "reasoning": "The agent produced a complete Mortgage and Security Agreement document, including recitals, definitions, granting clauses, covenants, assignment of leases and rents, future advance provisions, default and remedies, exhibits (legal description, permitted exceptions, renovation budget, UCC collateral description, notice addresses), and a rent roll schedule. This fully satisfies the criterion of producing a mortgage document as a deliverable."
+    },
+    {
+      "id": "C-084",
+      "title": "ISSUE_009: Yield maintenance enforceability under SC law discussed",
+      "verdict": "pass",
+      "reasoning": "The memorandum expressly discusses yield maintenance enforceability under South Carolina law in Section E-7 ('Enforceability of the premium'), stating that SC courts enforce such premiums as liquidated damages only where the formula is specific, mathematically deterministic and objectively calculable, and not where it requires subjective judgment. It identifies the penalty/liquidated-damages risk and describes how the drafted clause is built for enforceability (defined reference rate, maturity matching, interpolation, floor, conclusive-calculation provision, express liquidated-damages characterization, severability). Related penalty and indefiniteness risks are also flagged at E-3 and E-5. The criterion is satisfied."
+    },
+    {
+      "id": "C-085",
+      "title": "ISSUE_005: SC Assignment of Rents Act referenced for rent assignment",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly references the South Carolina Uniform Assignment of Rents Act at S.C. Code Ann. § 29-3-610 et seq. in Section 7.2, in direct connection with the absolute assignment of Leases and Rents. The issues memorandum additionally discusses the Act (C-1), correcting the citation from the markup's § 29-3-100 to the codified § 29-3-610 et seq. and confirming the Mortgage was drafted to that citation. The SC statutory framework for assignment of rents is therefore referenced in both documents, satisfying the criterion."
+    },
+    {
+      "id": "C-086",
+      "title": "Mortgage references SCDHEC NFA letter and land use restriction recording info",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly references both items. Recital H and Exhibit B (item 3) identify the land use restriction recorded in Deed Book 1203 at Page 89, RMC Office for Charleston County, imposed by SCDHEC in connection with Site ID No. SC-29403-0772. Section 4.3(b) expressly references the SCDHEC No Further Action letter dated August 12, 2021 for SCDHEC Site ID No. SC-29403-0772. Article 11 also imposes compliance obligations tied to the Land Use Restriction and the NFA determination. The criterion is satisfied."
+    },
+    {
+      "id": "C-087",
+      "title": "Mortgage includes renovation draw conditions (architect cert, lien waivers, title endorsement)",
+      "verdict": "pass",
+      "reasoning": "Article 8.2 expressly conditions each Renovation Holdback advance on (1) an architect-certified AIA G702/G703 and Architect certification that the work was completed per plans, (2) conditional lien waivers for the requested work and unconditional lien waivers for prior work from the General Contractor and subcontractors/suppliers, and (3) a title date-down endorsement confirming no intervening liens or encumbrances other than Permitted Exceptions. All three required conditions are satisfied."
+    },
+    {
+      "id": "C-088",
+      "title": "Mortgage includes security interest in reserve/escrow accounts",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly includes reserve and escrow accounts in the collateral. Section 2.2(d) covers all deposits, reserve accounts, escrow accounts, and other accounts established in connection with the Loan or maintained by Lender for Mortgagor's benefit, including the Tax and Insurance Escrow, Capital Replacement Reserve, TI/LC Reserve, and DSCR Cure Reserve, together with all sums and interest. Section 9.5 separately grants a first-priority security interest in those accounts. This satisfies the criterion."
+    },
+    {
+      "id": "C-089",
+      "title": "Mortgage recitals reference the promissory note",
+      "verdict": "pass",
+      "reasoning": "Recital B of the mortgage expressly states that the Loan is evidenced by 'a promissory note of even date herewith made by Mortgagor payable to the order of Lender in the original principal amount of $14,750,000.00,' defined as the 'Note.' The Note is further referenced throughout (e.g., Section 1.1 definitions of 'Loan Documents' and 'Secured Obligations,' Section 3.1, Article 13, Article 14). The criterion is satisfied."
+    },
+    {
+      "id": "C-090",
+      "title": "Mortgage includes environmental indemnity or reference to separate environmental indemnity",
+      "verdict": "pass",
+      "reasoning": "The mortgage contains both a standalone environmental indemnity provision (Section 11.5, indemnifying Lender for Hazardous Materials, Environmental Law and Land Use Restriction violations, and breaches of Article 11/Section 4.3) and multiple express references to a separate Environmental Indemnity Agreement as a required Loan Document (Recital G, the definition of 'Loan Documents,' Section 11.7, and Section 16.2). The criterion is satisfied."
+    },
+    {
+      "id": "C-091",
+      "title": "Mortgage addresses condemnation/eminent domain proceedings",
+      "verdict": "pass",
+      "reasoning": "The mortgage expressly addresses condemnation/eminent domain in Section 10.5 (\"Condemnation\"), which requires Mortgagor to notify Lender of any taking, irrevocably assigns all Condemnation Awards to Lender, appoints Lender as attorney-in-fact to collect and receipt for awards, and permits Lender to apply the awards to the Secured Obligations (or make them available for restoration) without prepayment premium. Condemnation awards are also included in the Mortgaged Property (Section 2.2(e)), and an unaddressed condemnation is an Event of Default (Section 14.1(n)). The criterion is satisfied."
+    },
+    {
+      "id": "C-092",
+      "title": "Mortgage includes casualty/damage provisions and insurance proceeds application",
+      "verdict": "pass",
+      "reasoning": "Article 10 of the Mortgage contains comprehensive casualty provisions: Section 10.1 requires all-risk property and builder's risk insurance naming Lender as mortgagee/loss payee; Section 10.3 addresses adjustment of casualty claims, granting Lender the right to participate and to act as attorney-in-fact to collect proceeds; Section 10.4 governs application of casualty proceeds, setting conditions under which Lender may make proceeds available for restoration (no default, loss ≤25% of appraised value, restoration within 12 months, sufficient proceeds, etc.) and otherwise permitting Lender to apply proceeds to the Secured Obligations, with such applications at par and without prepayment premium. Section 10.5 additionally covers condemnation awards. The criterion is fully satisfied."
+    }
+  ]
+}

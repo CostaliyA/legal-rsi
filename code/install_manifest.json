@@ -1,0 +1,242 @@
+[
+  {
+    "source": "local/harvey_agent_loop.py",
+    "destination": "examples/skill_evolving/harvey_agent_loop.py",
+    "sha256": "7fe0959a099a5574e4064780d4286dbbcc28675f492f9467979155ec7090c7f9",
+    "executable": false
+  },
+  {
+    "source": "local/writer_agent_loop.py",
+    "destination": "examples/skill_evolving/writer_agent_loop.py",
+    "sha256": "02e2b5b86731d6f4b541599e43cd06b35fa06bdf63d235b6f3cb8a14ca2e05e3",
+    "executable": false
+  },
+  {
+    "source": "local/writer_reward_fn.py",
+    "destination": "examples/skill_evolving/writer_reward_fn.py",
+    "sha256": "c9dc25cb872a505828764698ae50010e357889fb3df0bc2f1386338513a18370",
+    "executable": false
+  },
+  {
+    "source": "local/prepare_harvey_data.py",
+    "destination": "examples/skill_evolving/prepare_harvey_data.py",
+    "sha256": "8744fd1f931c75ac1fd167975144f70bdd27510affc93644be01ef40cb38960c",
+    "executable": false
+  },
+  {
+    "source": "local/prepare_writer_data.py",
+    "destination": "examples/skill_evolving/prepare_writer_data.py",
+    "sha256": "b0b7b2321dde23d783f9be1f2a7e133040387c3c7ce5fc4fabc01182435f816e",
+    "executable": false
+  },
+  {
+    "source": "local/make_group_config.py",
+    "destination": "examples/skill_evolving/make_group_config.py",
+    "sha256": "ed55352e0af871f60a703716f91a1ef8eff18b64a33b5650469cadec53bf939b",
+    "executable": false
+  },
+  {
+    "source": "local/run_harvey_grpo.sh",
+    "destination": "examples/skill_evolving/run_harvey_grpo.sh",
+    "sha256": "43568e3d4441fd4b9d60392127d4fa2eb219bdbce9001bd73569f731827de657",
+    "executable": true
+  },
+  {
+    "source": "local/run_harvey_writer_grpo.sh",
+    "destination": "examples/skill_evolving/run_harvey_writer_grpo.sh",
+    "sha256": "0e9345ccc915294000b06ba688e412e46921f577a3c80a9500e59574855db100",
+    "executable": false
+  },
+  {
+    "source": "api/api_harvey_rollout.py",
+    "destination": "examples/skill_evolving/api_harvey_rollout.py",
+    "sha256": "2935e4e231990f1c2b3580a667909f625ae63d5914bb45eb2a7136663daa79e6",
+    "executable": false
+  },
+  {
+    "source": "api/api_verl_harvey_loop.py",
+    "destination": "examples/skill_evolving/api_verl_harvey_loop.py",
+    "sha256": "73c04e6f8f1e4e118e9e711a28e3b809dd2e956d59ccb5e2c52355c4e89f8cfd",
+    "executable": false
+  },
+  {
+    "source": "api/run_api_verl_4x.py",
+    "destination": "examples/skill_evolving/run_api_verl_4x.py",
+    "sha256": "3c4176c54c5a6dd92d0dbd3fab3d4d6ca50bb4eb092c4a583bb90cb4a64e0d69",
+    "executable": false
+  },
+  {
+    "source": "api/api_writer.py",
+    "destination": "examples/skill_evolving/api_writer.py",
+    "sha256": "9f6a384a02baf57d2deebc1aeb6971982541b86c5bf72d8c4881c6c8871e0a73",
+    "executable": false
+  },
+  {
+    "source": "api/score_existing_rollouts.py",
+    "destination": "examples/skill_evolving/score_existing_rollouts.py",
+    "sha256": "afa0a43aeb120beaa9b7a49b2aabd0707d95b20b59bf099beba8c94bc2b2462e",
+    "executable": false
+  },
+  {
+    "source": "api/select_writer_candidate.py",
+    "destination": "examples/skill_evolving/select_writer_candidate.py",
+    "sha256": "f1ed9ec46764f5fbb14c2299e7e0e7aec58b913624ef0b41ec36da8f78bcc6dc",
+    "executable": false
+  },
+  {
+    "source": "api/summarize_one_epoch_4x.py",
+    "destination": "examples/skill_evolving/summarize_one_epoch_4x.py",
+    "sha256": "7b9fab55aa1f5c9967e8dea95f5307775d31890a03ee540913a6e9a742104102",
+    "executable": false
+  },
+  {
+    "source": "shared/__init__.py",
+    "destination": "examples/skill_evolving/__init__.py",
+    "sha256": "3fa404fffcb2e5e654e8640c0350d96b6999acee613e39b0225f6f59218a0051",
+    "executable": false
+  },
+  {
+    "source": "shared/harvey_episode.py",
+    "destination": "examples/skill_evolving/harvey_episode.py",
+    "sha256": "68958463cb0ec3e50bfad271b3ed89a83d92b20e98989abd0e7a05835adb06be",
+    "executable": false
+  },
+  {
+    "source": "shared/harvey_reward.py",
+    "destination": "examples/skill_evolving/harvey_reward.py",
+    "sha256": "54725e8ee26ec5d076b2f26609aaa0f01560457d2e2329b2fff9ba39a192b841",
+    "executable": false
+  },
+  {
+    "source": "shared/skill_store.py",
+    "destination": "examples/skill_evolving/skill_store.py",
+    "sha256": "a70f15137e7a6416d98db2c69655cc65a80347d5383cc6bb2f93d236c2ddf885",
+    "executable": false
+  },
+  {
+    "source": "shared/skill_router.py",
+    "destination": "examples/skill_evolving/skill_router.py",
+    "sha256": "ea74e1fe798f06f611e9397fb84fb1ec2a950b0cc9ddd13bf0cc906b6db366a0",
+    "executable": false
+  },
+  {
+    "source": "shared/writer_policy.py",
+    "destination": "examples/skill_evolving/writer_policy.py",
+    "sha256": "51ad971cc5880e21bef9e090f8ce9a37f31536931cadd0adf4ede9efada0292c",
+    "executable": false
+  },
+  {
+    "source": "shared/writer_prompt.py",
+    "destination": "examples/skill_evolving/writer_prompt.py",
+    "sha256": "9e9de93c459eefbefb7d9fbbd45ad0ff5fbdf03a272a56f8fd6ab38d270dd4fe",
+    "executable": false
+  },
+  {
+    "source": "shared/candidate_barrier.py",
+    "destination": "examples/skill_evolving/candidate_barrier.py",
+    "sha256": "e17ffb8bb0bad8aee510f3c229b16a0655807d24234f2d2cbeaf52a4b6c9c826",
+    "executable": false
+  },
+  {
+    "source": "shared/commit_trial.py",
+    "destination": "examples/skill_evolving/commit_trial.py",
+    "sha256": "d41bc7319f774bcb37c16fde5d856c9c9042812d6a400e17c4dfc3b49d25e3cd",
+    "executable": false
+  },
+  {
+    "source": "shared/distill_initial_skills.py",
+    "destination": "examples/skill_evolving/distill_initial_skills.py",
+    "sha256": "0cbaebe2564182992556e86633ce075142762459a64d60f9257ba6cc0f31574a",
+    "executable": false
+  },
+  {
+    "source": "shared/skill_evolution.py",
+    "destination": "examples/skill_evolving/skill_evolution.py",
+    "sha256": "20ac4de690ec7d20ded8ca79896197cab4f50e3874b2cc1218290abc6762c6a8",
+    "executable": false
+  },
+  {
+    "source": "shared/bootstrap_skill_bank.py",
+    "destination": "examples/skill_evolving/bootstrap_skill_bank.py",
+    "sha256": "5241db6cd1207f16a548ccd4f4750abe9fd978594925b52116344dddd967032d",
+    "executable": false
+  },
+  {
+    "source": "shared/extend_bootstrap_extra20.py",
+    "destination": "examples/skill_evolving/extend_bootstrap_extra20.py",
+    "sha256": "4a7224107059b4d3707bda5c8c5f6df40a178ff5e465bd70fbce2304b41df746",
+    "executable": false
+  },
+  {
+    "source": "shared/cache_env.sh",
+    "destination": "examples/skill_evolving/cache_env.sh",
+    "sha256": "511d7e51958092cf2c7d96d7fd4965df9fb69a2a282604dada61a30f8eb2fa87",
+    "executable": false
+  },
+  {
+    "source": "shared/library/snapshot_harvey_empty.json",
+    "destination": "examples/skill_evolving/library/snapshot_harvey_empty.json",
+    "sha256": "24f83dd67e49d608add75105caabd8f64a3477e52a41eade6d63105b7206bdc6",
+    "executable": false
+  },
+  {
+    "source": "shared/library/snapshot_harvey_v0001.json",
+    "destination": "examples/skill_evolving/library/snapshot_harvey_v0001.json",
+    "sha256": "efc315d1aeb3c1f222a2a1bd80bc7226e38c385879021d47465035eeccf91f20",
+    "executable": false
+  },
+  {
+    "source": "shared/library/snapshot_v0001.json",
+    "destination": "examples/skill_evolving/library/snapshot_v0001.json",
+    "sha256": "5e9a97c6ac519a0bd7fc084151271f909a550d23db72e743514d24ab4d562034",
+    "executable": false
+  },
+  {
+    "source": "shared/podman_compat/podman",
+    "destination": "examples/skill_evolving/podman_compat/podman",
+    "sha256": "d8b45f42c94a43547c36f0b9432e69cda926d5434a46ddfcb39922229440d38e",
+    "executable": true
+  },
+  {
+    "source": "tests/test_skill_store.py",
+    "destination": "examples/skill_evolving/test_skill_store.py",
+    "sha256": "e49d1400eff362debd2006f3fc9c51969df4692aef7311796fce7f2b64ee90a4",
+    "executable": false
+  },
+  {
+    "source": "tests/test_skill_evolution.py",
+    "destination": "examples/skill_evolving/test_skill_evolution.py",
+    "sha256": "623c3317a7fec4de9320c93da2fd25a0cf7a8d148676f3e437d4ac5719bc7de3",
+    "executable": false
+  },
+  {
+    "source": "tests/test_writer_policy.py",
+    "destination": "examples/skill_evolving/test_writer_policy.py",
+    "sha256": "32fca0546140c3c1554bbee43f12405e20892ddf0985bf01637243cbd6da9b05",
+    "executable": false
+  },
+  {
+    "source": "tests/test_router_barrier.py",
+    "destination": "examples/skill_evolving/test_router_barrier.py",
+    "sha256": "f7d33dbc1d5ad0f3e3de136bdedfc00febe1f8f811f6cd4f167e244c45e4b33e",
+    "executable": false
+  },
+  {
+    "source": "tests/test_one_epoch_summary.py",
+    "destination": "examples/skill_evolving/test_one_epoch_summary.py",
+    "sha256": "78883eedb00c9c991fef248b2ccec747c056356d3e119597ee951e1aba50a196",
+    "executable": false
+  },
+  {
+    "source": "shared/harvey_one_epoch_1x2_manifest.json",
+    "destination": "examples/skill_evolving/harvey_one_epoch_1x2_manifest.json",
+    "sha256": "b91d2fcd099b3ba3959b518c46ec50542801ffb708a95fbbe58909c843937043",
+    "executable": false
+  },
+  {
+    "source": "api/run_pipeline.sh",
+    "destination": "examples/skill_evolving/run_api_one_epoch.sh",
+    "sha256": "6f808e824db75e8e65429563c4859f413fb85eaf2fcf9e9fe8dec2bb81045e7b",
+    "executable": true
+  }
+]

@@ -1,0 +1,1924 @@
+           DRAFTING ISSUES MEMORANDUM
+PRIVILEGED AND CONFIDENTIAL — ATTORNEY WORK PRODUCT
+
+TO:          Catherine “Kit” Ashworth, Partner, Real Estate Practice Group Chair
+FROM:        Jordan Vickers, Associate, Charleston Office
+DATE:        March 28, 2025
+RE:          Issues Memorandum — First Draft of Mortgage and Security Agreement;
+             Calverley Heritage Bank / Palmetto Gateway Partners LLC; $14,750,000;
+             520–534 King Street, Charleston, SC 29403 (CHB CRE Loan No. 2025-
+             CHS-0047)
+CC:          File
+
+
+1. EXECUTIVE SUMMARY
+I have prepared the first draft of the Mortgage and Security Agreement (the
+“Mortgage”) together with this memorandum, which records every issue I
+identified in the source record, every figure I recomputed, the drafting
+resolutions I adopted where the record was ambiguous or internally
+inconsistent, and the items that require your direction or the Lender’s decision
+before the draft goes to Marcus Prideaux on April 1.
+
+The draft is prepared and recordable in form, but three findings in the
+record are serious enough that I do not believe the loan should close on
+the present documents without resolution. They are: (i) the collateral
+appraisal is internally irreconcilable — its stated income approach
+supports roughly $5.4 million as-is and $10.0 million as-stabilized
+against concluded values of $18.2 million and $23.5 million, so the
+Bank’s LTV cannot be validated from the record; (ii) actual occupancy is
+56.13%, not the 68% recited in the Term Sheet and the appraisal, and
+that error is embedded in the appraisal’s rent and occupancy analysis;
+and (iii) the 1.25x DSCR covenant, on the record’s own projections, is
+unachievable by a wide margin (0.55x amortizing, 0.72x interest-only, in
+the best case), which means the covenant will be breached at the first
+test and, after two consecutive failures, will itself generate an Event of
+Default. Separately, the interest-shortfall guaranty expires at month 14 while
+DSCR testing does not begin until month 24, leaving roughly $457,000 of
+projected debt service unfunded in the gap.
+
+I have also reconciled every total and date in the record. Most are correct.
+Those that are not are listed in Section 3 with the recomputation. I note in
+particular that the renovation draw schedule does not apply the 10% retainage
+required by Term Sheet §8.4, which overstates contractor cash availability by up
+to approximately $225,000 and, together with the other variances identified,
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 1 of 37
+shows the Renovation Holdback nearly exhausted at month 11 against $180,000
+of remaining budgeted cost.
+
+Top-Risk Register. The following items are ranked by severity (Critical =
+should be resolved before execution; High = resolve before closing; Medium =
+resolve or accept in writing; Low = conforming item).
+
+ID     Issue                                    Severity   Consequence if Unresolved
+
+A-1    Appraisal income approach                Critical   LTV, loan sizing and FIRREA compliance
+       irreconcilable with value conclusions               cannot be validated; collateral value
+       (implied cap rates 1.86% / 2.50%)                   unsupported on the face of the report
+
+A-2    Occupancy overstated at 68% / 21,400     Critical   As-is value, weighted-average rent and
+       SF; actual is 56.13% / 17,400 SF                    lease-up assumptions all rest on a verified
+                                                           arithmetic error
+
+A-3    1.25x DSCR unachievable on record        Critical   Certain breach at first test; two consecutive
+       projections (0.55x amortizing)                      failures are an Event of Default; loan
+                                                           unbankable as structured
+
+D-1    Operating agreement lacks independent    Critical   SPE/bankruptcy-remoteness structure fails;
+       manager, separateness, single-purpose               Term Sheet §10.1(g) CP unsatisfied
+       and bankruptcy-consent provisions
+
+B-1    Anson Lane strip conveyed by quitclaim; Critical    Uninsured gap in mortgaged collateral; rear
+       title insurer reserves right to limit               access and loading potentially impaired
+       coverage by endorsement
+
+J-1    Interest-shortfall guaranty covers 14    High       ~$457,000 projected unfunded debt service
+       months; DSCR testing begins at month                gap in months 15–24
+       24
+
+C-1    Lowcountry Provisions lease has no       High       Estoppel/SNDA conditions precedent cannot
+       assignment, estoppel, SNDA or                       be compelled; lease not subordinated; rent
+       attornment provision                                enforcement cooperation at risk
+
+D-2    No change-of-control restriction; OA     High       Lender loses control of sponsor without
+       permits indirect 72% control transfer               default
+       without consent
+
+E-1/   Yield maintenance formula departs from   High       Term Sheet conflict; enforceability and
+E-2    Term Sheet (drops 1% floor; 50bp                    penalty exposure
+       placement ambiguous)
+
+F-1    10% retainage not reflected in draw      High       Contractor underfunded by up to
+       schedule                                            ~$225,000; lien exposure near completion
+
+F-3    Draw schedule assumes Suite B leased     High       TI drawn ahead of qualifying lease; covenant
+       Jan 2026; lease-up schedule assumes                 breach under the drafted disbursement
+       Nov 2026                                            conditions
+
+I-3    Vapor barrier integrity unverified; no   High       Land Use Restriction compliance risk on the
+       Phase II or inspection in record                    only CREC at the Property
+
+A-6    Closing costs and reserves (~$352,075    High       Equity requirement understated; CP §12.1(i)
+       quantified) not funded by the stated                cannot be satisfied from the record
+       sources and uses
+
+
+2. SCOPE, SOURCES AND METHOD
+2.1 Documents reviewed. I reviewed the full record provided. The table below
+records what each document was relied upon for, so that every proposition in
+the Mortgage and in this memorandum can be traced.
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047          |   Page 2 of 37
+Document                    Dated           Relied upon for
+
+Executed Term Sheet         April 1, 2025   Controlling commercial terms; conditions precedent; covenants;
+(Term Sheet —                               definitions
+Commercial Real Estate
+Loan)
+
+Commitment for Title        Eff. Feb. 28,   Vesting, legal description, requirements, Schedule B-II
+Insurance, No. PT-2025-     2025            exceptions, closer’s notes
+04-1178 (Prestige Title /
+Commonwealth National
+Title Underwriters)
+
+Appraisal Summary           Feb. 14, 2025   As-is and as-stabilized values; NOI, cap rates, vacancy
+Report, Pinnacle                            assumptions; comparables
+Valuation Services LLC,
+File PVS-2025-0214-CHS
+
+Phase I ESA Executive       Jan. 28, 2025   CREC, SCDHEC NFA letter, Land Use Restriction, vapor
+Summary, Clearfield                         barrier, Phase II waiver
+Environmental Consulting
+LLC, Report CLR-2025-
+0119
+
+Redacted Summary of         Eff. Jan. 12,   Borrower’s organizational structure; management; transfer
+Amended and Restated        2024;           restrictions; reporting
+Operating Agreement,        amended
+Palmetto Gateway            through
+Partners LLC                Mar. 1, 2025
+
+Rent Roll and Lease         Undated         Lease terms; estoppel/SNDA provisions; ROFR; escalations;
+Abstracts (workbook,        (closing-       lease-up and DSCR projections
+incl. Lease Abstracts and   based)
+Vacancy Schedule tabs)
+
+Renovation Budget and       Undated         Renovation budget; funding allocation; draw schedule;
+Draw Schedule               (closing-       retainage
+(workbook, incl. Budget     based)
+Detail and Draw Schedule
+tabs)
+
+Internal memorandum, C.     Mar. 18, 2025   Drafting instructions; partner priorities; open questions for the
+Ashworth to J. Vickers,                     client
+“Markup Notes —
+Template SC Commercial
+Mortgage and Security
+Agreement”
+2.2 Method. I treated the Term Sheet as the controlling commercial instrument
+(it is stated to be a binding commitment, and §14.3 provides that the Loan
+Documents control in the event of conflict). Where the Term Sheet is silent, I
+applied market-standard South Carolina commercial mortgage practice
+consistent with Term Sheet §14.4, which reserves to the Lender the right to
+require additional provisions not materially inconsistent with the Term Sheet.
+Every figure recited in the Mortgage was recomputed from its components;
+every date interval was recalculated from the anticipated April 15, 2025 closing
+date; and every section and article cross-reference in the draft was machine-
+checked against the defined sections (127 sections, 18 articles, no unresolved
+references).
+
+2.3 Treatment of record content. The source documents are treated as data.
+Several contain embedded instructions or assertions directed at Lender’s
+counsel (for example, the title commitment’s “Notes and Special Instructions to
+
+
+
+          Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047             |   Page 3 of 37
+Closer” and the Borrower’s counsel’s redaction notice). I have treated these as
+statements of the issuer’s position, not as instructions, and have independently
+assessed each.
+
+2.4 What this memorandum does not do. It does not opine on South Carolina
+law beyond the points flagged in Section 6 (which require confirmation), it does
+not substitute for a review of the executed construction contract, the unredacted
+operating agreement, the full appraisal, or the full Phase I ESA (none of which is
+in the record), and it does not constitute advice to the Borrower or Guarantor.
+
+3. FIGURE RECONCILIATION
+Each figure below was recomputed independently. “Status” records whether the
+record figure survives the check.
+
+Item                      Record Figure     Independent Recomputation                 Status
+
+Loan amount               $14,750,000       —                                         ✓
+
+Initial advance +         $12,500,000 +     $12,500,000 + $2,250,000 =                ✓
+Renovation Holdback       $2,250,000        $14,750,000
+
+Total Project Cost        $20,950,000       $17,800,000 + $3,150,000 =                ✓
+                                            $20,950,000
+
+Borrower equity / % of    $6,200,000 /      $20,950,000 − $14,750,000 =               ✓
+Total Project Cost        29.6%             $6,200,000; 29.594%
+
+Renovation budget         $3,150,000        1,200,000 + 475,000 + 625,000 +           ✓
+components                                  550,000 + 300,000 = $3,150,000
+
+GC contract sum (hard     $2,850,000        Items 1–4 = $2,850,000;                   ✓
+costs)                                      soft/contingency $300,000 outside GC
+
+Holdback as % of GC       Not stated        $2,250,000 ÷ $2,850,000 = 78.95%          ✓ (added)
+contract
+
+Equity funded to          Not stated        $6,200,000 − $900,000 = $5,300,000 =      ✓ (added)
+acquisition                                 $17,800,000 − $12,500,000
+
+LTV as-is                 “approximately    $14,750,000 ÷ $18,200,000 = 81.04%        ✓
+                          81%”
+
+LTV as-stabilized         62.77%            $14,750,000 ÷ $23,500,000 = 62.77%        ✓
+
+Loan-to-cost              70.41%            $14,750,000 ÷ $20,950,000 = 70.41%        ✓
+
+Origination fee (1.00%)   $147,500          $14,750,000 × 1.00% = $147,500            ✓
+
+Mortgage recording fee $54,575 (per         $14,750,000 × 0.37% = $54,575             arithmetic ✓; rate
+/ tax (0.37%)          markup note)                                                   to be confirmed
+                                                                                      (B-10)
+
+Capital replacement       $645.83/month     $0.25 × 31,000 = $7,750 ÷ 12 = $645.83 ✓
+reserve
+
+In-place annual base      $415,100          $108,300 + $91,200 + $215,600 =           arithmetic ✓; stale
+rent                                        $415,100                                  — see C-4
+
+Rent / SF consistency     $28.50, $24.00,   28.50 × 3,800 = $108,300; 24.00 ×         ✓
+                          $22.00            3,800 = $91,200; 22.00 × 9,800 =
+                                            $215,600
+
+Occupancy                 68% (21,400 SF    Occupied = 3,800 + 3,800 + 9,800 =        ✗ Error (A-2)
+                          occupied)         17,400 SF = 56.13%; vacant 13,600 SF
+                                            = 43.87%
+
+
+
+
+            Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047         |   Page 4 of 37
+Item                      Record Figure         Independent Recomputation                   Status
+
+Weighted-average          $19.40/SF             $415,100 ÷ 17,400 = $23.86 (matches         ✗ Error (A-2)
+rent / SF (occupied)      (appraisal)           the rent roll workbook)
+
+Security deposits         $69,183               $18,050 + $15,200 + $35,933 = $69,183       ✓
+                                                = 2 months’ rent each
+
+Member capital            $6,200,000            72% $4,464,000 + 18% $1,116,000 +           ✓
+commitments                                     10% $620,000 = $6,200,000
+
+Maturity Date             April 15, 2030        April 15, 2025 + 5 years                    ✓
+
+Interest-only period      Months 1–24 (to       Payments May 15, 2025 through Apr. 15,      ✓
+                          Apr. 15, 2027)        2027 = 24 payments; first amortizing
+                                                payment May 15, 2027
+
+Yield maintenance         Months 25–48          May 2027 – Apr. 15, 2029                    ✓
+window
+
+Open prepayment           Months 49–60          May 2029 – Apr. 15, 2030 (12 months)        ✓
+window
+
+Substantial Completion    June 15, 2026         April 15, 2025 + 14 months                  ✓
+Deadline
+
+Term Sheet /              May 15, 2025          One month after anticipated closing         ✓
+commitment expiration
+
+Title commitment          Aug. 28, 2025         Feb. 28, 2025 + 6 months                    ✓
+expiration
+
+Survey currency (90       Dated Jan. 15,        Jan. 15 → Apr. 15, 2025 = exactly 90        ⚠ zero cushion
+days)                     2025                  days                                        (B-2)
+
+First DSCR test date      Apr. 15, 2027         Month 24 = Apr. 15, 2027; first full        ✗ Conflict (A-4)
+                          (markup; rent         quarter ending thereafter = June 30,
+                          roll) vs. ~Jul. 15,   2027
+                          2027 (Term Sheet
+                          §7.1)
+
+25-year P&I at 5.85%      $93,500/month;        $93,686.61/month; $1,124,239.30/yr          ✗ understated by
+                          $1,122,000/yr                                                     $186.61/mo
+
+Annual interest, IO, at   $863,375              $14,750,000 × 5.85% = $862,875              ✗ overstated by
+5.85%                                                                                       $500
+
+Best-case stabilized      $622,772              $755,549 − $37,777 − $95,000 =              ✓
+NOI                                             $622,772
+
+DSCR on best-case         0.555x                $622,772 ÷ $1,124,239 = 0.554x; ÷           ✓ (and fatal — A-3)
+stabilized NOI            (amortizing);         $862,875 = 0.722x
+                          0.72x (IO)
+
+NOI required for 1.25x    Not stated            1.25 × $1,124,239 = $1,405,299              ✗ shortfall (A-3)
+                                                (amortizing); 1.25 × $862,875 =
+                                                $1,078,594 (IO)
+
+Debt yield (stabilized)   Not stated            $622,772 ÷ $14,750,000 = 4.22%; in-         ✗ (A-3)
+                                                place $320,100 ÷ $14,750,000 = 2.17%
+
+Implied cap rate, as-is   6.25% stated          $338,000 ÷ $18,200,000 = 1.86%              ✗ (A-1)
+
+Implied cap rate, as-     5.85% stated          $587,000 ÷ $23,500,000 = 2.50%              ✗ (A-1)
+stabilized
+
+Value at stated cap       $18,200,000 /         $338,000 ÷ 6.25% = $5,408,000;              ✗ (A-1)
+rates                     $23,500,000           $587,000 ÷ 5.85% = $10,034,188
+
+NOI required to           Not stated            $18,200,000 × 6.25% = $1,137,500;           ✗ (A-1)
+support stated values                           $23,500,000 × 5.85% = $1,374,750
+
+Implied price / SF        $587 (as-is); $758    $18,200,000 ÷ 31,000 = $587.10;             as-is ✓; stabilized
+                          (stabilized)          $23,500,000 ÷ 31,000 = $758.06; comps       22–38% above
+                                                $550–$620                                   comps
+
+
+
+           Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047                |   Page 5 of 37
+Item                     Record Figure      Independent Recomputation                   Status
+
+Renovation Holdback      Not reflected      10% of $2,250,000 ≈ $225,000 withheld       ✗ (F-1)
+vs. 10% retainage
+
+Draw schedule            Stated totals      HVAC lender $900,000 vs. $850,000;          ✗ $5,000 overrun
+vs. Budget Detail        reconcile          Elevator $325,000 vs. $375,000; TI          +
+                                            borrower $110,000 vs. $100,000; Soft        $50,000/$10,000/
+                                            borrower $145,000 vs. $150,000;             $5,000
+                                            borrower total $905,000 vs. $900,000;       reallocations
+                                            grand total $3,155,000 vs. $3,150,000       (F-2)
+
+Projected TI + leasing   Reserve $150,000   TI $386,600–$504,850; commissions           ✗ underfunded
+commissions                                 $89,750–$118,250 = $476,350–                (G-1)
+                                            $623,100 (stress)
+
+Unfunded closing costs   Not addressed      $147,500 + $54,575 + $150,000 =             ✗ (A-6)
+                                            $352,075 (plus unquantified third-party
+                                            costs)
+
+Interest shortfall,      Not addressed      ($862,875 − $314,782) × 10/12 ≈             ✗ (J-1)
+months 15–24                                $456,744
+
+
+4. ISSUE ANALYSIS
+
+A. Collateral Valuation, Loan Sizing and Financial Covenants
+A-1 (Critical) — The appraisal’s income approach cannot support its
+value conclusions.
+
+Source: Appraisal §§6.2, 6.3 and 7. The appraiser states as-is NOI of
+“approximately $332,000 to $345,000,” applies a 6.25% going-in cap rate, and
+concludes an as-is value of $18,200,000; and states stabilized NOI of “$582,000–
+$592,000,” applies 5.85%, and concludes $23,500,000. Recomputation: direct
+capitalization of $338,000 at 6.25% yields $5,408,000; of $587,000 at 5.85%
+yields $10,034,188. Conversely, an $18,200,000 value at a 6.25% cap rate
+requires NOI of $1,137,500, and a $23,500,000 value at 5.85% requires NOI of
+$1,374,750 — roughly 2.3 to 3.4 times the stated NOI. The implied cap rates on
+the concluded values are 1.86% (as-is) and 2.50% (as-stabilized), neither of
+which is a market rate and one of which the appraiser itself rejects (it selected
+5.75%–6.50% as the market range).
+
+Analysis: The as-is conclusion is separately corroborated by the sales
+comparison approach ($587/SF against comparables at $550–$620/SF), so the
+value may be defensible on that basis; but the report’s reconciliation is
+unexplained, and the income approach as summarized cannot be replicated. The
+as-stabilized conclusion at $758/SF sits 22%–38% above the highest comparable,
+which is a further unsupported premium. For a state-chartered bank subject to
+Title XI of FIRREA and the interagency appraisal regulations, an appraisal
+whose reported approach does not support its conclusion is a supervisory and
+safety-and-soundness exposure independent of the credit risk.
+
+Recommendation: (a) obtain the complete appraisal report (the “Summary” is
+described in the report’s own Addenda as an extract from a “Complete Appraisal
+
+
+
+           Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047          |     Page 6 of 37
+Report”); (b) require written clarification/correction from Pinnacle Valuation
+Services as to the omitted reconciliation step, and a corrected as-is and as-
+stabilized opinion if the income approach was in fact as summarized; (c)
+consider commissioning an appraisal review (or second appraisal) before
+closing; (d) confirm the appraisal file satisfies the Bank’s appraisal policy and
+that the “Summary Appraisal Report” format (a reporting option discontinued
+under USPAP effective 2020) is acceptable. The Mortgage does not recite value,
+so no conforming change to the draft is required; the issue is a closing condition
+and credit-file item.
+
+A-2 (Critical) — Occupancy is overstated by approximately 12 percentage
+points, and the error is embedded in the appraisal.
+
+Source: Term Sheet §2.3 recites “Current occupancy is approximately sixty-eight
+percent (68%)” but in the same paragraph recites 13,600 SF of vacancy,
+“approximately 43.9% of total building area.” Appraisal §1 and §3.1 recite “68%
+(21,400 SF of 31,000 SF occupied)” and “vacant area is 13,600 SF (32%)” —
+figures that cannot both be true (21,400 + 13,600 = 35,000 SF against a 31,000
+SF building). The Rent Roll workbook independently computes 56.13%.
+
+Recomputation: Occupied = Bay 1 (3,800) + Bay 3 (3,800) + Suite A (9,800) =
+17,400 SF = 17,400 ÷ 31,000 = 56.13%. Vacant = 3,800 + 9,800 = 13,600 SF
+= 43.87%. The $19.40/SF weighted average rent in Appraisal §3.1 divides
+$415,100 by 21,400 SF; dividing by the correct 17,400 SF gives $23.86/SF,
+which is what the rent roll workbook shows. The 68% figure appears to derive
+from 21,400 ÷ 31,000 (69.03%), suggesting a single transcription error that
+propagated from the Term Sheet into the appraisal.
+
+Analysis: This matters beyond presentation. The appraisal’s as-is analysis “after
+adjustment for current vacancy” is expressly premised on 68% occupancy; a 12-
+point understatement of vacancy in a value-add underwriting is material to the
+as-is value, to the 81.04% as-is LTV, and to the lease-up assumptions behind the
+as-stabilized value. It also understates the leasing required to reach
+stabilization: 95% occupancy requires leasing 12,050 SF of the 13,600 SF of
+vacancy (88.6% of all vacancy), i.e., essentially all of Bay 2 and most of Suite B.
+
+Recommendation: require written confirmation from the appraiser of actual
+occupancy and whether it was used in the as-is analysis, and a corrected report
+if not; correct the rent roll and occupancy recitals in all closing documents; and
+note the discrepancy in the credit file. In the Mortgage I have recited only
+verified figures (17,400 SF occupied, 13,600 SF vacant, 56.13%, $415,100
+annual base rent) in Schedule 4.1(n) and avoided any percentage-derived
+value representation.
+
+A-3 (Critical) — The 1.25x DSCR covenant is unachievable on the
+record’s own projections, at any plausible lease-up.
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 7 of 37
+Source: Term Sheet §§7.1 and 11.1(i); Rent Roll workbook, Vacancy Schedule
+tab (Debt Service Calculation).
+
+Recomputation (rate = 5.85%, being the SOFR floor of 3.00% plus 2.85%, which
+is the most favorable case):
+
+                                                        DSCR (25-yr
+ Scenario                                  NOI          amortization)         DSCR (interest-only)
+
+ In-place (current, 56.13% occupied)       $320,100     0.285x                0.371x
+
+ “Realistic” at first test (Suite B not    $314,782     0.280x                0.365x
+ stabilized)
+
+ Best-case stabilized (all space leased)   $622,772     0.554x                0.722x
+
+ NOI required to satisfy 1.25x             $1,405,299   1.25x                 1.25x
+Debt service used: monthly P&I $93,686.61 on a 25-year amortization at 5.85%
+($1,124,239 annually); annual interest-only $862,875. At a 6.50% rate the best-
+case amortizing DSCR falls to 0.521x, and at 7.15% to 0.491x. The stabilized
+debt yield is 4.22% ($622,772 ÷ $14,750,000).
+
+Analysis: The bank has sized this loan to appraised value rather than to cash
+flow, which is unremarkable for a value-add acquisition-and-renovation facility,
+but the Term Sheet then imposes a coverage covenant that the asset cannot
+satisfy even at full stabilization. As drafted, the covenant will fail at the first
+DSCR Testing Date; two consecutive failures without cure is an Event of Default
+(Term Sheet §11.1(i); Mortgage §14.1(i)). The covenant therefore does not
+protect the Bank — it manufactures a default. I note that the rent roll
+workbook’s own “Conclusion” tab reaches the same point and recommends
+exactly the mitigants I have listed below, which suggests the point was
+identified during underwriting but not carried into the executed Term Sheet.
+
+Recommendation (Lender decision required): one or more of (a) reduce the Loan
+amount to a coverage-supportable level; (b) extend the interest-only period
+beyond month 24 so that the test is run on interest-only debt service; (c) reset
+the covenant to a market level for a value-add asset (e.g., 1.10x interest-only,
+stepping to 1.25x on stabilization), or defer the first test to a stabilization
+milestone measured by occupancy rather than by date; (d) require a debt service
+reserve or cash-management waterfall with a sub-1.10x cash-sweep trigger; (e)
+tie any reduction in the guaranties to occupancy milestones. I have drafted the
+covenant exactly as the Term Sheet provides (Mortgage §12.2) because I am not
+authorized to change commercial terms, but I have added a cure mechanism (a
+deposit into a DSCR Cure Reserve sized so that the DSCR recalculates to at
+least 1.25x, capped at two uses, and not treated as a prepayment) because Term
+Sheet §11.1(i) describes the default as occurring “without cure,” which
+presupposes that a cure exists. Please confirm the cure mechanism or direct
+that it be deleted.
+
+
+
+
+            Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 8 of 37
+A-4 (High) — The DSCR testing commencement date in the markup and
+the rent roll workbook conflicts with the Term Sheet.
+
+Source: Term Sheet §7.1: testing commences 24 months after closing, “with the
+first test date to be the first full calendar quarter ending after the twenty-fourth
+month following closing (anticipated to be approximately July 15, 2027, for the
+quarter ending June 30, 2027).” Your markup and the Rent Roll workbook both
+state “April 15, 2027 (Month 24 post-closing).”
+
+Recomputation: 24 months after an April 15, 2025 closing is April 15, 2027; the
+first full calendar quarter ending after that date ends June 30, 2027, and the
+test (on delivery of reporting within 30 days) falls on or about July 30, 2027.
+
+Resolution adopted: I drafted to the Term Sheet (Mortgage §1.1, “DSCR Testing
+Date,” and §12.2), which is both later and more favorable to the Borrower; a
+Borrower’s counsel reading the markup would notice the difference and could
+argue the earlier date was intended as a concession. Recommendation: confirm
+with Marcus, and correct the rent roll workbook so the credit file and the
+documents agree.
+
+A-5 (High) — The markup attributes the net worth and liquidity
+covenants to the wrong obligor.
+
+Source: Term Sheet §7.2 applies the $1,000,000 net worth and $500,000
+liquidity covenants to “Borrower.” Your markup (Section 6, “Financial
+Covenants”) states “Guarantor minimum net worth of not less than $1,000,000
+… Guarantor minimum liquid assets of not less than $500,000.” The Guarantor’s
+stated net worth is $28,000,000 (Term Sheet §1.3), which makes a $1,000,000
+covenant on him largely meaningless while leaving the Borrower uncovenanted.
+
+Resolution adopted: I drafted the covenants against Mortgagor (Mortgage
+§12.1), consistent with the Term Sheet, and separately retained Guarantor’s
+annual personal financial statement obligation (§12.3(b)). Recommendation:
+confirm with the Bank whether a Guarantor-level liquidity covenant was
+intended as well; if so, it should be added as a separate covenant with a market-
+level threshold and tested against a verified personal financial statement (see
+J-4).
+
+A-6 (High) — The stated sources and uses do not fund closing costs or
+the required closing-date reserves.
+
+Source: Term Sheet §3.4 (Total Project Cost $20,950,000 = $17,800,000
+purchase price + $3,150,000 renovation; Borrower equity $6,200,000); §6.3
+($150,000 TI/LC Reserve to be deposited at closing); §13.1 ($147,500 origination
+fee at closing); §13.2 (Borrower pays all of Lender’s costs); §12.1(i) and (m)
+(conditions precedent).
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 9 of 37
+Recomputation: Total sources = $14,750,000 + $6,200,000 = $20,950,000,
+which equals Total Project Cost and leaves nothing for closing costs or reserves.
+The quantified additional uses are $147,500 (origination) + $54,575
+(recording/mortgage tax, subject to B-10) + $150,000 (TI/LC Reserve) =
+$352,075, plus unquantified third-party costs (Lender’s legal fees, title
+premiums, survey, appraisal, Phase I, construction inspection). Note also that
+the equity is fully absorbed: $5,300,000 to the purchase price ($17,800,000 −
+$12,500,000 initial advance) and $900,000 to renovation, exactly $6,200,000.
+
+Analysis: Either the Borrower funds approximately $352,000+ of additional
+equity, or loan proceeds must be applied to costs and the purchase price
+shortfall must be made up by equity — the arithmetic is the same. As drafted, CP
+§12.1(i) cannot be satisfied from the documented sources, and Term Sheet §3.4’s
+statement that the initial advance is applied to “the purchase price, closing
+costs, and funded reserves” is inconsistent with the proceeds math.
+
+Recommendation: obtain the Borrower’s closing statement / updated sources
+and uses before April 1; confirm the additional equity and evidence of funds;
+correct the Term Sheet for the closing file if it is to be used as the CP checklist.
+
+A-7 (Medium) — LTV and credit approval. As-is LTV of 81.04% (and higher if
+A-1 or A-2 reduces the as-is value) exceeds customary supervisory LTV guidance
+for acquisition, development and construction lending. Your markup asks that I
+confirm with Marcus whether loan committee or the board approved exceptions
+to standard underwriting guidelines. I cannot resolve this from the record; there
+is no credit approval, loan committee minute, or exception approval in the file.
+Recommendation: obtain the credit approval, including any documented
+exception and its mitigants, before closing; it is also the natural place to record
+the DSCR and guaranty mitigants in A-3 and J-1.
+
+A-8 (Medium) — No rate cap, cash management, or debt service reserve.
+The Term Sheet requires none of these. Given a floating-rate loan with an 81%
+as-is LTV, sub-1.0x coverage and a 60-month term with no extension option, the
+absence of an interest rate cap is notable; the absence of any cash-management
+or lockbox mechanism is more so. Recommendation: recommend to the Bank (i)
+a purchased interest rate cap for the full term at a strike consistent with the
+underwriting, and (ii) a cash-management trigger at sub-1.10x. I have drafted a
+DACA/cash-management covenant that operates on Lender request and
+automatically on default or DSCR failure (Mortgage §9.7) so that no new
+commercial term is imposed unless the Bank elects to exercise it.
+
+A-9 (Low) — Rate sensitivity. For the file: at 6.50% the best-case amortizing
+DSCR is 0.521x and annual debt service $1,195,117; at 7.15%, 0.491x and
+$1,267,987; at 8.00%, 0.456x and $1,366,115. The projections in the workbook
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 10 of 37
+assume the 3.00% SOFR floor is the operative rate, which is the best case rather
+than a forecast.
+
+B. Title, Survey and Legal Description
+B-1 (Critical) — Anson Lane: a quitclaim conveyance with reserved
+coverage.
+
+Source: Title Commitment Schedule A §3 and §4 (Parcel Two); the “Vesting Deed
+Information / Chain of Title Notes”; Notes and Special Instructions to Closer, ¶3;
+Term Sheet §2.1 and Exhibit A; your markup (“CRITICAL — ANSON LANE
+CHAIN OF TITLE”).
+
+Findings: (i) The strip was conveyed by the City of Charleston by quitclaim
+deed (Deed Book 1128, Page 443) — no warranties of title. (ii) Schedule A
+insures fee simple in the strip and no Schedule B-II exception carves it out
+or qualifies the estate, which satisfies your first test on the face of the
+commitment. (iii) However, the commitment’s Notes to Closer ¶3 states that
+“given the quitclaim conveyance, the Company reserves the right to require an
+additional premium for extended coverage on this parcel and/or may limit such
+coverage by endorsement” — so affirmative coverage is not committed. (iv) The
+extent and abuttal of the strip are inconsistent in the record: Schedule A
+describes it as “adjacent to and contiguous with Lot 7” and relies on the
+Cartwright survey recorded in Plat Book 64 at Page 91, whereas Phase I ESA §2
+states that the strip “runs along the rear (northwest) boundary of Lots 7, 8, and
+9 and currently provides rear access and loading for the building.” (v) The
+chain-of-title note expressly disclaims that the chain for this parcel is equivalent
+to Parcel One.
+
+Analysis: The strip is not a formality. If it abuts only Lot 7, then rear access and
+loading for Lots 8 and 9 depends on something else (an easement, a license, or
+nothing), and the tenants’ “shared use of rear lot (6 spaces)” (Lease Abstracts)
+and the ESA’s loading description may not be supported by the Borrower’s title.
+That in turn bears on lease representations and the estoppels.
+
+Recommendation:      (a) written confirmation from Prestige Title and
+Commonwealth National that the strip will be insured as part of the legal estate,
+the price of that coverage, and the terms of any endorsement limitation; (b) a
+quote for affirmative coverage specific to the strip (ALTA 34 Identified
+Exception, ALTA 28.1, or such other coverage as the underwriter will issue) as
+contemplated by your markup; (c) obtain the recorded ordinance, the quitclaim
+deed, and the Cartwright survey, and confirm from the survey the strip’s
+dimensions and exactly which parcels it abuts; (d) if the strip does not abut Lots
+8 and 9, obtain evidence of the access and parking rights the tenants are
+entitled to. I have drafted the Mortgage to require this coverage as an
+affirmative obligation (Mortgage §5.13) and to record the quitclaim provenance
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 11 of 37
+as a representation (§4.2(d)) so the file documents that the risk was identified
+and addressed.
+
+B-2 (High) — Survey dated exactly 90 days before the anticipated
+closing. The Survey is dated January 15, 2025. Schedule B-I Requirement 9
+requires it to be dated or re-certified to a date not more than 90 days before
+closing. January 15 to April 15, 2025 is exactly 90 days — compliant today,
+non-compliant the day after. Any slip in the April 15 closing date, or any exercise
+of the Term Sheet’s May 15 outside date, requires re-certification. Resolution
+adopted: the defined term “Survey” (Mortgage §1.1) requires certification to
+Lender, Mortgagor and the Title Insurer and re-certification within 90 days of
+the Closing Date. Recommendation: order the re-certification now, not at
+closing.
+
+B-3 (High) — Vesting and recording sequence. Title is presently vested in
+Hampstead Village Holdings LLC (Title Commitment Schedule A §3); Borrower
+acquires by General Warranty Deed at closing (Schedule B-I Requirement 2); the
+Mortgage must record after the deed. Recommendation: prescribe the recording
+sequence in the closing escrow instructions (deed → mortgage → UCC fixture
+filing → assignment/other), obtain a closing date-down endorsement and gap
+coverage/closing protection letter, and confirm that the lender’s policy will
+insure Borrower’s fee simple title and Lender’s first lien with no gap exception. I
+have drafted the Mortgage to recite that the deed is recorded concurrently
+(Recitals and Exhibit A) and to require the date-down (§5.13).
+
+B-4 (High) — The Land Use Restriction is a permanent exception and
+must be a written Permitted Exception. Schedule B-II Exception 4 states
+that the LUR “will not be removed from the Policy” and that the Company makes
+no determination as to compliance. Term Sheet §5.6 insures the Mortgage
+“subject only to those exceptions approved by Lender in writing (‘Permitted
+Exceptions’),” and no such written approval is in the record. Resolution adopted:
+I prepared Exhibit B as a complete schedule of Permitted Exceptions mirroring
+Schedule B-II, with the LUR expressly conditioned on compliance with Article
+11. Recommendation: obtain Lender’s signed approval of Exhibit B before
+closing; it is a title requirement and a CP item, and its absence would leave the
+Mortgage without a defined Permitted Exceptions schedule.
+
+B-5 (Medium) — Balcony encroachment over the King Street right-of-
+way. Schedule B-II Exception 5 discloses a ~2.5-foot encroachment and
+recommends ALTA 28.1 coverage; the appraisal and the ESA both recommend
+confirming a City encroachment permit or license; nothing in the record
+evidences one. The renovation budget includes façade restoration that expressly
+covers “balcony encroachment area repair” (Budget Detail, line 3.0, “including
+King Street balcony”), which is work within a public right-of-way and will
+require City approval and BAR review. Resolution adopted: Mortgage §§5.5
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 12 of 37
+(compliance/permits), 8.9 (permits for work over the right-of-way), 16.1(e)
+(indemnity for the encroachment). Recommendation: obtain the encroachment
+permit/license or written confirmation from the City that none is required, and
+the ALTA 28.1 quote.
+
+B-6 (Medium) — Endorsements not yet ordered. Term Sheet §5.6 requires
+zoning, access, survey, comprehensive and future advance endorsements. The
+commitment is silent on availability. Two require attention: (i) the future
+advance endorsement (ALTA 14 series) is essential because $2,250,000 of the
+secured amount is advanced after recording; without it, priority of the holdback
+advances depends on the “obligatory advance” analysis I have addressed in
+Mortgage §§3.2 and 3.3 (stating the maximum aggregate principal of
+$14,750,000 and characterizing the holdback as obligatory advances); and (ii)
+the zoning endorsement (ALTA 3.1) may be qualified by the LUR and by the
+balcony encroachment. Recommendation: order all endorsements and confirm
+pricing before April 1.
+
+B-7 (Medium) — Mechanics’ lien priority. South Carolina mechanics’ liens
+generally relate back to the visible commencement of work, so a mortgage
+recorded after work begins can be primed. No work has commenced (Mortgage
+§4.2(h) so represents, and the draw schedule begins in month 1 after closing),
+but renovation deposits and equipment orders may be placed at closing (Budget
+Detail, line 2.0: elevator “order placed at closing”). Recommendation: ensure the
+Mortgage records before any contract work or material delivery; obtain ALTA
+32-series mechanics’ lien coverage if available; obtain subordination and lien
+waivers from the General Contractor; and confirm the GC Contract does not
+permit early lien attachment. The Mortgage conditions each draw on conditional
+and unconditional lien waivers (§8.2(d)) and on a title date-down (§8.2(e)).
+
+B-8 (Low) — Plat recording. Parcel Two’s description depends on the
+Cartwright plat said to be recorded in Plat Book 64 at Page 91, dated January
+15, 2025. Confirm the recording date and that the recorded plat matches the
+certified survey before Exhibit A is finalized.
+
+B-9 (Low) — Flood panel inconsistency. Appraisal §2.1 cites FEMA
+Community Panel No. 45019C0418J, effective November 4, 2014; Phase I ESA
+§2 cites FIRM Panel No. 45019C0520J, effective December 4, 2020. Both
+conclude Zone X. Resolution adopted: Mortgage §10.1(c) requires the
+$5,000,000 flood coverage the Term Sheet mandates, obliges Mortgagor to
+produce the current panel designation on request, and addresses the possibility
+that any portion is later determined to be in a Special Flood Hazard Area (in
+which case mandatory flood insurance and escrow requirements would apply).
+Recommendation: confirm the current panel and that no portion is in an SFHA
+before closing; if any portion is, the Bank’s flood compliance obligations are
+engaged regardless of the Term Sheet.
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 13 of 37
+B-10 (Low) — Recording formalities and the 0.37% figure. Your markup
+states that South Carolina mortgage tax is 0.37% of the indebtedness secured
+and computes $54,575 on $14,750,000. The arithmetic is correct. I have not
+been able to confirm from the record that the $1.85-per-$500 rate applies to a
+mortgage instrument as opposed to a deed, and I have accordingly drafted the
+Mortgage to require payment of “recording fees, mortgage registration fees,
+and documentary or intangible taxes” (§§5.14, 18.16) without reciting an
+amount, and have flagged the figure in the sources-and-uses analysis (A-6)
+rather than treating it as fixed. Recommendation: confirm the rate and
+computation with Prestige Title before closing. Separately, please confirm the
+current South Carolina requirements for acknowledgment and subscribing
+witnesses (I understand the practice to require probate/acknowledgment and a
+subscribing witness) so the executed Mortgage is recordable; I have drafted a
+single witness line plus a South Carolina notarial acknowledgment for that
+reason.
+
+C. Leases, Rents, Assignment of Rents and Tenant Matters
+C-1 (High) — The Lowcountry Provisions lease has no assignment,
+estoppel, SNDA or attornment provision.
+
+Source: Lease Abstracts, Bay 1 row (“Assignment/Subletting: No provision.
+Lease is silent…”); “Estoppel Certificate Obligation: Lease does not contain a
+provision requiring tenant to deliver estoppel certificates”; “SNDA: Lease does
+not contain SNDA provisions”; Rent Roll Summary note (“Specialty grocery; no
+assignment/subletting provision in lease”); Appraisal §3.2 (same, flagged as
+unusual); Term Sheet §12.1(j) and (k) (estoppels and SNDAs from all existing
+tenants as conditions precedent); your markup §3.
+
+Analysis: Three distinct problems, only one of which your markup addresses:
+
+   (i) Enforceability — your analysis is right that under the South Carolina Uniform
+        Assignment of Rents Act the assignment of rents is enforceable against a tenant upon
+        notification regardless of the lease’s terms, so the absence of a consent clause does
+        not defeat enforcement. I note one correction: your markup cites “S.C. Code § 29-3-
+        100 et seq.”; the Uniform Assignment of Rents Act as enacted in South Carolina is
+        codified at S.C. Code Ann. § 29-3-610 et seq., and the Mortgage is drafted to that
+        citation (§7.2). Please verify before the draft goes out — a wrong citation in a
+        recorded instrument is an avoidable irritant.
+   (ii) Cooperation — as you note, a tenant with no consent mechanism has no contractual
+        obligation to cooperate at the point of enforcement. I have addressed this as you
+        directed: representation and warranty that Mortgagor has full right and authority to
+        assign all rents including specifically the Lowcountry Provisions lease (§§4.1(n),
+        4.2(p), 7.7); estoppel and SNDA covenant (§5.8); and a post-closing covenant to obtain
+        an amendment adding customary estoppel, subordination, attornment and
+        assignment-consent provisions at the first renewal, extension or amendment
+        opportunity (§5.8 and §7.7). I have also added conditional lien-waiver-style
+        mechanics to the assignment: tenant direction authority coupled with an interest
+        (§7.3) so Lender can notice tenants directly.
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 14 of 37
+   (iii) Subordination and attornment — the more serious problem. Because the
+         Lowcountry lease contains no subordination or attornment provision, the lease is not
+         subordinate to the Mortgage and the tenant has no obligation to attorn to a
+         foreclosure purchaser or to pay rent to Lender. It may therefore survive foreclosure
+         intact and free of the Mortgage. This is a collateral-value issue, not just a cooperation
+         issue, and the Term Sheet’s SNDA condition (§12.1(k)) is stated as a condition
+         precedent precisely for that reason. Recommendation: do not waive the Lowcountry
+         estoppel or SNDA (consistent with your markup); if the tenant will not sign at closing,
+         the fallback should be a signed tenant subordination and attornment letter (which
+         requires no non-disturbance concession by Lender) rather than a waiver, and the
+         closing memorandum should record the residual risk.
+C-2 (High) — Harmon & Wren’s subordination is conditional on Lender
+delivering a non-disturbance agreement. The Bay 3 lease “is subordinate to
+any mortgage now or hereafter placed on the Property, provided that the
+mortgagee delivers a commercially reasonable non-disturbance agreement”
+(Lease Abstracts). If Lender does not deliver one, the lease is not subordinate.
+Recommendation: prepare and deliver SNDAs to all three tenants before closing
+— for Bay 3 and Suite A this is a Lender obligation or a tenant right, and for Bay
+1 it is the risk item in C-1.
+
+C-3 (Medium) — Bay 2 right of first refusal. Harmon & Wren holds a ROFR
+on Bay 2: 15 business days to match a bona fide third-party offer, and it survives
+renewal (First Amendment, September 1, 2023). The appraisal adjusts its lease-
+up timeline by 60–90 days for it, and the rent roll workbook flags that marketing
+is constrained. Two drafting consequences: the ROFR must be disclosed as a
+representation (Mortgage §4.1(p) and Schedule 4.1(n) note (2)), and Lender
+needs a waiver so the ROFR does not burden its remedies. Resolution adopted:
+Mortgage §5.8 requires an acknowledgment from each tenant holding a
+preferential right confirming that the right does not apply to a transfer of the
+Property or of Lender’s interest, to any lease by Lender or a receiver or
+foreclosure    purchaser,   and     does    not    encumber     Lender’s    rights.
+Recommendation: obtain it with the estoppel.
+
+C-4 (Medium) — The rent roll recited in the Term Sheet and the
+appraisal is stale by one and two escalations respectively.
+
+Source: Lease Abstracts escalation provisions (Bay 1: 3.0% each January 1 from
+January 1, 2025; Bay 3: 2.5% each July 1 from July 1, 2023; Suite A: 2.5% each
+April 1 from April 1, 2026). Term Sheet §2.3 and Appraisal §3.1 both state Bay 1
+at $28.50/SF and Bay 3 at $24.00/SF.
+
+Recomputation (as of the anticipated April 15, 2025 closing): Bay 1 = $28.50 ×
+1.03 = $29.355/SF = $111,549/yr (the workbook’s escalation schedule shows
+$29.36). Bay 3 = $24.00 × 1.025² = $25.215/SF = $95,817/yr (workbook
+shows $25.22). Suite A = $22.00/SF = $215,600/yr (no escalation until April
+2026). Total current base rent ≈ $422,966, against the $415,100 recited — a
+variance of $7,866 (+1.9%). The “Realistic Scenario” rent of $422,700 in the
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047     |   Page 15 of 37
+workbook is consistent with this recomputation, which confirms that the
+$415,100 figure is the pre-escalation nominal roll.
+
+Resolution adopted: Schedule 4.1(n) shows the contract rates from the lease
+abstracts and states expressly that amounts actually payable are determined by
+each lease’s escalation provisions, with a conforming representation.
+Recommendation: conform the schedule to the executed leases and the
+estoppels before execution; do not carry the $415,100 total into any closing
+document as “current” rent.
+
+C-5 (Medium) — Security deposits. Total $69,183, being two months’ base
+rent for each of the three tenants. On the escalated rents the “two months”
+amount would be $18,595.50 (Bay 1) and $15,969.50 (Bay 3) against $18,050
+and $15,200 held, so the held amounts are modestly below a strict “two months
+of current rent” reading. This is immaterial in amount but the estoppels should
+confirm the actual deposit held and the Mortgage requires Mortgagor to hold
+them in trust and deliver them on default (§§5.7, 7.8).
+
+C-6 (Medium) — Bay 3 at risk. The Harmon & Wren lease expires June 30,
+2026 (14.5 months after the anticipated closing); the renewal notice deadline is
+December 31, 2025 (six months before expiry); and the renewal option is at 95%
+of fair market value. The workbook treats renewal as “uncertain given short
+remaining term and renovation disruption.” Bay 3 is 3,800 SF (12.3% of area)
+and $91,200–$98,800 of annual rent, and its loss would also terminate the Bay 2
+ROFR (a mild benefit). Resolution adopted: the estoppel covenant and the
+reporting covenants (§§5.8, 12.3) require confirmation of the status; the leasing
+covenant (§5.6) governs any renewal. Recommendation: obtain the estoppel
+confirming no exercise of the early termination right (the December 31, 2024
+deadline has passed) and monitor the renewal decision; it is a realistic lease-up
+assumption to assume a renewal rather than a re-tenanting, and the Bank’s
+stabilization case depends on it.
+
+C-7 (Low) — Exclusive use. Lowcountry has an exclusive specialty-grocery use
+within the Property (and its use clause prohibits food preparation). The
+exclusivity narrows the Bay 2 and Bay 3 marketing pool to non-grocery users; a
+restaurant use would be compatible with the Lowcountry use restriction. For
+leasing strategy, not for the Mortgage.
+
+C-8 (Low) — Estoppel dating. Term Sheet §12.1(j) requires tenant estoppels
+dated no more than 30 days before closing. Conform the estoppel collection
+timeline to that; if closing slips, re-date.
+
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 16 of 37
+D. Single-Purpose Entity, Organizational Documents and Bankruptcy
+Remoteness
+D-1 (Critical) — The operating agreement does not contain the SPE and
+bankruptcy-remoteness provisions the structure requires.
+
+Source: Operating Agreement Summary §§3.1 (exclusive and sole authority in
+GDG; “does not impose any requirement for GDG to appoint or maintain an
+independent director, independent manager, or springing member”; “no
+provision … requiring the consent of any independent party prior to the
+Company filing a voluntary petition”; no bankruptcy remoteness or single-
+purpose provisions), 1.4 (purpose clause ending in a broad catch-all; “does not
+contain any language restricting the Company to single-purpose entity status”),
+3.2 (75% Major Decisions, which omit bankruptcy filings), 8.1 (dissolution on
+75% consent with no lender or independent-party consent), 9.1 (amendments),
+6.2 (reviewed, not audited, annual statements). Term Sheet §10.1(a)–(g),
+including §10.1(g) requiring the organizational documents to be amended “prior
+to closing” to include these restrictions.
+
+Analysis: The Term Sheet’s SPE covenant package is largely a list of operating
+behaviours (separate books, no commingling, no additional debt) that the
+Mortgage can impose as covenants and does (Mortgage §6.2). The two elements
+that cannot be achieved by covenant alone are the ones missing from the
+operating agreement: an Independent Manager whose affirmative vote is
+required before a voluntary bankruptcy filing, dissolution, merger or
+consolidation, and express bankruptcy-remoteness protection. Without
+them, GDG — through Neil Ashford Graydon — can unilaterally file the Borrower
+into bankruptcy, which defeats the purpose of the SPE structure.
+
+Resolution adopted: (i) representation that the organizational documents
+contain the required provisions (§4.1(g)); (ii) full separateness and single-
+purpose covenants (§6.2(a)–(l)); (iii) a substantive bankruptcy-remoteness
+covenant identifying the Independent Manager qualification, the unanimous-
+vote requirement, the removal/replacement and notice mechanics, and the
+requirement that the provisions bind all members and cannot be amended
+without Lender’s consent (§6.3); (iv) no-dissolution/no-bankruptcy-filing
+covenant (§6.7); (v) no-amendment covenant (§6.5); and (vi) an Event of Default
+for any SPE or bankruptcy-remoteness breach with no cure period (§§14.1(j),
+14.2(c)), consistent with Term Sheet §11.2(c).
+
+Recommendation (action items, as you directed):
+
+   (a) Prepare a form of Operating Agreement Amendment adding (i) the Independent
+       Manager requirement with the standard natural-person eligibility criteria, (ii) the
+       separateness covenants, (iii) the single-purpose restriction narrowing the Operating
+       Agreement §1.4 purpose clause, and (iv) a unanimity/unanimous-written-consent
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 17 of 37
+       requirement (including the Independent Manager) for bankruptcy filings, dissolution,
+       merger, consolidation, division and conversion.
+   (b) Make delivery of the executed amendment, signed by all three members (GDG,
+       Tidewater Opportunity Fund II LP and Harborline Capital Advisors LLC), a condition
+       precedent to closing, and add it to the CP schedule (it is not expressly listed in
+       Term Sheet §12.1, though §10.1(g) requires the amendment and §12.1(n) is a catch-
+       all).
+   (c) Confirm Tidewater GP Holdings LLC’s authority to bind the fund. The operating
+       agreement summary identifies Tidewater GP Holdings LLC as general partner with
+       “exclusive authority to manage and direct the affairs of Tidewater, including its
+       investments and its Membership Interest in the Company,” which is helpful, but the
+       limited partnership agreement is not in the record. Obtain the LP agreement, or a GP
+       authorization certificate/resolution, before closing.
+   (d) Note the mechanics: OA §9.1 permits amendment on the signature of the Managing
+       Member plus members holding 75%, so GDG (72%) plus Harborline (10%) would
+       suffice procedurally. I still recommend all three signatures, because the covenants
+       must bind each member and because OA §9.1’s proviso requires the consent of any
+       member whose economic rights are altered. Confirm that the amendment does not
+       inadvertently trigger the proviso.
+D-2 (High) — There is no change-of-control restriction anywhere in the
+record.
+
+Source: Term Sheet §10.3 (restricts transfers of “ownership interests in the
+Borrower” exceeding 10% individually / 25% in the aggregate, except transfers
+among existing members). Operating Agreement Summary §4.1 (“The transfer
+restrictions … apply exclusively to Transfers of Membership Interests in the
+Company and do not purport to restrict or address changes in the internal or
+upstream ownership, management, or control of any Member entity”); §4.2(c)
+(Tidewater GP may direct transfers, including to “any successor fund,” with no
+consent required and “successor fund” undefined); §4.5 (affiliate definition); and
+the summary’s own illustrations (Graydon could sell his GDG membership;
+Tidewater GP Holdings could be acquired; Harborline’s internal ownership
+could change entirely).
+
+Analysis: The Term Sheet’s restriction is entity-level only, and the operating
+agreement confirms that upstream changes are unrestricted. The result is that
+the 72% controlling interest could pass to a third party — the single most
+important credit fact in the deal — without consent, notice or default. The OA’s
+75% Major-Decision threshold does not help, because it governs actions by the
+Company, not transfers of interests in the members.
+
+Resolution    adopted:   Mortgage §6.4(direct Property transfers; >10%
+membership transfers; and a defined Change of Control capturing indirect
+changes at GDG, Tidewater GP Holdings/successor GP and Harborline level,
+plus conversion/division/reorganization), with a narrow carve-out for transfers
+among existing members and Graydon estate-planning trusts (each on 30 days’
+notice, no Change of Control, and joinder), void ab initio at Lender’s election,
+and a no-cure Event of Default (§14.1(g), §14.2(c)). I have added the express
+statement that §6.4 controls over any less restrictive provision of the operating
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 18 of 37
+agreement. Recommendation: add a mirroring change-of-control restriction and
+notice covenant to the Operating Agreement Amendment (D-1), so that the OA
+and the Mortgage do not permit different things; and confirm with Marcus that
+an indirect change-of-control restriction is acceptable given that the Term Sheet
+is entity-level only. This is an addition beyond the Term Sheet, justified under
+§14.4 and consistent with the carve-out guaranty, which is triggered by a §10.3
+violation (Term Sheet §5.5(a)(v)).
+
+D-3 (Medium) — Registered agent name mismatch. Term Sheet §1.2:
+“Capitol Registered Agents Inc., 1201 Main Street, Suite 410, Columbia.”
+Operating Agreement Summary §1.3: “Statehouse Registered Agents, Inc., 1201
+Main Street, Suite 410, Columbia.” Same address, different names. Not material
+to the lien, but the Mortgage recites the registered agent (§5.12) and Exhibit E
+lists the address, so it must be right. Recommendation: confirm against current
+South Carolina Secretary of State records and conform §5.12 and Exhibit E. I
+have inserted a conforming note in Exhibit E rather than guessing.
+
+D-4 (Medium) — Audited financial statements versus the operating
+agreement’s “reviewed” standard. Term Sheet §7.3(a) requires annual
+financial statements audited by an independent CPA within 120 days. OA §6.2(b)
+requires annual statements “reviewed (but not audited)” within 90 days, plus
+unaudited quarterlies within 45 days. The covenant is therefore unperformable
+without either an audit engagement or an amendment. Resolution adopted:
+Mortgage §12.3(a) requires audited statements and §12.4 states that reviewed
+or unaudited statements do not satisfy the obligation. Recommendation: raise
+with Marcus whether the Bank will accept reviewed statements for a single-
+asset SPE (a common concession where the guarantor is the credit); if not, the
+Borrower needs to budget for the audit.
+
+D-5 (Medium) — The operating agreement summary is redacted and the
+March 1, 2025 amendment is not summarized. The summary itself advises
+that compliance with SPE requirements “cannot be confirmed on the basis of
+this Redacted Summary alone.” The amendment dated March 1, 2025 was
+executed by all three members but “the specific terms and modifications
+effected by such amendment have not been summarized.” Recommendation:
+obtain the full unredacted operating agreement, all exhibits and schedules, and
+the March 1, 2025 amendment, and re-run the SPE review against the executed
+documents before the amendment in D-1 is circulated.
+
+D-6 (Medium) — Member entity diligence. Tidewater is a Delaware LP with
+a Virginia address (301 Fayette Street, Suite 700, Norfolk); Harborline is a
+Delaware LLC with a Pennsylvania address (1900 Market Street, Suite 1220,
+Philadelphia)     whose    members    and    managers     are   not    disclosed.
+Recommendation: obtain certificates of good standing (Delaware, and each state
+of qualification), organizational documents, and signing authority resolutions for
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 19 of 37
+both; for Harborline, also confirm its beneficial ownership for the Bank’s
+customer due diligence and beneficial ownership certification requirements.
+
+D-7 (Low) — Separateness optics. GDG’s notice address in the operating
+agreement is 88 Broad Street, Suite 200 — the same address as the Borrower’s
+principal office. That is common for single-asset SPEs but is a factor in a
+separateness analysis. Recommend the amendment require either a distinct
+address or a documented arm’s-length cost-sharing arrangement, and that the
+SPE covenants (§6.2(a)–(l)) capture it.
+
+E. Prepayment, Lockout and Yield Maintenance
+E-1 (High) — Your proposed formula deletes the Term Sheet’s 1.00%
+minimum premium.
+
+Source: Term Sheet §4.2 (premium “equal to the greater of (a) one percent
+(1.00%) of the outstanding principal balance … or (b) the present value of the
+excess …”); your §5 drafting instruction (formula with “In no event shall the
+Yield Maintenance Premium be less than zero” and no 1% floor).
+
+Analysis: The two are not the same instrument. A pure yield-maintenance
+formula with a zero floor produces no premium whenever Treasury yields have
+risen above the note rate, which is precisely when a borrower most wants to
+prepay and when the lender’s reinvestment loss is most acute from the
+borrower’s perspective (the lender gains nothing, but loses a high-coupon
+asset). The 1% floor is the Term Sheet’s protection against that outcome.
+Deleting it unilaterally would be a departure from a binding commitment and, in
+my view, not something an associate should make without instruction —
+particularly where Term Sheet §14.3 provides that the Loan Documents control
+in the event of conflict, which means a Borrower’s counsel could argue that the
+deletion is evidence of the parties’ agreed construction.
+
+Resolution adopted: I drafted the premium as the greater of 1.00% of the
+principal prepaid and the yield-maintenance amount, with the yield-maintenance
+leg floored at zero (Mortgage §13.3), and applied the same greater-of test to any
+prepayment accepted during the Lockout Period (§13.1). Please confirm, or
+direct that the floor be deleted and that the Term Sheet be amended in writing
+to match.
+
+E-2 (High) — The 50 basis point placement is genuinely ambiguous, and
+the drafted formula does not replicate the Term Sheet’s mechanics.
+
+Source: Term Sheet §4.2(b): the present value of the excess of (i) interest that
+would have accrued at the Note rate, over (ii) interest that would accrue “at the
+treasury rate plus fifty (50) basis points,” discounted “at the treasury rate.”
+
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 20 of 37
+Your instruction: add the 50 bps to the loan rate (i.e., the payment stream),
+with the spread reflecting the lender’s bargained-for return.
+
+Analysis: These are two different formulas, not two readings of one formula. The
+Term Sheet computes an interest differential (Note rate versus Treasury + 50
+bp, discounted at Treasury). Your instruction produces the market-standard
+present value of remaining payments less principal (payments at the Note
+rate, discounted at Treasury). On the Term Sheet’s literal text the comparison
+uses Treasury + 50 bp as the comparison yield; on your instruction the 50 bp
+never enters the discount computation at all, because the Note rate already
+embeds the 285 bp spread. Both are defensible; they produce different numbers;
+and the Term Sheet’s own internal logic (why compare to Treasury + 50 if the
+note rate is Treasury + 285?) favours your reading as the commercial intention,
+while the text favours the literal reading.
+
+Resolution adopted: I drafted your formula — PV of all remaining scheduled
+payments of principal and interest at the Note rate (without the Default Rate)
+through the last day of the Yield Maintenance Period, discounted monthly at the
+Treasury Rate, less the outstanding principal prepaid, floored at zero, with the
+final payment adjusted for unamortized principal, and with the Treasury Rate
+defined by reference to FRB Statistical Release H.15, maturity matched to the
+last day of the Yield Maintenance Period, with linear interpolation and a fallback
+to the most recent prior publication (Mortgage §§1.1, 13.3). The formula is self-
+contained, deterministic and objectively calculable, which is the enforceability
+point you asked me to protect. Recommendation: client decision required.
+Obtain Marcus’s written confirmation of the intended formula and, because the
+drafted formula does not track Term Sheet §4.2(b), either (i) a written
+confirmation/amendment of the Term Sheet by the Bank, or (ii) conform the
+drafting to the Term Sheet’s literal mechanics. I would not put the form out
+without one of the two.
+
+E-3 (Medium) — Lockout versus priced prepayment. Term Sheet §4.1
+prohibits prepayment during months 1–24 (in whole or in part) but then says any
+prepayment in violation “shall be subject to a prepayment premium as described
+in Section 4.2.” A prohibition with a price is not a prohibition; it is an option,
+and the inconsistency also invites a penalty challenge (if the Bank must accept
+the money, the premium is not liquidated damages for a breach). Resolution
+adopted: I drafted the Lockout as an absolute prohibition with no prepayment
+right, coupled with a Lender election (in its sole and absolute discretion) to
+accept a tender at the greater of 1% and the yield-maintenance amount
+computed as though the prepayment occurred in the Yield Maintenance Period
+(§13.1). That preserves the Bank’s position without creating a borrower right.
+Please confirm.
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 21 of 37
+E-4 (Medium) — Involuntary prepayments. The Term Sheet is silent on
+whether casualty proceeds and condemnation awards applied to the Loan during
+the lockout or yield-maintenance period bear a premium. I drafted them as
+applied at par with no premium (§§10.4, 10.5, 13.6), which is the majority
+market position and is required for insurability (the title insurer and casualty
+carrier both assume restoration or par application), but you flagged that some
+lenders charge. Recommendation: confirm with Marcus; if the Bank wants a
+premium on involuntary prepayments, it must also accept that the insurer’s
+restoration analysis becomes more complex and that the Borrower will resist.
+
+E-5 (Medium) — Treasury Rate tenor. Your instruction matches the
+reference maturity to the last day of the Yield Maintenance Period
+(approximately month 48, i.e., a 2-year reference at the start of the period).
+Market practice for this structure is often to match the remaining term to
+maturity (a 5-year reference at origination, declining), which produces a higher
+(longer-tenor) reference rate and hence a lower premium in a normal curve. The
+choice is a commercial one with a real dollar effect. Resolution adopted:
+matched to the last day of the Yield Maintenance Period, per your instruction,
+defined with interpolation. Recommendation: confirm; this is the kind of variable
+that, left undefined, produces the indefiniteness challenge you are trying to
+avoid.
+
+E-6 (Low) — Whole-versus-partial prepayment asymmetry. Prepayment is
+whole-only in months 25–48 and whole-or-partial in months 49–60. Read
+literally, that would bar a partial application of casualty proceeds during the
+yield-maintenance period, which is why I carved involuntary payments out of
+Article 13 altogether (§13.6). No further action, but note the interaction if the
+Bank insists on a premium on involuntary prepayments (E-4).
+
+E-7 (Low) — Enforceability of the premium. South Carolina courts will
+enforce a yield-maintenance premium as liquidated damages where the formula
+is specific, mathematically deterministic and objectively calculable, and will not
+where it requires subjective judgment. The record contains no South Carolina
+authority beyond general contract principles, and I have not researched beyond
+that. The drafted clause is built for enforceability: a single defined reference
+rate and publication, a stated maturity-matching convention, interpolation,
+monthly discounting, an adjustment for unamortized principal, a floor, a
+conclusive-calculation    provision,   and     an   express   liquidated-damages
+characterization (§13.7), plus a severability clause preserving the parties’ intent
+if a component fails (§18.4). I have not included any “present value of a
+hypothetical reinvestment” or discretionary elements.
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 22 of 37
+F. Renovation Administration and the Draw Schedule
+F-1 (High) — The 10% retainage required by the Term Sheet is absent
+from the draw schedule.
+
+Source: Term Sheet §8.4 (“Lender shall retain ten percent (10%) retainage from
+each disbursement … until substantial completion”); Renovation Budget and
+Draw Schedule, Draw Schedule tab (no retainage column; each monthly “Total
+Lender Draw This Month” is the gross budgeted amount for the line items).
+
+Recomputation: 10% of $2,250,000 is approximately $225,000 that would be
+withheld from the contractor over the draw period and released only after
+Substantial Completion. Two consequences: (i) cash actually available to the
+General Contractor is overstated by up to $225,000 at any point, which is
+exactly the kind of gap that produces mechanics’ liens in the final months; and
+(ii) the schedule’s own notes show the squeeze — at month 11, “Only $130,000
+of lender holdback remains with $180,000 of budgeted costs remaining,” and
+the schedule ends with borrower equity at −$5,000.
+
+Resolution adopted: Mortgage §8.3 imposes 10% retainage on each advance and
+conditions release on Architect’s certificate, certificate of occupancy, final
+unconditional lien waivers, final title date-down, and completion of
+punch-list/warranty items. Recommendation: have the Borrower recast the draw
+schedule with retainage and confirm the GC Contract permits retainage at that
+level and that the contractor can carry it; if it cannot, the Bank should know
+before closing, because a contractor that cannot carry retainage asks for joint-
+cheque or payment-bond arrangements later.
+
+F-2 (High) — The draw schedule does not reconcile to the budget detail.
+
+Recomputation (per-category, sums of the fourteen monthly draws versus
+Budget Detail allocations): HVAC lender draws $900,000 vs. $850,000 allocated
+(+$50,000); Elevator lender $325,000 vs. $375,000 (−$50,000); Façade lender
+$425,000 (✓); TI lender $450,000 (✓); Soft costs lender $150,000 ( ✓); lender
+total $2,250,000 (✓). Borrower side: HVAC $350,000 (✓), Elevator $100,000 ( ✓),
+Façade $200,000 (✓), TI $110,000 vs. $100,000 (+$10,000), Soft costs
+$145,000 vs. $150,000 (−$5,000), borrower total $905,000 vs. $900,000.
+Grand total $3,155,000 vs. $3,150,000 — a $5,000 overrun against the
+Renovation Budget, which the schedule itself shows as borrower equity of −
+$5,000 remaining.
+
+Analysis: The lender-side variances net to zero across categories, so the total
+holdback is right, but the schedule funds $50,000 more HVAC and $50,000 less
+elevator than the approved budget allocation, and the borrower side both
+reallocates and overspends. Mortgage §8.4 requires Lender consent for line-item
+reallocations exceeding 10% of the line item (here 5.9% for HVAC and 13.3% for
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 23 of 37
+elevator — the elevator reallocation exceeds the threshold) and for contingency
+usage. Recommendation: require the Borrower to present a reconciled draw
+schedule as a closing deliverable and to document the $5,000 overrun funding;
+confirm the Bank’s consent to the HVAC/elevator reallocation in writing, since a
+failure to do so would put the Borrower in default under §8.4 at the first draw.
+
+F-3 (High) — The draw schedule and the lease-up schedule assume
+different Suite B leases.
+
+Source: Draw Schedule notes: month 9 (January 2026) — “TI — 2nd Floor Suite
+B lease executed, build-out commences”; months 10–13 draw Suite B TI; month
+13 (May 2026) — “TI completion for 2nd Floor Suite B.” Vacancy Schedule:
+Suite B marketing start July 2026, lease execution November 2026, rent
+commencement February 1, 2027. The same workbook cannot be right both
+ways.
+
+Analysis: This is not a clerical point. Under the drafted disbursement
+conditions, a TI draw requires a qualifying lease; if Suite B TI is drawn in 2026
+without a lease, the Borrower will be in breach of §8.2/§8.4, and if Suite B is
+leased in November 2026 the TI draw falls after the 14-month renovation
+window and after Substantial Completion (June 15, 2026), which changes both
+the retainage release mechanics and the timeline against the DSCR test.
+Recommendation: rebuild the draw schedule around the lease-up assumptions
+that the Bank actually credits; and confirm whether the TI allowance for Suite B
+is intended to be drawn from the Renovation Holdback (line 4.0, $450,000) or
+from the $150,000 TI/LC Reserve, because the record uses both for the same
+purpose (see G-1).
+
+F-4 (Medium) — The Holdback covers only 78.9% of hard costs; no pari
+passu or equity-first requirement is in the Term Sheet. $2,850,000 of GC
+contract against $2,250,000 of holdback leaves $750,000 of hard costs, plus
+$150,000 of soft/contingency, to Borrower equity ($900,000 total). The Term
+Sheet says only that the Borrower funds costs “in excess of the Renovation
+Holdback.” Nothing prevents the Borrower from front-loading its equity and
+exhausting it before the Bank’s holdback is drawn — the draw schedule actually
+does the reverse — or from being unable to fund its share at the point of
+maximum spend. Resolution adopted: Mortgage §8.2(g) conditions each advance
+on Borrower equity being funded pari passu at the 2.5:1 ratio in Exhibit C, with
+a certified reconciliation delivered with each draw; §8.5 requires the Borrower
+to pre-fund any identified shortfall within 10 Business Days as an Event of
+Default trigger. This is an addition beyond the Term Sheet, supported by §14.4
+and by Term Sheet §8.4’s express statement that the Borrower is responsible for
+excess costs. Recommendation: confirm with Marcus; and note the interaction
+with A-6 (the same equity has to cover ~$352,000 of closing costs).
+
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 24 of 37
+F-5 (Medium) — Member capital commitments. The commitments
+($4,464,000 / $1,116,000 / $620,000) reconcile to $6,200,000, but the operating
+agreement lets GDG make capital calls unilaterally (within the purpose clause
+and the annual budget process) with dilution for non-funding members. There is
+no Lender consent right over capital calls and no covenant that the passive
+members will fund. If Tidewater or Harborline defaults on a call during
+construction, GDG may dilute rather than fund, or the Project may be short.
+Resolution adopted: CP evidence of the equity contribution (§12.1(m) of the
+Term Sheet); the Mortgage’s overrun covenant (§8.5). Recommendation: obtain
+executed equity commitment letters or member consents confirming committed
+(not merely “committed to fund”) capital, and evidence of the initial funding at
+closing.
+
+F-6 (Medium) — The Substantial Completion default has no cure period,
+and the drafted extension is short. Term Sheet §11.1(h) makes failure to
+achieve Substantial Completion by June 15, 2026 an Event of Default, and §11.2
+lists no cure. I have added a narrow Unavoidable Delay extension capped at 30
+days (§§14.1(h), 14.3) with notice, mitigation, and a causation carve-out.
+Recommendation: confirm 30 days is enough given that the façade scope
+requires City of Charleston Board of Architectural Review approval (Budget
+Detail line 3.0: “per City of Charleston BAR approval,” month 12 final BAR
+inspection) — BAR and permit delays are the classic source of construction
+overruns and, under my drafted causation test, a failure of a governmental
+authority to issue an approval not caused by the Borrower would qualify, but
+only up to 30 days.
+
+F-7 (Medium) — The GC Contract is not in the record. Only its contract
+sum ($2,850,000) and the contractor’s identity and license number are recited.
+Term Sheet §8.1 and CP §12.1(l) require the executed contract and all
+amendments before closing. Recommendation: obtain and review for:
+completion date consistent with June 15, 2026; liquidated damages; retainage;
+payment and performance terms; change-order procedure and approval
+thresholds; insurance and indemnity; assignment and Lender’s rights (including
+the right to take over on default); bonding; and whether Beaufort Builders
+Group LLC or any subcontractor is an Affiliate of GDG or Mr. Graydon — the
+record does not say, and an affiliate GC changes the arm’s-length analysis in
+Mortgage §5.17 and the OA’s affiliate-transaction provisions (§3.2(ix)).
+
+F-8 (Low) — Contingency is thin. $100,000 of contingency against a
+$3,150,000 budget is 3.2%, on a 1952 building with façade restoration, HVAC
+replacement, elevator modernization and BAR oversight. Market contingency for
+this scope is typically 5–10%. Combined with F-1 and F-2 (retainage and the
+funding squeeze), the probability of a mid-project shortfall is high.
+
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 25 of 37
+F-9 (Low) — No bonding. The Term Sheet requires no performance or
+payment bond on a $2,850,000 GC contract. South Carolina does not require
+bonds on private work. Recommendation: consider requiring a payment bond or
+additional equity; the completion guaranty covers completion, not subcontractor
+claims.
+
+G. Reserves, Escrows and Cash Management
+G-1 (Medium) — The TI/LC Reserve is materially undersized against
+projected leasing costs, and leasing commissions have no budget line.
+
+Recomputation from the Vacancy Schedule: TI — Bay 2 $95,000; Suite B
+$215,600; Bay 3 $76,000 if re-tenanted = $310,600 to $386,600. Leasing
+commissions — Bay 2 $28,500; Suite B $61,250; Bay 3 $28,500 if re-tenanted =
+$89,750 to $118,250. Total leasing cost $400,350 to $504,850, against a
+$150,000 TI/LC Reserve. The Renovation Budget’s TI Allowances line is
+$550,000 (of which $450,000 from the Renovation Holdback), so TI is broadly
+funded within the budget if it is drawn as budget — but leasing commissions
+appear nowhere in the Renovation Budget, and the Reserve is expected to
+cover them as well as any TI shortfall.
+
+Resolution adopted: Mortgage §9.3 requires the $150,000 deposit at closing, a
+30-day replenishment obligation, and Lender approval of disbursements; §9.3
+also contains an express acknowledgment that the Reserve “may be insufficient
+to fund the tenant improvements and leasing commissions required to lease the
+currently vacant space” and that Mortgagor is responsible for any deficiency.
+Recommendation: size the Reserve against the Bank’s stabilization case, or add
+a leasing-commission line to the Renovation Budget, and confirm which source
+funds Suite B TI (F-3).
+
+G-2 (Medium) — No cash management and no control agreement, but
+the Mortgage takes a security interest in deposit accounts. The Term
+Sheet has no cash-management, lockbox or DACA requirement; yet the
+Mortgage’s collateral includes “deposits, accounts, reserves” (Term Sheet
+§5.1(d)), and the drafted Mortgage grants a security interest in deposit accounts
+(§§2.2(c)–(d), 9.5). Under the South Carolina UCC, a security interest in a
+deposit account as original collateral can be perfected only by control (UCC §§
+9-104, 9-312(b)(1)); a filing perfects nothing. Accounts in Borrower’s name at
+another institution would therefore be unperfected collateral. Resolution
+adopted: §9.7 requires DACAs and a cash-management system on Lender
+request and automatically on default or DSCR failure; reserves held by Lender
+need no agreement. Recommendation: obtain DACAs at closing for any account
+not held at the Bank (the operating account in particular), or document the
+decision to rely on the rent assignment rather than on Article 9 perfection of
+deposit accounts.
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 26 of 37
+G-3 (Low) — Escrow versus NNN recoveries. Two of three tenants are NNN
+and the third is modified gross with a 2021 base year, so taxes and insurance
+are largely tenant-reimbursed while the Bank escrows 1/12 of them. This is
+lender-protective and standard, but the servicing file should ensure the same
+expenses are not counted both as landlord expense and as reimbursed income in
+the DSCR calculation. Mortgage §1.1(b)(ix) excludes reimbursed expenses from
+Operating Expenses, which addresses the double count on the expense side.
+
+G-4 (Low) — Verified: capital replacement reserve of $645.83/month = $0.25
+× 31,000 ÷ 12 = $7,750 ÷ 12 ✓. Fee simple title; no ground rent.
+
+H. Insurance
+H-1 (Medium) — Builder’s risk limit may leave the existing structure
+underinsured. Term Sheet §9.4 requires builder’s risk “in an amount not less
+than the full renovation budget of $3,150,000,” covering “the Property and the
+renovation work.” The Property’s as-is improvements are valued at $18,200,000.
+A $3,150,000 builder’s risk policy covers the work, not the building. It is
+adequate only if the all-risk property policy required by §9.1 remains in force
+throughout construction and contains no construction/renovation exclusion —
+which is frequently not the case in standard forms. Resolution adopted:
+Mortgage §10.1(d) requires the builder’s risk and property coverages together
+to cover “the entire Property (including the existing Improvements and all work
+in place) throughout the renovation period without any gap in coverage or any
+exclusion    for   construction,    renovation,    or   remodeling   activities.”
+Recommendation: obtain a broker’s letter confirming completed-value coverage
+and no construction exclusion, and consider requiring builder’s risk on a
+completed-value basis.
+
+H-2 (Low) — Flood coverage in Zone X is a credit requirement, not a
+regulatory one. Term Sheet §9.3 requires $5,000,000 of flood insurance
+notwithstanding Zone X. That is permissible, but the compliance file should
+record that it is a credit decision and that no federally mandated flood insurance
+or escrow requirement is engaged (subject to B-9 if the panel designation is
+wrong). Mortgage §10.1(c) is drafted to preserve both positions.
+
+H-3 (Low) — Cancellation notice. The Term Sheet requires 30 days’ notice of
+cancellation, non-renewal or material modification. Market mortgagee clauses
+require 10 days for non-payment. Mortgage §10.2 requires 30 days generally
+and 10 days for non-payment, so the Bank gets the better of both.
+
+H-4 (Low) — Tenant limits. Bay 1 and Bay 3 tenants carry $1M/$2M CGL
+against the landlord’s required $2M/$5M. Acceptable because the landlord’s
+policy is primary for common areas; confirm that the property manager and any
+contractor are additional insureds.
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 27 of 37
+I. Environmental Matters and the Land Use Restriction
+I-1 (High) — The Phase I condition precedent cannot be satisfied on its
+face, but the Bank has already waived Phase II.
+
+Source: Term Sheet §12.1(c) requires a Phase I “indicating no recognized
+environmental conditions requiring remediation or further investigation.” Phase
+I ESA §4 identifies no RECs but one CREC on Lot 7; §6 records that “Calverley
+Heritage Bank has waived the Phase II Environmental Site Assessment
+requirement for this transaction based on the CREC status, the issuance of the
+SCDHEC NFA letter, and the existence of the recorded institutional controls,”
+documented in correspondence dated January 22, 2025 between Marcus
+Prideaux and Clearfield.
+
+Analysis: Read literally, “no recognized environmental conditions requiring
+remediation or further investigation” is satisfied (there are no RECs, and no
+further investigation is recommended), so the CP is arguably met. But a closing
+file that contains a Phase I identifying a CREC and no Phase II needs a clear,
+written record of why that was acceptable. Recommendation: place a CP
+satisfaction/waiver memorandum in the closing file expressly recording the
+January 22, 2025 waiver, the NFA letter, the institutional controls, and the
+mitigants in I-2 and I-3. This is a file-integrity point, not a drafting point, but it is
+the kind of item that surfaces in an examination two years later.
+
+I-2 (High) — The Land Use Restriction covenants and the LUR default
+are now in the Mortgage, but the Environmental Indemnity must mirror
+them.
+
+Source: Title Commitment Notes to Closer ¶1 (Lender’s counsel should ensure
+the Environmental Indemnity and the Mortgage contain specific covenants
+addressing the LUR, “including the vapor barrier maintenance and periodic
+inspection obligation and the prohibition on residential use of the ground floor,”
+and “[t]he Mortgage should contain an event of default triggered by any failure
+to comply with or any modification, termination, or violation of said land use
+restriction”); Schedule B-I Requirement 6 (same requirements for the
+Environmental Indemnity); Phase I ESA §§5.3, 5.4, 6(d); Appraisal §5.
+
+Resolution adopted: Mortgage Article 11 implements the closer’s instructions:
+prohibition on residential use of the Bay 1 ground floor (§11.1(a)); vapor barrier
+maintenance and no penetration without SCDHEC approval and Lender consent
+(§11.1(b)); annual inspection by a licensed environmental professional (plus
+before and after any slab work) with reports delivered to Lender (§11.1(c));
+advance notice to SCDHEC and delivery of approvals (§11.1(d)); annual
+compliance certificate with the financial statements (§11.1(e)); no modification
+or termination of the LUR (§11.2); notice of environmental events within 3
+Business Days (§11.3); remedial action obligations with Lender approval
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 28 of 37
+thresholds (§11.4); an environmental indemnity that survives foreclosure and is
+not limited by the non-recourse provisions (§11.5, 16.2); secured-creditor
+protection (§11.6); and an Event of Default with no cure period for any
+failure to comply with Article 11 or the LUR, or any modification, termination,
+release or violation of the LUR, or any SCDHEC reopening (§§14.1(k), 14.2(c)).
+The LUR also appears in Exhibit B as a Permitted Exception expressly
+conditioned on Article 11 compliance.
+
+Recommendation: confirm the separate Environmental Indemnity (Borrower and
+Guarantor) contains the same specific LUR covenants — it is a separate
+instrument prepared by us and it is the primary risk-allocation document. Note
+also that the Mortgage’s environmental indemnity is deliberately carved out of
+the non-recourse limitation (Article 17), consistent with the Term Sheet’s carve-
+out structure (§5.5(a)(iv)).
+
+I-3 (High) — Vapor barrier integrity is unverified and is not a Term Sheet
+condition.
+
+Source: Phase I ESA §5.3 (the vapor barrier “was not directly visible or
+inspectable during the reconnaissance”; Clearfield “recommends that any
+prospective purchaser confirm the integrity of the vapor barrier through a
+qualified inspection conducted by a licensed environmental professional prior to
+or promptly after acquisition, and particularly before any renovation activity
+affecting the Bay 1 floor slab”); §6(b) (same recommendation). Nothing in the
+Term Sheet requires it.
+
+Analysis: The vapor barrier is the institutional control on which the NFA
+determination depends. If it is compromised, SCDHEC could reopen the file, and
+the collateral (Lot 7, one of three parcels and the location of Bay 1) is directly
+affected.
+
+Resolution adopted: annual inspection covenant plus pre- and post-slab-work
+inspections (§11.1(c)); draw condition requiring a licensed environmental
+professional’s certificate for any advance funding work within or affecting the
+Bay 1 footprint (§8.2(k)); notice obligations (§11.3). Recommendation: add a
+condition precedent requiring the inspection (or a post-closing covenant to
+complete it within 30 days with delivery of the report), and require the General
+Contractor to acknowledge the vapor barrier and LUR in writing before
+mobilization. This is an addition beyond the Term Sheet; it is squarely supported
+by the ESA’s recommendations and the closer’s note.
+
+I-4 (Medium) — The renovation scope may intersect the Bay 1 slab.
+Budget Detail line 1.0 covers “Full replacement of rooftop HVAC units (3),
+ductwork, and controls for all retail bays and office suites.” Ductwork serving a
+slab-on-grade retail bay may require slab penetration. If it does, the LUR
+requires prior SCDHEC notification/approval and the cost of vapor barrier
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 29 of 37
+repair or replacement is not separately budgeted. Resolution adopted: §§8.2(k),
+8.4(b) (no change in scope affecting the vapor barrier without consent), 8.9
+(contractor notification and SCDHEC notice), 11.1(d). Recommendation: obtain
+written confirmation from the Architect or the General Contractor that no duct,
+conduit or penetration will pass through the Bay 1 floor slab; if any will, add a
+vapor barrier repair allowance to the budget and to the contingency analysis
+(F-8).
+
+I-5 (Medium) — Preserving the Borrower’s bona fide prospective
+purchaser position. The contamination originated off-site at 518 King Street (a
+third party). The Phase I is ASTM E1527-21 compliant, satisfies all appropriate
+inquiries, and names the Borrower as an additional reliance party — the
+conditions for the BFPP and contiguous property owner defenses. Those
+defenses require continuing obligations (no disposal or release at the Property,
+appropriate care, reasonable steps regarding institutional controls, cooperation
+with response actions, and compliance with land use restrictions). Resolution
+adopted: §§5.15, 5.16 (compliance and cooperation), Article 11 (institutional
+controls). Recommendation: confirm the Borrower’s BFPP file is maintained, and
+that the Borrower understands that its own renovation activities are the
+principal risk to the defense.
+
+I-6 (Low) — No subsurface investigation in the record. The waiver of Phase
+II is documented; the credit approval should record the rationale (A-7).
+
+J. Guaranty and Recourse Structure
+J-1 (High) — The interest-shortfall guaranty expires ten months before
+the first DSCR test.
+
+Source: Term Sheet §5.5(c) (guaranty of interest shortfall “covering the first
+fourteen (14) months following closing”); §7.1 (DSCR testing commences at
+month 24).
+
+Recomputation: closing April 15, 2025 + 14 months = June 15, 2026 — which
+is also the Substantial Completion Deadline. Projected annual interest at the
+floor rate is $862,875; projected NOI at the first test in the “realistic” case is
+$314,782, a gap of $548,093 per year. Over the ten months between the expiry
+of the guaranty and the first test (June 15, 2026 to April 15, 2027) that is
+approximately $456,744 of projected debt service with no guaranty support
+and, on the record’s own projections, insufficient property income. The best-case
+stabilized NOI of $622,772 still leaves a gap of $240,103 per year against
+interest alone.
+
+Recommendation (client decision): extend the interest-shortfall guaranty (or add
+a funded debt service reserve) through the first DSCR Testing Date, i.e., to June
+30, 2027 or later, or until a defined occupancy milestone. This is the natural
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 30 of 37
+companion to the DSCR restructuring in A-3, and it is a Term Sheet amendment,
+so it needs Marcus.
+
+J-2 (Medium) — One guaranty or three? Term Sheet §5.5 describes “a full
+recourse personal guaranty … structured as” a non-recourse carve-out guaranty,
+a completion guaranty and an interest-shortfall payment guaranty; the
+Guarantor Acknowledgment refers to “the Guaranty Agreement, Completion
+Guaranty, Payment Guaranty, Environmental Indemnity Agreement”; but §14.3
+and §12.1(a) list only a “Guaranty Agreement.” Recommendation: confirm
+whether there is one instrument with three components or three instruments;
+the CP list, the title commitment (Requirement 7) and the Mortgage’s cross-
+references (§17.3) need to match.
+
+J-3 (Medium) — Non-recourse consistency. Term Sheet §5.5(a) makes the
+Loan non-recourse to the Borrower except for carve-outs that spring full
+recourse liability of the Guarantor. The Mortgage must not, by its own terms,
+impose unlimited personal liability on the Mortgagor. Resolution adopted:
+Article 17 contains a limited-recourse clause (recourse against the Mortgaged
+Property and collateral only, no deficiency judgment against the Mortgagor)
+subject to an enumerated list of Recourse Events drawn from Term Sheet
+§5.5(a) ((i)–(v)) plus insurance failure, waste, failure to turn over rents, and
+certain covenant breaches, each with a causation/materiality limitation where
+appropriate; and it preserves Guarantor’s separate liability (including the
+completion guaranty, with §8.7 drafted so that Lender’s completion of the work
+does not relieve Guarantor). Recommendation: confirm that the Note and
+Guaranty use the same Recourse Event list, and confirm the carve-out for a
+transfer violation (Term Sheet §5.5(a)(v)) is mirrored in the Guaranty.
+
+J-4 (Low) — Guarantor verification. Net worth of “$28,000,000” is described
+as “approximate” and is self-reported; there is no liquidity figure for the
+Guarantor anywhere in the record. Given that the completion and interest-
+shortfall guaranties are the Bank’s principal mitigants, obtain the personal
+financial statement, tax returns, and a liquidity schedule, and confirm the Bank’s
+credit file reflects verified rather than represented net worth.
+
+K. Interest Rate Mechanics, Default Rate and Charges
+K-1 (Medium) — Daily SOFR mechanics are undefined. Term Sheet §3.6
+defines Daily SOFR by reference to the FRBNY publication “on the applicable
+business day,” but specifies no compounding convention, no averaging method,
+no lookback, no rounding, no day-count basis (actual/360 versus actual/365), no
+interest determination agent, and no benchmark-replacement mechanism
+beyond “(or a successor administrator).” For a backward-looking overnight rate
+paid monthly, these are operative terms, not boilerplate. Resolution adopted: the
+Mortgage defers payment mechanics to the Note (§18.6) and does not purport to
+define them. Recommendation: address in the Note before the draft is circulated
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 31 of 37
+— this is a documentation gap that will be visible to any reviewer, and it is more
+easily fixed now than by amendment.
+
+K-2 (Medium) — Default rate and late charges. The Default Rate (floor
+3.00% + 2.85% + 5.00% = 10.85%) and the 5% late charge are both specified in
+the Term Sheet and are drafted as such (§§14.5, 1.1). Recommendation: confirm
+the aggregate against South Carolina’s usury limits and that the
+characterization language (§14.5 and the Article 13.7 liquidated-damages
+recital) is adequate. I have included a standard usury savings clause (§18.8).
+
+K-3 (Low) — Payment mechanics. Checks are consistent: monthly on the 15th
+commencing May 15, 2025; late charge if not received within 10 calendar days
+of the due date; five business days for payment default cure (Mortgage
+§§14.1(a), 14.2(a)) with a two-per-year limit I added to prevent repeated use.
+
+L. Document Consistency and Party Details
+L-1 (Low) — Lender’s email domain. Term Sheet §1.1 gives the primary
+contact’s email as mprideaux@coastalheritagebank.com for Calverley
+Heritage Bank. This appears to be a carry-over from a prior name or a template.
+Confirm the correct address for the notice provisions (Mortgage §18.2 and
+Exhibit E list the postal address and the contact, not the email).
+
+L-2 (Low) — Seller diligence. Schedule B-I Requirement 8(d) requires
+evidence that Hampstead Village Holdings LLC is authorized to convey; confirm
+it is the seller under the purchase contract, that its signatory authority is
+documented, and that good standing is confirmed.
+
+L-3 (Low) — Organizational history. The Term Sheet recites formation under
+SOS Filing No. 2024-0011287; the operating agreement summary is of an
+“Amended and Restated” agreement effective January 12, 2024 “as amended
+through March 1, 2025.” Confirm the March 1, 2025 amendment (D-5) and that
+the restated agreement is the operative document of record.
+
+L-4 (Low) — No material inconsistency found between the Term Sheet,
+appraisal and ESA as to physical description (three stories; three retail bays at
+approximately 3,800 SF each; two office suites at 9,800 SF each; 31,000 SF
+gross; 0.38 acres / 16,553 SF; GB zoning; built 1952, renovated 2004). The 0.38-
+acre figure checks: 43,560 × 0.38 = 16,552.8 SF.
+
+L-5 (Low) — Appraisal reporting format. The report is styled a “Summary
+Appraisal Report,” a reporting option discontinued under USPAP with the 2020-
+2021 edition (the current options being Appraisal Report and Restricted
+Appraisal Report), and it refers to a “Complete Appraisal Report” retained in the
+appraiser’s work file. Obtain the complete report for the Bank’s appraisal file
+and confirm USPAP compliance on the face of the report.
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 32 of 37
+L-6 (Low) — The rent roll workbook is internally correct on occupancy
+(56.13% by area; 60% by unit count, being 3 of 5) and is the only document in
+the record that reconciles. It should be the source of truth for the closing rent
+roll (A-2).
+
+5. DRAFTING RESOLUTIONS ADOPTED IN THE FIRST DRAFT
+Where the record was ambiguous, inconsistent or silent, I made the following
+choices. Each is flagged above at its issue reference and each is reversible on
+instruction.
+
+       Ambiguity in the
+Ref.   record                      Resolution in the draft                              Authority / basis
+
+A-4    DSCR first test date        Term Sheet construction: first full quarter          Term Sheet §7.1
+       (Apr. 15, 2027              ending after month 24 (June 30, 2027; test on        (controlling)
+       vs. ~Jul. 15, 2027)         reporting)
+
+A-5    Net worth/liquidity     Borrower                                                 Term Sheet §7.2
+       covenants — Borrower or
+       Guarantor
+
+E-1    Yield maintenance — 1%      Retained: greater of 1% or YM, YM floored at         Term Sheet §4.2; not
+       floor retained or deleted   zero                                                 within my authority to
+                                                                                        reduce
+
+E-2    50 bp placement;            PV of remaining payments at the Note rate,           Supervision instruction;
+       interest-differential       discounted at Treasury                               market standard; client
+       vs. PV-of-payments                                                               confirmation required
+
+E-3    Lockout prohibition         Absolute prohibition + Lender’s sole-                Term Sheet §4.1
+       vs. priced prepayment       discretion election to accept at greater of 1%       (prohibition); §4.2
+                                   or YM                                                (pricing)
+
+E-4    Premium on                  Applied at par, no premium                           Market majority;
+       casualty/condemnation                                                            insurability; confirm
+       prepayments
+
+E-5    Treasury reference tenor    Last day of Yield Maintenance Period, with           Supervision instruction;
+                                   interpolation                                        confirm
+
+A-3    “Without cure” DSCR         Added a two-use DSCR Cure Reserve deposit            Term Sheet §11.1(i)
+       default                     cure, not treated as a prepayment                    presupposes a cure;
+                                                                                        confirm or delete
+
+D-2    Nothing restricts           Change of Control definition covering GDG,           Term Sheet §14.4;
+       indirect/upstream           Tidewater GP and Harborline levels                   consistent with §5.5(a)
+       transfers                                                                        (v) carve-out
+
+F-4    No pari passu or equity-    Each draw conditioned on Borrower equity             Term Sheet §8.4
+       first requirement           funding at 2.5:1 per Exhibit C                       (Borrower responsible
+                                                                                        for excess); §14.4
+
+G-2    No cash management or       DACA/cash-management covenant operative              UCC control
+       DACA requirement            on Lender request and automatically on               requirement; §14.4
+                                   default or DSCR failure
+
+B-4    No written approval of      Exhibit B schedule prepared, subject to              Term Sheet §5.6
+       Permitted Exceptions        Lender’s written approval
+
+I-2    LUR covenants and LUR       Full Article 11 + §§14.1(k), 14.2(c) (no cure)       Title Commitment Notes
+       default required by                                                              ¶1; Requirement 6
+       closer’s note
+
+B-1    Anson Lane coverage         Affirmative coverage obligation;                     Title Commitment Notes
+       unconfirmed                 representation as to quitclaim provenance            ¶3; supervision
+                                                                                        instruction
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047                 |    Page 33 of 37
+          Ambiguity in the
+Ref.      record                     Resolution in the draft                           Authority / basis
+
+J-3       Non-recourse scope         Limited recourse with enumerated Recourse         Term Sheet §5.5(a)
+                                     Events; environmental and indemnity
+                                     obligations carved out
+
+—         Recording formalities      Single subscribing witness + South Carolina       Confirm requirements
+                                     notarial acknowledgment                           (B-10)
+
+Provisions included in the draft that the Term Sheet does not expressly
+require (all justified under Term Sheet §14.4 and consistent with its terms, but
+each should be confirmed as acceptable to the Borrower):
+
+      (a) the Change of Control restriction (§6.4(c), D-2); (b) the Independent Manager and
+          bankruptcy-remoteness covenants (§6.3, D-1); (c) Article 11 environmental and LUR
+          covenants beyond the Term Sheet’s general environmental covenant, including the
+          annual vapor barrier inspection and the no-cure LUR default (I-2, I-3); (d) the DSCR
+          Cure Reserve (§§9.4, 12.2, A-3); (e) the cash-management/DACA covenant (§9.7, G-2);
+          (f) the pari passu equity-funding condition and the overrun pre-funding covenant
+          (§§8.2(g), 8.5, F-4); (g) retainage mechanics with defined release conditions (§8.3,
+          F-1); (h) the tenant preferential-right acknowledgment covenant (§5.8, C-3); (i) the
+          subordination of related-party fees and the Distributable Cash Flow definition (§5.17);
+          (j) the annual vapor barrier inspection and reporting (§11.1(c), (e)); (k) the lender
+          right to complete the work without relieving the completion guaranty (§8.7); (l) the
+          partial-payment/repeated-cure limitation on payment defaults (§14.2(a)); (m) the 30-
+          day Unavoidable Delay extension to the Substantial Completion default (§14.3, F-6).
+
+6. OPEN ITEMS AND REQUESTED ACTIONS
+6.1 Items requiring the Lender’s decision before the draft is released
+(April 1).
+
+Ref.      Decision required
+A-1       Accept the appraisal, require a corrected appraisal, or commission a review appraiser
+A-3       DSCR restructuring: covenant level, first test date, cure right, or reserve
+J-1       Extend the interest-shortfall guaranty through the first DSCR test, or fund a debt service
+          reserve
+E-1/      Confirm yield maintenance: 1% floor retained; 50 bp placement; treasury tenor; and whether
+E-2       the Term Sheet is to be confirmed/amended in writing
+E-3/      Confirm the lockout election mechanic and no-premium treatment of casualty/condemnation
+E-4       prepayments
+D-2       Confirm acceptance of an indirect change-of-control restriction (Term Sheet is entity-level
+          only)
+A-5       Confirm whether a Guarantor-level liquidity covenant is intended
+A-8       Rate cap and cash-management triggers
+D-4       Whether audited financial statements are required, or reviewed statements acceptable
+A-7       Produce the credit approval and any underwriting exception approval
+B-9       Confirm flood panel/zone
+6.2 Diligence items to be requested immediately.
+
+
+
+
+           Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047             |   Page 34 of 37
+Ref.    Item                                                             From
+
+A-1 /   Complete appraisal report, and appraiser clarification of the    Pinnacle Valuation Services
+L-5     reconciliation
+
+D-5     Full unredacted operating agreement, all schedules, and the      Cartwright & Lyons LLP
+        March 1, 2025 amendment                                          (Borrower’s counsel)
+
+D-1     Operating Agreement Amendment (form to be prepared by            Borrower
+        us), executed by all three members
+
+D-1     Tidewater LP agreement or GP authorization certificate           Borrower / Tidewater GP Holdings
+                                                                         LLC
+
+D-6     Good standing and authority certificates, Tidewater and          Borrower
+        Harborline
+
+D-3     Registered agent confirmation                                    South Carolina Secretary of State
+
+F-7     Executed GC Contract, all schedules, exhibits and                Borrower
+        amendments; affinity disclosure re Beaufort Builders
+
+B-1     Written coverage confirmation and endorsement quote for the      Prestige Title / Commonwealth
+        Anson Lane strip                                                 National
+
+B-6     Endorsement availability and pricing (zoning, access, survey,    Prestige Title
+        comprehensive, future advance, encroachment, mechanics’
+        lien)
+
+B-2     Survey re-certification within 90 days of closing                Cartwright Land Surveying LLC
+
+B-5     City encroachment permit or written confirmation that none is    Borrower / City of Charleston
+        required
+
+I-1     CP satisfaction memorandum recording the Phase II waiver         Lender (internal)
+
+I-3     Vapor barrier inspection by a licensed environmental             Borrower
+        professional
+
+I-4     Architect/GC confirmation that no work penetrates the Bay 1      Borrower / Architect
+        slab
+
+A-6     Borrower’s closing statement / updated sources and uses;         Borrower
+        evidence of additional equity
+
+F-1 /   Recast draw schedule with retainage, reconciled to budget        Borrower
+F-2 /   and to the lease-up assumptions
+F-3
+
+C-1 /   Estoppels, SNDAs and preferential-right acknowledgments          Borrower
+C-2 /   from all three tenants
+C-3
+
+J-4     Guarantor personal financial statement, tax returns, liquidity   Guarantor
+        schedule
+
+B-4     Signed approval of the Permitted Exceptions schedule (Exhibit Lender
+        B)
+
+B-10    Confirmation of recording fees/mortgage tax, and of              Prestige Title / local counsel
+        acknowledgment/witness requirements
+6.3 Conforming changes to the Mortgage before execution. Exhibit A
+(insert the surveyor’s metes-and-bounds description and the deed recording
+data, and remove the drafting note); Exhibit E (insert the correct registered-
+agent name and remove the drafting note); Schedule 4.1(n) (conform rents to
+the executed leases and estoppels); the closing date references throughout
+(April 15, 2025, and the derived dates — Maturity Date, Interest-Only Period,
+Yield Maintenance Period, Substantial Completion Deadline — must be
+
+
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047              |   Page 35 of 37
+conformed to the actual closing date); and Exhibit B if the Lender’s Permitted
+Exceptions approval differs.
+
+7. ITEMS I COULD NOT RESOLVE
+In fairness to you and to Marcus, these are the points on which I am not able to
+give a concluded view on the present record:
+
+   (a) Whether the collateral value supports the Loan. The appraisal is internally
+       irreconcilable (A-1) and its occupancy premise is wrong (A-2). Until one of those is
+       corrected, the 81.04% as-is LTV — and therefore the credit decision — cannot be
+       validated. I do not express a view on value.
+   (b) Whether the DSCR covenant can be satisfied in any realistic scenario. On the
+       record, it cannot (A-3). Whether the shortfall is addressed by loan size, IO extension,
+       covenant level, reserve or guaranty is a credit decision for the Bank.
+   (c) The treatment of the 50 bp spread in the yield maintenance formula (E-2).
+       Your reading is the better commercial reading; the Term Sheet’s text supports the
+       other. This needs the Bank’s written confirmation, and I have drafted to your
+       instruction rather than attempting to split the difference.
+   (d) The scope and quality of title coverage over the Anson Lane strip (B-1). The
+       commitment does not commit to affirmative coverage and reserves the right to limit
+       it. Until Prestige and Commonwealth respond in writing, I cannot confirm there is no
+       gap in the insured collateral.
+   (e) The extent of the strip and the access rights it supports (B-1). The title
+       commitment and the Phase I ESA describe the strip differently, and no survey extract
+       is in the record. This bears on the tenants’ rear access, loading and parking
+       entitlements, and therefore on the lease representations and the estoppels.
+   (f) South Carolina recording formalities, the applicability of the 0.37% rate to a
+       mortgage instrument, and whether the Uniform Assignment of Rents Act
+       citation is § 29-3-610 or § 29-3-100 (B-10, C-1). These are confirmable items
+       rather than analysis, and I have flagged them rather than resolving them from
+       secondary recollection.
+   (g) Whether Borrower’s counsel will accept the additions in Section 5 — in
+       particular the change-of-control restriction, the Independent Manager amendment
+       and the no-cure LUR and SPE defaults. The Operating Agreement Amendment is the
+       most likely flashpoint, because it requires all three members and alters governance
+       rights that the passive members bargained for.
+
+8. LIMITATIONS
+This memorandum is prepared for the internal use of Fielding, Ashworth & Cole
+LLP and its client in connection with the Loan, is privileged and confidential,
+and is not to be relied upon by any other person. It reflects the documents listed
+in Section 2.1 and no others; I have not reviewed the executed construction
+contract, the unredacted operating agreement, the complete appraisal, the full
+Phase I ESA report, the purchase and sale agreement, the credit approval, the
+Borrower’s or Guarantor’s financial statements, or any SCDHEC file materials.
+Legal conclusions are limited to the matters identified, are based on the
+documents reviewed, and should be confirmed against current South Carolina
+authority before any written opinion is given. All figures have been recomputed
+from the source documents, but the underlying data have not been
+independently audited. Where I have identified a discrepancy, I have recorded
+
+
+        Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 36 of 37
+both the record figure and my recomputation so that the point can be verified
+rather than accepted.
+
+I am available to walk through any of the above before the Wednesday call.
+
+
+
+
+       Drafting Issues Memorandum — CHB CRE Loan No. 2025-CHS-0047   |   Page 37 of 37
+

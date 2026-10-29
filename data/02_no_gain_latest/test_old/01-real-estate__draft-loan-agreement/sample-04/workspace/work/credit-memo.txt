@@ -1,0 +1,1015 @@
+PINNACLE SAVINGS BANK, N.A.
+
+SENIOR LOAN COMMITTEE CREDIT MEMORANDUM
+
+CONFIDENTIAL — INTERNAL USE ONLY — PRIVILEGED AND CONFIDENTIAL
+
+CONFIDENTIAL — SENIOR LOAN COMMITTEE CREDIT MEMORANDUM
+
+  -----------------------------------------------------------------------------------------
+  Loan Number:                        CRE-2025-0342
+  ----------------------------------- -----------------------------------------------------
+  Date:                               January 22, 2025
+
+  Prepared By:                        David Forsythe, SVP, Commercial Real Estate Lending
+
+  Reviewed By:                        ________ , Senior Credit Officer
+
+  Approved By:                        Senior Loan Committee
+
+  Borrower:                           Harborview Capital Partners LLC
+
+  Project:                            The Piedmont at Brightleaf
+
+  Requested Facility:                 $47,500,000 Construction-to-Mini-Permanent Loan
+
+  Recommendation:                     APPROVAL, subject to conditions enumerated herein
+  -----------------------------------------------------------------------------------------
+
+This credit memorandum has been prepared by the Commercial Real Estate Lending group of Pinnacle Savings Bank, N.A. for consideration and action by the Senior Loan Committee. The information contained herein is strictly confidential and is intended solely for internal use by the Bank's credit and lending professionals. This memorandum contains proprietary financial information, borrower personal financial data, and the Bank's internal credit analysis and risk assessments. Distribution outside of the Senior Loan Committee, the Bank's credit administration function, and the Bank's legal counsel is strictly prohibited without the express written authorization of the Chief Credit Officer. Any unauthorized disclosure or distribution of this memorandum or its contents may constitute a violation of the Bank's information security policies and applicable law.
+
+Right-click to update Table of Contents
+
+Section 1: Executive Summary
+
+Harborview Capital Partners LLC (the "Borrower") has requested a $47,500,000 construction-to-mini-permanent loan from Pinnacle Savings Bank, N.A. (the "Bank") for the ground-up construction of "The Piedmont at Brightleaf," a 212-unit Class A mixed-use residential and retail development located at 601 and 615 Foster Street, Durham, Durham County, North Carolina 27701. The subject property comprises two parcels (Parcel IDs 0821-04-72-3341 and 0821-04-72-4102) with a combined land area of approximately 3.47 acres. The site is currently improved as vacant land, following the demolition of former tobacco warehouse structures in August 2024 and the completion of environmental remediation in September 2024.
+
+The proposed development consists of a six-story mixed-use building with five residential floors constructed above a one-story podium containing ground-floor retail space and a four-level structured parking garage. The residential program comprises 212 units: 142 one-bedroom units, 56 two-bedroom units, and 14 three-bedroom units. Ground-floor retail consists of approximately 18,400 square feet across seven retail bays. The structured parking garage provides 276 parking spaces, representing a ratio of approximately 1.30 spaces per residential unit. Total gross building area is approximately 287,500 square feet. Project amenities include a rooftop terrace, fitness center, co-working lounge, pool deck, and dog park. The property is zoned MU-D (Mixed Use — Downtown), and the proposed development is permitted as of right under the applicable zoning ordinance.
+
+The Relationship Manager for this credit is David Forsythe, SVP, Commercial Real Estate Lending. A term sheet was executed on January 10, 2025 by David Forsythe on behalf of the Bank and Elena Vasquez-Torres, Managing Member of the Borrower. The target closing date is February 28, 2025. The Bank's outside legal counsel for this transaction is Ashford, Cromdale Consulting & Laine LLP (lead partner Katharine "Kate" Drummond; associate Marcus Webb), located at 411 South Tryon Street, Suite 2800, Charlotte, North Carolina 28202. The Borrower's counsel is Calloway & Strauss PLLC (lead partner Jonathan F. Ngo), located at 324 Blackwell Street, Suite 200, Durham, North Carolina 27701.
+
+The Commercial Real Estate Lending group recommends APPROVAL of this loan, subject to material conditions including, without limitation, (a) resolution of a loan-to-cost ratio exceedance through funding of an equity escrow deposit, (b) execution of an intercreditor agreement with the mezzanine lender, (c) implementation of single-purpose entity covenants and delivery of a non-consolidation opinion, and (d) resolution of other conditions detailed in Section 10 of this memorandum. The loan as structured presents certain underwriting concerns regarding borrower equity contribution and LTC compliance that must be addressed as conditions of closing. Additionally, this credit memorandum identifies several risk factors and structural issues — including interest reserve adequacy, affiliate relationships between a Borrower member and the mezzanine lender, conflicting membership interest pledges, environmental use restrictions, and title matters — each of which requires resolution or mitigation before or at closing. These matters are fully analyzed in Sections 5, 6, 9, and 10 of this memorandum.
+
+Section 2: Borrower / Sponsor Overview
+
+2.1 Borrower Entity
+
+The Borrower is Harborview Capital Partners LLC, a North Carolina limited liability company formed on March 14, 2019 and registered with the North Carolina Secretary of State under File Number 1923847. The Borrower's principal office is located at 400 West Main Street, Suite 310, Durham, North Carolina 27701. The Borrower was formed for the specific purpose of developing and operating The Piedmont at Brightleaf and is intended to function as a single-purpose entity ("SPE") in connection with the proposed financing.
+
+The Borrower's current net worth, as reflected in its most recent financial statements provided to the Bank, is approximately $14,200,000. The proposed loan documentation will include a minimum net worth covenant of $12,000,000, to be tested annually within 120 days of the Borrower's fiscal year end. The current net worth provides a cushion of approximately $2,200,000 above the covenant minimum.
+
+The Borrower's principal, Elena Vasquez-Torres, and her affiliated entities have a demonstrated track record in commercial real estate development in the Research Triangle area. Prior to the formation of the Borrower, Ms. Vasquez-Torres and her development team successfully completed four mixed-use projects in the Triangle area, comprising a total of approximately 580 residential units and 65,000 square feet of commercial space, with aggregate development costs of approximately $128 million. Each of these projects was completed on time and within budget, and all four have achieved stabilized occupancy levels consistent with or exceeding original projections.
+
+The Bank's underwriting standards for construction loans require standard SPE covenants, including separateness covenants, restrictions on commingling of funds with affiliates, and prohibition on incurrence of additional indebtedness outside the approved capital structure. Given the affiliate relationship between a Borrower member (Brightleaf Investors Group LLC) and the mezzanine lender (Brightleaf Mezzanine Capital LLC), outside counsel should evaluate whether an independent manager requirement and/or a non-consolidation opinion should be required. This is discussed further in Section 9 (Risk Factors). The Borrower's operating agreement will need to be amended prior to closing to incorporate the required SPE provisions and the independent manager requirement, and the Bank's counsel should review the amended operating agreement to confirm compliance with the Bank's standard form and requirements.
+
+2.2 Membership / Organizational Structure
+
+The Borrower's membership structure, as set forth in its operating agreement dated March 14, 2019 (as amended), is as follows:
+
+  --------------------------------------------------------------------------------
+  Member                           Membership Interest     Role
+  -------------------------------- ----------------------- -----------------------
+  Elena Vasquez-Torres             62%                     Managing Member
+
+  Brightleaf Investors Group LLC   28%                     Member
+
+  Reginald K. Osei                 10%                     Member
+  --------------------------------------------------------------------------------
+
+Elena Vasquez-Torres serves as the Managing Member of the Borrower and has day-to-day management authority over all operations of the Borrower and the Project pursuant to the operating agreement. Ms. Vasquez-Torres has the authority to execute contracts, manage development activities, and conduct the ordinary business affairs of the Borrower without the consent of the other members. Major decisions — including the incurrence of indebtedness, sale or disposition of the Project, refinancing of existing debt, and any voluntary filing for bankruptcy or insolvency protection — require the affirmative approval of members holding at least 75% of the outstanding membership interests.
+
+Brightleaf Investors Group LLC is a North Carolina limited liability company (NC Secretary of State File No. 2045612) that serves as the investment vehicle for a group of local high-net-worth investors. Its Managing Member is Thomas R. Chen. Notably, Thomas R. Chen also controls Brightleaf Mezzanine Capital LLC (NC Secretary of State File No. 2103988), the entity providing the $9,200,000 mezzanine loan for the Project. These two entities — Brightleaf Investors Group LLC and Brightleaf Mezzanine Capital LLC — share common control through Mr. Chen, creating a structural affiliate relationship that is discussed extensively in Sections 4.4 and 9.3 of this memorandum. This common control raises concerns regarding the independence of the mezzanine financing from the Borrower's equity structure and introduces substantive consolidation risk that must be addressed through appropriate SPE covenants, independent manager provisions, and a non-consolidation opinion.
+
+Reginald K. Osei holds a 10% membership interest in the Borrower and participates as a passive investor and guarantor. Mr. Osei has 15 years of experience in real estate finance and development and contributes financial capacity to the guaranty structure.
+
+Land Contribution. The land comprising the Project site was acquired by Ms. Vasquez-Torres on behalf of the Borrower through capital calls from all three members, including Brightleaf Investors Group LLC, at a total acquisition cost of $8,200,000. The land was contributed to the Borrower and is currently owned by the Borrower free and clear of liens, except for an unsatisfied deed of trust from Triangle Commercial Bank that is to be paid off at closing (see Section 9.7). The Bank notes that the land acquisition cost of $8,200,000 was funded through capital calls from members, including Brightleaf Investors Group LLC. Given that Brightleaf Investors Group LLC is an affiliate of the mezzanine lender, a portion of the "equity" invested in the land may be indirectly sourced from the same investor group providing the mezzanine financing. The Bank's underwriting policy does not count mezzanine debt as borrower equity. Outside counsel should evaluate whether the land contribution satisfies the Bank's minimum equity requirements or whether circular funding concerns exist. This matter is discussed further in Sections 5.1 and 9.1.
+
+2.3 Guarantor Profiles
+
+2.3.1 Elena Vasquez-Torres
+
+Elena Vasquez-Torres, age 54, is a resident of Durham, North Carolina with over 22 years of commercial real estate development experience in the Research Triangle region. Ms. Vasquez-Torres serves as the Managing Member of the Borrower, holding a 62% membership interest. She has direct oversight of all aspects of the Project's development and will serve as the primary point of contact for the Bank throughout the construction and mini-perm periods.
+
+Ms. Vasquez-Torres's personal financial summary, based on the personal financial statement dated December 15, 2024 provided to the Bank, is as follows:
+
+  ---------------------------------------------------------------------------------------------------
+  Category                                                        Amount
+  --------------------------------------------------------------- -----------------------------------
+  Liquid Assets (cash, marketable securities)                     $6,100,000
+
+  Real Estate Holdings                                            $19,400,000
+
+  Other Assets (business interests, retirement accounts, other)   $4,300,000
+
+  Total Net Worth                                                 $29,800,000
+  ---------------------------------------------------------------------------------------------------
+
+Ms. Vasquez-Torres will provide a completion guaranty, a carry guaranty, and a 25% partial repayment guaranty (25% × $47,500,000 = $11,875,000). The guaranty includes "bad boy" carve-out provisions that convert the partial repayment guaranty to full recourse upon the occurrence of specified triggering events, including fraud or intentional misrepresentation, voluntary bankruptcy filing, unauthorized transfers of collateral, environmental liability, waste, and violation of SPE covenants.
+
+2.3.2 Reginald K. Osei
+
+Reginald K. Osei, age 47, is a resident of Chapel Hill, North Carolina with approximately 15 years of experience in real estate finance and development. Mr. Osei holds a 10% membership interest in the Borrower and participates as a financial partner and guarantor.
+
+Mr. Osei's personal financial summary, based on the personal financial statement dated December 18, 2024 provided to the Bank, is as follows:
+
+  ---------------------------------------------------------------------------------------------------
+  Category                                                        Amount
+  --------------------------------------------------------------- -----------------------------------
+  Liquid Assets (cash, marketable securities)                     $3,200,000
+
+  Real Estate Holdings                                            $6,800,000
+
+  Other Assets (business interests, retirement accounts, other)   $1,500,000
+
+  Total Net Worth                                                 $11,500,000
+  ---------------------------------------------------------------------------------------------------
+
+Mr. Osei will provide a completion guaranty, a carry guaranty, and a 25% partial repayment guaranty (25% × $47,500,000 = $11,875,000). His guaranty structure mirrors that of Ms. Vasquez-Torres, including the same "bad boy" carve-out provisions converting the partial repayment guaranty to full recourse upon the occurrence of triggering events.
+
+2.3.3 Combined Guarantor Analysis
+
+The combined financial strength of the two guarantors is summarized as follows:
+
+  -------------------------------------------------------------------------------
+  Metric                                Amount / Ratio
+  ------------------------------------- -----------------------------------------
+  Combined Net Worth                    $41,300,000 ($29,800,000 + $11,500,000)
+
+  Combined Liquidity                    $9,300,000 ($6,100,000 + $3,200,000)
+
+  Minimum Combined Liquidity Covenant   $5,000,000 (tested quarterly)
+
+  Liquidity Coverage Ratio              1.86x ($9,300,000 ÷ $5,000,000)
+
+  Liquidity Cushion Above Minimum       $4,300,000
+  -------------------------------------------------------------------------------
+
+Each guarantor's partial repayment guaranty of $11,875,000 represents approximately 39.8% of Ms. Vasquez-Torres's net worth and approximately 103.3% of Mr. Osei's net worth. The Bank notes that Mr. Osei's guaranty exposure is high relative to his personal net worth, and his ability to satisfy the full amount of his partial repayment guaranty in a default scenario is dependent on the value of his illiquid real estate holdings. The combined guarantor financial strength is assessed as adequate but concentrated in illiquid real estate assets. Both guarantors' net worth is heavily weighted toward real estate holdings, which could be subject to valuation declines in a market downturn. The liquidity cushion above the covenant minimum ($4,300,000) provides a reasonable but not excessive buffer.
+
+Section 3: Project Description and Market Analysis
+
+3.1 Project Description
+
+The Piedmont at Brightleaf is a proposed Class A mixed-use residential and retail development to be constructed at 601 and 615 Foster Street, Durham, North Carolina 27701. The Project site comprises two contiguous parcels identified as Durham County Parcel IDs 0821-04-72-3341 and 0821-04-72-4102, with a combined land area of approximately 3.47 acres. The site is located in the Brightleaf Historic District of downtown Durham, within walking distance of the American Tobacco Campus, Durham Performing Arts Center, and Durham Bulls Athletic Park.
+
+The site is currently improved as vacant land. The former tobacco warehouse structures that previously occupied the parcels were demolished in August 2024, and environmental remediation activities (relating to petroleum contamination from a former underground storage tank) were completed in September 2024. The North Carolina Department of Environmental Quality ("NCDEQ") issued a No Further Action ("NFA") letter dated September 30, 2024 for commercial use of the site, subject to certain conditions described in Section 8.2 of this memorandum.
+
+The proposed development program is as follows:
+
+  • Building Configuration: Six-story mixed-use structure consisting of five residential floors constructed above a one-story podium containing ground-floor retail space and the upper levels of a four-level structured parking garage.
+
+  • Residential Units: 212 units total — 142 one-bedroom units, 56 two-bedroom units, and 14 three-bedroom units.
+
+  • Retail Space: Approximately 18,400 square feet of ground-floor retail across seven retail bays, with street-facing frontage along Foster Street and a secondary entrance from the interior courtyard.
+
+  • Structured Parking: Four-level garage providing 276 parking spaces, representing a ratio of approximately 1.30 spaces per residential unit. Parking will include both assigned resident spaces and unassigned visitor and retail patron spaces.
+
+  • Total Gross Building Area: Approximately 287,500 square feet.
+
+  • Amenities: Rooftop terrace with outdoor seating, gas grills, and fire pit areas; fitness center (approximately 3,200 square feet); co-working lounge with private offices and conference room; resort-style pool deck with cabanas; and enclosed dog park.
+
+The general contractor is Graystone Construction Group Inc. (North Carolina General Contractor License No. 78442), located at 1200 Fayetteville Road, Raleigh, North Carolina 27603. The president of Graystone Construction Group Inc. is Mark D. Sullivan. The construction contract is structured as a Guaranteed Maximum Price ("GMP") contract with a total GMP of $34,750,000. The architect of record is Meridian Design Collective PC, a North Carolina professional corporation. Projected substantial completion is August 31, 2027. The property is zoned MU-D (Mixed Use — Downtown) under the Durham Unified Development Ordinance, and the proposed development is permitted as of right without the need for any zoning variance, special use permit, or rezoning.
+
+3.2 Market Overview
+
+The Durham, North Carolina multifamily market continues to demonstrate strong fundamentals driven by the area's robust economic base. The Research Triangle region — anchored by Duke University, the University of North Carolina at Chapel Hill, and North Carolina State University — has attracted significant investment in biotechnology, pharmaceutical research, information technology, and financial services. Downtown Durham, in particular, has experienced substantial revitalization over the past decade, with the American Tobacco Campus, Durham Innovation District, and the expanding Duke University Health System serving as major employment and demand drivers. Population growth in Durham County has averaged approximately 1.8% annually over the past five years, and the median household income in the downtown core has increased by over 15% during the same period.
+
+Average market rents for Class A multifamily product in downtown Durham currently range from approximately $1,950 to $2,500 per month for one-bedroom units and $2,300 to $3,200 per month for two-bedroom units, depending on unit size, finishes, and amenity package. The Project's projected average rent of $2,245 per month across all unit types is positioned in the mid-range of the competitive set and is supported by comparable lease data from properties including the Van Alen, One City Center Apartments, and Beckon on Geer Street. The Bank considers this rent projection to be reasonable and achievable based on current market conditions.
+
+Ground-floor retail rents in downtown Durham for Class A mixed-use buildings with street-level visibility range from approximately $26.00 to $35.00 per square foot on a triple-net basis. The projected retail rent of $30.00 per square foot NNN is within this market range and is considered reasonable given the Project's location and visibility along Foster Street.
+
+Durham Class A multifamily vacancy rates have historically ranged from approximately 4% to 7%, with the most recent data indicating a vacancy rate of approximately 5.2% for comparable properties. The Project's underwritten vacancy assumption of 5% is consistent with historical trends and is considered appropriate. While there is a notable pipeline of competing multifamily projects under development or planned in the greater Durham area, market demand continues to absorb new supply at a rate that supports the Project's lease-up assumptions. The Bank's independent market assessment supports the appraised values discussed in Section 3.3.
+
+3.3 Appraisal Summary
+
+An appraisal of the subject property was prepared by Linda M. Haverford, MAI, of Ridgeline Appraisal Services Inc., Raleigh, North Carolina, dated November 15, 2024. The appraisal was prepared in compliance with the Uniform Standards of Professional Appraisal Practice ("USPAP") and meets the requirements of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ("FIRREA"). The appraisal utilized the sales comparison approach for the as-is land value and the income capitalization and sales comparison approaches for the as-completed and as-stabilized valuations. The appraisal conclusions are as follows:
+
+  ---------------------------------------------------------------------------------
+  Valuation Basis                               Appraised Value
+  --------------------------------------------- -----------------------------------
+  As-Is Land Value                              $8,900,000
+
+  As-Completed Value                            $72,800,000
+
+  As-Stabilized Value (assumes 95% occupancy)   $76,200,000
+  ---------------------------------------------------------------------------------
+
+The appraiser's projected stabilized net operating income is $4,876,800 per annum, derived as follows:
+
+  ------------------------------------------------------------------------------------------------------
+  Income / Expense Category                                          Amount
+  ------------------------------------------------------------------ -----------------------------------
+  Residential Rental Income (212 units × $2,245 avg. monthly × 12)   $5,712,000
+
+  Retail Rental Income (18,400 SF × $30.00/SF NNN)                   $552,000
+
+  Other Income (parking, amenities, miscellaneous)                   $198,000
+
+  Gross Potential Income                                             $6,462,000
+
+  Less: Vacancy & Credit Loss (5.0%)                                 ($323,100)
+
+  Effective Gross Income                                             $6,138,900
+
+  Less: Operating Expenses                                           ($1,262,100)
+
+  Stabilized Net Operating Income                                    $4,876,800
+  ------------------------------------------------------------------------------------------------------
+
+The implied capitalization rate on the as-stabilized value is $4,876,800 ÷ $76,200,000 = 6.40%, which is consistent with current market capitalization rates for comparable Class A mixed-use assets in the Durham market. The Bank has reviewed the appraisal and considers the appraised values reasonable and well-supported by the comparable sales data, income approach analysis, and market conditions presented by the appraiser.
+
+Section 4: Loan Terms and Structure
+
+4.1 Summary of Proposed Terms
+
+The following table summarizes the material terms of the proposed loan facility as set forth in the executed term sheet dated January 10, 2025:
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Term                                Description
+  ----------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------
+  Loan Amount                         $47,500,000
+
+  Loan Type                           Construction-to-Mini-Permanent
+
+  Construction Period                 30 months from closing (closing target: February 28, 2025; construction maturity: August 28, 2027)
+
+  Mini-Perm Period                    12 months following construction maturity (mini-perm maturity: August 28, 2028)
+
+  Extension Option                    One 6-month extension (extending maturity to February 28, 2029), subject to conditions to be specified in loan documentation (see Section 11)
+
+  Interest Rate (Construction)        Daily Simple SOFR + 3.25% per annum; SOFR floor of 1.00%
+
+  Interest Rate (Mini-Perm)           Daily Simple SOFR + 3.50% per annum; SOFR floor of 1.00%
+
+  Default Rate                        Contract rate + 5.00% per annum
+
+  Payments                            Interest-only, paid monthly in arrears, during both construction and mini-perm periods
+
+  Origination Fee                     1.00% × $47,500,000 = $475,000, payable at closing
+
+  Exit Fee                            0.50% of outstanding principal if repaid during construction period; 0.25% if repaid during first 6 months of mini-perm; no exit fee thereafter
+
+  Unused Line Fee                     0.25% per annum on average daily undrawn balance
+
+  Interest Reserve                    $4,850,000 funded from loan proceeds at closing, held in a designated sub-account
+
+  Retainage                           10% holdback on hard construction costs, released post-certificate of occupancy
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The interest rate during the construction period, based on the current Daily Simple SOFR rate of approximately 4.35% as of the date of this memorandum, is approximately 7.60% (4.35% + 3.25%). During the mini-perm period, the all-in rate would be approximately 7.85% (4.35% + 3.50%). These rates are subject to change based on movements in SOFR. The SOFR floor of 1.00% ensures a minimum all-in rate of 4.25% during the construction period and 4.50% during the mini-perm period, regardless of declines in SOFR.
+
+4.2 Collateral Package
+
+The proposed loan will be secured by the following collateral:
+
+1. First Priority Deed of Trust on the Property, encumbering both parcels (0821-04-72-3341 and 0821-04-72-4102), together with all improvements, appurtenances, and related property rights.
+
+2. First Priority Assignment of Rents and Leases covering all existing and future leases, rents, income, and profits from the Property.
+
+3. First Priority Security Interest in all personal property, fixtures, equipment, permits, plans, specifications, contracts, and other intangible property related to the Project, to be perfected by filing a UCC-1 Financing Statement with the North Carolina Secretary of State.
+
+4. Assignment of Construction Contract — collateral assignment of the GMP contract with Graystone Construction Group Inc.
+
+5. Assignment of Architect's Contract — collateral assignment of the architect's agreement with Meridian Design Collective PC.
+
+6. Collateral Assignment of Insurance Proceeds and Condemnation Awards — assignment of all insurance proceeds and condemnation or eminent domain awards relating to the Property.
+
+7. Pledge of Membership Interests — pledge of 100% of the membership interests in the Borrower by all members (Elena Vasquez-Torres, Brightleaf Investors Group LLC, and Reginald K. Osei).
+
+Regarding the membership interest pledge, the Bank notes a material conflict: the term sheet includes a pledge of 100% of membership interests in the Borrower as collateral for the senior loan. However, the mezzanine loan from Brightleaf Mezzanine Capital LLC ($9,200,000) is also secured by a pledge of 100% of the membership interests. These pledges are mutually exclusive as first-priority security interests. Resolution through the intercreditor agreement is a required condition of closing. Specifically, the closing must be conditioned on execution of an intercreditor agreement with Brightleaf Mezzanine Capital LLC that provides the Bank with a first-priority pledge and the mezzanine lender with a second-priority pledge of the membership interests. The Bank recommends this approach (option (b)) as the preferred resolution. Alternatively, the senior lender could forego the membership interest pledge and rely solely on the real property collateral, or the mezzanine lender could subordinate its pledge entirely. However, option (b) preserves the Bank's maximum collateral coverage while permitting the mezzanine lender to retain a subordinated security position. See Section 4.4 (Mezzanine Debt / Intercreditor) and Section 9 (Risk Factors) for further discussion.
+
+4.3 Guaranty Structure
+
+The proposed guaranty structure is as follows:
+
+Guarantors: Elena Vasquez-Torres and Reginald K. Osei.
+
+Completion Guaranty. Both guarantors will jointly and severally guarantee the lien-free completion of construction of the Project in accordance with the approved plans and specifications and the approved construction budget, on or before the construction maturity date. The completion guaranty obligates the guarantors to fund any cost overruns beyond the approved budget and contingency amounts, and to cause the Project to achieve substantial completion and obtain all required certificates of occupancy.
+
+Carry Guaranty. Both guarantors will jointly and severally guarantee payment of all carrying costs during the construction period, including monthly interest payments, real estate taxes, insurance premiums, and other carrying expenses as specified in the loan documentation.
+
+Partial Repayment Guaranty. Each guarantor will provide a 25% partial repayment guaranty — 25% of the loan amount of $47,500,000 = $11,875,000 per guarantor. The partial repayment guaranty is a payment guaranty obligating each guarantor to pay the Bank up to $11,875,000 in the event of a payment default or other event of default under the loan.
+
+"Bad Boy" Carve-Outs. The partial repayment guaranty will convert to a full recourse guaranty (100% of the outstanding principal balance plus accrued interest, fees, and costs) upon the occurrence of specified triggering events, including: fraud or intentional misrepresentation by the Borrower or any guarantor; voluntary filing for bankruptcy, reorganization, or insolvency protection by the Borrower; unauthorized transfers or encumbrances of the Property or membership interests; environmental contamination caused by the Borrower; violation of SPE covenants; and waste or destruction of the collateral. All guaranties will survive any foreclosure, deed-in-lieu of foreclosure, or other realization upon the collateral.
+
+North Carolina Considerations. The Bank notes that North Carolina is a judicial foreclosure state and that deficiency judgments following foreclosure are subject to the fair price confirmation hearing requirements of N.C.G.S. § 45-21.36. The Bank's outside counsel (Ashford, Cromdale Consulting & Laine LLP) should review the guaranty structure for compliance with North Carolina law, including the enforceability of the guaranty obligations independent of the underlying indebtedness and the effect of anti-deficiency protections on guarantor liability.
+
+4.4 Mezzanine Debt / Intercreditor Arrangement
+
+The Borrower has arranged mezzanine financing from Brightleaf Mezzanine Capital LLC, a North Carolina limited liability company (NC Secretary of State File No. 2103988), to supplement the senior construction loan and fund a portion of the Project's total development costs. The material terms of the mezzanine financing, as provided to the Bank, are summarized below:
+
+  -------------------------------------------------------------------------------------------------------------------------
+  Term                                Description
+  ----------------------------------- -------------------------------------------------------------------------------------
+  Mezzanine Lender                    Brightleaf Mezzanine Capital LLC
+
+  Mezzanine Loan Amount               $9,200,000
+
+  Interest Rate                       12.50% fixed per annum
+
+  Maturity                            Coterminous with senior loan (including any extensions)
+
+  Collateral                          Pledge of 100% of membership interests in the Borrower
+
+  Payments                            Interest accrues and is paid-in-kind during construction; cash pay during mini-perm
+  -------------------------------------------------------------------------------------------------------------------------
+
+The intercreditor agreement between the Bank and Brightleaf Mezzanine Capital LLC is currently in the process of being negotiated by the respective parties' legal counsel, but has not yet been executed as of the date of this credit memorandum. The intercreditor agreement must be in form and substance satisfactory to the Bank and its counsel (Ashford, Cromdale Consulting & Laine LLP). At a minimum, the intercreditor agreement must contain the following provisions:
+
+  • The mezzanine lender's pledge of membership interests shall be subordinated to the senior lender's first-priority pledge, such that the senior lender holds a first-priority security interest and the mezzanine lender holds a second-priority security interest in the membership interests.
+
+  • A standstill period of not less than 90 days following the occurrence of a default under the mezzanine loan, during which the mezzanine lender may not exercise any remedies against the Borrower, the membership interests, or the Project.
+
+  • Notice and cure rights for the mezzanine lender, permitting the mezzanine lender to receive copies of default notices issued by the senior lender and to cure defaults under the senior loan within a specified cure period.
+
+  • A mezzanine lender purchase option, granting the mezzanine lender the right (but not the obligation) to purchase the senior loan from the Bank at par plus all accrued and unpaid interest, fees, and costs.
+
+  • A prohibition on the mezzanine lender modifying any material term of the mezzanine loan (including maturity, interest rate, or collateral) without the prior written consent of the senior lender.
+
+  • Bankruptcy-related restrictions, including a prohibition on the mezzanine lender filing or joining in the filing of an involuntary bankruptcy petition against the Borrower.
+
+  • Acknowledgment by the mezzanine lender that it will not contest, challenge, or interfere with the Bank's exercise of remedies under the senior loan documents.
+
+Affiliate Relationship. As noted in Section 2.2, Thomas R. Chen is the managing member of both Brightleaf Investors Group LLC (which holds a 28% membership interest in the Borrower) and Brightleaf Mezzanine Capital LLC (the mezzanine lender). This common control creates a structural relationship between the mezzanine lender and a significant equity holder of the Borrower that must be carefully addressed. The intercreditor agreement should include express acknowledgments of this affiliate relationship and provisions designed to prevent the mezzanine lender from leveraging its affiliate's equity position to the detriment of the senior lender. The Bank does not count the mezzanine loan as borrower equity for purposes of LTC calculation. The mezzanine loan is structurally subordinated debt, not equity.
+
+The execution of the intercreditor agreement is a mandatory condition precedent to closing and may not be waived. The Bank will not fund any advance under the construction loan until the intercreditor agreement has been fully executed and delivered by all parties.
+
+Section 5: Sources and Uses / Project Budget
+
+5.1 Sources of Funds
+
+The total development cost of the Project is $56,700,000. The proposed sources of funds are as follows:
+
+  --------------------------------------------------------------------------------------------------------
+  Source                                                   Amount                  % of Total
+  -------------------------------------------------------- ----------------------- -----------------------
+  Senior Construction Loan (Pinnacle Savings Bank, N.A.)   $47,500,000             83.77%
+
+  Mezzanine Loan (Brightleaf Mezzanine Capital LLC)        $9,200,000              16.23%
+
+  Borrower Cash Equity                                     $0                      0.00%
+
+  Total Sources                                            $56,700,000             100.00%
+  --------------------------------------------------------------------------------------------------------
+
+The Borrower is contributing $0 in direct cash equity to the Project. The land acquisition cost of $8,200,000 was funded from prior capital calls from members, including contributions from Brightleaf Investors Group LLC, which is affiliated with the mezzanine lender, Brightleaf Mezzanine Capital LLC. All remaining project costs are funded through the senior construction loan and the mezzanine loan. Per the Bank's underwriting policy, mezzanine debt is not counted as borrower equity.
+
+The LTC calculation presents a compliance issue. Total project costs equal $56,700,000. The senior loan amount is $47,500,000. Therefore, LTC = $47,500,000 ÷ $56,700,000 = 83.77%. The Bank's maximum permitted LTC per the executed term sheet and per the Bank's Commercial Real Estate Lending Policy is 80%. At the maximum LTC of 80%, the maximum permitted senior loan amount would be $56,700,000 × 80% = $45,360,000. The proposed loan amount of $47,500,000 exceeds this maximum by $2,140,000. This discrepancy must be resolved prior to closing through the equity escrow mechanism described in Section 5.3 and conditioned in Section 10.
+
+Additionally, the Bank notes that the Borrower's only equity contribution to the Project is the previously acquired land, which has an as-is appraised value of $8,900,000 and was acquired for $8,200,000. While the land value exceeds the $2,140,000 shortfall, a portion of the capital used to acquire the land was sourced from Brightleaf Investors Group LLC, an affiliate of the mezzanine lender. This creates a potential circular funding concern. The Senior Loan Committee requires, as a condition of closing, that the Borrower either: (a) deposit $2,140,000 in cash into a Bank-controlled equity escrow account prior to closing; or (b) reduce the loan amount to $45,360,000; or (c) provide additional evidence satisfactory to the Bank that the land equity is independent of the mezzanine financing.
+
+5.2 Uses of Funds
+
+The total development budget for the Project, as supported by the executed GMP contract and the Borrower's detailed budget, is as follows:
+
+  --------------------------------------------------------------------------------------------------------------------
+  Use                                                                  Amount                  % of Total
+  -------------------------------------------------------------------- ----------------------- -----------------------
+  Land Acquisition (previously closed, funded from borrower equity)    $8,200,000              14.46%
+
+  Hard Construction Costs (GMP — Graystone Construction Group Inc.)    $34,750,000             61.29%
+
+  Soft Costs (architecture, engineering, permits, legal, accounting)   $4,150,000              7.32%
+
+  Interest Reserve                                                     $4,850,000              8.55%
+
+  Loan Origination Fee (1.00% × $47,500,000)                           $475,000                0.84%
+
+  Developer Fee (5.0% of total project cost)                           $2,835,000              5.00%
+
+  Contingency                                                          $1,440,000              2.54%
+
+  Total Uses                                                           $56,700,000             100.00%
+  --------------------------------------------------------------------------------------------------------------------
+
+Reconciliation: $8,200,000 + $34,750,000 + $4,150,000 + $4,850,000 + $475,000 + $2,835,000 + $1,440,000 = $56,700,000.
+
+The developer fee of $2,835,000 represents 5.0% of total project costs, which is within the range of market norms for a development of this size and complexity (typically 3% to 6%). The contingency of $1,440,000 represents approximately 4.1% of hard construction costs ($1,440,000 ÷ $34,750,000 = 4.14%), which is adequate for a ground-up mixed-use construction project of this type. The Bank's policy generally recommends a minimum contingency of 3% to 5% of hard construction costs for new construction projects.
+
+5.3 Loan-to-Cost Analysis
+
+The loan-to-cost ratio is a critical underwriting metric that measures the Bank's exposure relative to total project costs. The detailed LTC calculation is as follows:
+
+  --------------------------------------------------------------------------------------------
+  Metric                                                   Amount / Ratio
+  -------------------------------------------------------- -----------------------------------
+  Total Project Costs                                      $56,700,000
+
+  Senior Loan Amount                                       $47,500,000
+
+  LTC Ratio                                                83.77%
+
+  Maximum Permitted LTC (per term sheet and Bank policy)   80.00%
+
+  Excess                                                   3.77 percentage points
+
+  Maximum Loan at 80% LTC                                  $45,360,000
+
+  Dollar Shortfall                                         $2,140,000
+  --------------------------------------------------------------------------------------------
+
+The LTC ratio of 83.77% exceeds the Bank's maximum of 80% as stated in the term sheet. The term sheet was executed with a loan amount of $47,500,000 and total project costs of $56,700,000 without reconciling the LTC covenant. This discrepancy must be resolved prior to closing. The Senior Loan Committee acknowledges the LTC exceedance and approves the loan subject to the condition that the Borrower fund an equity escrow deposit of not less than $2,140,000 in cash (from sources other than the mezzanine loan or any affiliate of the mezzanine lender) into a Bank-controlled escrow account prior to or at closing. This equity escrow will be applied to project costs first, ahead of loan advances, to bring the effective LTC into compliance.
+
+For additional context, the Bank notes the following alternative analysis: If the mezzanine debt of $9,200,000 were hypothetically counted as equity (which the Bank's underwriting policy does not permit), the combined "equity" in the capital structure would be $9,200,000 and the senior loan LTC would remain unchanged at 83.77%. The combined senior and mezzanine leverage is ($47,500,000 + $9,200,000) ÷ $56,700,000 = 100%, meaning there is zero true equity cushion in the capital structure absent the land value. This analysis underscores the importance of the equity escrow requirement and the need for the Bank to confirm that the land equity is genuinely independent of the mezzanine financing.
+
+Even with the proposed equity escrow of $2,140,000, the Borrower's total equity contribution to the Project would consist of $2,140,000 in cash plus $8,200,000 in land (at cost), totaling $10,340,000 out of $56,700,000 in total project costs, or approximately 18.2%. While this level of equity is relatively thin for a ground-up construction loan, the Bank takes comfort in the strong LTV ratios (65.25% as-completed, 62.34% as-stabilized) and the combined guarantor net worth of $41,300,000 as additional credit support.
+
+Section 6: Financial Projections and Underwriting Metrics
+
+6.1 Key Underwriting Ratios
+
+The following table summarizes the key underwriting metrics for the proposed loan:
+
+  ----------------------------------------------------------------------------------------------------------
+  Metric                         Calculation                 Result         Bank Policy       Status
+  ------------------------------ --------------------------- -------------- ----------------- --------------
+  LTV (As-Completed)             $47,500,000 ÷ $72,800,000   65.25%         Max 70%           Pass
+
+  LTV (As-Stabilized)            $47,500,000 ÷ $76,200,000   62.34%         Max 70%           Pass
+
+  LTC                            $47,500,000 ÷ $56,700,000   83.77%         Max 80%           Fail
+
+  DSCR (Stabilized, I/O)         $4,876,800 ÷ $3,728,750     1.31x          Min 1.25x         Pass
+
+  DSCR (Stress Test, +200 bps)   $4,876,800 ÷ $4,678,750     1.04x          Min 1.25x         Fail
+
+  Borrower Net Worth             $14,200,000                 —              Min $12,000,000   Pass
+
+  Combined Guarantor Liquidity   $9,300,000                  —              Min $5,000,000    Pass
+  ----------------------------------------------------------------------------------------------------------
+
+Projected DSCR (Stabilized, Interest-Only). The stabilized DSCR is calculated using the appraiser's projected stabilized NOI of $4,876,800 and the annual interest expense on the fully funded loan amount at the mini-perm rate. Assuming a Daily Simple SOFR rate of 4.35% (as of the credit memo date) plus the mini-perm spread of 3.50%, the all-in rate is 7.85%. Annual interest on $47,500,000 at 7.85% = $3,728,750. DSCR = $4,876,800 ÷ $3,728,750 = 1.31x, which exceeds the Bank's minimum of 1.25x.
+
+Stress-Tested DSCR. Under a stress scenario assuming a 200-basis-point increase in SOFR (to 6.35%), the all-in mini-perm rate would be 9.85% (6.35% + 3.50%). Annual interest on $47,500,000 at 9.85% = $4,678,750. Stressed DSCR = $4,876,800 ÷ $4,678,750 = 1.04x, which falls below the Bank's minimum of 1.25x. This stress test illustrates the loan's sensitivity to interest rate increases and underscores the importance of the Borrower securing permanent take-out financing or obtaining an interest rate cap prior to the commencement of the mini-perm period or any extension thereof. The Bank should consider requiring an interest rate cap as a condition of the extension option.
+
+6.2 Interest Reserve Analysis
+
+The interest reserve of $4,850,000 is funded from loan proceeds at closing and held in a designated sub-account to cover monthly interest payments during the construction period. The adequacy of this reserve is a critical underwriting consideration, as depletion of the reserve before construction completion would require the Borrower to fund interest from its own resources.
+
+Current Rate Assumptions. The current Daily Simple SOFR rate is approximately 4.35% as of the date of this memorandum. The construction period all-in rate is Daily Simple SOFR + 3.25% = 7.60%.
+
+Full-Draw Scenario. If the entire $47,500,000 were drawn immediately at closing, the annual interest expense would be $47,500,000 × 7.60% = $3,610,000. Over the 30-month construction period, total interest cost would be approximately $3,610,000 × (30 ÷ 12) = $9,025,000. However, this scenario is unrealistic because the loan is drawn incrementally over the construction period based on milestone achievements.
+
+Incremental Draw Scenario. Based on the draw schedule (Section 7.1), the loan is drawn progressively as construction milestones are achieved. Draw 1 at closing ($9,475,000) represents approximately 20% of the total loan commitment. Subsequent draws bring cumulative outstanding balances to progressively higher levels, with Draw 8 (substantial completion) bringing cumulative draws to approximately $44,225,000 and the final Draw 9 (retainage release) occurring post-certificate of occupancy. Assuming a roughly linear draw pattern over approximately 18 months to reach the full commitment level (with the remaining 12 months of the construction period at or near full draw), the average outstanding balance over the 30-month construction period is estimated at approximately $28,500,000 (roughly 60% of $47,500,000).
+
+Using this average balance, the estimated total interest cost during the 30-month construction period is: $28,500,000 × 7.60% × (30 ÷ 12) = approximately $5,415,000.
+
+The interest reserve of $4,850,000 is therefore approximately $565,000 short of the estimated total interest cost under current rate assumptions.
+
+Sensitivity Analysis. If SOFR increases by 100 basis points to 5.35%, the all-in construction rate would be 8.60%. Estimated total interest cost would increase to $28,500,000 × 8.60% × (30 ÷ 12) = approximately $6,128,000, creating a potential shortfall of approximately $1,278,000.
+
+Furthermore, the draw schedule is somewhat front-loaded, with the initial closing draw of $9,475,000 representing approximately 20% of the total commitment. This front-loading means the average outstanding balance may be higher than the linear assumption suggests, potentially increasing the total interest cost and widening the reserve shortfall.
+
+Assessment. The interest reserve of $4,850,000 is tight under current rate assumptions and would be clearly inadequate in a rising rate environment. The Senior Loan Committee approves the interest reserve of $4,850,000 as adequate based on current rate assumptions, but notes that this amount is at the lower boundary of adequacy. The loan documentation must include the following protective provisions:
+
+  • A mandatory borrower replenishment obligation requiring the Borrower to fund any interest reserve shortfall from its own funds (not from loan proceeds or mezzanine loan proceeds) upon demand by the Bank.
+
+  • An interest reserve adequacy test to be performed at each draw request, comparing the remaining interest reserve balance against projected interest costs through the earlier of (a) the next anticipated draw date or (b) 90 days. If the projected costs exceed the remaining reserve balance, the Borrower must deposit additional funds into the interest reserve sub-account before the requested advance will be funded.
+
+  • A reporting obligation requiring the Borrower to provide the Bank with a monthly reconciliation of the interest reserve balance, actual interest charges, and projected remaining interest costs through construction maturity.
+
+6.3 Projected Stabilized Cash Flow
+
+The Bank has independently verified the appraiser's projected stabilized net operating income by reviewing comparable market data, lease comparables, and operating expense benchmarks for Class A mixed-use properties in the Durham market. The Bank's assessment of the stabilized cash flow is as follows:
+
+  ------------------------------------------------------------------------------------------------------
+  Category                                                           Annual Amount
+  ------------------------------------------------------------------ -----------------------------------
+  Residential Rental Income (212 units × $2,245 avg. monthly × 12)   $5,712,000
+
+  Retail Rental Income (18,400 SF × $30.00/SF NNN)                   $552,000
+
+  Other Income (parking, amenities, miscellaneous)                   $198,000
+
+  Gross Potential Income                                             $6,462,000
+
+  Less: Vacancy & Credit Loss (5.0%)                                 ($323,100)
+
+  Effective Gross Income                                             $6,138,900
+
+  Less: Operating Expenses                                           ($1,262,100)
+
+  Stabilized Net Operating Income                                    $4,876,800
+  ------------------------------------------------------------------------------------------------------
+
+The Bank's independent assessment confirms that the NOI assumptions are reasonable and supported by market comparables. The operating expense ratio of approximately 20.6% of effective gross income ($1,262,100 ÷ $6,138,900) is within the expected range for a Class A mixed-use property with structured parking, which typically exhibits operating expense ratios of 18% to 24% of EGI. The implied capitalization rate of $4,876,800 ÷ $76,200,000 = 6.40% is consistent with current market capitalization rates for comparable stabilized assets in the Durham market, which generally range from 5.75% to 6.75%.
+
+Section 7: Disbursement Schedule and Construction Oversight
+
+7.1 Draw Schedule
+
+The proposed draw schedule for the construction loan, based on construction milestones and the approved project budget, is as follows:
+
+  ----------------------------------------------------------------------------------------------------------
+  Draw              Milestone                                      Cumulative % Complete   Draw Amount
+  ----------------- ---------------------------------------------- ----------------------- -----------------
+  1                 Closing (soft costs, interest reserve, fees)   0%                      $9,475,000
+
+  2                 Foundation Complete                            15%                     $5,212,500
+
+  3                 Structural Frame — Level 3                     35%                     $6,950,000
+
+  4                 Structural Frame — Topped Out                  55%                     $6,950,000
+
+  5                 Building Envelope Complete                     70%                     $5,212,500
+
+  6                 MEP Rough-In Complete                          80%                     $3,475,000
+
+  7                 Interior Finish — 50% of Units                 90%                     $3,475,000
+
+  8                 Substantial Completion / TCO                   100%                    $3,475,000
+
+  9                 Retainage Release (Post-CO)                    Post-CO                 $3,275,000
+
+  Total                                                                                    $47,500,000
+  ----------------------------------------------------------------------------------------------------------
+
+Reconciliation: $9,475,000 + $5,212,500 + $6,950,000 + $6,950,000 + $5,212,500 + $3,475,000 + $3,475,000 + $3,475,000 + $3,275,000 = $47,500,000.
+
+Draw 1 at closing includes the following cost components: soft costs ($4,150,000), interest reserve ($4,850,000), and origination fee ($475,000), totaling $9,475,000. The 10% retainage holdback on hard construction costs is accumulated throughout the construction period and released as Draw 9 upon satisfaction of retainage release conditions (see Section 7.2 below). The retainage amount of $3,275,000 represents approximately 9.4% of the hard construction cost GMP of $34,750,000.
+
+7.2 Construction Monitoring and Controls
+
+The Bank will implement the following construction monitoring procedures and draw controls throughout the construction period:
+
+Monthly Reporting. The Borrower is required to provide monthly construction progress reports to the Bank, including updated budget reconciliations, schedule updates, and any material change orders or claims. Each monthly report must be accompanied by a certification from the Borrower's authorized representative that no default exists under the loan documents.
+
+Third-Party Construction Inspector. The Bank will engage a third-party construction inspection firm (to be selected prior to closing) to independently verify milestone completion and construction progress prior to the approval of each draw request. The inspector will conduct physical site inspections, review construction documentation, and provide written reports to the Bank confirming the percentage of completion and the adequacy of funds remaining in the budget to complete the Project.
+
+Draw Request Requirements. Each draw request submitted by the Borrower must be accompanied by the following documentation:
+
+  • AIA Application for Payment (Forms G702 and G703) certified by the architect of record and the general contractor.
+
+  • Third-party construction inspector's report confirming achievement of the applicable construction milestone.
+
+  • Partial lien waivers from the general contractor, all subcontractors, and all materialmen for work performed and materials supplied through the prior draw period.
+
+  • Updated title endorsement (date-down endorsement) from Aldersgate Title & Escrow Inc. confirming no intervening liens, encumbrances, or title defects since the prior draw.
+
+  • Evidence of continued compliance with all insurance requirements.
+
+  • Certification by the Borrower that no default or event of default exists and that all representations and warranties remain true and correct in all material respects.
+
+  • Updated budget reconciliation demonstrating that remaining loan proceeds and borrower equity (if applicable) are sufficient to complete the Project.
+
+Retainage Release Conditions (Draw 9). Release of the retainage holdback is conditioned upon: (a) issuance of a final certificate of occupancy by the City of Durham; (b) delivery of final, unconditional lien waivers from the general contractor and all subcontractors and materialmen; (c) delivery of the architect's certificate of final completion; and (d) expiration of the statutory lien filing period under N.C.G.S. Chapter 44A (120-day lien filing window from the date of last furnishing of labor or materials) or, alternatively, posting of a lien bond in form and amount satisfactory to the Bank.
+
+Equity First. The Borrower's equity (including the equity escrow deposit, if required per Section 5.3) must be fully invested in the Project before any loan advances are made, other than the initial closing advance (Draw 1). This ensures that the Borrower's equity is at risk before the Bank's capital.
+
+Section 8: Insurance and Environmental
+
+8.1 Insurance Requirements
+
+The Borrower is required to obtain and maintain the following insurance coverages throughout the construction period and the mini-perm period, with all policies in form and substance satisfactory to the Bank:
+
+  • Builder's Risk Insurance: All-risk builder's risk insurance covering the full replacement value of the improvements under construction, including materials in transit and materials stored off-site. The policy must name Pinnacle Savings Bank, N.A. as loss payee.
+
+  • Commercial General Liability: Minimum coverage of $5,000,000 per occurrence and $10,000,000 in the aggregate, naming Pinnacle Savings Bank, N.A. as additional insured.
+
+  • Umbrella / Excess Liability: Minimum coverage of $10,000,000, in excess of the underlying commercial general liability and employer's liability coverages.
+
+  • Workers' Compensation: Statutory limits as required under North Carolina law (N.C.G.S. Chapter 97).
+
+  • Flood Insurance: Required if any portion of the Property is located within a Special Flood Hazard Area as designated by FEMA. A flood zone determination will be obtained prior to closing, and flood insurance will be required to the extent applicable.
+
+  • Professional Liability: The architect (Meridian Design Collective PC) is required to maintain professional liability (errors and omissions) insurance with minimum coverage of $2,000,000.
+
+All insurance policies must remain in full force and effect throughout the term of the loan, including any extension period. Certificates of insurance must be delivered to the Bank prior to closing and updated annually or as policies renew.
+
+8.2 Environmental Summary
+
+A Phase I Environmental Site Assessment ("ESA") was conducted by Sentinel Environmental Consulting LLC (lead consultant Dr. James Whitfield, P.E.), Greensboro, North Carolina, dated October 28, 2024. The Phase I ESA was conducted in accordance with ASTM Standard E1527-21 and identified one Recognized Environmental Condition ("REC"): residual petroleum contamination from a former underground storage tank ("UST") located on the northeast corner of Parcel 0821-04-72-4102. The UST was associated with historic industrial operations on the site.
+
+A Phase II Environmental Site Assessment was subsequently conducted in August 2024, which confirmed the presence of petroleum-related soil contamination in the vicinity of the former UST. Contamination levels were found to exceed NCDEQ Inactive Hazardous Sites Branch ("IHSB") residential soil standards but were below non-residential (commercial/industrial) standards. Remediation activities, including soil excavation and disposal of approximately 340 cubic yards of contaminated soil, were completed in September 2024.
+
+NCDEQ issued a No Further Action ("NFA") letter dated September 30, 2024, approving the site for commercial use subject to the following conditions: (1) implementation of a soil vapor mitigation system in the structured parking garage constructed over the affected area; and (2) restriction of the affected portion of the parcel (approximately 0.38 acres in the northeast corner) to non-residential use.
+
+Risk Factor. The Bank notes that the NFA letter restricts the 0.38-acre area in the northeast corner of Parcel 0821-04-72-4102 to non-residential use. However, the current project plans position 14 residential units in the building above this area. This potential conflict between the NFA use restriction and the proposed residential use must be resolved prior to closing or, at the Bank's discretion, as a condition precedent to advances for construction above the podium level in the affected area. This matter is discussed in detail in Section 9.5 (Risk Factors).
+
+An environmental indemnity agreement will be required from both the Borrower and the Guarantors (Elena Vasquez-Torres and Reginald K. Osei) as a condition of closing, indemnifying the Bank against all environmental claims, liabilities, and remediation costs arising from the condition of the Property.
+
+Section 9: Risk Factors and Mitigants
+
+9.1 Risk Factor: LTC Ratio Exceedance and Zero Cash Equity
+
+Risk. The loan-to-cost ratio of 83.77% exceeds the Bank's maximum permitted LTC of 80% as set forth in both the executed term sheet and the Bank's Commercial Real Estate Lending Policy. The Borrower is contributing zero dollars ($0) in direct cash equity to the Project. The only equity in the capital stack is the previously acquired land, which has an as-is appraised value of $8,900,000 and was acquired for $8,200,000. A portion of the capital used to fund the land acquisition was sourced from Brightleaf Investors Group LLC, an affiliate of the mezzanine lender, Brightleaf Mezzanine Capital LLC. The combined senior loan and mezzanine loan totals $56,700,000, which equals 100% of total project costs, resulting in zero true equity cushion beyond the embedded value in the land.
+
+Impact. The Bank has an outsized exposure relative to total project costs. In a default scenario, the Bank's recovery would depend entirely on the collateral value of the Project and the guarantor resources. The absence of any cash equity contribution means the Borrower has limited "skin in the game" from a cash perspective, which increases moral hazard risk — the risk that the Borrower may be less motivated to resolve problems or fund cost overruns if the Borrower has no cash at risk. The 100% combined leverage ratio means that any decline in project value below total development costs would result in a loss position for one or both lenders, with the senior lender bearing the risk of value declines below the $47,500,000 senior loan balance.
+
+Mitigants. (a) The Bank will require the Borrower to deposit $2,140,000 in cash into a Bank-controlled equity escrow account prior to closing, which will be disbursed ahead of loan advances to fund project costs and bring the effective LTC into compliance with the 80% maximum. (b) The land has an appraised value of $8,900,000, which is $700,000 above the acquisition cost, providing embedded equity. (c) The LTV ratios are well within the Bank's policy limits (65.25% as-completed, 62.34% as-stabilized), indicating adequate value coverage. (d) The combined guarantor net worth of $41,300,000 provides substantial credit support beyond the collateral. (e) The completion and carry guarantees obligate the guarantors to fund cost overruns and cover carrying costs, providing protection against construction budget and timeline risks.
+
+Residual Concern. Even with the equity escrow, the Borrower's total equity contribution would be only $2,140,000 in cash plus $8,200,000 in land (at cost) = $10,340,000 out of $56,700,000 in total project costs = approximately 18.2%. This is relatively thin for a ground-up construction loan, where the Bank's policy guidance generally targets borrower equity contributions of 20% or more. However, the strong LTV position and guarantor support mitigate this concern to an acceptable level.
+
+9.2 Risk Factor: Interest Reserve Adequacy
+
+Risk. As analyzed in Section 6.2, the $4,850,000 interest reserve funded from loan proceeds at closing may be insufficient by approximately $565,000 under current rate assumptions and a reasonable incremental draw assumption. If SOFR increases by 100 basis points, the estimated shortfall would widen to approximately $1,278,000.
+
+Impact. If the interest reserve is depleted before construction completion, the Borrower must fund monthly interest payments from its own resources. Given the Borrower's zero cash equity contribution, the Borrower may lack immediate liquidity to fund interest shortfalls, potentially creating a payment default during the construction period. A payment default during construction could trigger cross-defaults under the mezzanine loan and could jeopardize the construction timeline if the Bank suspends further advances.
+
+Mitigants. (a) The loan documentation will include a mandatory borrower replenishment obligation requiring the Borrower to fund any interest reserve shortfall from its own funds upon demand by the Bank. (b) Interest reserve adequacy will be tested at each draw request, with the Borrower required to replenish the reserve if projected remaining interest costs during the construction period exceed the remaining reserve balance. (c) The guarantors maintain combined liquidity of $9,300,000, which provides a backstop for interest reserve replenishment. (d) The interest reserve analysis assumes a current SOFR of approximately 4.35%. If SOFR rates decline during the construction period, the reserve could prove adequate or even generate a surplus.
+
+Recommendation. The Senior Loan Committee approves the $4,850,000 interest reserve as adequate based on current rate assumptions, with mandatory contractual protections as described above. The Bank should monitor SOFR rate trends closely and communicate proactively with the Borrower regarding any anticipated replenishment obligations.
+
+9.3 Risk Factor: Mezzanine Lender Affiliate Relationship and SPE Concerns
+
+Risk. Brightleaf Investors Group LLC (28% member of the Borrower) shares common control with Brightleaf Mezzanine Capital LLC (mezzanine lender) through Thomas R. Chen. This common control creates a structural conflict and raises the following specific concerns:
+
+First, the mezzanine lender is providing $9,200,000 in subordinated debt to a borrower in which its affiliate holds a significant (28%) equity interest. This interrelationship blurs the distinction between debt and equity in the Borrower's capital structure and may complicate the enforcement of remedies in a default or insolvency scenario.
+
+Second, the affiliate relationship increases substantive consolidation risk. In a bankruptcy proceeding involving the Borrower, a court could potentially substantively consolidate the assets and liabilities of the Borrower with those of Brightleaf Investors Group LLC, Brightleaf Mezzanine Capital LLC, or other entities under common control with Thomas R. Chen. Substantive consolidation would merge the separate estates into a single bankruptcy estate, potentially subordinating the Bank's claims, complicating the Bank's realization upon its collateral, or exposing the collateral to the claims of creditors of the affiliated entities.
+
+Third, the Borrower's intended status as a single-purpose entity requires strict separateness from its members and their affiliates. Standard SPE covenants mandate separate books and records, no commingling of funds, arm's-length transactions, separate corporate formalities, and restrictions on affiliate dealings. The affiliate structure between a Borrower member and the mezzanine lender creates inherent tension with these separateness requirements.
+
+Impact. If SPE covenants are inadequate or are not faithfully observed, the Bank's collateral position could be compromised in a bankruptcy or insolvency proceeding involving the Borrower or any affiliated entity. The risk of substantive consolidation, while relatively uncommon in practice, is heightened in situations where affiliated entities have overlapping ownership, shared management, commingled funds, or inadequate corporate formalities.
+
+Mitigants. The Bank requires the following protective measures as conditions of closing:
+
+(a) Robust SPE Covenants. The loan agreement must include comprehensive SPE covenants requiring the Borrower to: maintain its existence as a separate legal entity; maintain separate books, records, and bank accounts; conduct all transactions with affiliates on arm's-length terms; refrain from commingling its assets or funds with those of any member, affiliate, or other person; observe all limited liability company formalities; hold itself out as an entity separate and distinct from its members and their affiliates; and pay its own liabilities and expenses from its own funds.
+
+(b) Independent Manager. The Borrower's operating agreement must be amended to require the appointment of at least one independent manager (who is not an officer, director, employee, or affiliate of the Borrower, any member, or the mezzanine lender) whose affirmative vote is required for any voluntary filing for bankruptcy, reorganization, or insolvency protection. This provision is the single most important structural safeguard against a bad-faith bankruptcy filing.
+
+(c) Non-Consolidation Opinion. Borrower's counsel (Calloway & Strauss PLLC) must deliver, at closing, a non-consolidation opinion addressed to the Bank, opining that, subject to customary assumptions and qualifications, a court applying applicable North Carolina law would not substantively consolidate the Borrower with any of its members, affiliates, or other related entities. This opinion provides additional assurance (though not a guarantee) that the Borrower's separate existence will be respected in a judicial proceeding.
+
+(d) Intercreditor Provisions. The intercreditor agreement must include express acknowledgments of the affiliate relationship and provisions prohibiting the mezzanine lender from filing or joining in the filing of an involuntary bankruptcy petition against the Borrower.
+
+Market Standard. For securitization-eligible construction loans, industry-standard SPE requirements include independent director or independent manager provisions and non-consolidation opinions from borrower's counsel. While this loan is not currently intended for securitization, implementing these protections is prudent given the heightened affiliate risk. The analytical framework for non-consolidation analysis draws on Delaware LLC law principles (even though the Borrower is a North Carolina LLC), as the Delaware case law provides the most developed body of precedent on substantive consolidation in the context of structured finance transactions.
+
+9.4 Risk Factor: Conflicting Membership Interest Pledges
+
+Risk. Both the senior construction loan and the mezzanine loan are secured by a pledge of 100% of the membership interests in the Borrower. As a matter of law and commercial practice, only one lender can hold a first-priority security interest in the same collateral. As currently documented, the pledges are mutually exclusive as first-priority interests, creating an ambiguity that could result in litigation or contested priority in a default scenario.
+
+Impact. If the conflicting pledges are not resolved, the Bank may not have the collateral position described in the term sheet. In a default, the mezzanine lender could assert a competing first-priority claim to the membership interests, and the resulting dispute could delay or prevent the Bank's exercise of remedies, including foreclosure on the membership interests or exercise of control over the Borrower.
+
+Mitigants. Execution of the intercreditor agreement (currently negotiated but not yet executed) must be a condition precedent to closing. The intercreditor agreement must provide: (i) the senior lender (Pinnacle Savings Bank, N.A.) holds a first-priority security interest in both the real property collateral and the membership interests; (ii) the mezzanine lender (Brightleaf Mezzanine Capital LLC) holds a subordinated second-priority security interest in the membership interests; (iii) the mezzanine lender is subject to a 90-day standstill period before exercising any remedies; (iv) the mezzanine lender has cure rights and a purchase option (right to acquire the senior loan at par plus accrued); and (v) the mezzanine lender may not modify the terms of the mezzanine loan without the Bank's prior written consent.
+
+Alternative. If the intercreditor agreement cannot be finalized on terms satisfactory to the Bank, the Bank could forego the membership interest pledge and rely solely on its real property collateral (first-priority deed of trust, assignment of rents and leases, security interest in personal property). The LTV ratios support the real property collateral alone. However, the membership interest pledge provides an additional layer of protection and operational control that the Bank considers valuable, particularly in a construction loan context where the Bank needs the ability to step in and control the development entity if the Borrower defaults.
+
+Recommendation. The Bank requires execution of the intercreditor agreement as a hard closing condition. The loan may not close without a fully executed and delivered intercreditor agreement in form and substance satisfactory to the Bank and its counsel.
+
+9.5 Risk Factor: Environmental Use Restriction / Residential Conflict
+
+Risk. The NFA letter issued by NCDEQ on September 30, 2024 restricts the approximately 0.38-acre area in the northeast corner of Parcel 0821-04-72-4102 to non-residential use. However, the current project plans position 14 residential units in the building structure directly above this area at the podium level and upper floors.
+
+Impact. If this conflict is not resolved, those 14 units may not receive residential certificates of occupancy from the City of Durham, which would reduce the Project's rental income and adversely affect the Bank's underwriting assumptions. The estimated annual revenue impact of losing 14 residential units is approximately $377,160 (14 units × $2,245 average monthly rent × 12 months). This would reduce the stabilized NOI to approximately $4,499,640 ($4,876,800 − $377,160), and the recalculated DSCR would be approximately $4,499,640 ÷ $3,728,750 = 1.21x, which is below the Bank's minimum of 1.25x. Additionally, the as-completed and as-stabilized appraised values may be overstated if they assume occupancy and income from the affected 14 units without accounting for the use restriction.
+
+Mitigants. The Bank requires the Borrower, as a condition of closing (or, at the Bank's discretion, as a condition precedent to advances for construction above the podium level in the affected area), to achieve one of the following resolutions: (a) obtain a modification to the NFA letter from NCDEQ permitting residential use of the area, contingent on installation and ongoing maintenance of the soil vapor mitigation system; (b) redesign the 14 affected units as commercial or retail space and provide updated financial projections; or (c) provide written confirmation from NCDEQ that residential use is permitted in the floors above the grade-level restricted area, provided that appropriate engineering controls (including the vapor mitigation system) are in place and operational.
+
+Recommendation. The Bank flags this issue for review by outside counsel and environmental consultants. The resolution approach should be documented as a specific covenant in the loan documentation, and the Bank should retain discretion to withhold advances for construction in the affected area until the issue is resolved to the Bank's satisfaction.
+
+9.6 Risk Factor: Construction Timeline and Market Risk
+
+Risk. The 30-month construction period targets projected substantial completion on August 31, 2027. The construction maturity date under the loan is August 28, 2027 — only three days before the projected substantial completion date. Any construction delay, even a minor one, could push substantial completion past the construction maturity date, triggering a maturity default under the loan.
+
+Mitigants. The mini-perm period provides an additional 12 months following the construction maturity date (extending to August 28, 2028), plus the 6-month extension option (to February 28, 2029). These periods provide a substantial buffer for the Borrower to complete construction, achieve stabilization, and arrange permanent take-out financing. The GMP contract with Graystone Construction Group Inc. provides cost certainty (subject to approved change orders), and the contingency of $1,440,000 provides approximately 4.1% cushion on hard construction costs. The completion guaranty from both guarantors provides the Bank with recourse against the guarantors' personal assets in the event construction is not completed.
+
+Market Risk. The Durham multifamily market is currently strong, but the 30-month construction horizon introduces inherent uncertainty regarding supply, demand, and rental rate trends. The 5% vacancy assumption is adequate based on historical trends, and the Bank considers the risk of a significant market downturn during the construction period to be moderate but not negligible. The Bank will monitor market conditions throughout the construction period and may require updated market studies as a condition of the extension option.
+
+9.7 Risk Factor: Title — Unsatisfied Prior Deed of Trust
+
+Risk. The title commitment issued by Aldersgate Title & Escrow Inc. (Commitment No. NC-2024-88712, dated December 5, 2024, escrow officer Patricia Langley) identifies an unsatisfied deed of trust recorded in favor of Triangle Commercial Bank, dated 2018, encumbering the Property and securing indebtedness of $3,400,000. Borrower's counsel (Jonathan F. Ngo, Calloway & Strauss PLLC) represents that this deed of trust will be satisfied at closing from the proceeds of the senior construction loan or from borrower funds.
+
+Impact. If the prior deed of trust is not satisfied and released at closing, the Bank would not hold a first-priority lien on the Property as required under the loan terms.
+
+Mitigant. Closing is conditioned on receipt of a satisfactory title insurance policy from Aldersgate Title & Escrow Inc. insuring the first-priority lien of the Bank's deed of trust, free and clear of the prior Triangle Commercial Bank deed of trust. The Bank requires delivery of a payoff letter from Triangle Commercial Bank and simultaneous recording of the satisfaction or release of the prior deed of trust with the recording of the Bank's deed of trust. The title insurance policy must be issued without any exception for the prior deed of trust.
+
+9.8 Additional Risk Considerations
+
+Brightleaf Historic District Association CC&Rs. The Property is located within the Brightleaf Historic District, which is subject to Covenants, Conditions, and Restrictions recorded in Book 6984, Page 1155 of the Durham County Register of Deeds. The CC&Rs include architectural review and design standards that may affect the design and construction of the Project. The Bank requires, as a condition of closing, evidence that the Brightleaf Historic District Association has reviewed and approved the Project plans, or that the CC&Rs do not apply to the Project or have been waived with respect to the Project.
+
+Interest Rate Risk. The loan bears a floating interest rate based on Daily Simple SOFR, which exposes both the Bank and the Borrower to interest rate volatility. As demonstrated in the stress test analysis (Section 6.1), a 200-basis-point increase in SOFR would push the projected stabilized DSCR to 1.04x, well below the Bank's minimum. The Bank should consider requiring the Borrower to obtain an interest rate cap agreement for the mini-perm period and any extension period. The loan documentation must include SOFR benchmark replacement provisions consistent with the Alternative Reference Rates Committee ("ARRC") recommended fallback language.
+
+Guarantor Concentration in Illiquid Assets. Both guarantors have personal net worth heavily concentrated in real estate holdings. Ms. Vasquez-Torres's real estate holdings constitute approximately 65% of her total net worth, and Mr. Osei's constitute approximately 59%. A decline in real estate values could erode guarantor net worth and impair their ability to perform under the guarantees.
+
+General Contractor Risk. Graystone Construction Group Inc.'s GMP contract provides cost certainty for hard construction costs. The Bank should verify the financial strength and payment and performance bonding capacity of the contractor prior to closing. Evidence of the contractor's financial statements and bonding capacity should be included in the closing deliverables.
+
+Section 10: Conditions of Approval
+
+10.1 Conditions Precedent to Closing
+
+The approval of this loan is subject to the satisfaction of each of the following conditions precedent to closing, each in form and substance satisfactory to the Bank and its counsel (Ashford, Cromdale Consulting & Laine LLP):
+
+1. Loan Documentation. Execution and delivery of all loan documents, including but not limited to the loan agreement, promissory note, deed of trust, assignment of rents and leases, security agreement, environmental indemnity, membership interest pledge agreements, and all other instruments and agreements required by the Bank and its counsel, each in form and substance satisfactory to the Bank.
+
+2. Equity Escrow Deposit. Borrower shall deposit not less than $2,140,000 in cash (from sources other than the mezzanine loan, any affiliate of the mezzanine lender, or the proceeds of any subordinate financing) into a Bank-controlled equity escrow account prior to or at closing. Such funds shall be disbursed ahead of loan advances to fund project costs, thereby reducing the effective LTC to 80% or below. The source of the equity escrow funds must be verified to the Bank's satisfaction through documentation demonstrating that the funds are not directly or indirectly sourced from Brightleaf Mezzanine Capital LLC, Brightleaf Investors Group LLC, Thomas R. Chen, or any entity under common control with any of the foregoing.
+
+3. Intercreditor Agreement. Execution and delivery of an intercreditor agreement between Pinnacle Savings Bank, N.A. and Brightleaf Mezzanine Capital LLC, in form and substance satisfactory to the Bank and its counsel, providing for: (i) subordination of the mezzanine lender's pledge of membership interests to the Bank's first-priority pledge; (ii) a standstill period of not less than 90 days; (iii) cure rights and purchase option for the mezzanine lender; and (iv) bankruptcy protections, including a prohibition on the mezzanine lender filing or joining in the filing of an involuntary bankruptcy petition against the Borrower. The intercreditor agreement must be fully executed and delivered at closing.
+
+4. SPE Covenants and Non-Consolidation Opinion. (a) The Borrower's operating agreement shall be amended to include comprehensive SPE covenants and an independent manager provision requiring the affirmative consent of an independent manager (not affiliated with the Borrower, any member, the mezzanine lender, or Thomas R. Chen) for any voluntary filing for bankruptcy, reorganization, or insolvency protection. (b) Delivery of a non-consolidation opinion from Borrower's counsel (Calloway & Strauss PLLC), addressed to the Bank, in form and substance satisfactory to the Bank and its counsel, opining that a court would not substantively consolidate the Borrower with any of its members, affiliates, or related entities.
+
+5. Satisfactory Title. Issuance of a lender's title insurance policy by Aldersgate Title & Escrow Inc. (escrow officer Patricia Langley) insuring the first-priority lien of the Bank's deed of trust on both parcels (0821-04-72-3341 and 0821-04-72-4102), in the amount of $47,500,000, free and clear of the unsatisfied deed of trust from Triangle Commercial Bank (to be satisfied at closing through delivery of a payoff letter and simultaneous recording of a satisfaction or release), and subject only to approved standard title exceptions as determined by the Bank and its counsel.
+
+6. Appraisal Confirmation. Confirmation that the as-completed appraised value is not less than $72,800,000 and the as-stabilized appraised value is not less than $76,200,000, as reflected in the appraisal by Ridgeline Appraisal Services Inc. dated November 15, 2024.
+
+7. Environmental. (a) Satisfactory Phase I ESA and Phase II results from Sentinel Environmental Consulting LLC; (b) evidence of the NCDEQ No Further Action letter dated September 30, 2024; (c) evidence that the soil vapor mitigation system design is incorporated into the approved construction plans; (d) resolution of the residential use restriction on the approximately 0.38-acre area in the northeast corner of Parcel 0821-04-72-4102 — either through modification of the NFA letter, redesign of the affected units, or NCDEQ confirmation that residential use above the grade-level restricted area is permitted with engineering controls. At the Bank's discretion, resolution of the use restriction may be deferred to a condition precedent to advances for construction in the affected area rather than a closing condition.
+
+8. Construction Contract. Execution of the GMP contract with Graystone Construction Group Inc. with a guaranteed maximum price of $34,750,000, together with delivery of a collateral assignment of the construction contract in favor of the Bank.
+
+9. Architect's Contract. Delivery of a collateral assignment of the architect's agreement with Meridian Design Collective PC in favor of the Bank.
+
+10. Insurance. Evidence of all required insurance coverages as specified in Section 8.1, including builder's risk, commercial general liability, umbrella/excess liability, workers' compensation, and flood insurance (if applicable).
+
+11. Personal Guaranties. Execution and delivery of completion guaranties, carry guaranties, and 25% partial repayment guaranties by each of Elena Vasquez-Torres and Reginald K. Osei, each in form and substance satisfactory to the Bank and its counsel.
+
+12. Organizational Documents. Delivery of certified copies of the Borrower's articles of organization, operating agreement (as amended for SPE covenants and independent manager provision), certificates of good standing from the North Carolina Secretary of State (current within 30 days of closing), and resolutions or written consents of members authorizing the loan, the execution and delivery of the loan documents, and the granting of the security interests.
+
+13. Governmental Approvals. Evidence that all required governmental approvals, permits, and zoning compliance are in place, including a zoning compliance letter from the City of Durham confirming that the proposed development is permitted as of right under the MU-D zoning district.
+
+14. Brightleaf Historic District Association. Evidence of Brightleaf Historic District Association approval of the project plans and architectural design, or evidence that the CC&Rs (Book 6984, Page 1155) do not require such approval or that the approval requirement has been waived.
+
+15. Legal Opinions. Delivery of legal opinions from Borrower's counsel (Calloway & Strauss PLLC) addressed to the Bank, including opinions as to enforceability of the loan documents, authority of the Borrower and its members, the non-consolidation opinion described in Condition 4(b) above, and such other opinions as the Bank and its counsel may reasonably require.
+
+16. Origination Fee. Payment of the origination fee of $475,000 (1.00% of $47,500,000).
+
+17. Borrower Net Worth Certificate. Delivery of a net worth certificate from the Borrower, certified by the Managing Member, demonstrating a minimum net worth of not less than $12,000,000.
+
+18. Guarantor Financial Statements. Delivery of current personal financial statements from each guarantor, together with verification of combined guarantor liquidity of not less than $5,000,000.
+
+19. Additional Deliverables. All other documents, instruments, certificates, and opinions customarily required for a construction-to-mini-permanent loan transaction of this type and as the Bank and its counsel may reasonably require.
+
+10.2 Conditions Precedent to Each Advance
+
+In addition to the closing conditions, each advance (draw) under the construction loan is subject to satisfaction of the following conditions:
+
+1. No Default. No event of default exists under the loan documents, and no condition exists that with the giving of notice or the passage of time, or both, would constitute an event of default.
+
+2. Representations and Warranties. All representations and warranties contained in the loan documents remain true and correct in all material respects as of the date of the advance.
+
+3. Construction Inspector Report. Delivery of a satisfactory report from the Bank's third-party construction inspector confirming achievement of the applicable construction milestone and the percentage of completion warranted in the draw request.
+
+4. AIA Application for Payment. Delivery of a completed AIA Application and Certificate for Payment (Form G702) and Continuation Sheet (Form G703) certified by the architect of record and the general contractor.
+
+5. Lien Waivers. Delivery of partial lien waivers (in statutory form under N.C.G.S. Chapter 44A) from the general contractor and all subcontractors and materialmen for work performed and materials furnished through the prior draw period.
+
+6. Title Date-Down. Delivery of a title date-down endorsement from Aldersgate Title & Escrow Inc. confirming no intervening liens, encumbrances, or title defects since the date of the prior title endorsement (or the original title policy date, for the first advance after closing).
+
+7. Interest Reserve Adequacy Test. The Borrower must demonstrate that the remaining interest reserve balance, together with any additional funds the Borrower commits to deposit, is sufficient to cover projected interest costs through the earlier of (a) the next anticipated draw date or (b) 90 days from the date of the advance request, based on current SOFR rates and the projected outstanding loan balance. If the test is not satisfied, the Borrower must deposit additional funds into the interest reserve sub-account before the requested advance will be funded.
+
+8. Equity First. The equity escrow deposit (if required per Condition 10.1.2) must have been fully disbursed and applied to project costs before any loan advance (other than the initial closing advance, Draw 1) is made.
+
+9. Insurance Compliance. Delivery of evidence of continued compliance with all insurance requirements specified in Section 8.1.
+
+10. No Material Adverse Change. No material adverse change has occurred in the financial condition of the Borrower, any guarantor, or the Project since the date of closing or the most recent advance, as applicable.
+
+11. Budget Reconciliation. Delivery of an updated sources and uses reconciliation demonstrating that the Project remains within budget. If cost overruns exist, the Borrower must fund the overruns from equity (not loan proceeds or mezzanine loan proceeds) before any further advances will be made.
+
+10.3 Ongoing Covenants and Reporting Requirements
+
+The loan documentation will include the following ongoing covenants and reporting requirements, which shall remain in effect throughout the term of the loan (including any extension period):
+
+  • Minimum Borrower Net Worth: $12,000,000, tested annually within 120 days of the Borrower's fiscal year end, with delivery of a certified net worth certificate.
+
+  • Minimum Combined Guarantor Liquidity: $5,000,000, tested quarterly with delivery of guarantor financial statements.
+
+  • Negative Pledge / No Additional Debt: The Borrower may not incur any additional indebtedness, create any additional liens or encumbrances on the Property or any interest therein, or pledge any assets, without the Bank's prior written consent.
+
+  • Monthly Construction Reports: Delivery of monthly construction progress reports to the Bank, including schedule updates, budget reconciliations, change order logs, and third-party inspector certifications.
+
+  • SPE Covenants: The Borrower shall at all times maintain its status as a single-purpose entity in compliance with all SPE covenants set forth in the loan agreement, including maintenance of separate books and records, no commingling of assets or funds, arm's-length transactions with affiliates, independent manager provision, and all other separateness and identity requirements.
+
+  • No Material Modifications: No material modification to the approved construction plans, specifications, or the GMP contract without the Bank's prior written consent. Any modification requiring Brightleaf Historic District Association approval must obtain such approval before the Bank's consent is given.
+
+  • Governmental Compliance: The Borrower shall maintain all governmental permits, licenses, and approvals required for the construction and operation of the Project.
+
+  • Environmental Compliance: The Borrower shall comply with all applicable environmental laws and regulations and with all conditions of the NFA letter dated September 30, 2024, including the installation and ongoing maintenance of the soil vapor mitigation system in the structured parking garage.
+
+  • Transfer Restrictions: No transfer, assignment, or encumbrance of any membership interest in the Borrower without the Bank's prior written consent, subject to the intercreditor agreement provisions regarding the mezzanine lender's subordinated pledge.
+
+  • Quarterly Guarantor Reporting: Delivery of quarterly personal financial statements from each guarantor.
+
+  • Prompt Notice: The Borrower shall provide prompt written notice to the Bank of any litigation, environmental claim, governmental enforcement action, casualty, condemnation proceeding, or other material adverse development affecting the Borrower, any guarantor, or the Project.
+
+Section 11: Extension Option Analysis
+
+The executed term sheet provides for one 6-month extension of the mini-perm period, extending the loan maturity from August 28, 2028 to February 28, 2029. The term sheet states that the extension is "subject to conditions" without specifying the particular conditions. The Senior Loan Committee recommends that the following extension conditions be incorporated into the loan documentation:
+
+(a) No Default. No event of default exists and no condition exists that with notice or lapse of time would constitute an event of default under the loan documents or the intercreditor agreement.
+
+(b) Completion. Substantial completion of the Project has been achieved, and a final certificate of occupancy has been issued by the City of Durham for all units and commercial spaces in the Project.
+
+(c) Minimum Occupancy. Not less than 75% of the residential units in the Project are leased to tenants under executed leases with terms of at least 12 months and are physically occupied as of the date of the extension request.
+
+(d) Minimum DSCR. The debt service coverage ratio, calculated based on actual trailing three-month annualized in-place net operating income divided by the annual debt service on the outstanding loan balance at the then-current interest rate, is not less than 1.15x. This threshold is intentionally lower than the 1.25x underwriting standard to account for the expectation that the property may still be in lease-up at the time of the extension.
+
+(e) Extension Fee. Payment of an extension fee equal to 0.25% of the then-outstanding principal balance of the loan.
+
+(f) Interest Rate Cap. Delivery of evidence of an interest rate cap agreement for the extension period, with a cap strike rate approved by the Bank in its reasonable discretion, from a counterparty with a minimum long-term credit rating of A- (S&P) or A3 (Moody's).
+
+(g) Intercreditor Agreement. The intercreditor agreement between the Bank and Brightleaf Mezzanine Capital LLC remains in full force and effect, and no default exists thereunder.
+
+(h) Updated Appraisal. Delivery of an updated appraisal (from an MAI-certified appraiser acceptable to the Bank) confirming that the LTV ratio based on the outstanding loan balance and the as-stabilized appraised value does not exceed 70%.
+
+(i) Representations and Warranties. All representations and warranties contained in the loan documents remain true and correct in all material respects.
+
+(j) Notice. Written notice of the Borrower's election to exercise the extension option, delivered to the Bank not less than 60 days prior to the mini-perm maturity date of August 28, 2028.
+
+These extension conditions are designed to ensure that the Bank's credit position remains satisfactory at the time of the extension and that the Project is on a trajectory toward stabilization and permanent take-out financing.
+
+Section 12: Regulatory and Compliance Considerations
+
+Pinnacle Savings Bank, N.A. is a nationally chartered savings bank regulated by the Office of the Comptroller of the Currency ("OCC"). As of the Bank's most recent Call Report, total consolidated assets are approximately $18,600,000,000. The proposed loan of $47,500,000 represents approximately 0.26% of total bank assets.
+
+Concentration Risk. The Bank monitors its commercial real estate lending concentration relative to Tier 1 capital plus the allowance for loan and lease losses ("ALLL"), consistent with the interagency guidance on concentrations of credit risk issued by the OCC, Federal Reserve, and FDIC. The Bank's current CRE concentration levels remain within its board-approved concentration limits, and this loan does not cause any concentration threshold to be exceeded. The Bank's CRE portfolio management team has confirmed that the loan falls within the Bank's approved risk appetite and concentration parameters.
+
+Lending Policy Compliance. The proposed loan is consistent with the Bank's Commercial Real Estate Lending Policy with respect to maximum LTV (70% for construction loans — the as-completed LTV of 65.25% is within this limit), minimum DSCR (1.25x stabilized — the projected DSCR of 1.31x is within this limit), and maximum LTC (80% — the LTC of 83.77% exceeds this limit but will be brought into compliance through the equity escrow condition).
+
+FIRREA Appraisal Requirements. The appraisal by Linda M. Haverford, MAI, of Ridgeline Appraisal Services Inc. meets the requirements of FIRREA and OCC appraisal regulations. The appraiser is MAI-certified, is independent of the transaction parties, and the appraisal is dated November 15, 2024, which is within 12 months of the anticipated closing date.
+
+Flood Determination. A flood zone determination will be obtained prior to closing to determine whether any portion of the Property is located within a Special Flood Hazard Area as designated by FEMA. If any portion of the Property is in a flood zone, the Bank will require flood insurance in the amount required by the National Flood Insurance Act and the Bank's policy.
+
+Bank Secrecy Act / Anti-Money Laundering. The Bank has completed Know Your Customer ("KYC") and Customer Due Diligence ("CDD") procedures on the Borrower, all members (Elena Vasquez-Torres, Brightleaf Investors Group LLC, Thomas R. Chen, and Reginald K. Osei), and all guarantors. No adverse findings, matches to OFAC lists, or suspicious activity indicators were identified during the KYC/CDD review.
+
+Fair Lending. This is a commercial purpose loan to a limited liability company for the construction of a mixed-use development. Fair lending regulations applicable to consumer and residential mortgage lending are not applicable to this transaction.
+
+HVCRE Classification. This loan likely qualifies as a High Volatility Commercial Real Estate ("HVCRE") exposure under the Basel III capital rules (12 C.F.R. Part 3, Subpart D for national banks). HVCRE classification applies to acquisition, development, and construction loans where the borrower's contributed capital is less than 15% of the real estate's appraised as-completed value. The Borrower's contributed capital, including the proposed equity escrow of $2,140,000 and the land at acquisition cost of $8,200,000, totals $10,340,000. As a percentage of the as-completed appraised value of $72,800,000, the contributed capital equals $10,340,000 ÷ $72,800,000 = 14.2%, which is below the 15% threshold. To avoid HVCRE classification, total contributed capital would need to be at least $72,800,000 × 15% = $10,920,000, requiring an additional $580,000 beyond the proposed equity escrow of $2,140,000. The Senior Loan Committee accepts the HVCRE classification for this loan and acknowledges the resulting 150% risk weight for regulatory capital purposes.
+
+Section 13: Third-Party Reports and Due Diligence Summary
+
+The Bank has obtained or reviewed the following third-party reports and due diligence materials in connection with its underwriting of this loan:
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Report / Item                    Provider                                                                          Date                Status
+  -------------------------------- --------------------------------------------------------------------------------- ------------------- ----------------------------------------------------------------------------------------------------
+  Appraisal                        Ridgeline Appraisal Services Inc. (Linda M. Haverford, MAI)                       November 15, 2024   Satisfactory
+
+  Phase I ESA                      Sentinel Environmental Consulting LLC (Dr. James Whitfield, P.E.)                 October 28, 2024    Satisfactory with conditions (see Sections 8.2, 9.5)
+
+  Title Commitment                 Aldersgate Title & Escrow Inc. (Patricia Langley), Commitment No. NC-2024-88712   December 5, 2024    Satisfactory, subject to payoff of prior deed of trust (Triangle Commercial Bank, $3,400,000)
+
+  Zoning                           City of Durham, MU-D (Mixed Use — Downtown)                                       Confirmed           Permitted as of right; zoning compliance letter to be obtained prior to closing
+
+  ALTA/NSPS Survey                 To be obtained                                                                    Prior to closing    Pending
+
+  GMP Contract                     Graystone Construction Group Inc. (Mark D. Sullivan, President)                   GMP: $34,750,000    To be reviewed by Bank's counsel and construction inspector prior to closing
+
+  Architect's Contract             Meridian Design Collective PC                                                     Current             To be reviewed and assigned to Bank prior to closing
+
+  Organizational Documents         Borrower / Borrower's counsel                                                     Reviewed            Operating agreement requires amendment for SPE covenants and independent manager (see Section 9.3)
+
+  Borrower Financial Statements    Harborview Capital Partners LLC                                                   Current             Reviewed; net worth $14,200,000
+
+  Guarantor Financial Statements   Elena Vasquez-Torres; Reginald K. Osei                                            December 2024       Reviewed; combined net worth $41,300,000; combined liquidity $9,300,000
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All pending items must be completed and delivered to the Bank's satisfaction prior to closing.
+
+Section 14: Recommendation and Approval
+
+14.1 Recommendation
+
+Based on the foregoing analysis, the Commercial Real Estate Lending group recommends APPROVAL of the $47,500,000 construction-to-mini-permanent loan to Harborview Capital Partners LLC for The Piedmont at Brightleaf project, subject to all conditions set forth in Section 10 and resolution of the risk factors identified in Section 9.
+
+The following conditions are designated as critical and must be fully satisfied prior to closing:
+
+1. Equity Escrow. Deposit of $2,140,000 in verified cash equity into a Bank-controlled escrow account to bring the effective LTC into compliance with the Bank's 80% maximum (Sections 5.3, 9.1, 10.1.2).
+
+2. Intercreditor Agreement. Full execution and delivery of the intercreditor agreement with Brightleaf Mezzanine Capital LLC resolving the conflicting membership interest pledges and providing for subordination, standstill, cure rights, and bankruptcy protections (Sections 4.4, 9.4, 10.1.3).
+
+3. SPE Covenants and Non-Consolidation Opinion. Amendment of the Borrower's operating agreement to include SPE covenants and an independent manager provision, and delivery of a non-consolidation opinion from Borrower's counsel (Sections 9.3, 10.1.4).
+
+4. Interest Reserve Replenishment Covenant. Inclusion of mandatory borrower replenishment obligations and adequacy testing at each draw (Sections 6.2, 9.2, 10.2.7).
+
+5. Environmental Resolution. Resolution of the NFA use restriction conflict regarding the 14 residential units above the restricted area (Sections 8.2, 9.5, 10.1.7).
+
+6. Title Clearance. Satisfaction of the prior Triangle Commercial Bank deed of trust and issuance of satisfactory lender's title insurance (Sections 9.7, 10.1.5).
+
+The loan presents acceptable credit risk given the strong project fundamentals, favorable LTV ratios (65.25% as-completed, 62.34% as-stabilized), the experienced development sponsor, and the adequate combined guarantor financial support ($41,300,000 net worth, $9,300,000 liquidity). The identified structural issues — including the LTC exceedance, zero borrower cash equity, interest reserve adequacy, and affiliate/SPE concerns — are addressable through the enumerated conditions of approval and appropriate loan documentation provisions. The Commercial Real Estate Lending group is confident that these conditions can be satisfied prior to the target closing date of February 28, 2025.
+
+14.2 Approval Signatures
+
+SENIOR LOAN COMMITTEE — APPROVAL Pinnacle Savings Bank, N.A. Loan Number: CRE-2025-0342 Date: January 22, 2025
+
+PREPARED BY / RECOMMENDED:
+
+By: ________
+
+Name: David Forsythe
+
+Title: Senior Vice President, Commercial Real Estate Lending
+
+Date: ________
+
+REVIEWED AND CONCURRED:
+
+By: ________
+
+Name: ________
+
+Title: Senior Credit Officer
+
+Date: ________
+
+APPROVED:
+
+By: ________
+
+Name: ________
+
+Title: Chair, Senior Loan Committee
+
+Date: ________
+
+APPROVED BY SENIOR LOAN COMMITTEE — January 22, 2025
+
+Committee Comments / Additional Conditions:
+
+________________________________________
+
+________________________________________
+
+________________________________________
+
+Appendix A: Summary of Key Terms (One-Page Summary)
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Term                                Detail
+  ----------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Borrower                            Harborview Capital Partners LLC
+
+  Guarantors                          Elena Vasquez-Torres; Reginald K. Osei
+
+  Loan Amount                         $47,500,000
+
+  Loan Type                           Construction-to-Mini-Permanent
+
+  Construction Period                 30 months (maturity August 28, 2027)
+
+  Mini-Perm Period                    12 months (maturity August 28, 2028)
+
+  Extension Option                    One 6-month extension (to February 28, 2029), subject to conditions
+
+  Rate (Construction)                 Daily Simple SOFR + 3.25%; 1.00% SOFR floor
+
+  Rate (Mini-Perm)                    Daily Simple SOFR + 3.50%; 1.00% SOFR floor
+
+  Default Rate                        Contract rate + 5.00%
+
+  Payments                            Interest-only, monthly
+
+  Origination Fee                     1.00% ($475,000)
+
+  Exit Fee                            0.50% (construction); 0.25% (first 6 mos. mini-perm); none thereafter
+
+  Unused Line Fee                     0.25% per annum
+
+  Interest Reserve                    $4,850,000
+
+  Collateral                          First priority deed of trust, assignment of rents/leases, UCC filings, membership interest pledge (subject to intercreditor), assignment of contracts
+
+  LTV (As-Completed)                  65.25% (max 70%)
+
+  LTV (As-Stabilized)                 62.34% (max 70%)
+
+  LTC                                 83.77% (max 80%) — requires $2,140,000 equity escrow
+
+  DSCR (Stabilized)                   1.31x (min 1.25x)
+
+  Mezzanine Loan                      $9,200,000 from Brightleaf Mezzanine Capital LLC at 12.50% fixed
+
+  Total Project Cost                  $56,700,000
+
+  As-Completed Value                  $72,800,000
+
+  As-Stabilized Value                 $76,200,000
+
+  Key Conditions                      (1) $2,140,000 equity escrow; (2) Intercreditor agreement; (3) SPE covenants / independent manager / non-consolidation opinion; (4) Interest reserve replenishment covenant; (5) Environmental use restriction resolution; (6) Title clearance
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Appendix B: Organizational Chart (Diagram Description)
+
+The following describes the organizational and capital structure of the Borrower and the Project:
+
+``` ┌──────────────────────────────────────────────────────────────────┐ │ THOMAS R. CHEN │ │ (Common Control) │ │ ┌──────────┴──────────┐ │ │ ▼ ▼ │ │ Brightleaf Investors Brightleaf Mezzanine │ │ Group LLC Capital LLC │ │ (NC SOS #2045612) (NC SOS #2103988) │ │ 28% Member $9,200,000 Mezz Loan │ │ │ (12.50% fixed) │ │ │ Secured by: 100% │ │ │ membership interests │ │ │ (2nd priority per │ │ │ intercreditor) │ │ ▼ │ │ │ ┌─────────────────────────────────────────────────┐ │ │ │ HARBORVIEW CAPITAL PARTNERS LLC │◄───────────┘ │ │ (Borrower — NC LLC, SOS #1923847) │ │ │ 400 W. Main St., Suite 310, Durham, NC │ │ │ │ │ │ Members: │ │ │ • Elena Vasquez-Torres — 62% (Managing Member) │ │ │ • Brightleaf Investors Group LLC — 28% │ │ │ • Reginald K. Osei — 10% │ │ └─────────────────┬───────────────────────────────┘ │ │ Owns │ ▼ │ ┌─────────────────────────────────────────────────┐ │ │ THE PIEDMONT AT BRIGHTLEAF │ │ │ 601 & 615 Foster Street, Durham, NC 27701 │ │ │ 212 Units / 18,400 SF Retail / 276 Parking │ │ └─────────────────────────────────────────────────┘ │ ▲ │ │ Senior Loan: $47,500,000 │ │ Secured by: 1st priority deed of trust + │ │ 1st priority membership interest pledge │ │ (per intercreditor) │ ┌─────────────────┴───────────────────────────────┐ │ │ PINNACLE SAVINGS BANK, N.A. │ │ │ (Senior Lender) │ │ └─────────────────────────────────────────────────┘ └──────────────────────────────────────────────────────────────────┘
+
+GUARANTORS (Completion, Carry, 25% Partial Repayment): • Elena Vasquez-Torres (Net Worth: $29,800,000) • Reginald K. Osei (Net Worth: $11,500,000) ```
+
+Appendix C: Sources and Uses Table (Full Detail)
+
+Sources of Funds
+
+  --------------------------------------------------------------------------------------------------------
+  Source                                                   Amount                  % of Total
+  -------------------------------------------------------- ----------------------- -----------------------
+  Senior Construction Loan (Pinnacle Savings Bank, N.A.)   $47,500,000             83.77%
+
+  Mezzanine Loan (Brightleaf Mezzanine Capital LLC)        $9,200,000              16.23%
+
+  Borrower Cash Equity                                     $0                      0.00%
+
+  Total Sources                                            $56,700,000             100.00%
+  --------------------------------------------------------------------------------------------------------
+
+Uses of Funds
+
+  --------------------------------------------------------------------------------------------------------------------
+  Use                                                                  Amount                  % of Total
+  -------------------------------------------------------------------- ----------------------- -----------------------
+  Land Acquisition (previously closed)                                 $8,200,000              14.46%
+
+  Hard Construction Costs (GMP — Graystone Construction Group Inc.)    $34,750,000             61.29%
+
+  Soft Costs (architecture, engineering, permits, legal, accounting)   $4,150,000              7.32%
+
+  Interest Reserve                                                     $4,850,000              8.55%
+
+  Loan Origination Fee (1.00% × $47,500,000)                           $475,000                0.84%
+
+  Developer Fee (5.0% of total project cost)                           $2,835,000              5.00%
+
+  Contingency                                                          $1,440,000              2.54%
+
+  Total Uses                                                           $56,700,000             100.00%
+  --------------------------------------------------------------------------------------------------------------------
+
+Reconciliation: Total Sources ($56,700,000) = Total Uses ($56,700,000).
+
+END OF CREDIT MEMORANDUM — CRE-2025-0342 — Pinnacle Savings Bank, N.A. — CONFIDENTIAL

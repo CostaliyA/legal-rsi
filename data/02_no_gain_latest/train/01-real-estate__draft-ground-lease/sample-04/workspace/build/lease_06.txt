@@ -1,0 +1,153 @@
+@H1 ARTICLE 15 — TITLE; PERMITTED EXCEPTIONS; REPRESENTATIONS
+@H2 15.1 Title
+@P Landlord represents, warrants, and covenants that, as of the Commencement Date and throughout the Term: (a) Landlord holds fee simple title to the Premises free and clear of all liens, encumbrances, and exceptions other than the Permitted Exceptions; (b) Landlord has full right, power, and authority to enter into and perform this Lease; (c) no other lease, license, or occupancy agreement affecting the Premises is in effect; (d) there is no pending or, to Landlord's knowledge, threatened litigation, condemnation (other than the 2012 acquisition), or governmental proceeding affecting the Premises that would materially and adversely affect Tenant's leasehold interest; (e) Landlord's acquisition of the Premises by condemnation did not create, and no instrument of record creates, any reversionary interest, right of reverter, or condition subsequent in favor of any former owner or other Person that would be triggered by the lease of the Premises to Tenant or by the development of the Project; and (f) Landlord has not received notice of any violation of Applicable Law affecting the Premises that has not been cured.
+@H2 15.2 Permitted Exceptions
+@P Tenant accepts the Premises subject only to the Permitted Exceptions listed on **Exhibit B**. Landlord shall, at its sole cost, cause the following to be removed, discharged, or bonded off as a condition precedent to the Commencement Date: (a) the Mechanics' Lien described in Section 15.4; and (b) any other lien, encumbrance, or exception that is not a Permitted Exception. Tenant shall have the right to object, in its reasonable discretion, to any exception disclosed by any updated commitment or survey, and Landlord shall, at its election, cure such exception or cause the Title Company to insure over it.
+@NOTE The Term Sheet (Section 13) lists the $187,500 mechanics' lien filed by Calloway Marine Demolition Inc. as a "Permitted Exception." It should not be. The Title Company will not issue a policy while the lien is of record (Schedule B-I, Requirement No. 7), and the lien arises from work performed for the fee owner before this transaction. See Drafting Issues Memo, Item 18.
+@H2 15.3 Title Insurance
+@P Landlord shall cooperate with Tenant, at Tenant's cost, in obtaining an ALTA Leasehold Owner's Policy in the amount of $425,000,000 (and such additional amounts as Tenant may reasonably request) from Ridgepoint Title & Escrow Co., together with the ALTA 13-06 (Leasehold — Owner's), ALTA 9-06 (Restrictions, Encroachments, Minerals), ALTA 17-06 (Access and Entry), ALTA 25-06 (Same as Survey), and Zoning endorsements, subject only to the Permitted Exceptions. Landlord shall execute such affidavits, indemnities, and instruments as the Title Company may reasonably require, including an owner's affidavit, a non-foreign status certification, and a gap indemnity.
+@H2 15.4 Mechanics' Lien
+@P Landlord shall, on or before the Commencement Date, cause the Mechanics' Lien filed by Calloway Marine Demolition Inc. on April 3, 2025 in the amount of $187,500, recorded at Volume 418, Page 302 of the Port Calloway Land Records, to be discharged of record or bonded off in accordance with Conn. Gen. Stat. § 49-37. If Landlord fails to do so, Tenant may (a) postpone the Commencement Date without liability, (b) discharge or bond off the lien and offset the cost (including any bond premium and reasonable attorneys' fees) against Base Rent, and (c) pursue any other remedy available under this Lease or Applicable Law. Landlord shall indemnify Tenant against all loss arising from such lien.
+@H2 15.5 Quiet Enjoyment
+@P Landlord covenants that, so long as no Event of Default by Tenant exists, Tenant shall peaceably and quietly have, hold, and enjoy the Premises and the Improvements during the Term without hindrance or interruption by Landlord or any Person claiming by, through, or under Landlord, subject to the Permitted Exceptions and Applicable Law.
+@H2 15.6 Landlord's Representations and Warranties
+@P Landlord represents and warrants to Tenant that, as of the Effective Date and the Commencement Date:
+@C1 (a) Landlord is a public body corporate and politic duly organized, validly existing, and in good standing under Conn. Gen. Stat. § 8-125 *et seq.*, and has all requisite power and authority to own the Premises and to enter into, execute, deliver, and perform this Lease;
+@C1 (b) the execution, delivery, and performance of this Lease have been duly authorized by all necessary action of Landlord, including the adoption of Resolution No. 2025-047 by Landlord's Board of Commissioners, and no further approval, authorization, public hearing, referendum, or consent is required for Landlord to perform its obligations under this Lease;
+@C1 (c) this Lease constitutes the legal, valid, and binding obligation of Landlord, enforceable against Landlord in accordance with its terms, subject to bankruptcy, insolvency, and similar laws affecting creditors' rights generally and to general principles of equity;
+@C1 (d) the execution, delivery, and performance of this Lease do not conflict with, or constitute a default under, Landlord's enabling legislation, bylaws, any resolution of its Board of Commissioners, any judgment or order binding on Landlord, or any instrument to which Landlord is a party;
+@C1 (e) Landlord has delivered to Tenant true, correct, and complete copies of the ELUR, the Declaration of Right of First Refusal recorded at Volume 405, Page 55, the Declaration of Restrictive Covenants recorded at Volume 408, Page 230, and the Final Judgment of Condemnation by which Landlord acquired the Premises, and there are no other recorded instruments affecting the Premises other than those disclosed in Title Commitment No. TC-2025-07821;
+@C1 (f) Landlord has not received any notice of any pending or threatened claim, action, or proceeding relating to the environmental condition of the Premises other than as disclosed in the Environmental Reports;
+@C1 (g) the representations and warranties of Landlord in this Section 15.6 shall survive the Commencement Date and shall be deemed remade as of the Commencement Date; and
+@C1 (h) Landlord has not granted, and shall not grant during the Term, any option, right of first offer, or other right to acquire the Premises (other than the Right of First Refusal) that would adversely affect Tenant's rights under this Lease.
+@H2 15.7 Landlord's Fee Mortgages
+@P If Landlord grants any mortgage, deed of trust, or other lien on its fee interest in the Premises (a "**Fee Mortgage**"), such Fee Mortgage shall be and remain subject and subordinate in all respects to this Lease and to the rights of Tenant and each Leasehold Mortgagee, and Landlord shall cause the holder of any Fee Mortgage to execute and deliver to Tenant and each Leasehold Mortgagee an SNDA in form reasonably satisfactory to them. Any Fee Mortgage that is not so subordinated shall be void as against Tenant's leasehold interest and the interest of each Leasehold Mortgagee to the fullest extent permitted by Applicable Law.
+
+@H1 ARTICLE 16 — DEFAULT AND REMEDIES
+@H2 16.1 Tenant Events of Default
+@P Each of the following shall constitute an Event of Default by Tenant:
+@C1 (a) **Monetary Default.** Tenant fails to pay any installment of Base Rent, Percentage Rent, or other Rent within ten (10) Business Days after written notice from Landlord that such amount is past due; provided that Landlord shall not be required to give more than two (2) such notices in any twelve (12) month period, after which a failure to pay within five (5) Business Days after the due date shall constitute an Event of Default without notice;
+@C1 (b) **Non-Monetary Default.** Tenant fails to perform or observe any material non-monetary obligation under this Lease, and such failure continues for thirty (30) days after written notice from Landlord specifying the failure, or, if such failure cannot reasonably be cured within thirty (30) days, Tenant fails to commence cure within such period and thereafter diligently prosecute cure to completion;
+@C1 (c) **Milestone Default.** Tenant fails to achieve Milestone 1 or Milestone 3 by the applicable Milestone Date, as extended, and such failure is not cured within the Milestone Cure Period and the Extended Cure period, and the Lender Cure Periods have expired, in each case as provided in Article 9;
+@C1 (d) **Insolvency.** Tenant files a voluntary petition in bankruptcy, or an order for relief is entered against Tenant in an involuntary proceeding that is not dismissed within sixty (60) days, or Tenant makes a general assignment for the benefit of creditors, or a receiver is appointed for a substantial part of Tenant's assets and not discharged within sixty (60) days; and
+@C1 (e) **Abandonment.** Tenant abandons the Premises for a continuous period of one hundred eighty (180) days, other than during a period of Force Majeure Event, Casualty, Condemnation, or restoration; provided that vacating a building for the purpose of renovation, repositioning, or re-leasing shall not constitute abandonment.
+@H2 16.2 Landlord's Remedies
+@P Upon the occurrence of an uncured Event of Default by Tenant, Landlord may, subject to Article 10 and Article 9:
+@C1 (a) terminate this Lease by written notice, whereupon Tenant shall surrender the Premises, subject to Article 14.5 and to the rights of each Leasehold Mortgagee;
+@C1 (b) recover from Tenant all Rent accrued and unpaid, together with all damages proximately caused by the Event of Default, including the reasonable costs of re-letting and the amount by which the Rent for the balance of the Term exceeds the fair rental value of the Premises for the balance of the Term, discounted to present value at a rate equal to the yield on United States Treasury obligations of comparable maturity;
+@C1 (c) draw upon the Security Deposit in accordance with Article 7, limited to the amount of Landlord's actual, documented loss;
+@C1 (d) pursue specific performance and injunctive relief; and
+@C1 (e) pursue any other remedy available at law or in equity.
+@P Landlord shall use commercially reasonable efforts to mitigate its damages. Landlord's remedies are cumulative, except that Landlord shall not recover more than once for the same loss, shall not both terminate this Lease and recover Rent for a period after termination except as damages, and shall not retain the Security Deposit as a penalty. Landlord shall not have any right to accelerate Rent, to declare the entire balance of Rent for the Term immediately due and payable, or to forfeit the Improvements.
+@H2 16.3 Landlord Events of Default
+@P Each of the following shall constitute an Event of Default by Landlord:
+@C1 (a) Landlord fails to perform or observe any material obligation under this Lease (including the obligation to deliver an SNDA, estoppel, consent, or other instrument, to discharge the Mechanics' Lien, to perform its obligations under Article 8 or Section 8.9, or to perform any obligation relating to the Abatement Program), and such failure continues for thirty (30) days after written notice from Tenant specifying the failure, or, if such failure cannot reasonably be cured within thirty (30) days, Landlord fails to commence cure within such period and thereafter diligently prosecute cure to completion;
+@C1 (b) Landlord breaches any representation or warranty in Section 15.1 or Section 15.6 in any material respect;
+@C1 (c) Landlord wrongfully attempts to terminate this Lease, wrongfully exercises or threatens to exercise the Reverter Right, or wrongfully interferes with Tenant's quiet enjoyment of the Premises; or
+@C1 (d) Landlord fails to pay any amount owing to Tenant under this Lease, including any amount owing under Section 8.4 or Section 8.7, within thirty (30) days after written demand.
+@H2 16.4 Tenant's Remedies
+@P Upon the occurrence of an uncured Event of Default by Landlord, Tenant may, in addition to any other remedy available at law or in equity:
+@C1 (a) offset the amount of Tenant's damages against Rent next coming due, including amounts owing under Section 6.2(d), Section 7.4(d), Section 8.3, Section 8.4, Section 8.7, and Section 15.4;
+@C1 (b) perform Landlord's obligation and offset the reasonable cost of such performance (together with an administrative fee equal to five percent (5%) of such cost) against Rent next coming due;
+@C1 (c) seek specific performance, declaratory relief, and injunctive relief, and Landlord waives any defense based on the adequacy of a remedy at law;
+@C1 (d) seek damages, including consequential damages to the extent proximately caused by Landlord's breach; and
+@C1 (e) terminate this Lease, if the Event of Default is material and remains uncured for one hundred twenty (120) days after notice, in which case the Improvements shall be treated as provided in Section 14.5(b).
+@P Tenant's exercise of any offset right under this Section 16.4 shall not constitute a default under this Lease, and Landlord shall, at Tenant's request, confirm in writing to each Leasehold Mortgagee that such offset is permitted under this Lease and does not constitute a default by Tenant.
+@H2 16.5 Limitation on Landlord's Liability
+@P Except with respect to Landlord's indemnity obligations under Section 8.7(b) and Section 3.7(c), and except for any liability arising from Landlord's gross negligence or willful misconduct, Landlord's liability under this Lease shall be limited to Landlord's interest in the Premises and the Improvements and the rents and proceeds thereof, and no commissioner, officer, employee, or agent of Landlord shall have any personal liability under this Lease. Nothing in this Section 16.5 shall limit Landlord's obligation to pay the Purchase Price under Section 9.6 or to make any payment required to be made from Landlord's general funds under Section 8.7(b).
+@H2 16.6 Notice and Cure; No Waiver
+@P No failure or delay by either party in exercising any right, power, or remedy shall operate as a waiver, and no single or partial exercise shall preclude any other or further exercise. No waiver shall be effective unless in writing and signed by the waiving party. Landlord's acceptance of Rent with knowledge of a default shall not waive the default. Landlord shall give each Leasehold Mortgagee the notices required by Section 10.2 in respect of any Tenant default.
+@H2 16.7 Consent Standards; Deemed Consents
+@P Except as expressly provided otherwise in this Lease, any consent, approval, or waiver required of Landlord shall be governed by the Landlord Consent Standards. Landlord shall respond to any written request for consent within fifteen (15) Business Days (or such shorter period as this Lease may specify), and if Landlord fails to respond within such period, the consent shall be deemed granted. Landlord may condition any consent on reimbursement of Landlord's reasonable out-of-pocket third-party costs (not to exceed $5,000 per request), but shall not charge any consent fee.
+@H2 16.8 Force Majeure
+@P Neither party shall be liable for any failure or delay in performance (other than the payment of money) caused by a Force Majeure Event, provided that the affected party gives notice and uses commercially reasonable efforts to mitigate the effect of the event. This Section 16.8 is in addition to, and does not limit, Section 9.3.
+@H2 16.9 Attorneys' Fees
+@P If either party commences any action or proceeding to enforce or interpret this Lease, the prevailing party shall be entitled to recover its reasonable attorneys' fees, expert fees, and costs from the non-prevailing party.
+@H2 16.10 Survival of Tenant's Statutory Rights
+@P Nothing in this Lease shall be construed to waive, limit, or impair any right or remedy of Tenant that cannot be waived under Applicable Law, including any right to relief from forfeiture, any statutory right of redemption, and any right under Conn. Gen. Stat. § 47a-1 *et seq.* to the extent applicable. Any provision of this Lease that is determined to be unenforceable shall be enforced to the maximum extent permitted by law.
+
+@H1 ARTICLE 17 — DISPUTE RESOLUTION; CONFIDENTIALITY; FREEDOM OF INFORMATION
+@H2 17.1 Governing Law
+@P This Lease shall be governed by and construed in accordance with the laws of the State of Connecticut, without regard to its conflict of laws principles.
+@H2 17.2 Mediation and Litigation
+@P Except as provided in Section 17.3, any dispute arising out of or relating to this Lease shall first be submitted to non-binding mediation in Port Calloway, Connecticut before a single mediator mutually selected by the parties (or, if they cannot agree, selected by the American Arbitration Association), within thirty (30) days after a written request for mediation. If mediation is unsuccessful, either party may bring an action in the Superior Court of the State of Connecticut, Judicial District of New Haven, or in the United States District Court for the District of Connecticut (if federal jurisdiction exists). Each party waives any objection to venue in such courts.
+@H2 17.3 Exceptions to Mediation
+@P The mediation requirement of Section 17.2 shall not apply to (a) any action seeking injunctive relief, specific performance, or the appointment of a receiver; (b) any exercise of a right or remedy by a Leasehold Mortgagee, or any action to foreclose or otherwise enforce a Leasehold Mortgage; (c) any action to collect Rent or to recover possession following a termination; (d) any exercise of the Reverter Right, or any challenge thereto; or (e) any determination expressly required to be made by an appraiser or accountant under this Lease.
+@H2 17.4 Confidentiality
+@P Each party shall keep confidential the terms of this Lease and all financial statements, rent rolls, and other information furnished by the other party, and shall not disclose the same except (a) to its officers, commissioners, employees, attorneys, accountants, consultants, lenders, investors, and prospective transferees who have a need to know, (b) as required by Applicable Law, including the Freedom of Information Act, (c) in connection with any enforcement action, financing, or sale, and (d) to the extent the information is or becomes publicly available other than through a breach of this Section.
+@H2 17.5 Freedom of Information
+@P Landlord acknowledges that it is a public agency subject to the Connecticut Freedom of Information Act, Conn. Gen. Stat. § 1-200 *et seq.* Landlord shall, before disclosing any information furnished by Tenant that Tenant has designated as confidential or proprietary, (a) give Tenant not less than five (5) Business Days' prior written notice (or such shorter period as may be required by law, but in no event less than twenty-four (24) hours), (b) assert in good faith all applicable exemptions, including Conn. Gen. Stat. § 1-210(b)(4) and § 1-210(b)(5), and (c) reasonably cooperate with Tenant, at Tenant's cost, in seeking a protective order, if Tenant so requests. Tenant may, at its election and cost, intervene in any FOIA proceeding to protect its information.
+@H2 17.6 Estoppel Certificates
+@P Each party shall, within ten (10) Business Days after request, execute and deliver an estoppel certificate certifying such matters as the requesting party (or its lender, purchaser, or Title Company) may reasonably request, including that this Lease is in full force and effect, that no default exists, and the then-current Rent. Failure to deliver within such period shall constitute an estoppel in favor of the requesting party as to the matters stated in the request unless such party delivers a written objection within such period.
+
+@H1 ARTICLE 18 — MISCELLANEOUS
+@H2 18.1 Notices
+@P All notices, demands, consents, and other communications under this Lease shall be in writing and shall be deemed duly given (a) upon personal delivery, (b) one (1) Business Day after deposit with a nationally recognized overnight courier, (c) three (3) Business Days after deposit in the United States mail, certified or registered, return receipt requested, postage prepaid, or (d) upon transmission by electronic mail, provided that a copy is also sent by one of the foregoing methods within two (2) Business Days, addressed as follows (or to such other address as a party may designate by notice):
+@C1 **Landlord:** City of Port Calloway Redevelopment Authority, 75 Municipal Plaza, Port Calloway, Connecticut 06801, Attention: Executive Director; with a copy to Pryor Whitfield & Koss LLP, 55 Courthouse Square, Port Calloway, Connecticut 06801, Attention: Howard Koss, Esq.
+@C1 **Tenant:** Meridian Gateway Holdings LLC, 400 Harborview Drive, Suite 1200, Port Calloway, Connecticut 06801, Attention: Marcus Ellison, Managing Member; with a copy to Hargrove & Linden LLP, 1100 Constitution Avenue, Hartford, Connecticut 06103, Attention: Rebecca Tsang, Esq.
+@C1 **Leasehold Mortgagee:** Bayside Federal Lending Corp., 200 Atlantic Boulevard, Stamford, Connecticut 06902, Attention: Sandra Milliken, Senior Vice President, Commercial Real Estate Lending, or at such other address as the Leasehold Mortgagee may designate in writing, with a copy to the Leasehold Mortgagee's counsel.
+@H2 18.2 Entire Agreement; Amendments
+@P This Lease, together with its Exhibits, supersedes the Term Sheet and all prior and contemporaneous understandings and agreements, written or oral, with respect to its subject matter, and constitutes the entire agreement of the parties. This Lease may be amended only by a written instrument signed by both parties and, if any Leasehold Mortgage is in effect, consented to by each Leasehold Mortgagee in accordance with Section 10.6.
+@H2 18.3 Severability; Reformation
+@P If any provision of this Lease is held invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect, and the invalid or unenforceable provision shall be reformed to the minimum extent necessary to render it valid and enforceable and to give effect to the parties' intent. If a dispute arises as to (a) the CPI or a substitute index, (b) the Occupancy Rate, (c) the Breakpoint, or (d) the allocation of any Award, and the parties cannot resolve it within thirty (30) days, the matter shall be determined by an independent certified public accountant (as to clauses (a) through (c)) or a qualified appraiser (as to clause (d)), jointly selected by the parties, whose determination shall be final and binding and whose fees shall be borne equally.
+@H2 18.4 Binding Effect; Successors
+@P This Lease shall be binding upon and inure to the benefit of the parties and their respective successors, permitted assigns, heirs, and legal representatives. The rights of each Leasehold Mortgagee under Article 10 are intended to be enforceable by such Leasehold Mortgagee as a third-party beneficiary of this Lease.
+@H2 18.5 No Partnership; No Broker
+@P Nothing in this Lease creates a partnership, joint venture, or principal-agent relationship between the parties. Each party represents to the other that it has not dealt with any broker or finder in connection with this Lease, and each party shall indemnify the other against any brokerage claim arising from its own acts.
+@H2 18.6 Survival
+@P The provisions of this Lease that by their nature are intended to survive the expiration or earlier termination of this Lease, including Article 8, Article 10, Section 14.5, Section 16.5, Section 16.9, and this Article 18, shall so survive.
+@H2 18.7 Counterparts; Electronic Signatures
+@P This Lease may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument. Electronic signatures and electronically transmitted signatures shall be as effective as original signatures, provided that the parties shall, upon request, deliver original signature pages for recordation.
+@H2 18.8 Time for Performance
+@P Time is of the essence with respect to Landlord's obligations under this Lease. Time is not of the essence with respect to Tenant's obligations, except as expressly provided in Article 9 and in Section 16.1.
+@H2 18.9 Exhibits
+@P The following Exhibits are attached to and made a part of this Lease: **Exhibit A** (Legal Description of the Premises); **Exhibit B** (Permitted Exceptions); **Exhibit C** (Form of Letter of Credit); **Exhibit D** (Form of SNDA); **Exhibit E** (Project Program); **Exhibit F** (Form of Memorandum of Lease); **Exhibit G** (Form of Estoppel Certificate); and **Exhibit H** (Environmental Reports Index).
+@H2 18.10 Interpretation of Conflicting Provisions
+@P In the event of any conflict between the body of this Lease and any Exhibit, the body of this Lease shall control, except that the legal description in **Exhibit A** shall control as to the boundaries of the Premises and **Exhibit B** shall control as to the Permitted Exceptions. In the event of any conflict between this Lease and the Term Sheet, this Lease shall control.
+@H2 18.11 Authority's Statutory Status
+@P Nothing in this Lease shall be construed to require Landlord to take any action prohibited by its enabling legislation or by Applicable Law, or to pledge the full faith and credit of the City of Port Calloway. Landlord acknowledges, however, that the obligations it has undertaken in this Lease are valid and binding obligations payable from its general funds to the extent provided herein, and that it has obtained all approvals required to undertake them.
+@H2 18.12 Counterpart Execution by the Leasehold Mortgagee
+@P Each Leasehold Mortgagee may, at its election, execute this Lease for the sole purpose of acknowledging Article 10 and Section 17.4, without thereby becoming a party to this Lease or assuming any obligation of Tenant.
+
+@PB
+@CENTERB IN WITNESS WHEREOF, the parties have executed this Ground Lease Agreement as of the date first written above.
+@SIGL LANDLORD:
+@SIG CITY OF PORT CALLOWAY REDEVELOPMENT AUTHORITY,
+@SIG a public body corporate and politic
+@SIG
+@SIG By: ______________________________________
+@SIG Name: Paul Castignetti
+@SIG Title: Executive Director
+@SIG Date: ______________________________
+@SIG
+@SIG Attest: ___________________________________
+@SIG Name: __________________________________
+@SIG Title: Secretary, Board of Commissioners
+@SIG
+@SIG [AFFIX CORPORATE SEAL]
+@SIG
+@SIGL TENANT:
+@SIG MERIDIAN GATEWAY HOLDINGS LLC,
+@SIG a Delaware limited liability company
+@SIG
+@SIG By: ______________________________________
+@SIG Name: Marcus Ellison
+@SIG Title: Managing Member
+@SIG Date: ______________________________
+@PB
+@CENTERB ACKNOWLEDGMENT
+@P STATE OF CONNECTICUT )
+@P COUNTY OF NEW HAVEN ) ss: Port Calloway, Connecticut
+@P On this ____ day of ______________, 2025, before me, the undersigned officer, personally appeared **Paul Castignetti**, who acknowledged himself to be the Executive Director of the **City of Port Calloway Redevelopment Authority**, a public body corporate and politic, and that he, being duly authorized, executed the foregoing instrument for the purposes therein contained, by signing the name of the Authority by himself as Executive Director.
+@P
+@P _______________________________________
+@P Notary Public
+@P My Commission Expires: __________________
+@P
+@P STATE OF CONNECTICUT )
+@P COUNTY OF NEW HAVEN ) ss: Port Calloway, Connecticut
+@P On this ____ day of ______________, 2025, before me, the undersigned officer, personally appeared **Marcus Ellison**, who acknowledged himself to be the Managing Member of **Meridian Gateway Holdings LLC**, a Delaware limited liability company, and that he, as such Managing Member, being duly authorized, executed the foregoing instrument for the purposes therein contained, by signing the name of the limited liability company by himself as Managing Member.
+@P
+@P _______________________________________
+@P Notary Public
+@P My Commission Expires: __________________

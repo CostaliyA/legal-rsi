@@ -1,0 +1,60 @@
+@PB
+@EXH EXHIBIT A
+@CENTERB LEGAL DESCRIPTION OF THE PREMISES
+@P All that certain piece or parcel of land situated in the City of Port Calloway, County of New Haven, State of Connecticut, bounded and described as follows:
+@P BEGINNING at a point at the intersection of the southerly line of Pier Street (a 60-foot public right-of-way) and the easterly line of Harbor Avenue (a 50-foot public right-of-way), said point being the northwest corner of the herein-described parcel, marked by a found 5/8-inch iron rebar;
+@P THENCE running South 78 degrees 15 minutes 30 seconds East along the southerly line of Pier Street, a distance of Four Hundred Thirty-Five and 22/100 feet (435.22') to a point at the northeast corner of the herein-described parcel, said point being on the westerly line of the 15-foot public pedestrian access easement recorded at Volume 395, Page 112 of the Port Calloway Land Records, marked by a found 5/8-inch iron rebar;
+@P THENCE running South 11 degrees 44 minutes 30 seconds West along the westerly line of said pedestrian access easement and along the bulkhead line, a distance of Three Hundred Twenty and 47/100 feet (320.47') to a point at the southeast corner of the herein-described parcel, said point being on the northerly boundary of Assessor's Parcel No. 127-003-0044, marked by a set 5/8-inch iron rebar with aluminum cap stamped "PLS 008741";
+@P THENCE running North 78 degrees 15 minutes 30 seconds West along the northerly line of said Assessor's Parcel No. 127-003-0044, a distance of Four Hundred Thirty-Five and 22/100 feet (435.22') to a point at the southwest corner of the herein-described parcel, said point being on the easterly line of Harbor Avenue, marked by a set 5/8-inch iron rebar with aluminum cap stamped "PLS 008741";
+@P THENCE running North 11 degrees 44 minutes 30 seconds East along the easterly line of Harbor Avenue, a distance of Three Hundred Twenty and 47/100 feet (320.47') to the POINT OF BEGINNING.
+@P Containing 139,392 square feet, or 3.200 acres, more or less, as determined by the Tax Assessor; and containing 139,474.95 square feet, or 3.2019 acres, as computed from the courses and distances set forth above.
+@P Basis of Bearings: Connecticut State Plane Coordinate System, NAD83 (2011), South Zone. Vertical Datum: NAVD88.
+@P Being a portion of the land conveyed to the City of Port Calloway Redevelopment Authority by Final Order of Condemnation recorded in the Port Calloway Land Records, dated June 15, 2012.
+@P As shown on that certain ALTA/NSPS Land Title Survey prepared by Calloway Land Surveyors LLC, Thomas R. Pellegrino, P.L.S., Connecticut License No. PLS-008741, dated April 20, 2025 (plat dated April 28, 2025), Survey Job No. CLS-2025-0417.
+@NOTE The description above is taken from the survey narrative and has been verified to close (closure error 0.00 feet) and to compute to 139,474.95 square feet (3.2019 acres), an 82.95 square foot (0.06%) discrepancy with the Assessor's area of 139,392 square feet. The description appearing in Exhibit A to Title Commitment No. TC-2025-07821 does not close within approximately 1.1 feet and computes to approximately 279,535 square feet (6.417 acres) — approximately double the recited area — and cannot be used. Base Rent under this Lease is a flat dollar amount and is not affected by the area discrepancy.
+
+@PB
+@EXH EXHIBIT B
+@CENTERB PERMITTED EXCEPTIONS
+@P Tenant's leasehold estate is subject to the following matters only:
+@TBL 0.5,4.7|No.~Matter
+@ROW 1~Environmental Land Use Restriction recorded March 22, 2018, at Volume 412, Page 88 of the Port Calloway Land Records, as approved by the Connecticut Department of Energy and Environmental Protection, and as the same may be modified in accordance with Section 3.9.
+@ROW 2~Easement for public utilities (underground electric and sewer), 20 feet in width, along the northern boundary of the Premises (Pier Street frontage), recorded at Volume 388, Page 201 of the Port Calloway Land Records.
+@ROW 3~Easement for public pedestrian access, 15 feet in width, along the eastern boundary of the Premises, recorded at Volume 395, Page 112 of the Port Calloway Land Records.
+@ROW 4~Right of first refusal in favor of Landlord, as recorded at Volume 405, Page 55 of the Port Calloway Land Records and as amended and subordinated pursuant to Section 2.7(d) and Section 11.4, and as limited by this Lease.
+@ROW 5~Affordable housing restrictive covenant recorded at Volume 408, Page 230 of the Port Calloway Land Records, as satisfied by Section 3.6 of this Lease.
+@ROW 6~Real property taxes and assessments for the fiscal year commencing July 1, 2025 and thereafter, not yet due and payable, subject to the Abatement Program.
+@ROW 7~Zoning, land use, building, coastal, wetlands, and flood plain regulations of the City of Port Calloway and the State of Connecticut, and the FEMA Flood Zone AE designation (FIRM Panel No. 09009C0301G, effective January 15, 2020, BFE 12 feet NAVD88).
+@ROW 8~Reservations, if any, arising from the 2012 condemnation of the Premises by Landlord, to the extent validly existing and of record, and excluding any reversionary interest or right of reverter (see Section 15.1(e)).
+@ROW 9~The Leasehold Mortgage(s) granted by Tenant and the SNDA.
+@P **Expressly excluded from the Permitted Exceptions:** (a) the Mechanics' Lien filed by Calloway Marine Demolition Inc. on April 3, 2025 in the amount of $187,500, recorded at Volume 418, Page 302 of the Port Calloway Land Records, which Landlord is obligated to discharge or bond off under Section 15.4; (b) any right of first refusal not amended and subordinated as required by Section 2.7(d); and (c) any lien, encumbrance, or exception created by, through, or under Landlord after the effective date of Title Commitment No. TC-2025-07821 other than those approved in writing by Tenant.
+
+@PB
+@EXH EXHIBIT C
+@CENTERB FORM OF IRREVOCABLE STANDBY LETTER OF CREDIT
+@P [To be attached. The form shall: (a) be irrevocable; (b) be payable at sight upon presentation of a sight draft and a certificate of the beneficiary stating that the beneficiary is entitled to draw under the Ground Lease; (c) be issued by a bank meeting the requirements of Section 7.2; (d) provide for partial drawings and reinstatement; (e) provide for automatic extension for successive one-year periods absent sixty (60) days' prior written notice of non-renewal; (f) state the expiry date as one (1) year after the date of issuance plus any automatic extension period; (g) be transferable to a successor fee owner or to a Leasehold Mortgagee at no cost; (h) be subject to amendment to reduce the stated amount in accordance with Section 7.4; and (i) be governed by ISP98 or UCP 600, as stated therein.]
+
+@PB
+@EXH EXHIBIT D
+@CENTERB FORM OF SUBORDINATION, NON-DISTURBANCE, AND ATTORNMENT AGREEMENT
+@P [To be attached. The form shall be executed by Landlord, Tenant, and each Leasehold Mortgagee, shall be recordable, and shall include, at a minimum: (a) Landlord's acknowledgment of the Leasehold Mortgage and its priority; (b) Landlord's agreement not to disturb the Leasehold Mortgagee's security interest or the rights of any purchaser at foreclosure, and to recognize the Leasehold Mortgagee or its designee as Tenant upon the same terms as this Lease; (c) the New Lease right under Section 10.5; (d) the notice and Lender Cure Period provisions of Sections 10.2 and 10.3; (e) the prohibition on surrender, amendment, or termination without the Leasehold Mortgagee's consent under Section 10.6; (f) the foreclosure and assignment rights under Section 10.7; (g) the application of insurance and condemnation proceeds under Article 12 and Section 13.4; (h) the Leasehold Mortgagee's rights in respect of the Security Deposit under Section 7.6; and (i) such additional provisions as any Leasehold Mortgagee may reasonably require.]
+
+@PB
+@EXH EXHIBIT E
+@CENTERB PROJECT PROGRAM
+@P The following minimum development program is a condition of this Lease. Figures marked [●] are not established in the Term Sheet or in any other document in the project record and must be established by agreement of the parties before execution of this Lease.
+@TBL 2.1,3.1|Component~Minimum Requirement
+@ROW Residential Tower~Residential rental building of approximately 28 stories; not less than [●] dwelling units; located on floors 2 through 28; ground floor to contain retail, lobby, amenity, mechanical, and parking uses only (Section 3.9).
+@ROW Affordable Housing Units~Not less than 15% of dwelling units (not less than [●] units), at or below 80% of AMI, located above the ground floor (Section 3.6).
+@ROW Office Building~Class A office building of approximately 6 stories; not less than [●] square feet of Rentable Area.
+@ROW Retail~Ground-floor retail distributed along Pier Street, Harbor Avenue, and the waterfront promenade; not less than [●] square feet.
+@ROW Parking~Accessory structured and/or below-grade parking sufficient to satisfy WRD-3 requirements; not less than [●] spaces, of which not less than [●] shall be reserved for the Residential Tower.
+@ROW Public Open Space~Not less than 8,000 square feet of publicly accessible open space on the waterfront side, connected to the public promenade, maintained by Tenant (Section 3.7).
+@ROW Bulkhead~Rehabilitation or replacement of approximately 480 linear feet of bulkhead, to the extent required by the structural engineering assessment under Section 8.9.
+@ROW Phasing~Phase 1: Residential Tower and ground-floor retail (Milestone 3). Phase 2: Office Building (Milestone 4).
+@P The Project Program may include such additional components as Tenant determines, provided that no change reduces a minimum requirement set forth above. Tenant shall deliver the final construction drawings and specifications to Landlord for informational purposes within thirty (30) days after the issuance of the final building permit.
+
+@PB
+@EXH EXHIBIT F
+@CENTERB FORM OF MEMORANDUM OF LEASE
+@P [To be attached. The Memorandum of Lease shall be recordable, shall identify the parties, the Premises (by the description in Exhibit A), the Term, the Commencement Date, the Expiration Date, the options (none), the Permitted Exceptions, the provisions of Article 10, Section 11.4, Section 15.7, and the prohibition on transfer without compliance with Article 11, and shall include a provision that the Lease may be recorded by either party.]

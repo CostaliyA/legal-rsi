@@ -1,0 +1,427 @@
+{
+  "manifest": {
+    "description": "One unseen real-estate draft source x4 and two held-out real-estate draft tasks x4 per parent/trial snapshot.",
+    "train": [
+      "real-estate/draft-ground-lease"
+    ],
+    "test": [
+      "real-estate/draft-loan-agreement",
+      "real-estate/draft-mortgage-and-security-agreement"
+    ]
+  },
+  "parent_snapshot_id": "harvey-seed30-v0001-07465a80603a",
+  "trial_snapshot_id": "harvey-seed30-v0001-trial-aac6da3d6815-278dca0ca4f9",
+  "candidate_id": "aac6da3d6815c56fd3ef",
+  "writer_valid_candidates": 7,
+  "writer_conflict_edges": 3,
+  "sides": {
+    "train": {
+      "count": 4,
+      "all_pass": 0,
+      "task_rows": {
+        "real-estate/draft-ground-lease": [
+          {
+            "sample": 1,
+            "A": false,
+            "Q": 0.8955223880597015,
+            "U": 0.17910447761194032,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "2572f3128d20d9bba80ae6a882b91d61dcfbc2b160c4e2ec2b59d901d4fe4cec",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/train/01-real-estate__draft-ground-lease/sample-01"
+          },
+          {
+            "sample": 2,
+            "A": false,
+            "Q": 0.8805970149253731,
+            "U": 0.17611940298507464,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "2572f3128d20d9bba80ae6a882b91d61dcfbc2b160c4e2ec2b59d901d4fe4cec",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/train/01-real-estate__draft-ground-lease/sample-02"
+          },
+          {
+            "sample": 3,
+            "A": false,
+            "Q": 0.8805970149253731,
+            "U": 0.17611940298507464,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "2572f3128d20d9bba80ae6a882b91d61dcfbc2b160c4e2ec2b59d901d4fe4cec",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/train/01-real-estate__draft-ground-lease/sample-03"
+          },
+          {
+            "sample": 4,
+            "A": false,
+            "Q": 0.9253731343283582,
+            "U": 0.18507462686567167,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "2572f3128d20d9bba80ae6a882b91d61dcfbc2b160c4e2ec2b59d901d4fe4cec",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/train/01-real-estate__draft-ground-lease/sample-04"
+          }
+        ]
+      }
+    },
+    "test_old": {
+      "count": 8,
+      "all_pass": 0,
+      "task_rows": {
+        "real-estate/draft-mortgage-and-security-agreement": [
+          {
+            "sample": 1,
+            "A": false,
+            "Q": 0.9565217391304348,
+            "U": 0.19130434782608696,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "53b13f59dbfe285a353d4b320559fd27b0ce9e1570271bb6a713168a0bdbbc6f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-01"
+          },
+          {
+            "sample": 2,
+            "A": false,
+            "Q": 0.9456521739130435,
+            "U": 0.18913043478260871,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "53b13f59dbfe285a353d4b320559fd27b0ce9e1570271bb6a713168a0bdbbc6f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-02"
+          },
+          {
+            "sample": 3,
+            "A": false,
+            "Q": 0.9347826086956522,
+            "U": 0.18695652173913047,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "53b13f59dbfe285a353d4b320559fd27b0ce9e1570271bb6a713168a0bdbbc6f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-03"
+          },
+          {
+            "sample": 4,
+            "A": false,
+            "Q": 0.9891304347826086,
+            "U": 0.19782608695652174,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "53b13f59dbfe285a353d4b320559fd27b0ce9e1570271bb6a713168a0bdbbc6f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/02-real-estate__draft-mortgage-and-security-agreement/sample-04"
+          }
+        ],
+        "real-estate/draft-loan-agreement": [
+          {
+            "sample": 1,
+            "A": false,
+            "Q": 0.9642857142857143,
+            "U": 0.19285714285714287,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "a6882c0a7596e9aa868f14f93b83fbe30a9ac79065dcf8a6fbac47cff6f4914f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/01-real-estate__draft-loan-agreement/sample-01"
+          },
+          {
+            "sample": 2,
+            "A": false,
+            "Q": 0.9523809523809523,
+            "U": 0.19047619047619047,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "a6882c0a7596e9aa868f14f93b83fbe30a9ac79065dcf8a6fbac47cff6f4914f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/01-real-estate__draft-loan-agreement/sample-02"
+          },
+          {
+            "sample": 3,
+            "A": false,
+            "Q": 0.9523809523809523,
+            "U": 0.19047619047619047,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "a6882c0a7596e9aa868f14f93b83fbe30a9ac79065dcf8a6fbac47cff6f4914f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/01-real-estate__draft-loan-agreement/sample-03"
+          },
+          {
+            "sample": 4,
+            "A": false,
+            "Q": 0.9642857142857143,
+            "U": 0.19285714285714287,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "dom-real-estate-review"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+            ],
+            "selection_key": "a6882c0a7596e9aa868f14f93b83fbe30a9ac79065dcf8a6fbac47cff6f4914f",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_old/01-real-estate__draft-loan-agreement/sample-04"
+          }
+        ]
+      }
+    },
+    "test_new": {
+      "count": 8,
+      "all_pass": 0,
+      "task_rows": {
+        "real-estate/draft-mortgage-and-security-agreement": [
+          {
+            "sample": 1,
+            "A": false,
+            "Q": 0.967391304347826,
+            "U": 0.1934782608695652,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "bc9f93c3a15b8bcebd00976623bccf948be6742fe4506493497fed4486d873f8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-01"
+          },
+          {
+            "sample": 2,
+            "A": false,
+            "Q": 0.9565217391304348,
+            "U": 0.19130434782608696,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "bc9f93c3a15b8bcebd00976623bccf948be6742fe4506493497fed4486d873f8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-02"
+          },
+          {
+            "sample": 3,
+            "A": false,
+            "Q": 0.9565217391304348,
+            "U": 0.19130434782608696,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "bc9f93c3a15b8bcebd00976623bccf948be6742fe4506493497fed4486d873f8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-03"
+          },
+          {
+            "sample": 4,
+            "A": false,
+            "Q": 0.9565217391304348,
+            "U": 0.19130434782608696,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "bc9f93c3a15b8bcebd00976623bccf948be6742fe4506493497fed4486d873f8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/02-real-estate__draft-mortgage-and-security-agreement/sample-04"
+          }
+        ],
+        "real-estate/draft-loan-agreement": [
+          {
+            "sample": 1,
+            "A": false,
+            "Q": 0.9642857142857143,
+            "U": 0.19285714285714287,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "56eb7a569cc93b92a3bba68a133c364c5411f2e76fd9ba1c5daf071db7ef1ec8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/01-real-estate__draft-loan-agreement/sample-01"
+          },
+          {
+            "sample": 2,
+            "A": false,
+            "Q": 0.9285714285714286,
+            "U": 0.18571428571428572,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "56eb7a569cc93b92a3bba68a133c364c5411f2e76fd9ba1c5daf071db7ef1ec8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/01-real-estate__draft-loan-agreement/sample-02"
+          },
+          {
+            "sample": 3,
+            "A": false,
+            "Q": 0.9404761904761905,
+            "U": 0.1880952380952381,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "56eb7a569cc93b92a3bba68a133c364c5411f2e76fd9ba1c5daf071db7ef1ec8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/01-real-estate__draft-loan-agreement/sample-03"
+          },
+          {
+            "sample": 4,
+            "A": false,
+            "Q": 0.9761904761904762,
+            "U": 0.19523809523809524,
+            "selected_ids": [
+              "gen-source-grounded-review",
+              "draft-source-grounded-instrument",
+              "draft-real-estate-instrument"
+            ],
+            "selected_hashes": [
+              "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+              "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+              "54e76baf2027db4520af732275cbb5feb9c52a6e055f64a24d6382367660c81f"
+            ],
+            "selection_key": "56eb7a569cc93b92a3bba68a133c364c5411f2e76fd9ba1c5daf071db7ef1ec8",
+            "run_dir": "examples/skill_evolving/results/20261029_one_epoch_1x2/test_new/01-real-estate__draft-loan-agreement/sample-04"
+          }
+        ]
+      }
+    }
+  },
+  "reward_task_means": {
+    "real-estate/draft-loan-agreement": {
+      "old": 0.19166666666666665,
+      "new": 0.19047619047619047,
+      "delta": -0.0011904761904761862,
+      "retrieval_changed": 4
+    },
+    "real-estate/draft-mortgage-and-security-agreement": {
+      "old": 0.19130434782608696,
+      "new": 0.19184782608695652,
+      "delta": 0.0005434782608695621,
+      "retrieval_changed": 4
+    }
+  },
+  "all_feedback_verified": true,
+  "all_router_choices_consistent": true,
+  "published": false,
+  "old_mean": 0.1914855072463768,
+  "new_mean": 0.19116200828157348,
+  "delta": -0.00032349896480332596
+}

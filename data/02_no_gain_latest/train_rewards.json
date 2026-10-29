@@ -1,0 +1,42 @@
+[
+  {
+    "task_id": "real-estate/draft-ground-lease",
+    "run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-01",
+    "snapshot_id": "harvey-seed30-v0001-07465a80603a",
+    "reward_task": 0.17910447761194032,
+    "all_pass": false,
+    "score": 0.0,
+    "max_score": 1.0,
+    "scores_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-01/scores.json"
+  },
+  {
+    "task_id": "real-estate/draft-ground-lease",
+    "run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-02",
+    "snapshot_id": "harvey-seed30-v0001-07465a80603a",
+    "reward_task": 0.17611940298507464,
+    "all_pass": false,
+    "score": 0.0,
+    "max_score": 1.0,
+    "scores_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-02/scores.json"
+  },
+  {
+    "task_id": "real-estate/draft-ground-lease",
+    "run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-03",
+    "snapshot_id": "harvey-seed30-v0001-07465a80603a",
+    "reward_task": 0.17611940298507464,
+    "all_pass": false,
+    "score": 0.0,
+    "max_score": 1.0,
+    "scores_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-03/scores.json"
+  },
+  {
+    "task_id": "real-estate/draft-ground-lease",
+    "run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-04",
+    "snapshot_id": "harvey-seed30-v0001-07465a80603a",
+    "reward_task": 0.18507462686567167,
+    "all_pass": false,
+    "score": 0.0,
+    "max_score": 1.0,
+    "scores_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/train/01-real-estate__draft-ground-lease/sample-04/scores.json"
+  }
+]

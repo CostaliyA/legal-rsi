@@ -1,0 +1,78 @@
+{
+  "task_id": "real-estate/draft-mortgage-and-security-agreement",
+  "operation_pattern": "draft",
+  "legal_domain": "real-estate",
+  "skill_snapshot_id": "harvey-seed30-v0001-07465a80603a",
+  "retrieved_skill_ids": [
+    "gen-source-grounded-review",
+    "draft-source-grounded-instrument",
+    "dom-real-estate-review"
+  ],
+  "retrieved_skill_hashes": [
+    "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+    "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+    "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+  ],
+  "retrieval_scores": [
+    0.4157985478864593,
+    0.39117177857495455,
+    0.3811642381182875
+  ],
+  "retrieval_mode": "hybrid_router",
+  "router_record": {
+    "router_version": "router-rule-v1",
+    "router_instructions": "Choose at most three applicable task skills after hard operation/domain/exclusion filters; avoid declared incompatible pairs and repeated guidance; obey the context budget.",
+    "index_version": "hash-words-char3-v1-d07e7782a80e",
+    "selection_key": "53b13f59dbfe285a353d4b320559fd27b0ce9e1570271bb6a713168a0bdbbc6f",
+    "candidate_ids": [
+      "gen-source-grounded-review",
+      "draft-source-grounded-instrument",
+      "dom-real-estate-review"
+    ],
+    "candidate_hashes": [
+      "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+      "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+      "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+    ],
+    "candidate_scores": [
+      0.4157985478864593,
+      0.39117177857495455,
+      0.3811642381182875
+    ],
+    "selected_ids": [
+      "gen-source-grounded-review",
+      "draft-source-grounded-instrument",
+      "dom-real-estate-review"
+    ],
+    "selected_hashes": [
+      "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+      "338fc85ffc9249da84b1806573b5f68fec085c4a9a1f4cea547aea3b58db903c",
+      "3507eab0051f72fd54bdec7e7bf857ac4f4ea40d5b526e653d75e291aaf2a170"
+    ],
+    "selected_reasons": {
+      "gen-source-grounded-review": "highest compatible hybrid rank",
+      "draft-source-grounded-instrument": "highest compatible hybrid rank",
+      "dom-real-estate-review": "highest compatible hybrid rank"
+    },
+    "rejected": [],
+    "estimated_token_cost": 1130,
+    "token_budget": 1500,
+    "fallback": false,
+    "cache_hit": true
+  },
+  "max_tool_response_chars": 65536,
+  "finished": true,
+  "api_test_only": true,
+  "native_policy_token_ids_available": false,
+  "native_old_log_probs_available": false,
+  "verl_state_machine": "ToolAgentLoop.run",
+  "model": "deepseek-flash",
+  "temperature": 0.7,
+  "usage": {
+    "input_tokens": 11458137,
+    "output_tokens": 150686
+  },
+  "turn_count": 73,
+  "sample_index": 2,
+  "split": "test"
+}

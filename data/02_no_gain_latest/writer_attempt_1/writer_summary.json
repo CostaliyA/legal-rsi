@@ -1,0 +1,57 @@
+[
+  {
+    "index": 1,
+    "status": "invalid",
+    "error": "ADD needs a new skill ID and no target",
+    "path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-01-invalid.json"
+  },
+  {
+    "index": 2,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-02-aac6da3d6815c56fd3ef.json",
+    "candidate_id": "aac6da3d6815c56fd3ef",
+    "action": "ADD"
+  },
+  {
+    "index": 3,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-03-8ae56979a9dd885f7ab4.json",
+    "candidate_id": "8ae56979a9dd885f7ab4",
+    "action": "ADD"
+  },
+  {
+    "index": 4,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-04-e1fc7e3c83b40409faa5.json",
+    "candidate_id": "e1fc7e3c83b40409faa5",
+    "action": "ADD"
+  },
+  {
+    "index": 5,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-05-b27210bb60ed2737985c.json",
+    "candidate_id": "b27210bb60ed2737985c",
+    "action": "ADD"
+  },
+  {
+    "index": 6,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-06-01825513a38f64979f08.json",
+    "candidate_id": "01825513a38f64979f08",
+    "action": "ADD"
+  },
+  {
+    "index": 7,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-07-994db79982486c08e087.json",
+    "candidate_id": "994db79982486c08e087",
+    "action": "ADD"
+  },
+  {
+    "index": 8,
+    "status": "valid",
+    "candidate_path": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_one_epoch_1x2_20261029/writer_attempt_1/candidate-08-ddaaa04a1f864184503d.json",
+    "candidate_id": "ddaaa04a1f864184503d",
+    "action": "ADD"
+  }
+]

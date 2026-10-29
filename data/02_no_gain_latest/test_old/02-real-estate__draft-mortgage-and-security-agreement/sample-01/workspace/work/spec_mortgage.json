@@ -1,0 +1,11 @@
+{
+ "If to Mortgagee:": {"w": [3.2, 3.3], "f": 9.5},
+ "No. | Permitted Exception": {"w": [0.55, 5.95], "f": 9.5},
+ "Line Item | Description": {"w": [0.6, 2.8, 1.05, 1.15, 0.95], "f": 8.5},
+ "Month | Approx. Date": {"w": [0.45, 1.0, 0.75, 0.75, 0.9, 0.9, 0.9], "f": 8.5},
+ "Unit | Floor / Use": {"w": [1.05, 0.95, 0.6, 1.85, 0.8, 0.75, 0.75], "f": 8.5},
+ "Unit | Rent/SF": {"w": [2.5, 0.75, 1.05, 1.1, 0.9], "f": 8.5},
+ "Requirement | Description": {"w": [1.5, 5.0], "f": 9.5},
+ "Step | Action": {"w": [0.4, 3.0, 1.35, 1.25], "f": 8.5},
+ "Matter | Information": {"w": [1.5, 5.0], "f": 9.5}
+}

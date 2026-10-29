@@ -1,0 +1,214 @@
+{
+  "version": "harvey-seed-v0001",
+  "skills": [
+    {
+      "id": "gen-source-grounded-review",
+      "title": "Source-grounded document review and deliverable assembly",
+      "summary": "A reusable workflow for legal and professional document tasks that begins with a complete source inventory, maintains traceability to source documents, independently checks computations and cross-references, and validates the final deliverable before completion.",
+      "instructions": [
+        "Inventory the workspace and identify governing instructions, source documents, ancillary materials, and the required deliverable format before beginning analysis.",
+        "Read each source in full and maintain a source-to-issue log that records where each material proposition, figure, date, or obligation appears.",
+        "Separate extracted facts, assumptions, legal characterizations, open questions, and recommendations so the deliverable does not blend them.",
+        "Recompute every stated total, date interval, threshold, and cross-reference with an independent check rather than relying on summaries or prior calculations.",
+        "Draft the deliverable from the verified issue log, using defined terms consistently and identifying unresolved conflicts or missing documents.",
+        "Validate the final output for completeness, source support, internal consistency, cross-references, formatting, and expressly flagged open issues before finishing."
+      ],
+      "triggers": [
+        "Multi-document legal or professional review tasks",
+        "Requests to produce a memorandum, report, register, or analysis from source materials"
+      ],
+      "exclusions": [
+        "Tasks requiring only a single factual lookup",
+        "Requests for general legal advice outside document analysis"
+      ]
+    },
+    {
+      "id": "pat-extract-structured-record",
+      "title": "Structured extraction from legal and business records",
+      "summary": "A cross-case procedure for extracting specified data points from multiple documents into a structured register or report while preserving source traceability and reconciling inconsistent values.",
+      "instructions": [
+        "Define the extraction schema from the request, including entities, fields, periods, units, required source references, and output format.",
+        "Locate every source that may contain each field, distinguishing primary documents from summaries, schedules, certificates, and indexes.",
+        "Extract values with precision, preserving original wording, qualifiers, defined terms, units, and document locations.",
+        "Normalize formats only after preserving the original expression, and mark inferred, missing, or illegible values rather than silently filling them.",
+        "Reconcile duplicate or conflicting values by identifying the controlling source, explaining the basis for reconciliation, or flagging the conflict for follow-up.",
+        "Populate the deliverable from the verified extraction set and cross-check counts, totals, references, and completeness before finalizing."
+      ],
+      "triggers": [
+        "Requests to build a findings register, data room index, schedule, comparison table, or extraction report",
+        "Multi-document due diligence, audit, or records-review extraction tasks"
+      ],
+      "exclusions": [
+        "Tasks whose primary goal is legal issue identification rather than data capture",
+        "Single-document summarization without structured fields"
+      ],
+      "level": "specific",
+      "subtype": "pattern",
+      "operation_pattern": "extract",
+      "legal_domain": null
+    },
+    {
+      "id": "pat-identify-issues",
+      "title": "Issue identification and risk analysis from document sets",
+      "summary": "A cross-case procedure for systematically identifying legal, factual, and commercial issues across a document set, testing apparent concerns against source materials, and presenting prioritized analysis with citations.",
+      "instructions": [
+        "Read the full record and map parties, instruments, dates, obligations, conditions, and decision points before forming issue hypotheses.",
+        "Build an issue log that records each issue, its source support, affected parties, severity, and any follow-up needed.",
+        "Test each apparent issue against governing documents and cross-references, and discard or downgrade concerns that are unsupported or immaterial.",
+        "Trace issues through related documents to detect inconsistent terms, missing consents, unmet conditions, timing problems, and unexplained gaps.",
+        "Rank issues using explicit criteria and distinguish observed facts, legal characterization, assumptions, and recommendations.",
+        "Verify that every issue in the deliverable is supported by a cited source or clearly labeled as an open question or assumption."
+      ],
+      "triggers": [
+        "Requests for legal memoranda, risk reviews, issue lists, or diligence findings",
+        "Multi-document review requiring prioritized concerns and analysis"
+      ],
+      "exclusions": [
+        "Routine data extraction with no analysis requested",
+        "Tasks limited to proofreading or formatting"
+      ],
+      "level": "specific",
+      "subtype": "pattern",
+      "operation_pattern": "identify",
+      "legal_domain": null
+    },
+    {
+      "id": "dom-real-estate-review",
+      "title": "Real estate document review checks",
+      "summary": "A real estate review procedure for leases, estoppels, rent rolls, title and encumbrance materials, and transaction documents, with explicit checks for premises, money, dates, consents, and cross-document consistency.",
+      "instructions": [
+        "Inventory property, lease, title, survey, estoppel, rent roll, and transaction documents, and identify the controlling instrument for each issue.",
+        "Verify legal descriptions, premises, unit or acreage figures, allocations, and measurement bases against source schedules and independent arithmetic.",
+        "Reconcile lease abstracts, rent rolls, estoppels, and underlying leases for parties, term, rent, escalations, options, and encumbrances.",
+        "Check title and encumbrance items against transaction requirements and identify required consents, releases, subordination, or estoppel documents.",
+        "Compute date-dependent obligations and prorations independently, and flag ambiguities in commencement, expiration, notice, or closing timing.",
+        "Confirm that every property-level conclusion is tied to a specific document and that missing, inconsistent, or unverified items are expressly flagged."
+      ],
+      "triggers": [
+        "Lease, estoppel, rent roll, title, survey, or purchase agreement review",
+        "Real estate due diligence and closing checklist preparation"
+      ],
+      "exclusions": [
+        "Standalone land-use or zoning policy research",
+        "Property marketing material review without source documents"
+      ],
+      "level": "specific",
+      "subtype": "legal_domain",
+      "operation_pattern": null,
+      "legal_domain": "real-estate"
+    },
+    {
+      "id": "dom-insurance-review",
+      "title": "Insurance policy and coverage review checks",
+      "summary": "An insurance review procedure for policies, endorsements, schedules, certificates, and claims materials, with explicit checks for coverage grants, exclusions, limits, conditions, notice obligations, and document consistency.",
+      "instructions": [
+        "Identify policy forms, endorsements, schedules, certificates, claims materials, and diligence instructions, and determine the order of precedence among them.",
+        "Extract insureds, coverage grants, limits, sublimits, retentions, deductibles, periods, territories, and conditions using a consistent schema.",
+        "Test coverage against exclusions, definitions, conditions, and endorsements by reading the interacting provisions together rather than in isolation.",
+        "Compare schedules and certificates to policy forms and flag mismatches, missing endorsements, or unexplained gaps.",
+        "Check notice, claims, cancellation, renewal, and reporting obligations against the relevant dates and operational facts.",
+        "Distinguish coverage analysis from unverified assumptions, and escalate ambiguous wording or missing documents for review."
+      ],
+      "triggers": [
+        "Policy, certificate, schedule, or claims review",
+        "Insurance diligence and coverage gap analysis"
+      ],
+      "exclusions": [
+        "Actuarial pricing or reserving analysis",
+        "Marketing summaries without policy documents"
+      ],
+      "level": "specific",
+      "subtype": "legal_domain",
+      "operation_pattern": null,
+      "legal_domain": "insurance"
+    },
+    {
+      "id": "dom-corporate-ma-review",
+      "title": "Corporate transaction document review checks",
+      "summary": "A corporate transaction review procedure for agreements, disclosure schedules, corporate records, and financial schedules, with explicit checks for deal mechanics, conditions, representations, and cross-document consistency.",
+      "instructions": [
+        "Map the transaction structure, parties, key agreements, and sequence of signing, delivery, and closing.",
+        "Extract and reconcile economic terms, purchase price mechanics, adjustments, escrows, earnouts, and payment conditions.",
+        "Check representations, warranties, covenants, conditions, termination rights, and indemnities against disclosure schedules and ancillary documents.",
+        "Verify corporate authority, capitalization, ownership, consents, and required filings using primary records rather than summaries.",
+        "Recalculate date intervals, thresholds, baskets, caps, and adjustment formulas, and flag ambiguous definitions or circular references.",
+        "Trace each material issue to the operative clause and schedule, distinguishing drafting gaps from business points requiring negotiation."
+      ],
+      "triggers": [
+        "Merger, acquisition, investment, or corporate reorganization document review",
+        "Diligence and signing or closing checklist preparation"
+      ],
+      "exclusions": [
+        "Standalone valuation or financial modeling",
+        "Litigation merits analysis outside transaction documents"
+      ],
+      "level": "specific",
+      "subtype": "legal_domain",
+      "operation_pattern": null,
+      "legal_domain": "corporate-ma"
+    },
+    {
+      "id": "dom-employment-labor-review",
+      "title": "Employment and labor document review checks",
+      "summary": "An employment and labor review procedure for agreements, policies, handbooks, separation or settlement materials, and workforce data, with explicit checks for classification, compensation, obligations, and procedural requirements.",
+      "instructions": [
+        "Identify the employment instruments, policies, workforce data, and procedural rules governing the review.",
+        "Extract party roles, compensation, benefits, term, termination, restrictive covenants, confidentiality, and dispute-resolution terms into a comparison matrix.",
+        "Test worker classification, exemption status, pay computations, leave, and scheduling issues against the stated facts and applicable instruments.",
+        "Check policy acknowledgments, handbook provisions, notice, investigation, and separation procedures for consistency and missing steps.",
+        "Recompute wages, accruals, severance, or settlement figures independently and reconcile them with payroll or workforce schedules.",
+        "Flag legal conclusions that depend on jurisdiction or missing facts, and keep factual findings separate from recommendations."
+      ],
+      "triggers": [
+        "Employment agreement, handbook, policy, or separation review",
+        "Workforce compliance and labor diligence tasks"
+      ],
+      "exclusions": [
+        "Immigration casework",
+        "Benefits plan actuarial analysis"
+      ],
+      "level": "specific",
+      "subtype": "legal_domain",
+      "operation_pattern": null,
+      "legal_domain": "employment-labor"
+    },
+    {
+      "id": "dom-litigation-dispute-resolution-review",
+      "title": "Litigation and dispute document review checks",
+      "summary": "A litigation and dispute-resolution review procedure for pleadings, contracts, correspondence, evidence, and procedural materials, with explicit checks for chronology, issue mapping, procedural compliance, and source support without asserting merits outcomes.",
+      "instructions": [
+        "Inventory pleadings, orders, contracts, correspondence, evidence, and procedural materials, and identify missing portions of the record.",
+        "Build a chronology with document citations for events, communications, filings, deadlines, and procedural milestones.",
+        "Map claims, defenses, elements, requested relief, and disputed facts to supporting and contrary evidence.",
+        "Check contractual prerequisites, notice, limitation periods, jurisdiction, arbitration, and procedural compliance against the record.",
+        "Distinguish admitted facts, disputed allegations, inferences, and legal argument, and avoid merits conclusions that lack record support.",
+        "Verify quotations, citations, dates, and cross-references, and label gaps or assumptions for follow-up."
+      ],
+      "triggers": [
+        "Litigation, arbitration, or dispute-resolution document review",
+        "Case chronology, issue list, or evidence matrix preparation"
+      ],
+      "exclusions": [
+        "Predicting case outcomes without a complete record",
+        "Pure legal research without case documents"
+      ],
+      "level": "specific",
+      "subtype": "legal_domain",
+      "operation_pattern": null,
+      "legal_domain": "litigation-dispute-resolution"
+    }
+  ],
+  "bootstrap_source_runs": [
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/01-real-estate__extract-encumbrances-from-title-survey",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/02-real-estate__identify-issues-in-estoppel-certificate",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/03-insurance__extract-insurance-policy-terms",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/04-insurance__identify-issues-in-coverage-denial-letter",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/05-corporate-ma__extract-closing-conditions",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/06-corporate-ma__identify-issues-in-commitment-letter",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/07-employment-labor__extract-restrictive-covenant-terms-from-executive-employment-agreement",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/08-employment-labor__identify-issues-in-counterparty-settlement-proposal",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/09-litigation-dispute-resolution__extract-key-admissions-from-deposition-transcript",
+    "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_10x5_20261028/initial/10-litigation-dispute-resolution__identify-issues-in-counterparty-interrogatories"
+  ],
+  "status": "provisional_seed"
+}

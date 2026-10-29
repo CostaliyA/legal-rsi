@@ -1,0 +1,14 @@
+{
+  "task_id": "real-estate/extract-conditions-from-zoning-approval",
+  "old_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "new_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "old_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/validation/01-real-estate__extract-conditions-from-zoning-approval/old",
+  "new_run_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate/validation/01-real-estate__extract-conditions-from-zoning-approval/new",
+  "old_reward_task": 0.17872340425531916,
+  "new_reward_task": 0.18297872340425533,
+  "delta_api": 0.004255319148936176,
+  "old_all_pass": false,
+  "new_all_pass": false,
+  "old_turn_count": 57,
+  "new_turn_count": 85
+}

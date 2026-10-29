@@ -1,0 +1,408 @@
+{
+  "task_id": "real-estate/draft-ground-lease",
+  "judge_model": "deepseek-flash",
+  "criteria_results": [
+    {
+      "id": "C-001",
+      "title": "ISSUE_001: Memo identifies ELUR conflict with ground-floor residential use",
+      "verdict": "pass",
+      "reasoning": "The memo expressly identifies the conflict. Part 6.3 ('ELUR: the ground-floor residential prohibition against a ground-floor residential program') states that the ELUR prohibits residential use on the ground floor because near-surface soils exceed the Residential Direct Exposure Criteria, and juxtaposes it against Term Sheet § 4(a)'s inclusion of 'ground-floor residential lobby and amenity spaces (fitness center, package room, resident lounge, and leasing office)' and 'residential apartments' without a floor restriction. The conflict is also captured in the Top-Risk Register (item 8) and Conflict Register entry C15, and the ELUR is identified at Volume 412, Page 88 in Appendix 1 and in the diligence requests. Drafting responses (§§ 7.8, 14.5, 15.2) and a DEEP interpretation request are also prescribed."
+    },
+    {
+      "id": "C-002",
+      "title": "ISSUE_001: Lease defines permitted residential use to exclude ground-floor habitable space",
+      "verdict": "pass",
+      "reasoning": "The draft squarely addresses the ELUR ground-floor restriction. Section 7.8 ('Ground-Floor Uses; ELUR Interpretation') expressly identifies the ELUR's prohibition on ground-floor residential use and the interpretive ambiguity as to whether non-habitable ancillary spaces (residential lobby, mail room, package room, resident lounge, fitness center, leasing office) count as 'residential use,' and it treats such ancillary spaces plus ground-floor retail/commercial as permitted under the Lease (with a DEEP interpretation process and redesign fallback). Section 7.8(c) states affirmatively that 'Tenant's design shall place all dwelling units on floors two (2) and above.' Section 15.2 (Permitted Uses) allows 'residential lobby and amenity spaces ... at the ground-floor level, subject to Section 7.8' while permitting residential apartments generally, and Section 14.5(c) requires affordable dwelling units to be located only on floors two and above 'consistent with the ELUR.' Exhibit B, Part 1 flags the ELUR ban on ground-floor residential use and cross-references Section 7.8. The lease therefore distinguishes habitable dwelling units (restricted to upper floors) from non-habitable ground-floor lobby/amenity space, satisfying the criterion."
+    },
+    {
+      "id": "C-003",
+      "title": "ISSUE_001: Affordable housing units specified for upper floors only",
+      "verdict": "pass",
+      "reasoning": "Section 14.5(c) of the lease expressly provides that affordable units 'shall be located only on floors two (2) and above (consistent with the ELUR),' and Section 7.8(c) reinforces that all dwelling units are placed on floors two and above. This satisfies the criterion requiring the lease to specify upper-floor placement of the 15% affordable units consistent with the ELUR's ground-floor residential use prohibition."
+    },
+    {
+      "id": "C-004",
+      "title": "ISSUE_002: Memo identifies mechanics' lien as title defect requiring resolution",
+      "verdict": "pass",
+      "reasoning": "The memo expressly identifies the mechanics' lien in multiple places. Top-risk register item 4 states: \"Mechanics' lien ($187,500, Calloway Marine Demolition)\" and explains that Title Requirement 7 bars any policy until discharged, that the Term Sheet wrongly lists it as a Permitted Exception, and that it must be discharged. Part 6.6 is devoted to the lien, citing the $187,500 amount, Calloway Marine Demolition Inc., recording at Vol. 418, Pg. 302, and the title company's refusal to insure until satisfied. Appendix 1 and the deviation schedule (item 25) also record it, and Draft Lease §§ 2.3(h) and 2.9(a) make discharge/bonding a condition precedent at Landlord's cost. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-005",
+      "title": "ISSUE_002: Lease requires Authority to discharge mechanics' lien as condition precedent or provides indemnity",
+      "verdict": "pass",
+      "reasoning": "The lease expressly addresses the Calloway Marine Demolition mechanics' lien and places the burden on the Authority. Section 2.3(h) makes discharge or bonding of the lien (in a manner satisfactory to Tenant, each Leasehold Mortgagee and the title company) a condition precedent to the Lease Commencement Date, with delivery of evidence. Section 2.9(a) independently requires Landlord, at its sole cost, to discharge, bond, or obtain affirmative insurance over the $187,500 lien recorded at Volume 418, Page 302, and to deliver the leasehold title policy without exception therefor, expressly stating Tenant has no obligation. Exhibit B, Part 6 reiterates that the lien is not a Permitted Exception and must be cleared by Landlord before Lease Commencement. Section 10.2(e) makes failure to discharge the lien a Landlord Event of Default, and Section 16.2 repeats the obligation. Thus the criterion is satisfied."
+    },
+    {
+      "id": "C-006",
+      "title": "ISSUE_003: Memo identifies rent calculation rounding discrepancy",
+      "verdict": "fail",
+      "reasoning": "The criterion requires the memo to identify that $20.45/SF × 139,392 SF equals approximately $2,850,566 rather than the stated $2,850,000 — a ~$566 discrepancy — and to discuss which figure controls. The memo does not do this. In Part 2.1 it performs only the inverse computation ($2,850,000 ÷ 139,392 = $20.4466) and concludes the $20.45/SF figure is 'Correct as rounded.' Part 2.3 then expressly lists 'the initial Base Rent and per-square-foot rate' among items that are 'internally consistent' and 'not a problem,' affirmatively treating the per-SF rate and lump sum as reconciled. The only rounding defects it flags are the escalation-schedule rounding ($13.41 and $40.95) in items 3–4, which are a different discrepancy. Part 3.1 discusses the per-SF rate only in connection with the erroneous 6.42-acre description ($10.20/SF alternative), not the $566 back-computation gap. Nowhere does the memo state the ~$566 discrepancy or analyze which figure (rate vs. lump sum) controls."
+    },
+    {
+      "id": "C-007",
+      "title": "ISSUE_003: Lease specifies which rent figure controls (lump sum vs. per-SF rate)",
+      "verdict": "pass",
+      "reasoning": "Section 4.2 states the initial annual Base Rent is $2,850,000 and expressly describes the $20.45 per square foot figure as 'approximately' and derived from the square footage. This indicates the lump sum controls and the per-SF rate is illustrative, satisfying the criterion."
+    },
+    {
+      "id": "C-008",
+      "title": "ISSUE_004: Memo identifies conflict between reverter right and lender security interest",
+      "verdict": "pass",
+      "reasoning": "The memo expressly identifies the conflict between the Authority's reverter right and Bayside's lender protections. Top-risk register item 1 states the reverter/forfeiture means 'Bayside will not lend against it.' Conflict C11 in the conflict register flags that the Term Sheet's automatic termination 'would defeat the lender cure rights that are a condition of the loan,' and Part 4.2's gap analysis shows the Term Sheet fails Bayside §§ 5.1–5.7, including the § 5.3 New Lease right and § 5.4 lender cure periods. Part 5.3 states Bayside 'will not lend $285 million against a litigable defense,' and Part 5.4 describes drafting that subordinates the reverter to the leasehold mortgage and conditions it on exhaustion of lender cure rights — 'the Term Sheet change Sandra Milliken requires.' The memo also notes the leasehold mortgage becomes unmarketable because foreclosure leads to the very forfeiture the lender lent against. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-009",
+      "title": "ISSUE_004: Lease subordinates reverter right to leasehold mortgage/lender protections",
+      "verdict": "pass",
+      "reasoning": "The draft lease contains extensive lender protections against the reverter/milestone-termination right. Section 9.3 requires Landlord to deliver copies of all default, Milestone Default, and termination notices to each Leasehold Mortgagee, and renders any notice not so delivered void. Section 9.5(c) grants Leasehold Mortgagees a 180-day Lender Cure Period for Milestone Defaults, running after Tenant's cure period, during which the lender may cure by advancing funds, installing a replacement developer/contractor, or transferring the leasehold. Section 9.6 provides an unconditional New Lease right for the remainder of the Term upon any termination, including a Milestone Default, with Landlord required to pre-authorize execution of the New Lease. Section 10.5 conditions the effectiveness of termination on delivery of notices to lenders, expiration of Lender Cure Periods, and expiration/waiver of New Lease rights; Section 10.6 conditions termination on payment/securing of the Improvement Payment; and Section 10.9 bars forfeiture of the Security Deposit. The reverter right is thus subordinated to and conditioned upon lender notice, cure, and new-lease protections, fully satisfying the criterion."
+    },
+    {
+      "id": "C-010",
+      "title": "ISSUE_005: Memo identifies conflict between ROFR and lender foreclosure rights",
+      "verdict": "pass",
+      "reasoning": "The memo explicitly identifies the conflict. In the Top-Risk Register (Risk #5) it flags the 'Recorded ROFR (Vol. 405, Pg. 55) has no mortgagee carve-out' and states it 'blocks foreclosure, deed-in-lieu and New Lease transfers during the first 20 years.' Conflict register item C14 states the recorded Declaration 'does not by its terms contain any exception or carve-out for transfers resulting from foreclosure, deed-in-lieu... or assignments by a leasehold mortgagee.' Part 6.7 states: 'That is a direct collision with Bayside § 5.6 (unconditional right to foreclose and assign without Landlord's consent) and with the 100% membership-interest pledge Bayside requires under § 4. A lease provision cannot cure it; only a recorded amendment can.' The Bayside § 5.6 gap analysis likewise notes the lender's right to 'foreclose and assign without consent.' The memo therefore satisfies the criterion."
+    },
+    {
+      "id": "C-011",
+      "title": "ISSUE_005: Lease carves out lender foreclosure/transfers from ROFR",
+      "verdict": "pass",
+      "reasoning": "Section 11.5(a) expressly provides that the ROFR shall not apply to any Permitted Transfer, any transfer of direct or indirect ownership interests, any Leasehold Mortgage, foreclosure or deed-in-lieu transfer, merger/consolidation, recapitalization/refinancing, or any New Lease. Section 11.3(c), (d) and (i) separately carve out pledges to and foreclosures by Leasehold Mortgagees, foreclosure purchasers and bankruptcy/receivership sales as Permitted Transfers not triggering the ROFR. Section 9.7 reinforces that a Leasehold Mortgagee may foreclose or accept a deed in lieu and assign the lease 'without triggering the ROFR under Section 11.5,' and Section 9.6(f) exempts the New Lease. The related Declaration of Right of First Refusal is flagged for conforming amendment, but the lease itself clearly contains the lender carve-outs required by the criterion."
+    },
+    {
+      "id": "C-012",
+      "title": "ISSUE_006: Memo identifies 12-month force majeure cap may be insufficient for coastal waterfront project",
+      "verdict": "fail",
+      "reasoning": "The memo does not raise any concern that the 12-month aggregate force majeure cap may be insufficient for a coastal waterfront construction project in FEMA Zone AE, nor does it recommend increasing the cap beyond 12 months. The force majeure provisions are mentioned only incidentally: Part 2.5 item 23 treats the 12 + 6 = 18-month aggregate as arithmetically correct; Part 9 item 13 (milestone extensions) addresses only uncapped Landlord Delay and optional paid extensions; and Part 6.12 ties coastal/flood considerations (freeboard, CIRCA projections, nor'easter) to Section 15.4 code-change relief, not to the adequacy of the force majeure cap. No provision or discussion critiques the 12-month cap for weather/coastal risk."
+    },
+    {
+      "id": "C-013",
+      "title": "ISSUE_006: Memo recommends force majeure cover climate-related events",
+      "verdict": "fail",
+      "reasoning": "The memo discusses climate-related risks extensively (Part 6.12 on flood resilience, CIRCA sea-level projections, the November 2024 nor'easter, freeboard recommendations, and code-change allocation under § 15.4), but it does not recommend that the force majeure provision specifically cover climate-related events such as hurricanes, storm surge, or flooding. Force majeure is mentioned only in the context of generic permitting delays (12 months FM + 6 months permitting; § 3.4), and a 'force-majeure/permitting extension' tied to code-change relief in § 15.4, none of which expressly addresses hurricanes, storm surge, or flooding. No recommendation is made to expand force majeure coverage to climate events."
+    },
+    {
+      "id": "C-014",
+      "title": "ISSUE_007: Memo identifies CPI rent reset gap period ambiguity",
+      "verdict": "pass",
+      "reasoning": "Part 6.1 of the memo expressly analyzes the rent escalation structure: fixed 2.5% compounding for Years 1–15, CPI resets every ten years beginning Year 16, and it identifies that because both limbs of the reset formula are computed from the initial Base Rent, 'Base Rent is flat within each ten-year band and then jumps by the whole cumulative index in one step,' producing 28–51% single-year step increases at reset dates (Years 16, 26, etc.). Appendix 2.2 ('Reset step sensitivity') quantifies the Year 15→16 step and states that each subsequent reset produces a further ten-year step because the formula recomputes from the original Base Rent. The memo flags this as a structural defect, ties it to DSCR/refinancing risk, and proposes a bracketed annual CPI adjustment (0% floor/4% cap) in § 4.4 and deviation item 17 in Part 9. This identifies the gap in what governs annual increases between CPI reset dates (flat rent within band, cliff at reset)."
+    },
+    {
+      "id": "C-015",
+      "title": "ISSUE_007: Lease specifies interim escalation mechanism between CPI resets",
+      "verdict": "fail",
+      "reasoning": "The criterion requires the lease to specify an interim escalation mechanism for the years between CPI reset dates (e.g., annual increases with a true-up at reset). The operative provisions in Section 4.4 provide that at each Rent Reset Date (every 10 years starting Year 16) Base Rent is reset to the greater of the continued 2.5% compounding computed from the *initial* Base Rent or a CPI adjustment, and Section 4.4(d) expressly states the escalation 'shall be computed from the initial annual Base Rent and not from any previously reset amount.' Consequently, Base Rent is flat for each 10-year period between resets and then jumps at each reset. The agent's own bracketed note confirms this: 'Base Rent will be flat for each ten-year period and then increase by the full cumulative index in a single step on each Rent Reset Date.' The Tenant alternative (annual CPI adjustment with a 0%/4% collar) is only a proposed negotiating position marked 'to be negotiated' and is not incorporated into the operative lease terms. Because the drafted lease leaves rent flat for 10 years between CPI resets (without any interim escalation mechanism in force), it fails the criterion."
+    },
+    {
+      "id": "C-016",
+      "title": "ISSUE_008: Memo identifies that percentage rent breakpoint is not indexed",
+      "verdict": "pass",
+      "reasoning": "The memo expressly identifies the issue in multiple places. Risk Register item 6 states the Breakpoint is fixed at $28,500,000 for 99 years, eroding from 8.84× Base Rent in Year 6 to 0.96× by Year 96, becoming 'a gross-receipts tax.' Part 6.1 provides a detailed 99-year table demonstrating the erosion (nominal and real), explicitly concludes that by Lease Year 96 Percentage Rent is payable on essentially every dollar of gross revenue above the rent roll's fixed charges, and notes the breakpoint's real value decays below today's Base Rent. The memo recommends the fix: Draft Lease § 5.3 resets the Breakpoint at each Rent Reset Date to preserve the Year 6 ratio (8.84×), with a bracketed alternative of annual CPI adjustment (0% floor / 4% cap) and fallbacks (CPI-only indexation, declining rate, or cap on Percentage Rent). Deviation item 8 and the negotiation strategy (10.2) also address it. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-017",
+      "title": "ISSUE_008: Lease indexes or periodically resets the percentage rent breakpoint",
+      "verdict": "pass",
+      "reasoning": "Section 5.3 of the draft contains an operative mechanism resetting the $28,500,000 Breakpoint on each Rent Reset Date so as to preserve the Lease Year 6 ratio of Breakpoint to Base Rent (i.e., escalating in tandem with Base Rent increases). This is reinforced by Exhibit D, Part 3, which provides a table of indexed Breakpoint figures through Lease Year 96 (e.g., $36,486,000 at LY16, $262,986,000 at LY96) and worked examples applying the adjusted Breakpoint. Although Tenant's counsel flags alternative/fallback mechanics in bracketed drafting notes, the document as drafted clearly includes a periodic breakpoint adjustment mechanism rather than stating a fixed $28.5M for the full 99-year term, satisfying the criterion."
+    },
+    {
+      "id": "C-018",
+      "title": "ISSUE_009: Memo identifies tax abatement timing misalignment",
+      "verdict": "pass",
+      "reasoning": "The memo explicitly identifies the tax abatement timing misalignment in multiple places. Part 6.2(b) states that Term Sheet § 10 starts the 15-year period on the Lease Commencement Date (October 1, 2025), while improvements won't be on the grand list until completion around October 2030, so years are consumed before the asset produces revenue; it also notes the 25% band covers a period when the property is assessed as vacant land. The Top-Risk Register (item 7) and Conflict Register (C7) similarly flag '3 construction years consumed before rent commences; abatement value lost.' Part 2.3 quantifies that about three of the fifteen years (Oct 2025–Sept 2028) fall before Rent Commencement. This squarely satisfies the criterion."
+    },
+    {
+      "id": "C-019",
+      "title": "ISSUE_009: Lease specifies tax abatement commences upon Rent Commencement or first CO",
+      "verdict": "pass",
+      "reasoning": "Section 6.7 expressly defines the Tax Abatement Period as commencing on the 'Abatement Commencement Date,' defined as the later of (a) the Rent Commencement Date and (b) the first day of the City fiscal year in which the first assessment reflecting the completed Improvements becomes effective, and expressly provides that no portion of the abatement period is consumed during the construction period before the Improvements are reflected in the assessment. The abatement is therefore tied to revenue-generating events (Rent Commencement / completed-Improvements assessment) rather than the Lease Commencement Date, fully satisfying the criterion. Related protections (Section 6.8 Tax Abatement Backstop) reinforce this."
+    },
+    {
+      "id": "C-020",
+      "title": "ISSUE_010: Memo addresses unconscionability of improvement forfeiture under reverter",
+      "verdict": "pass",
+      "reasoning": "The memo thoroughly addresses the unconscionability/disproportionality of the improvement forfeiture. Part 5 (\"The Reverter and Improvement Forfeiture: 'The Hill'\") quantifies exposure at $205.7M–$305.7M against compensable damages of ~$5.7M–$7.3M (a 28×–54× disproportion), and expressly argues the provision is likely an unenforceable penalty and an inequitable forfeiture, citing Restatement (Second) of Contracts §§ 208, 229, 356(1) and the Restatement (Third) of Property, and noting Connecticut follows the general rule (with an appropriate caveat that the authority has not yet been verified and is flagged as open research item 7.1). It recommends concrete alternatives: Draft Lease § 10.6(a) requires an Improvement Payment equal to the greater of appraised fair market value or Tenant's unreimbursed hard costs, net of recoveries and damages, plus caps on damages, a walk-away position, and a negotiation strategy. This satisfies the criterion's requirements on extraordinary forfeiture, equitable principles/disproportionality, and recommended fair-market-value/reimbursement alternatives."
+    },
+    {
+      "id": "C-021",
+      "title": "ISSUE_010: Lease mitigates improvement forfeiture with buyout or reimbursement",
+      "verdict": "fail",
+      "reasoning": "The lease contains an explicit mechanism mitigating improvement forfeiture upon reverter. Section 10.6 provides an 'Improvement Payment' upon termination for a Milestone Default equal to the greater of (i) the Appraised Value of the Improvements or (ii) Tenant's Unreimbursed Hard Costs, less recoveries and Landlord's Documented Damages, payable as a condition to the effectiveness of termination (with security, escrow, and third-party beneficiary enforcement). Section 10.5(g) makes payment/securing of the Improvement Payment a condition precedent to termination. Additional protections include the Leasehold Mortgagee New Lease right (Section 9.6) and Section 10.6(b)'s explicit intent statement that Landlord not acquire Improvements without compensation. While Section 17.2 provides uncompensated transfer at natural expiration of the 99-year Term, that is end-of-term reversion rather than forfeiture upon reverter for default, and the Tenant position bracketed alternative flags negotiation of compensation/extension. The reverter-for-default scenario the criterion targets is squarely mitigated with a fair-market-value/construction-cost buyout mechanism."
+    },
+    {
+      "id": "C-022",
+      "title": "ISSUE_011: Memo identifies missing estoppel certificate framework",
+      "verdict": "fail",
+      "reasoning": "The memo contains no discussion of estoppel certificates at all. Its Bayside § 5 gap analysis covers only mortgage-without-consent, SNDA, New Lease, cure periods, amendment/surrender restrictions, foreclosure/assignment, and bankruptcy protections; the conflict register, deviation schedule, missing-documents list and open-items checklist likewise never mention estoppel certificates. Accordingly, the memo does not identify that neither the term sheet nor the Bayside loan term sheet establishes an estoppel certificate framework, nor does it explain why such certificates are critical for refinancing a 99-year ground lease with a leasehold mortgage. The specific gap required by the criterion is not flagged."
+    },
+    {
+      "id": "C-023",
+      "title": "ISSUE_011: Lease includes estoppel certificate provision with specified timeframe",
+      "verdict": "pass",
+      "reasoning": "Section 16.4 of the lease explicitly requires Landlord (the Authority) to execute and deliver an estoppel certificate within ten (10) Business Days after request by Tenant or any Leasehold Mortgagee. This is a specified timeframe, satisfying the criterion for an estoppel certificate provision with a required response period."
+    },
+    {
+      "id": "C-024",
+      "title": "ISSUE_011: Lease estoppel provision includes deemed-approval mechanism",
+      "verdict": "pass",
+      "reasoning": "Section 16.4 provides that if Landlord fails to deliver an estoppel certificate within 10 Business Days, Tenant and each Leasehold Mortgagee may rely upon such failure as confirmation of the matters stated in the request. This constitutes a deemed-confirmation mechanism for Authority non-response."
+    },
+    {
+      "id": "C-025",
+      "title": "ISSUE_012: Memo identifies lack of affordable housing implementation detail",
+      "verdict": "pass",
+      "reasoning": "The memo expressly identifies the affordable housing implementation gap in multiple places. Conflict register C17 states the title commitment notes the recorded 2019 affordable covenant omits (i) a recalculation method if unit count changes, (ii) income verification, (iii) a monitoring/enforcement entity, (iv) enforcement remedies/consequences of non-compliance, (v) distribution requirements, and (vi) floor/location rules. C16 separately flags that the 15% obligation cannot be quantified because the unit count is 'to be determined.' Part 6.11 ('the covenant is agreed, but it is not yet a workable instrument') repeats the six gaps and states Draft Lease § 14.5 fills all six, and Part 9 item 14 and Appendix 4 item 14 address conforming the AMI geography. This squarely satisfies the criterion."
+    },
+    {
+      "id": "C-026",
+      "title": "ISSUE_012: Lease includes substantive affordable housing compliance provisions",
+      "verdict": "pass",
+      "reasoning": "Section 14.5 (Affordable Housing) goes far beyond a bare restatement of the 15% requirement and addresses at least four of the enumerated elements. (a) Calculation: §14.5(b) defines how the 15% is computed (by reference to the total dwelling units as finally constructed), provides recalculation triggers if unit count changes by more than 5%, and specifies rounding. (b) Income verification/eligibility: §14.5(d) requires Tenant to administer income qualification and recertification per HUD guidance and any applicable regulatory agreement, maintain records, and deliver an annual compliance certificate. (c) Monitoring mechanism: the annual compliance certificate to Landlord and the City, plus record-retention obligations, establishes a monitoring mechanism. (d) Consequences of non-compliance: §14.5(e) limits Landlord's remedies to specific performance/injunctive relief, expressly excludes Event of Default, termination, reverter, forfeiture, and Security Deposit draws, and provides a 90-day cure period. (f) Incorporation of a separate regulatory agreement: §14.5(f) acknowledges and incorporates the recorded Declaration of Restrictive Covenants (Vol. 408, Page 230) and provides that compliance with it, as supplemented, satisfies §14.5; the recorded covenant is also listed as Permitted Exception Part 5 and referenced in the Memorandum. Additional detail includes an AMI definition (§14.5(a)), location/distribution/comparability requirements (§14.5(c)), and a drafting flag reconciling inconsistent AMI geographies. This comfortably meets the 'substantive provisions addressing at least two' threshold."
+    },
+    {
+      "id": "C-027",
+      "title": "Lease identifies correct Landlord name and entity type",
+      "verdict": "pass",
+      "reasoning": "The lease consistently identifies the Landlord as the 'City of Port Calloway Redevelopment Authority,' describing it as 'a public body corporate and politic organized and existing under the provisions of Connecticut General Statutes § 8-125 et seq.' This matches the criterion's required name and entity type exactly, appearing in the preamble, definitions, signature blocks, exhibits, and acknowledgments."
+    },
+    {
+      "id": "C-028",
+      "title": "Lease identifies correct Tenant name and entity type",
+      "verdict": "pass",
+      "reasoning": "The lease identifies the Tenant as 'MERIDIAN GATEWAY HOLDINGS LLC' and states it is 'a Delaware limited liability company' in the opening parties clause, recitals, representations, and signature blocks. This satisfies the criterion."
+    },
+    {
+      "id": "C-029",
+      "title": "Lease includes correct property address and APN",
+      "verdict": "pass",
+      "reasoning": "The lease prominently identifies the property as 10–30 Pier Street, Port Calloway, Connecticut 06801 and Assessor's Parcel No. 127-003-0045 on the cover page, in Recital A, and in the Memorandum of Ground Lease (Exhibit G), satisfying the criterion."
+    },
+    {
+      "id": "C-030",
+      "title": "Lease includes correct parcel size",
+      "verdict": "pass",
+      "reasoning": "The lease repeatedly references the parcel size as approximately 3.2 acres (139,392 square feet), including in the cover page, Recital A, Exhibit A legal description, and the Memorandum of Ground Lease. This satisfies the criterion; any noted survey discrepancy does not change that the required figure is present."
+    },
+    {
+      "id": "C-031",
+      "title": "Lease states correct lease term of 99 years from October 1, 2025",
+      "verdict": "pass",
+      "reasoning": "The lease explicitly states a 99-year term in the title, Section 2.2, and recitals. Section 2.2 specifies the Lease Commencement Date as the later of October 1, 2025, and satisfaction of conditions precedent, and fixes the Expiration Date at September 30, 2124, which is exactly 99 years after October 1, 2025. This satisfies the criterion."
+    },
+    {
+      "id": "C-032",
+      "title": "Lease states correct initial annual base rent of $2,850,000",
+      "verdict": "pass",
+      "reasoning": "Section 4.2 of the lease states the initial annual Base Rent as Two Million Eight Hundred Fifty Thousand Dollars ($2,850,000), payable in equal monthly installments of Two Hundred Thirty-Seven Thousand Five Hundred Dollars ($237,500), and Exhibit D Part 1 confirms the same amounts for Lease Year 1 ($2,850,000 annual / $237,500 monthly). Both figures match the criterion exactly."
+    },
+    {
+      "id": "C-033",
+      "title": "Lease includes correct Rent Commencement Date definition",
+      "verdict": "fail",
+      "reasoning": "The lease defines the Rent Commencement Date as the earlier of (a) 36 months after the Lease Commencement Date and (b) the \"Rent Trigger Date.\" However, the Rent Trigger Date is defined as the first date on which Certificates of Occupancy have been issued for portions of the Project representing not less than 50% of the aggregate rentable square footage — not the issuance of the first certificate of occupancy for any portion of the Project. Section 2.5 expressly states that a CO for less than the 50% threshold does not trigger rent. Because the criterion requires the earlier of 36 months and issuance of the first CO for any portion, and the lease substitutes a 50% rentable-area threshold, the definition is incorrect under the stated criterion."
+    },
+    {
+      "id": "C-034",
+      "title": "Lease includes correct fixed rent escalation: 2.5% compounding every 5 years",
+      "verdict": "pass",
+      "reasoning": "Section 4.3 specifies 2.5% annual compounding escalations effective Lease Years 6 and 11. The Year 6–10 rent is $3,224,513/year (approximately $3,224,500) and Year 11–15 rent is $3,648,241/year (approximately $3,648,200), matching the criterion's formula and amounts."
+    },
+    {
+      "id": "C-035",
+      "title": "Lease includes CPI rent reset mechanism starting Year 16",
+      "verdict": "pass",
+      "reasoning": "The lease includes Section 4.4 'Rent Resets (Lease Year 16 and Thereafter)' establishing resets at Rent Reset Dates defined as Lease Years 16, 26, 36, 46, 56, 66, 76, 86 and 96. Each reset sets Base Rent to the greater of (a) continued 2.5% compounded fixed escalation applied to the initial base rent of $2,850,000, and (b) the initial base rent adjusted by cumulative percentage increase in CPI-U Northeast Region (Series ID CUUR0100SA0), with a specified base index month and reset index month, no reduction, and computation from the initial annual Base Rent rather than prior reset amounts. This matches the criterion exactly."
+    },
+    {
+      "id": "C-036",
+      "title": "Lease includes correct percentage rent terms",
+      "verdict": "pass",
+      "reasoning": "Section 5.1 expressly provides for Percentage Rent equal to 2.0% of Gross Revenues in excess of the Breakpoint, commencing in Lease Year 6 and payable annually within 90 days after the end of each Lease Year. The Breakpoint is defined as $28,500,000 for Lease Year 6 (Section 1.1), with an adjustment mechanic in Section 5.3 (indexed to preserve the Year 6 ratio, offered as a tenant negotiating position) — the criterion permits either a fixed or indexed breakpoint. Exhibit D Parts 3–4 confirm the mechanics with worked examples. All three elements (rate, commencement year, payment timing) are correct."
+    },
+    {
+      "id": "C-037",
+      "title": "Lease includes correct remediation credit of $1,800,000",
+      "verdict": "pass",
+      "reasoning": "The lease includes a $1,800,000 Remediation Credit in Section 7.2 and Table 7.2 applies it against the first Base Rent installments after the Rent Commencement Date: full $237,500 credits for months 1–7 totaling $1,662,500, plus a $137,500 partial credit in month 8, matching the specified mechanism."
+    },
+    {
+      "id": "C-038",
+      "title": "Lease includes correct security deposit amount and form (LOC)",
+      "verdict": "pass",
+      "reasoning": "The lease sets the Security Deposit at exactly $5,700,000 (Section 8.1) and permits it in the form of an irrevocable standby letter of credit (Section 8.2, Exhibit E), with issuer credit rating requirements of not less than A- from S&P or A3 from Moody's (Section 8.3). Although a cash escrow alternative is also permitted at Tenant's election, the required LOC amount, form, and rating thresholds are all correctly and expressly included."
+    },
+    {
+      "id": "C-039",
+      "title": "Lease includes correct security deposit reduction mechanism",
+      "verdict": "pass",
+      "reasoning": "Section 8.4 of the lease expressly provides that the $5,700,000 Security Deposit is reduced to $2,850,000 upon Tenant's demonstration that the Project has achieved and maintained an Occupancy Rate of 90% or greater for twenty-four (24) consecutive full calendar months. The Occupancy Rate is defined by a rentable-square-footage formula, and the section includes implementation procedures (certified rent roll, officer's certificate, landlord response period, amendment of the letter of credit, and no reinstatement). Both the threshold (90% for 24 consecutive months) and the reduced amount ($2,850,000) match the criterion exactly."
+    },
+    {
+      "id": "C-040",
+      "title": "Lease includes Milestone 1: construction commencement within 18 months (by April 1, 2027)",
+      "verdict": "pass",
+      "reasoning": "The lease expressly includes Milestone 1 in Section 3.3, defined as 'Commencement of Construction: the physical pouring of footings for at least one building within the Project, following issuance of all building permits necessary for such work,' with a deadline of 18 months from the Lease Commencement Date and an express date of April 1, 2027 (assuming an October 1, 2025 Lease Commencement Date). This is consistent with the criterion — 18 months from October 1, 2025 is April 1, 2027. Exhibit C and the Milestone Default provisions (Article 1 definition; Sections 3.3, 3.5, 10.5, 10.6) reiterate the same 18-month/April 1, 2027 deadline without material inconsistency. Extension mechanics exist but do not alter the base Milestone 1 deadline."
+    },
+    {
+      "id": "C-041",
+      "title": "Lease includes Milestone 2: structural frame within 42 months (by April 1, 2029)",
+      "verdict": "pass",
+      "reasoning": "Section 3.3 (Table 3.3) expressly includes Milestone 2: 'Completion of Structural Frame of the Residential Tower (topping-out of structural steel and/or concrete frame)' with a deadline of 42 months from the Lease Commencement Date and a stated Milestone Deadline of April 1, 2029 (assuming an October 1, 2025 Lease Commencement Date). Exhibit C repeats the same milestone and deadline. The criterion is satisfied."
+    },
+    {
+      "id": "C-042",
+      "title": "Lease includes Milestone 3: Phase 1 substantial completion within 60 months (by October 1, 2030)",
+      "verdict": "pass",
+      "reasoning": "Section 3.3 (Table 3.3) expressly includes Milestone 3 requiring 'Substantial Completion of Phase 1 (Residential Tower and ground-floor retail)' within 60 months of Lease Commencement, with a Milestone Deadline of October 1, 2030 (assuming a Lease Commencement Date of October 1, 2025). Substantial Completion is defined in Article 1 as issuance of the Certificate of Occupancy for the Residential Tower and ground-floor retail. Exhibit C reiterates Milestone 3 at 60 months / October 1, 2030. The milestone is present with the correct deadline, satisfying the criterion."
+    },
+    {
+      "id": "C-043",
+      "title": "Lease includes Milestone 4: Phase 2 substantial completion within 84 months (by October 1, 2032)",
+      "verdict": "pass",
+      "reasoning": "The lease expressly includes Milestone 4 requiring Substantial Completion of Phase 2 (Office Building) within 84 months of the Lease Commencement Date, with a stated deadline of October 1, 2032 assuming an October 1, 2025 commencement. This is also repeated in Exhibit C."
+    },
+    {
+      "id": "C-044",
+      "title": "Lease includes force majeure extension provisions",
+      "verdict": "pass",
+      "reasoning": "Section 3.4 of the lease expressly provides milestone deadline extensions: (a) day-for-day for Force Majeure Events up to an aggregate maximum of twelve (12) months, and (b) day-for-day for governmental permitting delays beyond Tenant's reasonable control up to an aggregate maximum of six (6) months, with an overall cap of eighteen (18) months for (a) and (b) combined. Landlord Delay extensions are uncapped and additional. Exhibit C reiterates the same mechanics. This satisfies the criterion exactly — at least 12 months force majeure plus up to 6 months permitting delays."
+    },
+    {
+      "id": "C-045",
+      "title": "Lease includes reverter right provisions for Milestones 1 and 3",
+      "verdict": "pass",
+      "reasoning": "The lease includes an express termination/reverter right for the Authority tied to Milestone 1 and Milestone 3. Section 3.3 lists the Milestones; Section 3.5 confirms that only Milestone 1 and Milestone 3 are enforceable by termination (Milestones 2 and 4 give only notice/consultation). Article 10 (Section 10.5) sets out the Milestone Default termination procedure: Landlord must deliver a Milestone Notice, Tenant then has a 180-calendar-day cure period ('Milestone Cure Period'), and only after all periods expire may Landlord terminate. Section 10.5(f) clarifies no automatic termination, and Section 10.5(b) and the Article 1 definition of Milestone Cure Period both specify the 180-day period. The Milestone Deadlines are expressly subject to extensions (Section 3.4, Section 10.5(c)). The 180-day written-notice/cure requirement is clearly stated, so the criterion is satisfied."
+    },
+    {
+      "id": "C-046",
+      "title": "Lease includes leasehold mortgage permission for construction financing",
+      "verdict": "pass",
+      "reasoning": "The lease expressly permits leasehold mortgages. Article 9 ('Leasehold Financing; Lender Protections; SNDA; New Lease') Section 9.1 grants Tenant the right, without Landlord consent and free of any fee, to grant one or more Leasehold Mortgages encumbering all or any portion of its leasehold interest and the Improvements, and to collaterally assign the Lease and rents. Section 9.2 provides for designation of Leasehold Mortgagees, and the defined term 'Construction Lender' is specifically identified as Bayside Federal Lending Corp. (the construction lender referenced in Recital E with a $285,000,000 construction loan commitment). Article 9 further provides lender cure periods (9.5), New Lease rights (9.6), foreclosure/assignment rights (9.7), bankruptcy protections (9.8), and SNDA requirements (9.9), all of which reinforce the express permission to encumber for construction financing. The lease is not silent and does not prohibit leasehold mortgages."
+    },
+    {
+      "id": "C-047",
+      "title": "Lease includes SNDA framework with the Authority",
+      "verdict": "pass",
+      "reasoning": "The lease contains a comprehensive SNDA framework involving the Authority (Landlord): Article 9.9 requires Landlord to execute, acknowledge, deliver, and record an SNDA in favor of each Leasehold Mortgagee (including the Construction Lender, Bayside Federal Lending Corp.), with failure to deliver within 10 Business Days constituting a Landlord Event of Default. Section 2.3(e) makes execution and delivery of the SNDA a condition precedent, Exhibit F sets out the required SNDA terms, and the signature pages include a Leasehold Mortgagee consent block. This fully satisfies the criterion."
+    },
+    {
+      "id": "C-048",
+      "title": "Lease includes New Lease right for lender if ground lease is terminated",
+      "verdict": "pass",
+      "reasoning": "Section 9.6 of the draft provides an express New Lease right: if the Lease is terminated for any reason, including Tenant default or a Milestone Default, each Leasehold Mortgagee (or its designee) may obtain a New Lease for the remainder of the Term on substantially the same terms as the Lease, effective as of the Termination Date, with no additional fee or consent. Section 9.6(c) requires the mortgagee to cure monetary defaults within 60 days after the New Lease's effective date and non-monetary defaults within 90 days, or to commence cure within 90 days and diligently pursue completion (capped at 180 days). This matches the criterion precisely, and related lender protections (Lender Cure Periods, foreclosure/assignment rights, SNDA terms, Memorandum of Lease disclosure) further reinforce it."
+    },
+    {
+      "id": "C-049",
+      "title": "Lease requires Authority to provide lender copies of default notices",
+      "verdict": "pass",
+      "reasoning": "Section 9.3 expressly requires the Authority/Landlord to deliver to each Leasehold Mortgagee, simultaneously with delivery to Tenant and in any event no later than delivery to Tenant, a copy of every notice of default and termination. Section 10.1 also requires simultaneous delivery of default notices to each Leasehold Mortgagee, and Section 19.3 reinforces that failure to deliver to a Leasehold Mortgagee renders the notice ineffective as to that mortgagee and tolls its cure period. This satisfies the criterion."
+    },
+    {
+      "id": "C-050",
+      "title": "Lease prohibits voluntary surrender without lender consent",
+      "verdict": "pass",
+      "reasoning": "Section 9.4 of the draft lease expressly provides that, for so long as any Leasehold Mortgage remains in effect, Landlord shall not accept a voluntary surrender or cancellation of the Lease without the prior written consent of each Leasehold Mortgagee, and any purported surrender without such consent is void as against the mortgagee. This requirement is reinforced by Section 9.6 (New Lease right triggered by any termination, including surrender) and disclosed in the Memorandum of Lease. The criterion is satisfied."
+    },
+    {
+      "id": "C-051",
+      "title": "Lease includes ELUR acknowledgment and compliance obligations",
+      "verdict": "pass",
+      "reasoning": "The lease expressly references and acknowledges the ELUR recorded March 22, 2018, at Volume 412, Page 88 of the Port Calloway Land Records (Recital B, Section 7.7, Exhibit B Part 1, Section 15.5). It imposes detailed compliance obligations, including maintaining an engineered barrier of not less than 24 inches of documented clean fill (or equivalent), annual barrier inspections, reporting/repair of breaches, annual DEEP compliance certification, and restrictions on ground disturbance below two feet except pursuant to a DEEP-approved Soil Management Plan. Section 7.8 also addresses ELUR interpretation for ground-floor uses, and Section 3.7 requires Landlord cooperation in ELUR filings. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-052",
+      "title": "Lease specifies Tenant's remaining remediation responsibility of $600,000",
+      "verdict": "pass",
+      "reasoning": "The lease expressly allocates remediation costs in Section 7.4(a): the Authority provides a $1,800,000 Remediation Credit and Tenant bears the remaining $600,000 of the estimated $2,400,000 remediation cost. Supporting provisions also state the $2,400,000 estimate and $1,800,000 credit."
+    },
+    {
+      "id": "C-053",
+      "title": "Lease includes comprehensive insurance requirements",
+      "verdict": "pass",
+      "reasoning": "Article 12 of the lease contains all six required coverages: (a) CGL at $10M per occurrence / $20M aggregate (§12.1(a)); (b) All-Risk property insurance on a replacement-cost basis without depreciation (§12.1(b)); (c) Builder's Risk on a completed-value basis during construction (§12.1(c)); (d) Flood insurance — NFIP maximum plus excess/DIC coverage in recognition of Zone AE designation (§12.1(f)); (e) Environmental/Pollution Legal Liability at $5M per occurrence / $10M aggregate (§12.1(e)); and (f) Workers' Compensation as required by Connecticut law plus employer's liability (§12.1(g)). Section 12.2 names the Authority as an additional insured on the CGL policy and names each Leasehold Mortgagee as additional insured on CGL and loss payee on property/builder's risk/flood/business interruption policies. The one deviation is that the Authority is not named as an additional insured (or loss payee) on the property policies beyond its limited insurable interest as fee owner, with an express statement that this does not include the value of Tenant's Improvements. That is a single, deliberate (tenant-side) narrowing of one sub-requirement, and none of the six enumerated coverage requirements is missing; the criterion's FAIL threshold of more than two missing requirements is far from being triggered. Substantively the lease provides comprehensive insurance requirements satisfying the criterion, though the property-policy additional-insured point would merit a comment if negotiating for the Authority."
+    },
+    {
+      "id": "C-054",
+      "title": "Lease includes triple-net structure for taxes and operating costs",
+      "verdict": "pass",
+      "reasoning": "The draft expressly characterizes the lease as a 'triple-net' lease (Section 4.9) and imposes on Tenant the obligation to pay all Impositions — real property taxes, assessments, sewer/water/utility charges, and other governmental charges — before delinquency (Sections 6.1–6.2), together with insurance premiums (Article 12) and all maintenance, repair, and operating costs of the Premises and Improvements (Sections 14.1, 14.3, 14.8). Landlord receives Rent free of deduction, abatement, or setoff except for expressly enumerated exceptions (Sections 4.1, 4.9). While Tenant-favorable carve-outs exist (Tax Abatement under Section 6.6, Tax Abatement Backstop under Section 6.8, Remediation Credit under Article 7, and limited setoff rights under Section 4.6), these are negotiated concessions that do not change the fundamental triple-net allocation of taxes, insurance, and operating costs to Tenant. The criterion is satisfied."
+    },
+    {
+      "id": "C-055",
+      "title": "Lease includes tax abatement phase-in schedule",
+      "verdict": "pass",
+      "reasoning": "Section 6.6 of the lease (Article 6, Impositions and the Tax Abatement) explicitly includes the 15-year phased tax abatement, with a schedule (Table 6.6) specifying Years 1-5 at 25% of assessed value subject to tax, Years 6-10 at 50%, Years 11-15 at 75%, and Years 16 and thereafter at 100% (no abatement). This exactly matches the criterion's required phase-in schedule."
+    },
+    {
+      "id": "C-056",
+      "title": "Lease includes permitted use restrictions consistent with term sheet",
+      "verdict": "pass",
+      "reasoning": "Section 15.2 (Permitted Uses) expressly permits residential apartments, Class A office, ground-floor retail, restaurants including those with liquor service licensed by the Connecticut Department of Consumer Protection, and accessory parking. It expressly excludes adult entertainment establishments, firearms sales, pawnshops and gasoline service stations, and separately prohibits industrial, manufacturing or warehousing uses (except as accessory to operation of the Improvements). All required permitted uses and all required excluded uses are present, satisfying the criterion."
+    },
+    {
+      "id": "C-057",
+      "title": "Lease requires minimum 8,000 SF publicly accessible open space",
+      "verdict": "pass",
+      "reasoning": "The lease expressly requires at least 8,000 square feet of publicly accessible open space on the waterfront/eastern side of the Premises, connected to the existing public pedestrian promenade, and prohibits enclosing, gating, or restricting public access. This appears in Recital C, the definition of 'Public Open Space,' and Section 14.4."
+    },
+    {
+      "id": "C-058",
+      "title": "Lease includes assignment/subletting provisions with ROFR",
+      "verdict": "pass",
+      "reasoning": "Article 11 contains comprehensive assignment and subletting provisions (Sections 11.1–11.7), including the Authority's Right of First Refusal in Section 11.5, which expressly applies from the Lease Commencement Date through September 30, 2045 (a 20-year period) to any proposed Assignment for Value to a non-Affiliate third party, subject to stated carve-outs and a 60-day election period. Assignment to non-Affiliates also requires Landlord consent under Section 11.1, and the ROFR is tied to a recorded Declaration to be conformed before commencement. The criterion is satisfied."
+    },
+    {
+      "id": "C-059",
+      "title": "Lease includes finished floor elevation requirement of at least 15 ft NAVD88",
+      "verdict": "pass",
+      "reasoning": "Section 15.3 of the lease, titled 'Flood Resilience and Freeboard,' expressly requires that 'Tenant shall design and construct the Improvements with a finished floor elevation of not less than fifteen (15) feet NAVD88 (three (3) feet of freeboard), with all mechanical, electrical, telecommunications and life-safety equipment located above such elevation,' and states Tenant may construct to a higher elevation if required. Section 7.8(c) also references the 15 ft NAVD88 finished floor requirement. The criterion is satisfied."
+    },
+    {
+      "id": "C-060",
+      "title": "Lease includes default and remedies provisions",
+      "verdict": "pass",
+      "reasoning": "Article 10 contains detailed default and remedies provisions. Section 10.1 lists numerous Tenant Events of Default with specified notice/cure periods: failure to pay Base Rent within ten (10) Business Days after written notice (10.1(a)), failure to pay other monetary obligations within fifteen (15) days (10.1(b)), failure to perform non-monetary obligations within thirty (30) days with extension for diligent cure (10.1(c)), plus insurance (10 days), security deposit, bankruptcy, and misrepresentation defaults. Section 10.2 defines Landlord Events of Default with cure periods, including failure to pay amounts due within ten (10) Business Days (10.2(a)), failure to perform material obligations within thirty (30) days (10.2(b)), and failure to deliver SNDA/estoppel/New Lease within ten (10) Business Days or the specified period (10.2(c)). Article 9 adds Lender Cure Periods (60/90/180 days) and Section 10.5 adds a 180-day Milestone Cure Period. Remedies (termination, security deposit draws, damages, specific performance, Improvement Payment) are also specified. The criterion is fully satisfied."
+    },
+    {
+      "id": "C-061",
+      "title": "Lease includes indemnification provisions",
+      "verdict": "fail",
+      "reasoning": "The draft contains only narrow indemnities: Section 7.6 is a limited environmental indemnity (Hazardous Materials introduced by Tenant and breaches of Article 7), and Section 7.5 is Landlord's indemnity to Tenant. There is no general indemnification provision under which Tenant indemnifies the Authority for third-party claims (personal injury, property damage, subtenant/contractor claims, violations of law, etc.) arising out of Tenant's use, occupancy, operation, or construction at the Premises during the Term. Article 12 merely requires contractual-liability insurance covering 'the indemnities in this Lease' without creating the operative general indemnity, and Article 20 (Miscellaneous) contains no indemnity section. Because the required Tenant-to-Authority use-and-occupancy indemnity is missing, the criterion is not satisfied."
+    },
+    {
+      "id": "C-062",
+      "title": "Lease includes casualty and condemnation provisions",
+      "verdict": "pass",
+      "reasoning": "Article 13 of the lease expressly addresses both casualty and condemnation. Section 13.1 imposes on Tenant an obligation to restore the Improvements after fire or other casualty (using available insurance proceeds, subject to stated exceptions), and Section 13.2 provides rent abatement during restoration. Section 13.4 addresses eminent domain, allocating the condemnation award between Landlord (value of the unimproved land) and Tenant (leasehold value, Improvements, remediation work, relocation and business interruption), with termination rights for total or substantial takings, continuation and equitable rent adjustment for partial takings, and cooperation in presenting claims. Section 13.5 covers temporary takings. Both required topics are comprehensively covered."
+    },
+    {
+      "id": "C-063",
+      "title": "Memo includes at least three negotiation recommendations identifying counterparty and specific lease provisions",
+      "verdict": "pass",
+      "reasoning": "The memo contains numerous negotiation recommendations that identify both the counterparty and specific lease provisions. Examples: (1) Part 10.1 must-haves, to be presented to Howard Koss at Pryor Whitfield & Koss LLP — compensation for improvements on reverter (§ 10.6), lender cure periods and New Lease (§§ 9.5, 9.6), conformed legal description and mechanics' lien discharge (§§ 2.3, 16.2), ROFR amendment (§ 11.5), and tax abatement backstop (§ 6.8). (2) Part 10.2 strong preferences/tradeables — Breakpoint indexation (§ 5.3), abatement commencement re-anchoring (§ 6.7), environmental overrun allocation (§§ 7.4(c), 7.5), bulkhead allocation (§§ 2.9(b), 14.3). (3) Part 5.5 'How to sell it to the Authority' — a specific trade package (extension fees, rent step-up during delay, Board reporting, replacement-developer approval) offered to Authority counsel in exchange for a compensated reverter (§§ 10.5–10.7). (4) Part 10.4 sequencing explicitly directs delivery to Mr. Koss and a joint call with Authority and Bayside counsel framed around Article 9. The Part 9 deviation schedule further catalogs each Term Sheet change with the Draft Lease section for negotiation. Far more than three recommendations with counterparty and provision identified."
+    },
+    {
+      "id": "C-064",
+      "title": "Lease includes lender's right to foreclose/assign to qualified transferee",
+      "verdict": "pass",
+      "reasoning": "Section 9.7 of the lease expressly grants each Leasehold Mortgagee 'the unconditional right to foreclose on the leasehold interest (whether by judicial foreclosure, power of sale, strict foreclosure, or otherwise) or to accept a deed or assignment in lieu of foreclosure, and to assign this Lease to a qualified transferee at or following any foreclosure sale or deed-in-lieu transfer, without the prior consent of Landlord.' It further defines 'qualified transferee' with financial and experience qualifications (net worth/assets under management, demonstrable experience in owning and operating comparable mixed-use or waterfront properties, or status as an institutional investor/Leasehold Mortgagee affiliate), and requires Landlord to recognize such transferee without unreasonable delay or fee. Section 9.6 (New Lease), 9.5 (Lender Cure Periods), and Exhibit F (SNDA terms) further reinforce these rights. The net worth figure is a bracketed placeholder, but the foreclosure/assignment right and qualification standards are substantively addressed, satisfying the criterion."
+    },
+    {
+      "id": "C-065",
+      "title": "Lease identifies the construction loan from Bayside Federal",
+      "verdict": "pass",
+      "reasoning": "The lease expressly references the construction loan from Bayside Federal Lending Corp. Recital E states Tenant has obtained a construction loan commitment from Bayside Federal Lending Corp. in the principal amount of $285,000,000, conditioned on the lease containing leasehold mortgage protections in Article 9. The Definitions section also defines 'Construction Lender' as Bayside Federal Lending Corp., a Connecticut-chartered commercial bank, and Article 9 grants broad leasehold financing rights and lender protections (SNDA, New Lease, cure periods) that expressly facilitate this construction financing. Thus the criterion is satisfied."
+    },
+    {
+      "id": "C-066",
+      "title": "Lease includes Tenant's obligation to comply with affordable housing covenant",
+      "verdict": "pass",
+      "reasoning": "Section 14.5 of the lease expressly requires that not less than 15% of the residential dwelling units in the Project be designated as affordable housing units available to households earning at or below 80% of Area Median Income, 'for the duration of the Term,' running with the leasehold interest and binding successors and assigns. It further defines AMI, sets unit-count recalculation, location/distribution requirements, compliance verification, and enforcement. The obligation is reinforced in the Permitted Exceptions (Exhibit B, Part 5), the Memorandum of Ground Lease (Section 6), and the termination provisions (Section 10.6(f)), which require any successor owner to honor the affordable housing covenant. The criterion is therefore satisfied."
+    },
+    {
+      "id": "C-067",
+      "title": "Both deliverable files are produced",
+      "verdict": "pass",
+      "reasoning": "The agent produced two distinct deliverables: (1) 'ground-lease-agreement.docx' — a full 99-year Ground Lease Agreement with recitals, 20 articles, signature pages, and Exhibits A–G; and (2) 'drafting-issues-memo.docx' — a separate, comprehensive cover/drafting issues memorandum from Hargrove & Linden LLP to the client cataloguing conflicts, recomputations, deviations, and open items. Both required deliverables are present in full."
+    }
+  ]
+}

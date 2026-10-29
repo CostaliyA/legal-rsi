@@ -1,0 +1,25 @@
+{
+  "epoch": 1,
+  "domain": "real-estate",
+  "train_tasks": [
+    "real-estate/extract-encumbrances-from-title-survey",
+    "real-estate/identify-issues-in-estoppel-certificate"
+  ],
+  "validation_operation": "extract",
+  "validation_tasks": [
+    "real-estate/extract-conditions-from-zoning-approval",
+    "real-estate/extract-lease-terms-from-existing-lease-portfolio"
+  ],
+  "parent_snapshot_id": "harvey-seed-v0001-84e13fea099a",
+  "trial_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "candidate_id": "a4274f3bfccfdb83bdae",
+  "candidate_action": "REVISE",
+  "validation_deltas": [
+    0.004255319148936176,
+    0.006382978723404237
+  ],
+  "writer_reward": 0.0053191489361702066,
+  "promoted": true,
+  "next_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "epoch_dir": "/data0/zyr/agent/verl/examples/skill_evolving/outputs/harvey_five_epochs_20261029/epoch_01_real_estate"
+}

@@ -1,0 +1,32 @@
+{
+  "task_id": "real-estate/identify-issues-in-zoning-compliance-report",
+  "operation_pattern": "identify",
+  "legal_domain": "real-estate",
+  "skill_snapshot_id": "harvey-seed-v0001-trial-a4274f3bfccf-301d99d44c9e",
+  "retrieved_skill_ids": [
+    "gen-source-grounded-review",
+    "pat-identify-issues",
+    "dom-real-estate-review"
+  ],
+  "retrieved_skill_hashes": [
+    "3e4c85d3bb277e4117d42ca52e598f33062742c432ac7537684099a3631a92ab",
+    "a3a0edbd4d1d5726a3f17f24c8c5d63c2c370d75d24d5706c6d29809400d4da6",
+    "cec5efdba6d0bcf843154ccafa13ae2d4b3472d4c0b5e2c203698de27e5538c8"
+  ],
+  "retrieval_scores": [
+    0.057971014492753624,
+    0.051470588235294115,
+    0.034653465346534656
+  ],
+  "max_tool_response_chars": 65536,
+  "finished": true,
+  "model": "deepseek-flash",
+  "api_test_only": true,
+  "native_policy_token_ids_available": false,
+  "turn_count": 55,
+  "finish_reason": "finish_tool",
+  "usage": {
+    "input_tokens": 6834577,
+    "output_tokens": 99429
+  }
+}

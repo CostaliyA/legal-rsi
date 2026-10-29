@@ -1,0 +1,10 @@
+{
+  "description": "One unseen real-estate draft source x4 and two held-out real-estate draft tasks x4 per parent/trial snapshot.",
+  "train": [
+    "real-estate/draft-ground-lease"
+  ],
+  "test": [
+    "real-estate/draft-loan-agreement",
+    "real-estate/draft-mortgage-and-security-agreement"
+  ]
+}

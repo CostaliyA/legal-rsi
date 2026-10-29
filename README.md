@@ -2,11 +2,13 @@
 
 本项目提供两种启动方式：**API 完整技能进化验证**，以及**本地 vLLM/SGLang rollout 与 Solver GRPO**。下面的命令均在本 README 所在目录执行，将示例中的路径换成实际绝对路径。
 
+VERL 源码已经放在本仓库中：`verl/` 是完整 Python 库，`examples/skill_evolving/` 是安装好的实验扩展，根目录包含 `pyproject.toml`、`uv.lock`、`setup.py` 和原生训练入口所需配置。四个核心文件已经包含本次修改，`code/verl_core.patch` 保留对应差异。启动器默认使用当前仓库，不必另找 VERL checkout。
+
 ## 1. 运行环境
 
 启动前需要准备：
 
-- 一个 VERL checkout，基线 commit 为 `2ab35292039a51175a4b3d3b3b2d76e951a0d3e4`；其 `.venv/bin/python` 能导入 VERL 和本流程依赖。
+- 本仓库根目录下准备好 `.venv/bin/python`，能导入 VERL 和本流程依赖。VERL 源码基线 commit 为 `2ab35292039a51175a4b3d3b3b2d76e951a0d3e4`；依赖环境使用 `uv` 管理，源码随包提供，虚拟环境不随包复制。
 - 一个 Harvey LAB checkout，基线 commit 为 `794557ac1f40458dca87cf80ad538425a2d6942f`；其 `.venv/bin/python` 能执行 Harvey 任务与评分，任务材料已就绪。
 - Docker、pandoc，以及可写的缓存目录。当前启动器使用随包的 Docker 兼容 shim。
 - 包外的私有 API key 文件，内容为一行 key。API 流程用于模型生成及评分；本地模型流程只用它进行 Harvey 评分。
@@ -20,7 +22,6 @@
 环境准备好后，执行这一条命令：
 
 ```bash
-VERL_ROOT=/absolute/path/to/verl \
 HARVEY_ROOT=/absolute/path/to/harvey-labs \
 DEEPSEEK_API_KEY_FILE=/absolute/path/to/private/api_key \
 TASK_DATA_ROOT=/absolute/path/to/writable/cache-root \
@@ -54,6 +55,7 @@ API 生成接入真实 VERL `ToolAgentLoop.run` 状态机，复用 Harvey 工具
 | `SEED_SNAPSHOT` | `data/02_no_gain_latest/parent_snapshot.json` | 固定父技能库，实际默认路径由启动器按包目录定位 |
 | `OUTPUT_ROOT` | `runs/api_<时间>/` | 本次运行的输出目录 |
 | `TASK_DATA_ROOT` | `/data0/zyr/agent` | 包、模型及临时缓存的根目录 |
+| `VERL_ROOT` | 本仓库根目录 | 默认使用随包 VERL；需要时可指定其他兼容 checkout |
 
 中断后，以**相同参数和相同 `OUTPUT_ROOT`** 重跑原命令，会复用已完整完成的阶段。更换模型、温度、任务或种子时，使用新的输出目录。
 
@@ -62,7 +64,6 @@ API 生成接入真实 VERL `ToolAgentLoop.run` 状态机，复用 Harvey 工具
 vLLM 入口：
 
 ```bash
-VERL_ROOT=/absolute/path/to/verl \
 HARVEY_ROOT=/absolute/path/to/harvey-labs \
 MODEL_PATH=/absolute/path/to/tool-capable-model \
 JUDGE_API_KEY_FILE=/absolute/path/to/private/judge_key \
@@ -159,7 +160,7 @@ python3 check_release.py
 检查能否安装到目标 VERL，不写入文件：
 
 ```bash
-python3 code/install_into_verl.py --verl-root /absolute/path/to/verl
+python3 code/install_into_verl.py --verl-root "$PWD"
 ```
 
 添加 `--apply` 才会安装；两个一键启动入口会自动执行安装。安装后模块路径恢复为 `examples.skill_evolving.*`，不要直接运行阅读用分组目录里的 Python 模块。

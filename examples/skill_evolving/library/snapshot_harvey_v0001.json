@@ -1,0 +1,41 @@
+{
+  "version": "harvey-v0001",
+  "skills": [
+    {
+      "id": "document-grounded-term-sheet",
+      "title": "Extract a source-grounded legal term sheet",
+      "summary": "Build a term sheet from the agreement and supporting matter documents, with section references and issue flags.",
+      "instructions": [
+        "Read the primary agreement and relevant supporting documents before drafting.",
+        "Organize the terms by topic and cite the source section for each material point.",
+        "Flag contradictions or missing provisions; do not fill gaps with invented facts."
+      ],
+      "triggers": ["term sheet", "PSA", "key terms", "section references"],
+      "exclusions": []
+    },
+    {
+      "id": "legal-deliverable-check",
+      "title": "Verify the requested legal deliverable",
+      "summary": "Before finishing, check the output file, format, and requested coverage.",
+      "instructions": [
+        "Write the deliverable to the designated output directory using the requested filename and format.",
+        "Reopen or inspect the produced file and check that it is nonempty and readable.",
+        "Confirm requested topics are covered using the task instructions, without accessing evaluation rubrics."
+      ],
+      "triggers": ["Output:", "docx", "deliverable"],
+      "exclusions": []
+    },
+    {
+      "id": "supporting-document-reconciliation",
+      "title": "Reconcile agreement and supporting documents",
+      "summary": "Use supporting evidence to distinguish agreement terms from contextual facts and open issues.",
+      "instructions": [
+        "Separate controlling agreement terms from facts appearing only in supporting documents.",
+        "Check names, dates, amounts, and cross-references for conflicts before presenting conclusions.",
+        "When a source is ambiguous, describe the uncertainty and identify the document to verify."
+      ],
+      "triggers": ["supporting documents", "flag issues", "agreement"],
+      "exclusions": []
+    }
+  ]
+}

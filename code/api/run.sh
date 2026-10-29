@@ -2,7 +2,7 @@
 # Full API verification epoch: train4 -> Writer -> validation old8/new8 -> gate.
 set -euo pipefail
 DELIVERY_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
-: "${VERL_ROOT:?Set VERL_ROOT to the target VERL checkout}"
+VERL_ROOT="${VERL_ROOT:-${DELIVERY_ROOT}}"
 : "${HARVEY_ROOT:?Set HARVEY_ROOT to Harvey LAB}"
 : "${DEEPSEEK_API_KEY_FILE:?Set DEEPSEEK_API_KEY_FILE to a private key file}"
 VERL_ROOT="$(cd "${VERL_ROOT}" && pwd)"

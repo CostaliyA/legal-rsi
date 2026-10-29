@@ -2,7 +2,7 @@
 # Prepare a pinned native Solver group and launch VERL with vLLM or SGLang.
 set -euo pipefail
 DELIVERY_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
-: "${VERL_ROOT:?Set VERL_ROOT to the target VERL checkout}"
+VERL_ROOT="${VERL_ROOT:-${DELIVERY_ROOT}}"
 : "${HARVEY_ROOT:?Set HARVEY_ROOT to Harvey LAB}"
 : "${MODEL_PATH:?Set MODEL_PATH to a local tool-capable checkpoint}"
 ROLLOUT_BACKEND="${1:-${ROLLOUT_BACKEND:-vllm}}"
